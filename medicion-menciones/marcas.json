@@ -1,0 +1,29 @@
+{
+  "_nota": "Datos sintéticos del curso. Todas las marcas y dominios son ficticios. Edita esta lista con tus marcas y las de tu competencia.",
+  "objetivo": "Atlas Gym",
+  "marcas": {
+    "Atlas Gym": ["Atlas Gym", "AtlasGym", "Atlas Gym Equipamiento"],
+    "Hierro Norte": ["Hierro Norte", "HierroNorte"],
+    "FitMarket": ["FitMarket", "Fit Market"],
+    "Pesas y Más": ["Pesas y Más", "Pesas y Mas", "PesasyMas"]
+  },
+  "dominio_objetivo": "atlasgym.example",
+  "dominios_conocidos": [
+    "atlasgym.example",
+    "hierronorte.example",
+    "fitmarket.example",
+    "pesasymas.example",
+    "fitnesshoy.example",
+    "comunidadgym.example",
+    "atlasfitness.example"
+  ],
+  "terminos_ignorados": ["Presupuesto", "Espacio", "Ruido", "Garantía", "Instalación", "Mantenimiento", "Financiación", "Plazos", "Consejo", "Resumen"],
+  "entidad": {
+    "descripcion_correcta": ["tienda", "maquinaria", "equipamiento", "venta online", "comercio"],
+    "confusiones": {
+      "Atlas Fitness Club (cadena de gimnasios)": ["Atlas Fitness", "cadena de gimnasios", "cuota mensual", "socios"]
+    },
+    "distingue": ["no es la", "no es el", "dos entidades", "nombre parecido"],
+    "no_sabe": ["no tengo información", "no dispongo de datos", "no encuentro información", "no puedo confirmar"]
+  }
+}

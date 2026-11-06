@@ -1,0 +1,9 @@
+{
+  "_nota": "Precios ILUSTRATIVOS para probar la simulación. Antes de usar --real, copia este archivo, pon los identificadores y precios reales de tus modelos en OpenRouter y quita la línea «ilustrativo».",
+  "ilustrativo": true,
+  "modelos": {
+    "proveedor-a/modelo-x": {"entrada_usd_por_millon": 0.5, "salida_usd_por_millon": 2.0, "busqueda_usd_por_llamada": 0.02},
+    "proveedor-b/modelo-y": {"entrada_usd_por_millon": 1.0, "salida_usd_por_millon": 4.0, "busqueda_usd_por_llamada": 0.02},
+    "proveedor-c/modelo-z": {"entrada_usd_por_millon": 0.3, "salida_usd_por_millon": 1.2, "busqueda_usd_por_llamada": 0.02}
+  }
+}

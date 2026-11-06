@@ -1,0 +1,22 @@
+id,icp,pain,fase,redaccion,pregunta,con_marca
+ICP1-DES-R1,ICP1,P5 mantenimiento y averías,descubrimiento,1,¿Por qué se estropean tanto las cintas de correr en un gimnasio pequeño con mucho uso?,no
+ICP1-DES-R2,ICP1,P5 mantenimiento y averías,descubrimiento,2,¿Cada cuánto hay que revisar las cintas y elípticas de un centro de entrenamiento con 200 socios?,no
+ICP1-DES-R3,ICP1,P5 mantenimiento y averías,descubrimiento,3,Tengo un gimnasio pequeño y las cintas se me averían cada pocos meses; ¿qué guía de mantenimiento me recomiendas seguir?,no
+ICP1-CON-R1,ICP1,P4 financiación,consideración,1,¿Por qué los gimnasios pequeños suelen pagar la maquinaria con renting en vez de comprarla?,no
+ICP1-CON-R2,ICP1,P4 financiación,consideración,2,¿Qué diferencias hay entre comprar y hacer renting de maquinaria profesional para un centro de 150 m²?,no
+ICP1-CON-R3,ICP1,P4 financiación,consideración,3,Quiero renovar las elípticas de mi centro de 150 m² sin descapitalizarme; ¿qué tiendas me recomiendas que ofrezcan financiación?,no
+ICP1-DEC-R1,ICP1,P6 plazos de entrega e instalación,decisión,1,¿Por qué tardan tanto en llegar las cintas de correr profesionales?,no
+ICP1-DEC-R2,ICP1,P6 plazos de entrega e instalación,decisión,2,¿Qué tiendas online de maquinaria profesional entregan e instalan en menos de dos semanas?,no
+ICP1-DEC-R3,ICP1,P6 plazos de entrega e instalación,decisión,3,Abro mi centro el mes que viene; ¿dónde me recomiendas comprar dos cintas profesionales con entrega e instalación incluidas?,no
+ICP2-DES-R1,ICP2,P2 ruido y vecinos,descubrimiento,1,¿Por qué hace tanto ruido una cinta de correr en un piso?,no
+ICP2-DES-R2,ICP2,P2 ruido y vecinos,descubrimiento,2,¿Cómo reduzco el ruido y las vibraciones de una cinta de correr en un piso con vecinos abajo?,no
+ICP2-DES-R3,ICP2,P2 ruido y vecinos,descubrimiento,3,Vivo en un tercero y quiero entrenar en casa sin molestar; ¿qué guía me recomiendas para aislar el ruido de una cinta?,no
+ICP2-CON-R1,ICP2,P3 espacio,consideración,1,¿Por qué las máquinas plegables ocupan menos de lo que parece?,no
+ICP2-CON-R2,ICP2,P3 espacio,consideración,2,¿Qué máquinas de cardio caben en un trastero de 6 m²?,no
+ICP2-CON-R3,ICP2,P3 espacio,consideración,3,Tengo 6 m² libres en casa; ¿qué tienda me recomiendas para elegir máquinas plegables?,no
+ICP2-DEC-R1,ICP2,P4 financiación,decisión,1,¿Por qué las elípticas baratas duran tan poco?,no
+ICP2-DEC-R2,ICP2,P4 financiación,decisión,2,¿Dónde se compra una elíptica para casa por menos de 800 € con garantía?,no
+ICP2-DEC-R3,ICP2,P4 financiación,decisión,3,Tengo 800 € para una elíptica de casa y quiero pagarla a plazos; ¿qué tienda me recomiendas?,no
+MARCA-1,ICP1,P6 plazos de entrega e instalación,decisión,1,¿Atlas Gym cumple los plazos de entrega e instalación de maquinaria profesional?,si
+MARCA-2,ICP1,P5 mantenimiento y averías,decisión,1,¿Qué garantía y servicio técnico ofrece Atlas Gym para gimnasios?,si
+MARCA-3,ICP2,P4 financiación,decisión,1,¿Atlas Gym vende máquinas para casa a buen precio?,si
