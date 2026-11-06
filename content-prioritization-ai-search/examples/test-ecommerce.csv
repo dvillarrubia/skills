@@ -1,0 +1,16 @@
+page,url,content_type,classification,status,pages,topic,clicks,clicks_previous,impressions_change_pct,conversions,tracking_verified,ai_cited,first_party_data,last_verified,referring_domains,required,consolidate_into,notes
+Tent and backpack category pages,/tents/*,Transaction & task,Confirmed,Live,42,Tents,61000,63542,-2,2400,Y,Y,Y,2026-09-20,310,N,,
+Returns and warranty policy,/returns,Official docs & policies,Confirmed,Live,2,Policies,5200,5532,-3,140,Y,Y,Y,2025-01-15,25,N,,
+Outdoor glossary,/glossary/*,D1,Confirmed,Live,140,Glossary,12000,26667,6,4,Y,N,N,2024-02-01,3,N,/learn/fabrics-guide,"Definitions of common terms ('what is a tarp', 'what is GORE-TEX') written from public sources; no product links"
+How to choose a sleeping bag,/learn/how-to-choose-sleeping-bag,D2,Confirmed,Live,1,Sleeping bags,9500,13571,-28,85,Y,N,N,2023-11-01,40,N,,Generic advice compiled from other sites; no testing; one CTA to the category
+Best tents 2026,/best-tents,D6,Confirmed,Live,1,Tents,7000,11667,2,210,Y,N,N,2026-03-01,12,N,,"Ranks our own tents 1-5; no criteria, testing or competitor options"
+Tent waterproofing lab test,/tests/tent-waterproofing,First-hand tests,Confirmed,Planned,1,Tents,,,,,,,Y,,,,,
+Store finder with live stock,/stores/*,Live data hubs,Confirmed,Live,85,Stores,15000,13889,10,900,Y,N,Y,2026-10-01,60,N,,
+Fit finder,/fit-finder,P10,Confirmed,Live,1,Packs,3000,3409,-10,310,Y,N,Y,2026-06-01,8,N,,"Asks height, torso length and use; recommends sizes from our returns and fit data; links to in-stock sizes"
+Celebrity hiking outfits,/blog/celebrity-*,D5,Confirmed,Live,30,Blog,8000,20000,3,0,Y,N,N,2025-05-01,2,N,,Celebrity outfit galleries; no product links; unrelated to our range
+Trekking pole X2 care guide,/help/trekking-pole-x2-care,Implementation & troubleshooting,Confirmed,Live,1,Support,20,67,-5,1,Y,N,Y,2026-02-01,0,N,,
+2024 trends,/resources/2024-trends,D5,Inferred,Live,1,,600,1200,,,,,,,,N,,
+Partner news,/news/*,D4,Confirmed,Live,60,News,1500,2727,-5,0,Y,N,N,2026-09-01,5,N,,Rewrites of partner brands' press releases; nothing added
+'Is [tent] waterproof?' FAQ pages,/faq/is-*-waterproof,Fragmented FAQ & variants,Confirmed,Planned,20,Tents,,,,,,,N,,,,,
+About Northpeak,/about,Brand & entity,Confirmed,Live,1,Brand,900,918,0,8,Y,Y,Y,2024-08-01,45,N,,
+Product FAQ pages,/faq/*,Fragmented FAQ & variants,Confirmed,Live,45,Support,2200,2750,-18,12,Y,N,N,2025-12-01,1,N,/returns,

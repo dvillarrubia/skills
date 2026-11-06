@@ -2,17 +2,36 @@
 
 Skills de [Claude Code](https://claude.com/claude-code) listas para usar. Un sitio donde comparto, con fines de divulgación, herramientas que uso en mi trabajo de SEO y gestión de conocimiento.
 
-> **¿Qué es una skill?** Una carpeta con un archivo `SKILL.md` (y, si hace falta, una carpeta `references/` con material de apoyo). Claude Code la detecta sola y te deja lanzarla por su nombre (`/nombre-skill`) o describiendo la tarea. No hay que compilar ni instalar nada: solo copiar la carpeta a tu directorio de skills.
+> **¿Qué es una skill?** Una carpeta con un archivo `SKILL.md` (y, si hace falta, una carpeta `references/` con material de apoyo). Claude Code la detecta sola y te deja lanzarla por su nombre (`/nombre-skill`) o describiendo la tarea. La mayoría son Markdown puro y solo hay que copiar la carpeta; alguna incluye además un script (el propio `SKILL.md` indica al principio qué necesita).
 
 ## Catálogo
 
 | Skill | Para qué sirve | Cómo se lanza |
 |---|---|---|
 | [`eeat-auditor`](eeat-auditor/) | Audita las señales **E-E-A-T** de un competidor (hasta 10 artículos + el bloque de confianza del sitio) en una plantilla fija, citando la URL de cada dato o marcándolo como «no consta» / «no comprobado». | `/eeat-auditor` |
+| [`content-prioritization-ai-search`](content-prioritization-ai-search/) | Decide qué contenido **crear, mantener, mejorar, rehacer o consolidar** para la búsqueda con IA, con el marco de priorización de contenido de **Aleyda Solis**. Acepta una URL, un export de Search Console o un inventario y devuelve una hoja puntuada. Lleva script Python (`pip install -r requirements.txt`). | `/content-prioritization-ai-search` |
 
-## Cómo instalar una skill
+## Instalación rápida (un comando)
 
-Estas skills son **Markdown puro** (un `SKILL.md` con frontmatter `name` y `description`, más una carpeta `references/`). El mismo formato funciona en **Claude Code** y en **Google Antigravity**: solo cambia la carpeta donde copias la skill.
+Instala cualquier skill del catálogo en Claude Code y en Antigravity a la vez. Cambia `NOMBRE-SKILL` por el de la tabla.
+
+**Windows (PowerShell):**
+```powershell
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/dvillarrubia/skills/main/install.ps1))) NOMBRE-SKILL all
+```
+
+**macOS / Linux:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/dvillarrubia/skills/main/install.sh | bash -s -- NOMBRE-SKILL all
+```
+
+El último parámetro elige dónde instalarla: `claude`, `antigravity` o `all` (las dos). Si vuelves a lanzar el comando, la skill se actualiza a la última versión. Si la skill trae un `requirements.txt`, el instalador te dice cómo instalar sus dependencias de Python.
+
+Si prefieres no ejecutar scripts, sigue los pasos manuales de abajo.
+
+## Cómo instalar una skill a mano
+
+Cada skill es una carpeta con un `SKILL.md` (frontmatter `name` y `description`) y, si hace falta, una carpeta `references/` y un script. El mismo formato funciona en **Claude Code** y en **Google Antigravity**: solo cambia la carpeta donde copias la skill.
 
 **Primero, descarga la carpeta de la skill.** Dos formas:
 - Clona todo el repo:
@@ -48,8 +67,13 @@ Comprueba que se ha cargado con `/skills` en la CLI (o preguntando «¿qué skil
 
 ## Requisitos
 
-Algunas skills necesitan herramientas concretas; cada `SKILL.md` lo indica al principio. Por ejemplo, `eeat-auditor` necesita un navegador que el agente pueda manejar para verificar cada dato: si no lo tiene, se detiene y lo avisa en lugar de inventar.
+Algunas skills necesitan herramientas concretas; cada `SKILL.md` lo indica al principio.
+
+- `eeat-auditor` necesita un navegador que el agente pueda manejar para verificar cada dato: si no lo tiene, se detiene y lo avisa en lugar de inventar.
+- `content-prioritization-ai-search` necesita **Python 3.10+** y `openpyxl`. Dentro de su carpeta: `pip install -r requirements.txt` (solo hace falta si trabajas con Excel).
 
 ## Autoría y uso
 
 Creadas por **David Villarrubia** (Head Manager SEO). Puedes usarlas, copiarlas y adaptarlas libremente (licencia MIT, ver [`LICENSE`](LICENSE)). Si te resultan útiles, una mención se agradece.
+
+`content-prioritization-ai-search` aplica el marco **«Content Prioritization in an AI Search Era»** de [Aleyda Solis](https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/). El marco, sus textos y su hoja de cálculo son obra suya; la licencia MIT cubre solo el empaquetado como skill y el script.

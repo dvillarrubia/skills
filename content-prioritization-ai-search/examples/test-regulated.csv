@@ -1,0 +1,14 @@
+page,url,content_type,classification,status,pages,topic,clicks,clicks_previous,impressions_change_pct,conversions,tracking_verified,ai_cited,first_party_data,last_verified,referring_domains,required,consolidate_into,notes
+Savings and current account pages,/accounts/*,Transaction & task,Confirmed,Live,24,Accounts,48000,51064,-4,3100,Y,Y,Y,2026-10-01,200,N,,
+Key facts and fee disclosures,/legal/fees*,Official docs & policies,Confirmed,Live,12,Legal,900,1800,-48,0,Y,N,N,2025-11-01,4,Y,,
+Complaints procedure,/complaints,Official docs & policies,Confirmed,Live,1,Legal,300,375,-22,0,Y,N,N,2026-07-01,1,Y,,
+Finance glossary,/help/glossary/*,Commodity definitions,Confirmed,Live,60,Education,14000,26923,5,10,Y,N,N,2024-05-01,20,N,,
+Mortgage calculator,/mortgages/calculator,D7,Confirmed,Live,1,Mortgages,22000,29333,-5,1400,Y,N,N,2025-02-01,90,N,,Standard repayment formula; user types any rate; not linked to our current mortgage rates; drives application starts
+Savings rates hub,/rates,Live data hubs,Confirmed,Live,1,Rates,30000,29126,5,2200,Y,Y,Y,2026-03-01,150,N,,
+Savings accounts compared,/compare/savings,Evidence-led comparisons,Confirmed,Live,1,Savings,8000,9412,-12,400,Y,Y,Y,2026-09-01,35,N,,Compares our accounts with 6 competitors; published method; says when a competitor suits better
+Branch pages,/branches/*,Scalable first-party data pages,Confirmed,Live,140,Branches,12000,13187,-7,600,Y,N,Y,2026-10-10,30,N,,
+ATM locator pages,/atm/*,D8,Confirmed,Live,2500,ATMs,5000,7143,-28,0,Y,N,N,2025-01-01,10,N,,One page per town listing third-party ATMs from a public dataset; not our machines
+Market news,/news/*,News & press rewrites,Confirmed,Live,200,News,3000,4615,-33,0,Y,N,N,2026-10-15,3,N,,
+What is inflation?,/learn/what-is-inflation,Commodity definitions,Confirmed,Planned,1,Education,,,,,,,N,,,,,
+Scam and fraud alerts,/security/scams,P5,Confirmed,Live,10,Security,9000,8036,10,50,Y,Y,Y,2026-10-05,80,N,,Monthly alerts built from our fraud team's case data on current scam patterns
+Summer ISA 2024,/campaign/summer-isa-2024,P2,Inferred,Live,1,,400,2000,,,,,,,,N,,

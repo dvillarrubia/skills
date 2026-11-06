@@ -1,0 +1,10 @@
+page,url,content_type,classification,status,pages,topic,clicks,clicks_previous,impressions_change_pct,conversions,tracking_verified,ai_cited,first_party_data,last_verified,referring_domains,required,consolidate_into,notes
+Tested gear reviews,/reviews/*,First-hand tests,Confirmed,Live,220,Reviews,85000,118056,-25,42000,Y,Y,Y,2026-09-15,900,N,,
+Trail news and investigations,/news/*,Original reporting,Confirmed,Live,400,News,60000,85714,-27,30000,Y,Y,Y,2026-10-20,600,N,,
+'What is' explainers,/what-is-*,D1,Confirmed,Live,180,Explainers,95000,139706,-30,51000,Y,N,N,2025-06-01,400,N,,"Explainers of outdoor terms (via ferrata, base weight) with staff photos; the site's highest-RPM section"
+Celebrity adventure stories,/celebs/*,D4,Confirmed,Live,90,Lifestyle,40000,61538,-33,14000,Y,N,N,2026-08-01,150,N,,Celebrity travel and adventure stories compiled from other outlets; part of the magazine's lifestyle section
+Brand press release rewrites,/brand-news/*,News & press rewrites,Confirmed,Live,300,News,9000,15000,-38,1200,Y,N,N,2026-10-01,20,N,,
+Newsletter signup,/newsletter,Transaction & task,Confirmed,Live,1,Audience,2000,2222,-12,0,Y,N,N,2026-05-01,15,N,,"5,400 newsletter signups in the period"
+Trail conditions database,/trails/*,Live data hubs,Confirmed,Live,1200,Trails,70000,94595,-24,26000,Y,Y,Y,2026-10-24,300,N,,
+Hiking calorie calculator,/tools/calorie-calculator,Generic calculators & quizzes,Confirmed,Live,1,Tools,11000,22000,4,3200,Y,N,N,2024-01-01,35,N,,
+Best hiking boots 2027,/best-hiking-boots-2027,D6,Confirmed,Planned,1,Reviews,,,,,,,N,,,,,Affiliate list based on retailer star ratings; no testing

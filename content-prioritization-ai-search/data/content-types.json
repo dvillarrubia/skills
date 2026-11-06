@@ -1,0 +1,782 @@
+[
+ {
+  "id": "P1",
+  "name": "Brand and entity pages",
+  "short_name": "Brand & entity",
+  "group": "Prioritize",
+  "why": "This content establishes the canonical facts about the organization: What it is and what it offers, who owns or represents it, where it operates and why it can be trusted. Its role is to provide entity clarity and verification, not detailed product instructions, live availability or conversion.",
+  "prompts": [
+   "What is [Brand] and what does it offer?",
+   "Who owns or operates [Brand]?",
+   "Is [Brand] legitimate and available in [Market]?"
+  ],
+  "examples": "About, organization, leadership, author, trust, location and product or service overview pages with consistent facts, disclosed ownership or authorship, verifiable claims and a clear internal hierarchy.",
+  "defaults": {
+   "CR": "M",
+   "CP": "H",
+   "BM": "H",
+   "BV": "H",
+   "PA": "H",
+   "EF": "L"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "About and brand story pages with ownership, product provenance, manufacturing locations and verified sustainability or quality claims",
+    "Store, contact and trust hubs with consistent company, service-area and certification details"
+   ],
+   "saas": [
+    "Company, leadership and author pages connected to the platform, products and subject-matter expertise",
+    "Trust, security and availability hubs clarifying ownership, locations, compliance claims and supported markets"
+   ],
+   "finance": [
+    "Legal-entity and leadership pages with licences, regulator references, registered locations and verifiable credentials",
+    "Product and market overview hubs clarifying which regulated entity offers each service and where it is available"
+   ]
+  }
+ },
+ {
+  "id": "P2",
+  "name": "Transaction and task-completion pages",
+  "short_name": "Transaction & task",
+  "group": "Prioritize",
+  "why": "This content lets a person or agent complete a high-value action on the site: buy, book, apply, download, request, cancel, contact or resolve an account task. Its role is about the conversion, so it should show the current price or value, eligibility, safety constraints, required inputs and next step.",
+  "prompts": [
+   "Buy [Product] online in [Country]",
+   "Book [Service] in [Location] for [Date]",
+   "Start a trial, download [Product] or request a quote"
+  ],
+  "examples": "Pricing, sign-up, checkout, booking, download, application, quote, claim, contact, account and support-resolution pages with complete, structured action requirements.",
+  "defaults": {
+   "CR": "H",
+   "CP": "H",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Product and category pages with current price, variants, stock, delivery dates and a clear add-to-cart path",
+    "Checkout, store pickup, returns, order tracking and customer-service resolution pages"
+   ],
+   "saas": [
+    "Pricing and plan pages with limits, billing terms and a clear trial, purchase or contact-sales path",
+    "Trial signup, demo booking, download, upgrade, cancellation and account-management pages"
+   ],
+   "finance": [
+    "Account, card, loan or insurance application pages with rates or premiums, fees, eligibility, risks and required documents",
+    "Quote, transfer, claim, appointment and secure account-task pages with clear next steps"
+   ]
+  }
+ },
+ {
+  "id": "P3",
+  "name": "Official product documentation, specifications and policies",
+  "short_name": "Official docs & policies",
+  "group": "Prioritize",
+  "why": "This content publishes authoritative facts only the organization can provide: product or service requirements, feature behavior, compatibility, pricing rules, policies, warranties and release changes. Its role is to be the current source of record, not persuade, compare options or troubleshoot every possible context.",
+  "prompts": [
+   "What are [Product]'s requirements or specifications?",
+   "How does [Feature, Policy or Plan] work?",
+   "What changed in [Product or Service] version [X]?"
+  ],
+  "examples": "Release notes, documentation, compatibility matrices, policy and warranty pages, specifications, eligibility rules and official answers within maintained hubs.",
+  "defaults": {
+   "CR": "M",
+   "CP": "H",
+   "BM": "H",
+   "BV": "H",
+   "PA": "H",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Product specifications covering dimensions, materials, ingredients, compatibility, care and safety",
+    "Shipping, returns, warranty, subscription and price-adjustment policies with current terms"
+   ],
+   "saas": [
+    "Product and API documentation, system requirements, integration matrices and feature-limit pages",
+    "Release notes, security documentation, data-processing terms, uptime commitments and billing policies"
+   ],
+   "finance": [
+    "Current rate, fee, APR/APY, eligibility and product-feature documentation",
+    "Terms, risk disclosures, deposit protection, claims, complaints and regulatory policy pages with effective dates"
+   ]
+  }
+ },
+ {
+  "id": "P4",
+  "name": "First-hand product tests and performance reviews",
+  "short_name": "First-hand tests",
+  "group": "Prioritize",
+  "why": "This content tests one product or service under specified conditions and reports what was observed or measured. Its role is to answer ‘How did this specific option perform?’ with a transparent method, evidence, expert judgement and limitations, not infer market trends or prove a customer's before and after outcome.",
+  "prompts": [
+   "How did [Product] perform under [Test condition]?",
+   "Does [Product] work for [Specific use case]?",
+   "What are [Product]'s measured strengths and limitations?"
+  ],
+  "examples": "Hands-on tests, benchmarks, teardowns, trials, demonstrations and measured reviews documenting the method, sample, conditions, results, pros, cons and limitations.",
+  "defaults": {
+   "CR": "H",
+   "CP": "H",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Hands-on durability, fit, wash, battery or performance tests using named products and disclosed conditions",
+    "Product demonstrations with measurements, original photos, observed trade-offs and limitations"
+   ],
+   "saas": [
+    "Load, accuracy, usability or time-to-complete tests under documented datasets, plans and environments",
+    "Integration and migration trials showing setup, observed results, limitations and reproducible steps"
+   ],
+   "finance": [
+    "Disclosed tests of transfer times, card fees, FX costs or app accessibility across defined scenarios",
+    "Product simulations or service-performance reviews that separate observed results from forecasts or advice"
+   ]
+  }
+ },
+ {
+  "id": "P5",
+  "name": "Original market, audience and usage research",
+  "short_name": "Original research",
+  "group": "Prioritize",
+  "why": "This content analyzes a product or service relevant dataset across many users, customers, products, markets or periods to reveal a pattern, benchmark or trend that hasn't been previously covered, with a reproducible method, not review one item or explain one implementation.",
+  "prompts": [
+   "What is the average [Metric] for [Audience or Industry]?",
+   "How has [Customer behavior] changed over time?",
+   "Which [Features or Products] are most used by [Segment]?"
+  ],
+  "examples": "Surveys, indexes, anonymized usage studies, industry benchmarks, trend reports and recurring datasets with a clear, repeatable methodology.",
+  "defaults": {
+   "CR": "M",
+   "CP": "H",
+   "BM": "H",
+   "BV": "M",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "First-party studies of sizing, returns, repeat purchases, reviews or category demand by segment",
+    "Recurring price, availability, delivery or consumer-preference benchmarks with a published method"
+   ],
+   "saas": [
+    "Anonymized product-usage benchmarks by industry, company size, workflow or maturity",
+    "Recurring adoption, productivity, reliability or integration indexes built from proprietary platform data"
+   ],
+   "finance": [
+    "Anonymized spending, saving, payment, fraud or small-business cash-flow studies",
+    "Recurring rate, affordability or financial-behavior benchmarks with methodology, sample limits and market scope"
+   ]
+  }
+ },
+ {
+  "id": "P6",
+  "name": "Live first-party databases and reference hubs",
+  "short_name": "Live data hubs",
+  "group": "Prioritize",
+  "why": "This content lets users look up current product or service facts that change, such as price, availability, inventory, status, eligibility, schedules or rates. Its role is current state reference across a set of relevant items; showing verified facts rather than calculating a personalized answer or creating one URL per keyword variation.",
+  "prompts": [
+   "Is [Product or Service] available in [Location] now?",
+   "What are the current prices, rates or availability for [Item]?",
+   "Which offers, events or status updates are active today?"
+  ],
+  "examples": "Live inventories, availability databases, status pages, rate or price trackers, store locators, event calendars and frequently updated reference hubs.",
+  "defaults": {
+   "CR": "H",
+   "CP": "H",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Live inventory, variant availability, delivery-date and store-pickup finders",
+    "Current price history, promotion, product-recall and store-location hubs"
+   ],
+   "saas": [
+    "Live service-status and incident-history pages",
+    "Maintained integration directories, feature-availability matrices, usage limits and regional data-hosting references"
+   ],
+   "finance": [
+    "Current interest-rate, fee, exchange-rate and product-availability hubs with timestamps",
+    "Branch, ATM, adviser, service-status and market-specific eligibility finders"
+   ]
+  }
+ },
+ {
+  "id": "P7",
+  "name": "Documented customer outcomes, experiments and case studies",
+  "short_name": "Customer outcomes",
+  "group": "Prioritize",
+  "why": "This content documents what changed after a real product, service or approach was used, including the starting point, actions, constraints, timeline and measured outcome. Its role is ‘Show me that it worked in a comparable situation’, not teach the general process, test one product in isolation or compare alternatives.",
+  "prompts": [
+   "What results did [Customer type] achieve with [Product or Approach]?",
+   "What changed before and after [Action]?",
+   "What did [Experiment] show under [Condition]?"
+  ],
+  "examples": "Customer case studies, before and after analyses, documented experiments and implementation stories supported by real inputs, screenshots, outputs and measurable results.",
+  "defaults": {
+   "CR": "H",
+   "CP": "M",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Case studies showing how a merchant improved conversion, merchandising, returns or fulfilment with measured before-and-after data",
+    "Documented customer use cases with original inputs, product setup, timeline and outcome"
+   ],
+   "saas": [
+    "Customer stories with baseline, implementation, adoption and measured revenue, cost, productivity or risk outcomes",
+    "Product experiments documenting configuration, sample, timeline and limitations"
+   ],
+   "finance": [
+    "Documented fraud-reduction, payment or business-banking outcomes with methodology and material constraints",
+    "Financial-education or service case studies that avoid cherry-picked returns and include required disclosures"
+   ]
+  }
+ },
+ {
+  "id": "P8",
+  "name": "Product specific implementation and troubleshooting guides",
+  "short_name": "Implementation & troubleshooting",
+  "group": "Prioritize",
+  "why": "This content helps an existing user configure, implement or fix a specific product when the correct steps depend on the version, device, environment, error, location or constraint. Its role is ‘Help me make it work here’, not proving a past outcome or choosing between products.",
+  "prompts": [
+   "Why doesn't [Product] work on [Device or Version]?",
+   "How do I configure [Feature] for [Use case or Constraint]?",
+   "How do I resolve [Error] in [Specific environment]?"
+  ],
+  "examples": "Troubleshooting trees, configuration guides, advanced implementation instructions and support content segmented by version, device, symptom, customer stage or operating environment.",
+  "defaults": {
+   "CR": "H",
+   "CP": "M",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Model-specific setup, care, sizing, assembly and compatibility guides",
+    "Troubleshooting for delivery, payment, returns, subscriptions and product faults by symptom or order status"
+   ],
+   "saas": [
+    "Error-code and symptom-led troubleshooting by plan, version, integration and operating environment",
+    "Advanced configuration, migration, permissions and API implementation guides"
+   ],
+   "finance": [
+    "Secure guides for failed payments, transfers, identity checks, card issues and account access",
+    "Product-specific setup and resolution steps by market, device, status and regulatory constraint"
+   ]
+  }
+ },
+ {
+  "id": "P9",
+  "name": "Evidence led comparisons and selection guides",
+  "short_name": "Evidence-led comparisons",
+  "group": "Prioritize",
+  "why": "This content helps users to choose between two or more viable options for a defined scenario. Its role is to ‘Help me decide’ by applying transparent criteria, evidence and trade-offs, then explaining who each option is best for.",
+  "prompts": [
+   "[Product] vs [Alternative] for [Specific use case]",
+   "Best [Category] for [Audience, budget or constraint]",
+   "Which [Option] is right for [Specific need]?"
+  ],
+  "examples": "X vs Y comparisons, alternatives pages, shortlists and best of guides with disclosed criteria, supporting evidence, limitations and scenarios in which different options win.",
+  "defaults": {
+   "CR": "M",
+   "CP": "L",
+   "BM": "M",
+   "BV": "H",
+   "PA": "M",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Product-versus-product or category selection guides based on tested criteria such as fit, use, budget and durability",
+    "Shortlists that show evidence, stock, trade-offs and when a competing option is a better fit"
+   ],
+   "saas": [
+    "Plan, product, competitor and alternatives comparisons by team size, workflow, integration needs and total cost",
+    "Transparent selection guides with tested criteria, evidence, limitations and migration implications"
+   ],
+   "finance": [
+    "Account, card, loan or insurance comparisons using current rates, fees, eligibility, risks and protections",
+    "Scenario-led selection guides with transparent criteria, balanced trade-offs and no undisclosed recommendation bias"
+   ]
+  }
+ },
+ {
+  "id": "P10",
+  "name": "Personalized tools using live or proprietary data",
+  "short_name": "Personalized tools",
+  "group": "Prioritize",
+  "why": "These are personalized tools using product or service data to help users solve needs related and complementary to the core ones provided by the brand products or services, with calculated, configured or recommended results. Its role is to produce a usable answer for this user or situation rather than simply display current facts or run a generic formula that an AI interface can reproduce.",
+  "prompts": [
+   "Calculate the total cost or ROI using my inputs",
+   "Which plan or product fits my needs and current setup?",
+   "Am I eligible for [Offer or Service] in my location or account?"
+  ],
+  "examples": "Calculators, configurators, planners, recommenders, eligibility checkers and comparison tools driven by live, proprietary, account-level or user-specific inputs.",
+  "defaults": {
+   "CR": "H",
+   "CP": "L",
+   "BM": "L",
+   "BV": "H",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Product finders using live inventory, fit, compatibility, location, budget and preference inputs",
+    "Room, bundle or configuration planners that return purchasable combinations and current total cost"
+   ],
+   "saas": [
+    "Plan and integration selectors using team size, workflow, usage, stack and security requirements",
+    "ROI, migration and implementation estimators using product data and user-specific assumptions"
+   ],
+   "finance": [
+    "Mortgage, loan, savings, pension or insurance tools using current product data, assumptions and required disclosures",
+    "Eligibility and affordability checks that explain inputs, limits, risks and the next product action"
+   ]
+  }
+ },
+ {
+  "id": "P11",
+  "name": "Curated community and practitioner knowledge",
+  "short_name": "Curated community",
+  "group": "Prioritize",
+  "why": "This content captures useful experience from customers, creators or practitioners, then adds authorship, moderation and editorial context. Its role is to feature real-world know-how and edge cases, rather than the brand's official answer or commissioned reporting as community evidence.",
+  "prompts": [
+   "How do experienced customers use [Product] for [Use case]?",
+   "Which mistakes do practitioners recommend avoiding?",
+   "What worked for organizations or people like mine?"
+  ],
+  "examples": "Curated community Q&A, expert columns, creator hubs, customer showcases and moderated discussion archives with disclosed authorship and editorial context.",
+  "defaults": {
+   "CR": "M",
+   "CP": "M",
+   "BM": "M",
+   "BV": "H",
+   "PA": "M",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Moderated verified-buyer Q&A organized by product, use case and ownership stage",
+    "Expert and customer showcases with disclosed authorship, original media and editorial context"
+   ],
+   "saas": [
+    "Curated community solutions for advanced workflows, integrations and edge cases",
+    "Practitioner playbooks, expert columns and customer templates with named authors and moderation"
+   ],
+   "finance": [
+    "Moderated Q&A from qualified practitioners or financial educators with credentials and review dates",
+    "Curated customer questions and real-world scenarios with privacy controls, compliance review and clear limitations"
+   ]
+  }
+ },
+ {
+  "id": "P12",
+  "name": "Original reporting and source analysis",
+  "short_name": "Original reporting",
+  "group": "Prioritize",
+  "why": "This content is original reporting: interviews, event access, documents, observation or specialist analysis. Its role is to explain what happened and why using first-hand sources, not summarize another publisher's report or turn a dataset into a market benchmark.",
+  "prompts": [
+   "Why did [Company or Industry] change [Product or Policy]?",
+   "What did [Expert or Executive] reveal about [Topic]?",
+   "What does [Recent development] mean for [Audience]?"
+  ],
+  "examples": "Interviews, event coverage, investigations, expert analysis, behind the scenes reporting and original commentary supported by first-hand sources or media.",
+  "defaults": {
+   "CR": "H",
+   "CP": "M",
+   "BM": "H",
+   "BV": "M",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "First-hand interviews with designers, buyers, suppliers or product experts",
+    "Factory, sourcing, sustainability-audit or supply-chain reporting supported by original access and evidence"
+   ],
+   "saas": [
+    "Engineering incident postmortems, product-team interviews and original event coverage",
+    "Expert analysis of platform changes supported by internal data, tests or first-hand sources"
+   ],
+   "finance": [
+    "Economist or analyst interpretation of primary market data, filings or regulatory decisions",
+    "Executive interviews and original reporting that clearly separates factual analysis from personalized financial advice"
+   ]
+  }
+ },
+ {
+  "id": "P13",
+  "name": "Scalable pages featuring genuine, useful insights powered by unique first-party data",
+  "short_name": "Scalable first-party data pages",
+  "group": "Prioritize",
+  "why": "This content provides a useful page for each real entity, product, location or integration because every page shows uniquely different owned data and serves a different task. Its role is scalable coverage of genuine, useful and relevant insights for the brand audience, not publishing keyword variants or templating public facts.",
+  "prompts": [
+   "[Product model] specifications, availability and change history",
+   "[Location] service availability, prices and local requirements",
+   "[Integration] setup, supported features and current status"
+  ],
+  "examples": "Entity, product, location and integration pages featuring unique and useful metrics, availability, change history, comparisons and context from owned data, with editorial quality assurance.",
+  "defaults": {
+   "CR": "M",
+   "CP": "H",
+   "BM": "M",
+   "BV": "H",
+   "PA": "H",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "SKU and model pages with unique specifications, fit, compatibility, reviews, price and live stock",
+    "Store or delivery-area pages with local inventory, services, hours, pickup rules and current fulfilment data"
+   ],
+   "saas": [
+    "Integration pages with supported actions, setup, limitations, status and usage data unique to each connector",
+    "Template or use-case pages populated with distinct workflow requirements, examples and first-party performance insights"
+   ],
+   "finance": [
+    "Product, branch, country or payment-corridor pages with unique rates, fees, eligibility, availability and disclosures",
+    "Instrument or fund pages using owned, current facts and documents rather than copied public-market summaries"
+   ]
+  }
+ },
+ {
+  "id": "D1",
+  "name": "Standalone commodity definitions without brand or journey context",
+  "short_name": "Commodity definitions",
+  "group": "Deprioritize",
+  "why": "This content defines a common term or acronym using information already available everywhere. Search features and AI can answer it without a click; keep it only inside a relevant product, service or topic hub, or when the definition is genuinely brand specific.",
+  "prompts": [
+   "What is [Basic term]?",
+   "What does [Acronym] mean?",
+   "What is the difference between [Common term A] and [Common term B]?"
+  ],
+  "examples": "Dictionary style definitions, basic explainers and acronym pages compiled from common knowledge with no distinctive brand, product, audience or next step context.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "M",
+   "BV": "L",
+   "PA": "L",
+   "EF": "L"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Standalone pages such as ‘What is cotton?’ or ‘What does SPF mean?’ copied from common sources",
+    "Keep only when the definition supports a product decision and adds testing, provenance or care context"
+   ],
+   "saas": [
+    "Standalone ‘What is CRM?’, ‘What is an API?’ or acronym pages with no product or workflow context",
+    "Consolidate useful definitions into relevant product, documentation or solution hubs"
+   ],
+   "finance": [
+    "Standalone ‘What is APR?’, ‘What is inflation?’ or acronym pages that repeat standard definitions",
+    "Retain only where market rules, product implications, worked examples or expert-reviewed guidance add value"
+   ]
+  },
+  "rework_options": [
+   "Official docs & policies",
+   "Brand & entity, when the definition is about the brand",
+   "the product or topic hub it actually supports"
+  ],
+  "summary_label": "Consolidate",
+  "likely_direction": "consolidate into the relevant product, service or topic hubs, and keep standalone only the definitions that are genuinely brand-specific"
+ },
+ {
+  "id": "D2",
+  "name": "Rehashed explainers and how to guides without original value",
+  "short_name": "Rehashed explainers",
+  "group": "Deprioritize",
+  "why": "This content repackages common advice or existing sources without first-hand testing, expert contribution, original data, tools or distinctive media. Changing the length or title doesn't fix the problem: AI can summarize the same consensus and the page gives users no extra reason to visit.",
+  "prompts": [
+   "How do I get started with [Broad topic]?",
+   "Complete guide to [Common process]",
+   "How can I improve [Generic outcome]?"
+  ],
+  "examples": "Broad how-tos, expanded rewrites, exhaustive introductions and ‘everything you need to know’ guides assembled from public sources without original evidence or practical utility.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Generic ‘How to choose shoes’ or ‘Ultimate gift guide’ articles assembled from public advice",
+    "Broad care or styling guides with no product tests, expert input, original media or useful buying path"
+   ],
+   "saas": [
+    "Generic ‘How to improve productivity’ or ‘Complete guide to project management’ rewrites",
+    "Broad how-tos with no product workflow, original data, practitioner evidence, templates or tested examples"
+   ],
+   "finance": [
+    "Generic ‘How to save money’ or ‘How to invest’ articles compiled from common advice",
+    "Broad guides without qualified review, original evidence, jurisdiction, risk context or a credible product journey"
+   ]
+  },
+  "rework_options": [
+   "Evidence-led comparisons, when the job is choosing",
+   "First-hand tests, when the job is how something performed",
+   "Implementation & troubleshooting, only when the job is setup or fixing",
+   "Original research, when the job is a pattern across many cases"
+  ],
+  "summary_label": "Rework or retire",
+  "likely_direction": "rework the pages worth keeping into a format that adds what an AI summary can't, and stop producing new ones"
+ },
+ {
+  "id": "D3",
+  "name": "Fragmented FAQ and keyword variant pages serving one intent",
+  "short_name": "Fragmented FAQ & variants",
+  "group": "Deprioritize",
+  "why": "This content distributes one user need across different URLs because the questions or keywords are worded differently, not because the answer really changes. Consolidate them into the relevant canonical product, policy, support or transaction page unless a location, audience, regulation, platform or task creates a genuinely different answer.",
+  "prompts": [
+   "Is [Product] free? / Does [Product] cost anything?",
+   "Buy [Product] online / Where can I order [Product]?",
+   "Can I cancel [Plan]? / How do I end [Plan]?"
+  ],
+  "examples": "Single question FAQ URLs and near duplicate pages created for wording, keyword or minor audience variations that a single, stronger canonical page can satisfy.",
+  "defaults": {
+   "CR": "L",
+   "CP": "M",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "L"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Separate URLs for ‘Is [product] in stock?’, ‘Can I buy [product] online?’ and ‘Where to order [product]?’",
+    "Consolidate variants into the canonical product, delivery, returns or subscription page"
+   ],
+   "saas": [
+    "Separate pages for ‘Is [tool] free?’, ‘How much does [tool] cost?’ and minor plan-question variants",
+    "Consolidate into pricing, product, policy or support pages unless the answer genuinely changes"
+   ],
+   "finance": [
+    "Separate URLs for reworded questions about rates, fees, eligibility, cancellation or claims",
+    "Consolidate into the regulated product or policy page unless market, customer type or rule changes the answer"
+   ]
+  },
+  "rework_options": [
+   "Transaction & task, when the question is about buying or doing the task",
+   "Official docs & policies, when it is about rules or specs",
+   "Implementation & troubleshooting, when it is about making it work"
+  ],
+  "summary_label": "Consolidate",
+  "likely_direction": "consolidate into the relevant canonical product, policy, support or transaction page, unless location, audience, regulation, platform or task genuinely changes the answer"
+ },
+ {
+  "id": "D4",
+  "name": "Third-party news and press release rewrites without original input",
+  "short_name": "News & press rewrites",
+  "group": "Deprioritize",
+  "why": "This content repeats an announcement or another publisher's reporting without adding a first-hand source, new evidence, analysis or audience specific impact. It becomes stale quickly and gives search or AI systems no reason to cite or send users to the rewrite.",
+  "prompts": [
+   "What did [Company] announce today?",
+   "What changed in the latest [Third-party product] update?",
+   "What is the latest news in [Industry]?"
+  ],
+  "examples": "Press release rewrites, recaps copied from another source and summaries of third-party announcements with no original reporting, evidence or analysis.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Rewrites of a supplier launch, marketplace announcement or retail trend report",
+    "Product-news recaps with no testing, interview, original images, stock data or customer impact analysis"
+   ],
+   "saas": [
+    "Summaries of another vendor’s release notes, funding news or conference announcement",
+    "Industry-news recaps with no first-hand source, product test, expert interpretation or user impact"
+   ],
+   "finance": [
+    "Rewrites of central-bank, regulator, company or market announcements",
+    "News summaries with no primary-document analysis, qualified expert input, local implications or original evidence"
+   ]
+  },
+  "rework_options": [
+   "Original reporting, only if there is a first-hand source; otherwise stop producing them"
+  ],
+  "summary_label": "Rework or retire",
+  "likely_direction": "add a first-hand source, evidence, analysis or audience-specific impact, or stop producing them"
+ },
+ {
+  "id": "D5",
+  "name": "High volume tangential topics without a credible business journey",
+  "short_name": "Tangential high-volume topics",
+  "group": "Deprioritize",
+  "why": "This content targets search demand that is only loosely related to the organization's product, service, expertise or audience outcome. Even if it attracts visits, it has no credible next step or business value and is often fully satisfied by an AI answer.",
+  "prompts": [
+   "What are the biggest [Industry] trends in [Year]?",
+   "How do I start [Unrelated activity]?",
+   "What is the best [Unrelated product] for [Broad audience]?"
+  ],
+  "examples": "High volume lifestyle, career, trend or industry topics that are only loosely related to the site and offer no useful next step.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "High-volume lifestyle, travel or celebrity topics that do not support the category or a purchase task",
+    "Seasonal trend articles with no relevant products, owned evidence or credible next step"
+   ],
+   "saas": [
+    "Broad workplace, career, leadership or AI-trend topics unrelated to the product’s buyer and workflow",
+    "Traffic-led topics with no connection to evaluation, adoption, retention or practitioner expertise"
+   ],
+   "finance": [
+    "Celebrity wealth, generic crypto news or broad lifestyle topics unrelated to the firm’s regulated services",
+    "High-demand news or trends with no credible customer need, expertise, product action or risk context"
+   ]
+  },
+  "rework_options": [],
+  "summary_label": "Retire",
+  "likely_direction": "stop investing in these topics, and decide what happens to the existing pages after the checks"
+ },
+ {
+  "id": "D6",
+  "name": "Biased or mass produced ‘best’, comparison and alternatives pages",
+  "short_name": "Biased or mass comparisons",
+  "group": "Deprioritize",
+  "why": "This content targets purchase decision queries but doesn't provide credible decision support: it ranks the publisher first, hides the method, repeats the same template at scale or cannot show a situation in which another option wins. Consolidate coverage and keep only comparisons with transparent criteria, evidence and meaningful trade-offs.",
+  "prompts": [
+   "What are the best [Category] brands?",
+   "[Brand] vs [Competitor] for [Use case]",
+   "What are the alternatives to [Product]?"
+  ],
+  "examples": "Self-serving best-of lists, thin X vs. Y comparisons and alternatives pages created at scale without disclosed criteria, testing, evidence, trade-offs or audience-specific recommendations.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "M",
+   "PA": "L",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "‘Best products’ lists that always rank the retailer’s own or highest-margin item first",
+    "Mass-produced product comparisons with no tests, criteria, fit scenarios, evidence or meaningful trade-offs"
+   ],
+   "saas": [
+    "Competitor and alternatives pages that always declare the publisher the winner",
+    "Templated X-vs-Y pages with no plan-level evidence, criteria, use-case differences or migration trade-offs"
+   ],
+   "finance": [
+    "‘Best account/card/loan’ pages that omit rates, fees, eligibility, risks, protections or commercial relationships",
+    "Product comparisons that cannot explain methodology or when another option may suit the user better"
+   ]
+  },
+  "rework_options": [
+   "Evidence-led comparisons"
+  ],
+  "summary_label": "Rework or consolidate",
+  "likely_direction": "consolidate coverage, and keep only comparisons with transparent criteria, evidence and meaningful trade-offs"
+ },
+ {
+  "id": "D7",
+  "name": "Generic calculators, quizzes and generators without distinctive inputs",
+  "short_name": "Generic calculators & quizzes",
+  "group": "Deprioritize",
+  "why": "This content applies a basic formula or produces a shallow answer from inputs an AI interface can handle directly. Keep it only when live or proprietary data, meaningful personalization, repeat use or a clear product action makes the output actually useful.",
+  "prompts": [
+   "Which [Product type] should I choose?",
+   "Generate a [Topic] name",
+   "Calculate a basic percentage or conversion"
+  ],
+  "examples": "Generic quizzes, calculators and generators with no live data, personalization depth, recurring use, distinctive output or credible product journey.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "M"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Basic percentage, unit-conversion, gift-name or generic product quizzes",
+    "Product finders based on a few static questions with no live stock, fit, compatibility or useful output"
+   ],
+   "saas": [
+    "Generic ROI calculators using arbitrary assumptions and no product, usage or implementation data",
+    "Name, headline or prompt generators that return shallow text with no workflow integration or repeat value"
+   ],
+   "finance": [
+    "Simple interest, currency-conversion or budget tools using a generic formula and stale inputs",
+    "Risk or product quizzes that lack regulated product data, meaningful personalization, assumptions or disclosures"
+   ]
+  },
+  "rework_options": [
+   "Personalized tools"
+  ],
+  "summary_label": "Rework or retire",
+  "likely_direction": "keep only tools with live or proprietary data, real personalization, repeat use or a clear product action"
+ },
+ {
+  "id": "D8",
+  "name": "Programmatic pages built from public or competitor data",
+  "short_name": "Programmatic public-data pages",
+  "group": "Deprioritize",
+  "why": "This content creates many templated pages from facts anyone can access, without unique first-party data, expert judgement or a genuinely different task on each URL. Scale multiplies duplication, maintenance and quality risks; it doesn't create real value.",
+  "prompts": [
+   "[Competitor] pricing and features",
+   "[Third-party product] specifications",
+   "[Generic term] glossary"
+  ],
+  "examples": "Location, definition, specification, pricing or entity pages generated from third-party or public datasets without first-party data, expert judgement or a distinct user task.",
+  "defaults": {
+   "CR": "L",
+   "CP": "L",
+   "BM": "L",
+   "BV": "L",
+   "PA": "L",
+   "EF": "H"
+  },
+  "examples_by_vertical": {
+   "ecommerce": [
+    "Thin pages for every location, color, brand or model built from supplier feeds or scraped specifications",
+    "Competitor price or coupon pages with no owned inventory, service, testing or editorial value"
+   ],
+   "saas": [
+    "Programmatic competitor-pricing, software-definition or integration pages built from public directories",
+    "Template pages that change only a keyword and add no first-party usage data, supported workflow or expert insight"
+   ],
+   "finance": [
+    "Mass pages for public rates, tickers, instruments, branches or locations copied from third-party feeds",
+    "Templated product or market pages with no owned terms, eligibility, documents, analysis or distinct user task"
+   ]
+  },
+  "rework_options": [
+   "Scalable first-party data pages (do not approve the template as one batch)"
+  ],
+  "summary_label": "Rework or prune",
+  "likely_direction": "keep only the URLs with distinctive data and a distinct task; scale alone doesn't create value"
+ }
+]
