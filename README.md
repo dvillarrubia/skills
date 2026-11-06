@@ -12,29 +12,39 @@ Skills de [Claude Code](https://claude.com/claude-code) listas para usar. Un sit
 
 ## Cómo instalar una skill
 
-1. **Descarga la carpeta de la skill** que te interese. Dos formas:
-   - Clona todo el repo:
-     ```bash
-     git clone https://github.com/dvillarrubia/skills.git
-     ```
-   - O descarga el repo como ZIP desde GitHub (botón verde **Code → Download ZIP**) y descomprime.
+Estas skills son **Markdown puro** (un `SKILL.md` con frontmatter `name` y `description`, más una carpeta `references/`). El mismo formato funciona en **Claude Code** y en **Google Antigravity**: solo cambia la carpeta donde copias la skill.
 
-2. **Copia la carpeta de la skill** (por ejemplo `eeat-auditor/`) a tu directorio de skills:
+**Primero, descarga la carpeta de la skill.** Dos formas:
+- Clona todo el repo:
+  ```bash
+  git clone https://github.com/dvillarrubia/skills.git
+  ```
+- O descarga el repo como ZIP desde GitHub (botón verde **Code → Download ZIP**) y descomprime.
 
-   - **Global** — disponible en todas tus sesiones de Claude Code:
-     - Windows: `C:\Users\TU-USUARIO\.claude\skills\`
-     - macOS / Linux: `~/.claude/skills/`
+Luego copia la carpeta de la skill (por ejemplo `eeat-auditor/`) al directorio que corresponda:
 
-   - **Por proyecto** — solo dentro de una carpeta concreta (y viaja con ese repo si usa Git):
-     - `<tu-proyecto>/.claude/skills/`
+### En Claude Code
 
-   Debe quedar así:
-   ```
-   .claude/skills/eeat-auditor/SKILL.md
-   .claude/skills/eeat-auditor/references/...
-   ```
+- **Global** (todas tus sesiones):
+  - Windows: `C:\Users\TU-USUARIO\.claude\skills\`
+  - macOS / Linux: `~/.claude/skills/`
+- **Por proyecto** (y viaja con ese repo si usa Git): `<tu-proyecto>/.claude/skills/`
 
-3. **Abre (o reinicia) Claude Code.** La skill ya aparece disponible. Lánzala con `/eeat-auditor` o describiendo la tarea.
+Debe quedar así: `.claude/skills/eeat-auditor/SKILL.md`
+
+Abre o reinicia Claude Code y lánzala con `/eeat-auditor` o describiendo la tarea.
+
+### En Google Antigravity
+
+- **Antigravity CLI** (global): `~/.gemini/antigravity-cli/skills/`
+- **Antigravity (app / IDE)** (global): `~/.gemini/config/skills/`
+- **Por proyecto**: `<tu-proyecto>/.agents/skills/`
+
+Debe quedar así, por ejemplo: `~/.gemini/antigravity-cli/skills/eeat-auditor/SKILL.md`
+
+Comprueba que se ha cargado con `/skills` en la CLI (o preguntando «¿qué skills tienes disponibles?» en la app) y lánzala nombrándola: «audita las señales E-E-A-T de… con la skill eeat-auditor».
+
+> Las rutas de Antigravity han cambiado rápido entre versiones. Si no aparece, revisa la sección **Customizations → Skills** y la [documentación oficial de skills](https://antigravity.google/docs/skills/).
 
 ## Requisitos
 
