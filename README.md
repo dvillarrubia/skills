@@ -9,6 +9,7 @@ Skills de [Claude Code](https://claude.com/claude-code) listas para usar. Un sit
 | Skill | Para qué sirve | Cómo se lanza |
 |---|---|---|
 | [`eeat-auditor`](eeat-auditor/) | Audita las señales **E-E-A-T** de un competidor (hasta 10 artículos + el bloque de confianza del sitio) en una plantilla fija, citando la URL de cada dato o marcándolo como «no consta» / «no comprobado». | `/eeat-auditor` |
+| [`tone-analyzer`](tone-analyzer/) | Extrae el **tono de voz** de una persona o negocio a partir de 10-20 URLs: un script scrapea las páginas y mide señales objetivas (longitud de frase, tuteo/usted, léxico, legibilidad…), y el agente redacta un perfil de estilo reutilizable para «escribir como» esa marca. Lleva script Python (`pip install -r requirements.txt`). | `/tone-analyzer` |
 | [`content-prioritization-ai-search`](content-prioritization-ai-search/) | Decide qué contenido **crear, mantener, mejorar, rehacer o consolidar** para la búsqueda con IA, con el marco de priorización de contenido de **Aleyda Solis**. Acepta una URL, un export de Search Console o un inventario y devuelve una hoja puntuada. Lleva script Python (`pip install -r requirements.txt`). | `/content-prioritization-ai-search` |
 | [`auditor-geo`](auditor-geo/) | Audita si la IA puede **leer y citar una página** con un semáforo de 7 pilares (renderizado, schema, acceso de bots, densidad, encabezados, llms.txt y citabilidad), cada uno con su evidencia. Script Python sin dependencias. | `/auditor-geo` |
 | [`medicion-menciones`](medicion-menciones/) | Mide cada semana si la IA **menciona y cita tu marca**, por ICP y fase, con una batería fija de preguntas; cuenta menciones, posición y citas y redacta un informe borrador. Puede lanzar la batería por OpenRouter (simula por defecto, con tope de gasto). Script Python sin dependencias. | `/medicion-menciones` |
@@ -74,6 +75,7 @@ Comprueba que se ha cargado con `/skills` en la CLI (o preguntando «¿qué skil
 Algunas skills necesitan herramientas concretas; cada `SKILL.md` lo indica al principio.
 
 - `eeat-auditor` necesita un navegador que el agente pueda manejar para verificar cada dato: si no lo tiene, se detiene y lo avisa en lugar de inventar.
+- `tone-analyzer` necesita **Python 3** y sus dependencias. Dentro de su carpeta: `pip install -r requirements.txt` (en algunos equipos, `python3` / `pip3`).
 - `content-prioritization-ai-search` necesita **Python 3.10+** y `openpyxl`. Dentro de su carpeta: `pip install -r requirements.txt` (solo hace falta si trabajas con Excel).
 - `auditor-geo` necesita **Python 3.10+** (sin dependencias) y, para cerrar el pilar de renderizado, un navegador que el agente pueda manejar.
 - `medicion-menciones` necesita **Python 3.10+** (sin dependencias). Para lanzar la batería de verdad, una clave de OpenRouter con tope de gasto.
