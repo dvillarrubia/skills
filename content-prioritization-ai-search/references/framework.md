@@ -1,198 +1,198 @@
-# Framework reference: the 21 content types
+# Referencia del framework: los 21 tipos de contenido
 
-Source: [Content Prioritization in an AI Search Era](https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/) by Aleyda Solis and its [worksheet](https://docs.google.com/spreadsheets/d/18myHCvxeylIyc6zGnE5HWLYw8nN7rQz-TfMQslAfiko/edit).
+Fuente: [Content Prioritization in an AI Search Era](https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/) de Aleyda Solis y su [hoja de trabajo](https://docs.google.com/spreadsheets/d/18myHCvxeylIyc6zGnE5HWLYw8nN7rQz-TfMQslAfiko/edit).
 
-**What is the framework, and what isn't.** The framework is the 21 content types: their roles, related prompts, examples and the six High/Medium/Low default scores. Those are reproduced below in the worksheet's own words (with obvious typos corrected). For the 8 types to deprioritize, the framework's guidance is the **Why** sentence of each type. Everything else in this skill is a skill setting, not a framework rule: the judging anchors, the sort score, the priority rule, the thresholds, the freshness windows, the likely directions and short labels (summaries of the Why), and the rework options (a skill translation: the worksheet never names one destination type). Default scores are directional starting points for a type, not findings about a page.
+**Qué es el framework y qué no lo es.** El framework son los 21 tipos de contenido: sus funciones, los prompts relacionados, los ejemplos y las seis puntuaciones por defecto Alta/Media/Baja (H/M/L). Se reproducen a continuación con las propias palabras de la hoja de trabajo (con las erratas evidentes corregidas). Para los 8 tipos que hay que despriorizar, la guía del framework es la frase **Por qué** de cada tipo. Todo lo demás en esta skill es un ajuste de la skill, no una regla del framework: los criterios de valoración, la puntuación de ordenación, la regla de prioridad, los umbrales, las ventanas de actualidad, las direcciones probables y las etiquetas cortas (resúmenes del Por qué), y las opciones de reconversión (una traducción de la skill: la hoja de trabajo nunca nombra un tipo de destino). Las puntuaciones por defecto son puntos de partida orientativos para un tipo, no conclusiones sobre una página.
 
-Dimension codes: CR click resilience · CP citation potential · BM brand mention potential · BV business value · PA proprietary advantage · EF expected effort (higher = costlier).
+Códigos de dimensión: CR resiliencia de clics · CP potencial de cita · BM potencial de mención de marca · BV valor de negocio · PA ventaja propia · EF esfuerzo esperado (más alto = más costoso).
 
 
-## How to judge each dimension for a specific page
+## Cómo valorar cada dimensión para una página concreta
 
-These anchors are a skill aid for consistent judgement, not part of the worksheet. Use them when you make a page assessment, and score what the page actually does for its audience and objective.
+Estos criterios son una ayuda de la skill para valorar de forma coherente, no forman parte de la hoja de trabajo. Úsalos cuando hagas una evaluación de página y puntúa lo que la página hace realmente para su audiencia y su objetivo.
 
-| Dimension | Low | Medium | High |
+| Dimensión | Baja (L) | Media (M) | Alta (H) |
 |---|---|---|---|
-| Click resilience | An AI answer fully satisfies the need; nothing remains to do or check on the page. | A visit helps some users verify details, see context or take a next step. | The need depends on something the page enables: an action, an interaction, a personalized result, current facts or verification. |
-| Citation potential | Few verifiable, relevant claims; little reason to cite it over other sources. | Relevant, supported information or useful synthesis with clear attribution. | A primary or uniquely useful source with clear, verifiable, current evidence for a defined need. |
-| Brand mention potential | Little legitimate connection between the brand and the need. | A credible association between the brand and the topic or product. | The brand is central to solving the need or supplying the evidence. |
-| Business value | Weak or no connection to the site's objective. | A credible supporting role in acquisition, conversion, retention, support or mission. | A strong, direct role in the objective, shown by a clear journey or measured contribution. |
-| Proprietary advantage | Easily reproduced from common sources. | Useful original analysis, expertise, verification or functionality that takes real work to reproduce. | Hard to reproduce: own data, testing, access, expertise or systems. Owning the page alone doesn't make it High; the content has to show it. |
-| Expected effort | Little production and maintenance work for this organization. | Moderate editorial, technical, expert or upkeep work. | Substantial production or ongoing data, verification, technical or upkeep work. |
+| Resiliencia de clics | Una respuesta de IA satisface la necesidad por completo; no queda nada que hacer ni comprobar en la página. | Una visita ayuda a algunos usuarios a verificar detalles, ver contexto o dar un siguiente paso. | La necesidad depende de algo que la página permite: una acción, una interacción, un resultado personalizado, datos actuales o una verificación. |
+| Potencial de cita | Pocas afirmaciones verificables y relevantes; pocos motivos para citarla frente a otras fuentes. | Información relevante y respaldada, o una síntesis útil con atribución clara. | Una fuente primaria o especialmente útil, con evidencia clara, verificable y actual para una necesidad definida. |
+| Potencial de mención de marca | Poca conexión legítima entre la marca y la necesidad. | Una asociación creíble entre la marca y el tema o el producto. | La marca es central para resolver la necesidad o aportar la evidencia. |
+| Valor de negocio | Conexión débil o nula con el objetivo del sitio. | Un papel de apoyo creíble en la captación, la conversión, la retención, el soporte o la misión. | Un papel fuerte y directo en el objetivo, demostrado por un recorrido claro o una contribución medida. |
+| Ventaja propia | Fácil de reproducir a partir de fuentes comunes. | Análisis original útil, experiencia, verificación o funcionalidad que exige trabajo real reproducir. | Difícil de reproducir: datos, pruebas, acceso, experiencia o sistemas propios. Ser el propietario de la página no basta para que sea Alta; el contenido tiene que demostrarlo. |
+| Esfuerzo esperado | Poco trabajo de producción y mantenimiento para esta organización. | Trabajo editorial, técnico, de expertos o de mantenimiento moderado. | Trabajo sustancial de producción o continuo de datos, verificación, técnico o de mantenimiento. |
 
-## Telling similar types apart
+## Cómo distinguir tipos parecidos
 
-Classify by the job the content does for the user, not by its URL, title or format.
+Clasifica según la función que el contenido cumple para el usuario, no según su URL, su título o su formato.
 
-| If it looks like… | It is the prioritized type when… | Otherwise |
+| Si parece… | Es el tipo priorizado cuando… | Si no |
 |---|---|---|
-| Calculator, quiz, finder, configurator | it returns a useful result for this user from live, proprietary, account-level or distinctive inputs | D7 Generic calculators & quizzes |
-| "Best", vs, alternatives | criteria are disclosed, evidence is shown, trade-offs are explained, and it says when another option wins | D6 Biased or mass comparisons |
-| News, press, announcement | it adds a first-hand source, interviews, documents or original analysis | D4 News & press rewrites |
-| Templated pages at scale | each URL shows distinctive data or analysis and serves a different task | D8 Programmatic public-data pages |
-| How-to, guide, explainer | it is product-, version- or context-specific, or adds testing, expert input, original data or tools | D2 Rehashed explainers |
-| FAQ or variant URLs | location, audience, regulation, platform or task genuinely changes the answer | D3 Fragmented FAQ & variants |
-| Definition or glossary | it is brand-specific, sits inside a product, docs or topic hub, or demonstrably serves customers (for example support) | D1 Commodity definitions |
+| Calculadora, cuestionario, buscador, configurador | devuelve un resultado útil para este usuario a partir de entradas en vivo, propias, de nivel de cuenta o distintivas | D7 Calculadoras y cuestionarios genéricos |
+| «Mejores», vs, alternativas | se explicitan los criterios, se muestra la evidencia, se explican las contrapartidas y se dice cuándo gana otra opción | D6 Comparativas sesgadas o masivas |
+| Noticia, prensa, anuncio | añade una fuente de primera mano, entrevistas, documentos o análisis original | D4 Reescrituras de noticias y prensa |
+| Páginas con plantilla a escala | cada URL muestra datos o análisis distintivos y sirve a una tarea diferente | D8 Páginas programáticas de datos públicos |
+| Tutorial, guía, explicación | es específico de un producto, una versión o un contexto, o añade pruebas, aportación de expertos, datos originales o herramientas | D2 Explicaciones refritas |
+| FAQ o URLs de variantes | la ubicación, la audiencia, la normativa, la plataforma o la tarea cambian realmente la respuesta | D3 FAQ fragmentadas y variantes |
+| Definición o glosario | es específica de la marca, está dentro de un producto, una documentación o un centro temático, o sirve demostrablemente a los clientes (por ejemplo, en soporte) | D1 Definiciones genéricas |
 
-Other boundaries:
-- First-hand tests cover one product under stated conditions. Customer outcomes show what changed for a real customer. Original research finds patterns across many users, products or periods with a repeatable method.
-- Live data hubs display current facts across many items. Personalized tools calculate an answer for this user. Scalable first-party data pages are one useful page per real entity, each with distinctive data.
-- Official docs and policies are the source of record. Implementation and troubleshooting guides help make it work in a specific context.
-- A page that mixes types is classified by its main job; note the secondary one.
-- Public data isn't a reason to deprioritize on its own: original analysis, verification or useful functionality on top of it can make content worth investing in.
-- **Hubs, category and index pages** (resource hubs, blog listings, category pages) aren't one of the 21 types. Classify them as Transaction & task when they route users to the brand's own action (buy, install, send, sign up); otherwise mark them X (hub or other) and judge their routing: where they lead, whether they add anything only the brand has. Don't copy their destinations' scores.
-- **X** is for pages no type describes well. X has no default scores; assess them or leave them unknown.
-
-
-## Content types to prioritize (13)
-
-### P1 · Brand and entity pages (Brand & entity)
-- **Defaults:** CR M · CP H · BM H · BV H · PA H · EF L
-- **Role:** This content establishes the canonical facts about the organization: What it is and what it offers, who owns or represents it, where it operates and why it can be trusted. Its role is to provide entity clarity and verification, not detailed product instructions, live availability or conversion.
-- **Related prompts:** What is [Brand] and what does it offer?; Who owns or operates [Brand]?; Is [Brand] legitimate and available in [Market]?
-- **Examples:** About, organization, leadership, author, trust, location and product or service overview pages with consistent facts, disclosed ownership or authorship, verifiable claims and a clear internal hierarchy.
-
-### P2 · Transaction and task-completion pages (Transaction & task)
-- **Defaults:** CR H · CP H · BM M · BV H · PA H · EF M
-- **Role:** This content lets a person or agent complete a high-value action on the site: buy, book, apply, download, request, cancel, contact or resolve an account task. Its role is about the conversion, so it should show the current price or value, eligibility, safety constraints, required inputs and next step.
-- **Related prompts:** Buy [Product] online in [Country]; Book [Service] in [Location] for [Date]; Start a trial, download [Product] or request a quote
-- **Examples:** Pricing, sign-up, checkout, booking, download, application, quote, claim, contact, account and support-resolution pages with complete, structured action requirements.
-
-### P3 · Official product documentation, specifications and policies (Official docs & policies)
-- **Defaults:** CR M · CP H · BM H · BV H · PA H · EF M
-- **Role:** This content publishes authoritative facts only the organization can provide: product or service requirements, feature behavior, compatibility, pricing rules, policies, warranties and release changes. Its role is to be the current source of record, not persuade, compare options or troubleshoot every possible context.
-- **Related prompts:** What are [Product]'s requirements or specifications?; How does [Feature, Policy or Plan] work?; What changed in [Product or Service] version [X]?
-- **Examples:** Release notes, documentation, compatibility matrices, policy and warranty pages, specifications, eligibility rules and official answers within maintained hubs.
-
-### P4 · First-hand product tests and performance reviews (First-hand tests)
-- **Defaults:** CR H · CP H · BM M · BV H · PA H · EF H
-- **Role:** This content tests one product or service under specified conditions and reports what was observed or measured. Its role is to answer ‘How did this specific option perform?’ with a transparent method, evidence, expert judgement and limitations, not infer market trends or prove a customer's before and after outcome.
-- **Related prompts:** How did [Product] perform under [Test condition]?; Does [Product] work for [Specific use case]?; What are [Product]'s measured strengths and limitations?
-- **Examples:** Hands-on tests, benchmarks, teardowns, trials, demonstrations and measured reviews documenting the method, sample, conditions, results, pros, cons and limitations.
-
-### P5 · Original market, audience and usage research (Original research)
-- **Defaults:** CR M · CP H · BM H · BV M · PA H · EF H
-- **Role:** This content analyzes a product or service relevant dataset across many users, customers, products, markets or periods to reveal a pattern, benchmark or trend that hasn't been previously covered, with a reproducible method, not review one item or explain one implementation.
-- **Related prompts:** What is the average [Metric] for [Audience or Industry]?; How has [Customer behavior] changed over time?; Which [Features or Products] are most used by [Segment]?
-- **Examples:** Surveys, indexes, anonymized usage studies, industry benchmarks, trend reports and recurring datasets with a clear, repeatable methodology.
-
-### P6 · Live first-party databases and reference hubs (Live data hubs)
-- **Defaults:** CR H · CP H · BM M · BV H · PA H · EF H
-- **Role:** This content lets users look up current product or service facts that change, such as price, availability, inventory, status, eligibility, schedules or rates. Its role is current state reference across a set of relevant items; showing verified facts rather than calculating a personalized answer or creating one URL per keyword variation.
-- **Related prompts:** Is [Product or Service] available in [Location] now?; What are the current prices, rates or availability for [Item]?; Which offers, events or status updates are active today?
-- **Examples:** Live inventories, availability databases, status pages, rate or price trackers, store locators, event calendars and frequently updated reference hubs.
-
-### P7 · Documented customer outcomes, experiments and case studies (Customer outcomes)
-- **Defaults:** CR H · CP M · BM M · BV H · PA H · EF M
-- **Role:** This content documents what changed after a real product, service or approach was used, including the starting point, actions, constraints, timeline and measured outcome. Its role is ‘Show me that it worked in a comparable situation’, not teach the general process, test one product in isolation or compare alternatives.
-- **Related prompts:** What results did [Customer type] achieve with [Product or Approach]?; What changed before and after [Action]?; What did [Experiment] show under [Condition]?
-- **Examples:** Customer case studies, before and after analyses, documented experiments and implementation stories supported by real inputs, screenshots, outputs and measurable results.
-
-### P8 · Product specific implementation and troubleshooting guides (Implementation & troubleshooting)
-- **Defaults:** CR H · CP M · BM M · BV H · PA H · EF M
-- **Role:** This content helps an existing user configure, implement or fix a specific product when the correct steps depend on the version, device, environment, error, location or constraint. Its role is ‘Help me make it work here’, not proving a past outcome or choosing between products.
-- **Related prompts:** Why doesn't [Product] work on [Device or Version]?; How do I configure [Feature] for [Use case or Constraint]?; How do I resolve [Error] in [Specific environment]?
-- **Examples:** Troubleshooting trees, configuration guides, advanced implementation instructions and support content segmented by version, device, symptom, customer stage or operating environment.
-
-### P9 · Evidence led comparisons and selection guides (Evidence-led comparisons)
-- **Defaults:** CR M · CP L · BM M · BV H · PA M · EF M
-- **Role:** This content helps users to choose between two or more viable options for a defined scenario. Its role is to ‘Help me decide’ by applying transparent criteria, evidence and trade-offs, then explaining who each option is best for.
-- **Related prompts:** [Product] vs [Alternative] for [Specific use case]; Best [Category] for [Audience, budget or constraint]; Which [Option] is right for [Specific need]?
-- **Examples:** X vs Y comparisons, alternatives pages, shortlists and best of guides with disclosed criteria, supporting evidence, limitations and scenarios in which different options win.
-
-### P10 · Personalized tools using live or proprietary data (Personalized tools)
-- **Defaults:** CR H · CP L · BM L · BV H · PA H · EF H
-- **Role:** These are personalized tools using product or service data to help users solve needs related and complementary to the core ones provided by the brand products or services, with calculated, configured or recommended results. Its role is to produce a usable answer for this user or situation rather than simply display current facts or run a generic formula that an AI interface can reproduce.
-- **Related prompts:** Calculate the total cost or ROI using my inputs; Which plan or product fits my needs and current setup?; Am I eligible for [Offer or Service] in my location or account?
-- **Examples:** Calculators, configurators, planners, recommenders, eligibility checkers and comparison tools driven by live, proprietary, account-level or user-specific inputs.
-
-### P11 · Curated community and practitioner knowledge (Curated community)
-- **Defaults:** CR M · CP M · BM M · BV H · PA M · EF H
-- **Role:** This content captures useful experience from customers, creators or practitioners, then adds authorship, moderation and editorial context. Its role is to feature real-world know-how and edge cases, rather than the brand's official answer or commissioned reporting as community evidence.
-- **Related prompts:** How do experienced customers use [Product] for [Use case]?; Which mistakes do practitioners recommend avoiding?; What worked for organizations or people like mine?
-- **Examples:** Curated community Q&A, expert columns, creator hubs, customer showcases and moderated discussion archives with disclosed authorship and editorial context.
-
-### P12 · Original reporting and source analysis (Original reporting)
-- **Defaults:** CR H · CP M · BM H · BV M · PA H · EF H
-- **Role:** This content is original reporting: interviews, event access, documents, observation or specialist analysis. Its role is to explain what happened and why using first-hand sources, not summarize another publisher's report or turn a dataset into a market benchmark.
-- **Related prompts:** Why did [Company or Industry] change [Product or Policy]?; What did [Expert or Executive] reveal about [Topic]?; What does [Recent development] mean for [Audience]?
-- **Examples:** Interviews, event coverage, investigations, expert analysis, behind the scenes reporting and original commentary supported by first-hand sources or media.
-
-### P13 · Scalable pages featuring genuine, useful insights powered by unique first-party data (Scalable first-party data pages)
-- **Defaults:** CR M · CP H · BM M · BV H · PA H · EF H
-- **Role:** This content provides a useful page for each real entity, product, location or integration because every page shows uniquely different owned data and serves a different task. Its role is scalable coverage of genuine, useful and relevant insights for the brand audience, not publishing keyword variants or templating public facts.
-- **Related prompts:** [Product model] specifications, availability and change history; [Location] service availability, prices and local requirements; [Integration] setup, supported features and current status
-- **Examples:** Entity, product, location and integration pages featuring unique and useful metrics, availability, change history, comparisons and context from owned data, with editorial quality assurance.
+Otros límites:
+- Las pruebas de primera mano cubren un producto en condiciones declaradas. Los resultados de clientes muestran qué cambió para un cliente real. La investigación original encuentra patrones entre muchos usuarios, productos o periodos con un método repetible.
+- Los centros de datos en vivo muestran datos actuales de muchos elementos. Las herramientas personalizadas calculan una respuesta para este usuario. Las páginas escalables de datos propios son una página útil por cada entidad real, cada una con datos distintivos.
+- La documentación oficial y las políticas son la fuente de referencia. Las guías de implementación y resolución de problemas ayudan a que funcione en un contexto concreto.
+- Una página que mezcla tipos se clasifica por su función principal; anota la secundaria.
+- Que los datos sean públicos no es por sí solo motivo para despriorizar: un análisis original, una verificación o una funcionalidad útil por encima de ellos pueden hacer que merezca la pena invertir en el contenido.
+- **Los centros, las páginas de categoría y las de índice** (centros de recursos, listados del blog, páginas de categoría) no son ninguno de los 21 tipos. Clasifícalos como Transacción y tarea (Transaction & task) cuando dirigen a los usuarios a la acción propia de la marca (comprar, instalar, enviar, registrarse); si no, márcalos como X (centro u otro) y valora su enrutamiento: adónde llevan y si añaden algo que solo tiene la marca. No copies las puntuaciones de sus destinos.
+- **X** es para las páginas que ningún tipo describe bien. X no tiene puntuaciones por defecto; evalúalas o déjalas como desconocidas.
 
 
-## Content types to deprioritize (8)
+## Tipos de contenido que hay que priorizar (13)
 
-These are the types an AI answer can satisfy on its own. For each one, the **Why** is the framework's own guidance. Below it, the skill adds:
-- a **likely direction** and a **short label**, which summarize the Why;
-- **rework options**, a skill translation listing the prioritized types a page could become. After reading a page, pick the one option that matches its job, and say why.
+### P1 · Páginas de marca y entidad (Brand & entity)
+- **Por defecto:** CR M · CP H · BM H · BV H · PA H · EF L
+- **Función:** Este contenido establece los datos canónicos sobre la organización: qué es y qué ofrece, quién la posee o la representa, dónde opera y por qué es de confianza. Su función es aportar claridad y verificación sobre la entidad, no instrucciones detalladas del producto, disponibilidad en vivo ni conversión.
+- **Prompts relacionados:** ¿Qué es [Marca] y qué ofrece?; ¿Quién es el propietario u operador de [Marca]?; ¿Es [Marca] legítima y está disponible en [Mercado]?
+- **Ejemplos:** Páginas de «quiénes somos», organización, dirección, autor, confianza, ubicación y presentación de productos o servicios con datos coherentes, propiedad o autoría declaradas, afirmaciones verificables y una jerarquía interna clara.
 
-Any removal or merge still goes through the review gate in SKILL.md.
+### P2 · Páginas de transacción y realización de tareas (Transaction & task)
+- **Por defecto:** CR H · CP H · BM M · BV H · PA H · EF M
+- **Función:** Este contenido permite que una persona o un agente complete una acción de alto valor en el sitio: comprar, reservar, solicitar, descargar, pedir, cancelar, contactar o resolver una gestión de la cuenta. Su función gira en torno a la conversión, por lo que debe mostrar el precio o valor actual, los requisitos de elegibilidad, las restricciones de seguridad, los datos necesarios y el siguiente paso.
+- **Prompts relacionados:** Comprar [Producto] online en [País]; Reservar [Servicio] en [Ubicación] para [Fecha]; Empezar una prueba, descargar [Producto] o pedir un presupuesto
+- **Ejemplos:** Páginas de precios, registro, pago, reserva, descarga, solicitud, presupuesto, reclamación, contacto, cuenta y resolución de soporte con requisitos de acción completos y estructurados.
 
-### D1 · Standalone commodity definitions without brand or journey context (Commodity definitions)
-- **Defaults:** CR L · CP L · BM M · BV L · PA L · EF L
-- **Why (framework):** This content defines a common term or acronym using information already available everywhere. Search features and AI can answer it without a click; keep it only inside a relevant product, service or topic hub, or when the definition is genuinely brand specific.
-- **Related prompts:** What is [Basic term]?; What does [Acronym] mean?; What is the difference between [Common term A] and [Common term B]?
-- **Examples:** Dictionary style definitions, basic explainers and acronym pages compiled from common knowledge with no distinctive brand, product, audience or next step context.
-- **Likely direction (skill summary of the Why):** Consolidate into the relevant product, service or topic hubs, and keep standalone only the definitions that are genuinely brand-specific. Short label: Consolidate.
-- **Rework options (skill translation; choose the one that matches the page's job):** Official docs & policies; Brand & entity, when the definition is about the brand; the product or topic hub it actually supports
+### P3 · Documentación oficial del producto, especificaciones y políticas (Official docs & policies)
+- **Por defecto:** CR M · CP H · BM H · BV H · PA H · EF M
+- **Función:** Este contenido publica datos autorizados que solo la organización puede proporcionar: requisitos del producto o servicio, comportamiento de las funciones, compatibilidad, reglas de precios, políticas, garantías y cambios de versión. Su función es ser la fuente de referencia actual, no persuadir, comparar opciones ni resolver problemas en todos los contextos posibles.
+- **Prompts relacionados:** ¿Cuáles son los requisitos o especificaciones de [Producto]?; ¿Cómo funciona [Función, Política o Plan]?; ¿Qué cambió en la versión [X] de [Producto o Servicio]?
+- **Ejemplos:** Notas de versión, documentación, matrices de compatibilidad, páginas de políticas y garantías, especificaciones, reglas de elegibilidad y respuestas oficiales dentro de centros mantenidos.
 
-### D2 · Rehashed explainers and how to guides without original value (Rehashed explainers)
-- **Defaults:** CR L · CP L · BM L · BV L · PA L · EF M
-- **Why (framework):** This content repackages common advice or existing sources without first-hand testing, expert contribution, original data, tools or distinctive media. Changing the length or title doesn't fix the problem: AI can summarize the same consensus and the page gives users no extra reason to visit.
-- **Related prompts:** How do I get started with [Broad topic]?; Complete guide to [Common process]; How can I improve [Generic outcome]?
-- **Examples:** Broad how-tos, expanded rewrites, exhaustive introductions and ‘everything you need to know’ guides assembled from public sources without original evidence or practical utility.
-- **Likely direction (skill summary of the Why):** Rework the pages worth keeping into a format that adds what an AI summary can't, and stop producing new ones. Short label: Rework or retire.
-- **Rework options (skill translation; choose the one that matches the page's job):** Evidence-led comparisons, when the job is choosing; First-hand tests, when the job is how something performed; Implementation & troubleshooting, only when the job is setup or fixing; Original research, when the job is a pattern across many cases
+### P4 · Pruebas de producto de primera mano y reseñas de rendimiento (First-hand tests)
+- **Por defecto:** CR H · CP H · BM M · BV H · PA H · EF H
+- **Función:** Este contenido prueba un producto o servicio en condiciones especificadas e informa de lo que se observó o midió. Su función es responder a «¿Qué tal funcionó esta opción concreta?» con un método transparente, evidencia, criterio experto y limitaciones, no inferir tendencias del mercado ni demostrar el antes y el después de un cliente.
+- **Prompts relacionados:** ¿Qué tal funcionó [Producto] en [Condición de prueba]?; ¿Sirve [Producto] para [Caso de uso específico]?; ¿Cuáles son los puntos fuertes y las limitaciones medidos de [Producto]?
+- **Ejemplos:** Pruebas prácticas, benchmarks, desmontajes, ensayos, demostraciones y reseñas con mediciones que documentan el método, la muestra, las condiciones, los resultados, los pros, los contras y las limitaciones.
 
-### D3 · Fragmented FAQ and keyword variant pages serving one intent (Fragmented FAQ & variants)
-- **Defaults:** CR L · CP M · BM L · BV L · PA L · EF L
-- **Why (framework):** This content distributes one user need across different URLs because the questions or keywords are worded differently, not because the answer really changes. Consolidate them into the relevant canonical product, policy, support or transaction page unless a location, audience, regulation, platform or task creates a genuinely different answer.
-- **Related prompts:** Is [Product] free? / Does [Product] cost anything?; Buy [Product] online / Where can I order [Product]?; Can I cancel [Plan]? / How do I end [Plan]?
-- **Examples:** Single question FAQ URLs and near duplicate pages created for wording, keyword or minor audience variations that a single, stronger canonical page can satisfy.
-- **Likely direction (skill summary of the Why):** Consolidate into the relevant canonical product, policy, support or transaction page, unless location, audience, regulation, platform or task genuinely changes the answer. Short label: Consolidate.
-- **Rework options (skill translation; choose the one that matches the page's job):** Transaction & task, when the question is about buying or doing the task; Official docs & policies, when it is about rules or specs; Implementation & troubleshooting, when it is about making it work
+### P5 · Investigación original de mercado, audiencia y uso (Original research)
+- **Por defecto:** CR M · CP H · BM H · BV M · PA H · EF H
+- **Función:** Este contenido analiza un conjunto de datos relevante para el producto o servicio entre muchos usuarios, clientes, productos, mercados o periodos para revelar un patrón, una referencia o una tendencia no tratados antes, con un método reproducible; no reseña un elemento ni explica una implementación.
+- **Prompts relacionados:** ¿Cuál es el [Métrica] medio para [Audiencia o Sector]?; ¿Cómo ha cambiado [Comportamiento del cliente] con el tiempo?; ¿Qué [Funciones o Productos] usa más [Segmento]?
+- **Ejemplos:** Encuestas, índices, estudios de uso anonimizados, benchmarks sectoriales, informes de tendencias y conjuntos de datos recurrentes con una metodología clara y repetible.
 
-### D4 · Third-party news and press release rewrites without original input (News & press rewrites)
-- **Defaults:** CR L · CP L · BM L · BV L · PA L · EF M
-- **Why (framework):** This content repeats an announcement or another publisher's reporting without adding a first-hand source, new evidence, analysis or audience specific impact. It becomes stale quickly and gives search or AI systems no reason to cite or send users to the rewrite.
-- **Related prompts:** What did [Company] announce today?; What changed in the latest [Third-party product] update?; What is the latest news in [Industry]?
-- **Examples:** Press release rewrites, recaps copied from another source and summaries of third-party announcements with no original reporting, evidence or analysis.
-- **Likely direction (skill summary of the Why):** Add a first-hand source, evidence, analysis or audience-specific impact, or stop producing them. Short label: Rework or retire.
-- **Rework options (skill translation; choose the one that matches the page's job):** Original reporting, only if there is a first-hand source; otherwise stop producing them
+### P6 · Bases de datos propias en vivo y centros de referencia (Live data hubs)
+- **Por defecto:** CR H · CP H · BM M · BV H · PA H · EF H
+- **Función:** Este contenido permite a los usuarios consultar datos actuales y cambiantes del producto o servicio, como precio, disponibilidad, existencias, estado, elegibilidad, horarios o tarifas. Su función es servir de referencia del estado actual de un conjunto de elementos relevantes; mostrar datos verificados en lugar de calcular una respuesta personalizada o crear una URL por cada variación de palabra clave.
+- **Prompts relacionados:** ¿Está disponible ahora [Producto o Servicio] en [Ubicación]?; ¿Cuáles son los precios, tarifas o disponibilidad actuales de [Artículo]?; ¿Qué ofertas, eventos o actualizaciones de estado están activos hoy?
+- **Ejemplos:** Inventarios en vivo, bases de datos de disponibilidad, páginas de estado, seguimiento de tarifas o precios, localizadores de tiendas, calendarios de eventos y centros de referencia actualizados con frecuencia.
 
-### D5 · High volume tangential topics without a credible business journey (Tangential high-volume topics)
-- **Defaults:** CR L · CP L · BM L · BV L · PA L · EF M
-- **Why (framework):** This content targets search demand that is only loosely related to the organization's product, service, expertise or audience outcome. Even if it attracts visits, it has no credible next step or business value and is often fully satisfied by an AI answer.
-- **Related prompts:** What are the biggest [Industry] trends in [Year]?; How do I start [Unrelated activity]?; What is the best [Unrelated product] for [Broad audience]?
-- **Examples:** High volume lifestyle, career, trend or industry topics that are only loosely related to the site and offer no useful next step.
-- **Likely direction (skill summary of the Why):** Stop investing in these topics, and decide what happens to the existing pages after the checks. Short label: Retire.
-- **Rework options (skill translation; choose the one that matches the page's job):** none: there is no prioritized format to rework this into
+### P7 · Resultados de clientes documentados, experimentos y casos de éxito (Customer outcomes)
+- **Por defecto:** CR H · CP M · BM M · BV H · PA H · EF M
+- **Función:** Este contenido documenta qué cambió después de usar un producto, servicio o enfoque real, incluidos el punto de partida, las acciones, las limitaciones, el calendario y el resultado medido. Su función es «Demuéstrame que funcionó en una situación comparable», no enseñar el proceso general, probar un producto de forma aislada ni comparar alternativas.
+- **Prompts relacionados:** ¿Qué resultados consiguió [Tipo de cliente] con [Producto o Enfoque]?; ¿Qué cambió antes y después de [Acción]?; ¿Qué mostró [Experimento] en [Condición]?
+- **Ejemplos:** Casos de éxito de clientes, análisis de antes y después, experimentos documentados e historias de implementación respaldados por datos reales, capturas de pantalla, resultados y métricas medibles.
 
-### D6 · Biased or mass produced ‘best’, comparison and alternatives pages (Biased or mass comparisons)
-- **Defaults:** CR L · CP L · BM L · BV M · PA L · EF M
-- **Why (framework):** This content targets purchase decision queries but doesn't provide credible decision support: it ranks the publisher first, hides the method, repeats the same template at scale or cannot show a situation in which another option wins. Consolidate coverage and keep only comparisons with transparent criteria, evidence and meaningful trade-offs.
-- **Related prompts:** What are the best [Category] brands?; [Brand] vs [Competitor] for [Use case]; What are the alternatives to [Product]?
-- **Examples:** Self-serving best-of lists, thin X vs. Y comparisons and alternatives pages created at scale without disclosed criteria, testing, evidence, trade-offs or audience-specific recommendations.
-- **Likely direction (skill summary of the Why):** Consolidate coverage, and keep only comparisons with transparent criteria, evidence and meaningful trade-offs. Short label: Rework or consolidate.
-- **Rework options (skill translation; choose the one that matches the page's job):** Evidence-led comparisons
+### P8 · Guías de implementación y resolución de problemas específicas del producto (Implementation & troubleshooting)
+- **Por defecto:** CR H · CP M · BM M · BV H · PA H · EF M
+- **Función:** Este contenido ayuda a un usuario existente a configurar, implementar o arreglar un producto concreto cuando los pasos correctos dependen de la versión, el dispositivo, el entorno, el error, la ubicación o una restricción. Su función es «Ayúdame a que funcione aquí», no demostrar un resultado pasado ni elegir entre productos.
+- **Prompts relacionados:** ¿Por qué no funciona [Producto] en [Dispositivo o Versión]?; ¿Cómo configuro [Función] para [Caso de uso o Restricción]?; ¿Cómo resuelvo [Error] en [Entorno específico]?
+- **Ejemplos:** Árboles de resolución de problemas, guías de configuración, instrucciones de implementación avanzada y contenido de soporte segmentado por versión, dispositivo, síntoma, fase del cliente o entorno operativo.
 
-### D7 · Generic calculators, quizzes and generators without distinctive inputs (Generic calculators & quizzes)
-- **Defaults:** CR L · CP L · BM L · BV L · PA L · EF M
-- **Why (framework):** This content applies a basic formula or produces a shallow answer from inputs an AI interface can handle directly. Keep it only when live or proprietary data, meaningful personalization, repeat use or a clear product action makes the output actually useful.
-- **Related prompts:** Which [Product type] should I choose?; Generate a [Topic] name; Calculate a basic percentage or conversion
-- **Examples:** Generic quizzes, calculators and generators with no live data, personalization depth, recurring use, distinctive output or credible product journey.
-- **Likely direction (skill summary of the Why):** Keep only tools with live or proprietary data, real personalization, repeat use or a clear product action. Short label: Rework or retire.
-- **Rework options (skill translation; choose the one that matches the page's job):** Personalized tools
+### P9 · Comparativas y guías de selección basadas en evidencias (Evidence-led comparisons)
+- **Por defecto:** CR M · CP L · BM M · BV H · PA M · EF M
+- **Función:** Este contenido ayuda a los usuarios a elegir entre dos o más opciones viables para un escenario definido. Su función es «Ayúdame a decidir» aplicando criterios transparentes, evidencia y contrapartidas, y explicando después para quién es mejor cada opción.
+- **Prompts relacionados:** [Producto] vs [Alternativa] para [Caso de uso específico]; Mejor [Categoría] para [Audiencia, presupuesto o restricción]; ¿Qué [Opción] es la adecuada para [Necesidad específica]?
+- **Ejemplos:** Comparativas X vs Y, páginas de alternativas, listas de preselección y guías de «los mejores» con criterios declarados, evidencia de apoyo, limitaciones y escenarios en los que ganan distintas opciones.
 
-### D8 · Programmatic pages built from public or competitor data (Programmatic public-data pages)
-- **Defaults:** CR L · CP L · BM L · BV L · PA L · EF H
-- **Why (framework):** This content creates many templated pages from facts anyone can access, without unique first-party data, expert judgement or a genuinely different task on each URL. Scale multiplies duplication, maintenance and quality risks; it doesn't create real value.
-- **Related prompts:** [Competitor] pricing and features; [Third-party product] specifications; [Generic term] glossary
-- **Examples:** Location, definition, specification, pricing or entity pages generated from third-party or public datasets without first-party data, expert judgement or a distinct user task.
-- **Likely direction (skill summary of the Why):** Keep only the URLs with distinctive data and a distinct task; scale alone doesn't create value. Short label: Rework or prune.
-- **Rework options (skill translation; choose the one that matches the page's job):** Scalable first-party data pages (do not approve the template as one batch)
+### P10 · Herramientas personalizadas con datos en vivo o propios (Personalized tools)
+- **Por defecto:** CR H · CP L · BM L · BV H · PA H · EF H
+- **Función:** Son herramientas personalizadas que usan datos del producto o servicio para ayudar a los usuarios a resolver necesidades relacionadas y complementarias de las principales que cubren los productos o servicios de la marca, con resultados calculados, configurados o recomendados. Su función es producir una respuesta utilizable para este usuario o situación, en lugar de limitarse a mostrar datos actuales o aplicar una fórmula genérica que una interfaz de IA puede reproducir.
+- **Prompts relacionados:** Calcula el coste total o el ROI con mis datos; ¿Qué plan o producto se ajusta a mis necesidades y a mi configuración actual?; ¿Cumplo los requisitos para [Oferta o Servicio] en mi ubicación o cuenta?
+- **Ejemplos:** Calculadoras, configuradores, planificadores, recomendadores, verificadores de elegibilidad y herramientas de comparación alimentados por entradas en vivo, propias, de nivel de cuenta o específicas del usuario.
+
+### P11 · Conocimiento curado de la comunidad y de profesionales (Curated community)
+- **Por defecto:** CR M · CP M · BM M · BV H · PA M · EF H
+- **Función:** Este contenido recoge experiencia útil de clientes, creadores o profesionales y le añade autoría, moderación y contexto editorial. Su función es destacar el conocimiento práctico del mundo real y los casos límite, no presentar la respuesta oficial de la marca ni contenido encargado como evidencia de la comunidad.
+- **Prompts relacionados:** ¿Cómo usan los clientes experimentados [Producto] para [Caso de uso]?; ¿Qué errores recomiendan evitar los profesionales?; ¿Qué les funcionó a organizaciones o personas como yo?
+- **Ejemplos:** Preguntas y respuestas curadas de la comunidad, columnas de expertos, centros de creadores, escaparates de clientes y archivos de debates moderados con autoría declarada y contexto editorial.
+
+### P12 · Reportajes originales y análisis de fuentes (Original reporting)
+- **Por defecto:** CR H · CP M · BM H · BV M · PA H · EF H
+- **Función:** Este contenido es periodismo original: entrevistas, acceso a eventos, documentos, observación o análisis especializado. Su función es explicar qué pasó y por qué a partir de fuentes de primera mano, no resumir el reportaje de otro medio ni convertir un conjunto de datos en una referencia de mercado.
+- **Prompts relacionados:** ¿Por qué cambió [Empresa o Sector] [Producto o Política]?; ¿Qué reveló [Experto o Directivo] sobre [Tema]?; ¿Qué significa [Novedad reciente] para [Audiencia]?
+- **Ejemplos:** Entrevistas, cobertura de eventos, investigaciones, análisis de expertos, reportajes entre bastidores y comentario original respaldados por fuentes o material de primera mano.
+
+### P13 · Páginas escalables con información genuina y útil basada en datos propios únicos (Scalable first-party data pages)
+- **Por defecto:** CR M · CP H · BM M · BV H · PA H · EF H
+- **Función:** Este contenido ofrece una página útil para cada entidad, producto, ubicación o integración real, porque cada página muestra datos propios únicos y distintos y sirve a una tarea diferente. Su función es dar una cobertura escalable de información genuina, útil y relevante para la audiencia de la marca, no publicar variantes de palabras clave ni aplicar plantillas a datos públicos.
+- **Prompts relacionados:** Especificaciones, disponibilidad e historial de cambios de [Modelo de producto]; Disponibilidad del servicio, precios y requisitos locales en [Ubicación]; Configuración, funciones compatibles y estado actual de [Integración]
+- **Ejemplos:** Páginas de entidad, producto, ubicación e integración con métricas únicas y útiles, disponibilidad, historial de cambios, comparativas y contexto a partir de datos propios, con control de calidad editorial.
+
+
+## Tipos de contenido que hay que despriorizar (8)
+
+Son los tipos que una respuesta de IA puede satisfacer por sí sola. Para cada uno, el **Por qué** es la propia guía del framework. Debajo, la skill añade:
+- una **dirección probable** y una **etiqueta corta**, que resumen el Por qué;
+- **opciones de reconversión**, una traducción de la skill que enumera los tipos priorizados en los que podría convertirse una página. Tras leer una página, elige la única opción que encaja con su función y explica por qué.
+
+Cualquier eliminación o fusión sigue pasando por el filtro de revisión de SKILL.md.
+
+### D1 · Definiciones genéricas aisladas sin contexto de marca ni de recorrido (Commodity definitions)
+- **Por defecto:** CR L · CP L · BM M · BV L · PA L · EF L
+- **Por qué (framework):** Este contenido define un término o acrónimo común con información que ya está disponible en todas partes. Las funciones de búsqueda y la IA pueden responderlo sin un clic; mantenlo solo dentro de un centro de producto, servicio o tema relevante, o cuando la definición sea realmente específica de la marca.
+- **Prompts relacionados:** ¿Qué es [Término básico]?; ¿Qué significa [Acrónimo]?; ¿Cuál es la diferencia entre [Término común A] y [Término común B]?
+- **Ejemplos:** Definiciones tipo diccionario, explicaciones básicas y páginas de acrónimos recopiladas a partir del conocimiento común sin contexto distintivo de marca, producto, audiencia o siguiente paso.
+- **Dirección probable (resumen de la skill del Por qué):** Consolidar en los centros de producto, servicio o tema relevantes y mantener como independientes solo las definiciones realmente específicas de la marca. Etiqueta corta: Consolidar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Documentación oficial y políticas (Official docs & policies); Marca y entidad (Brand & entity), cuando la definición trata sobre la marca; el centro de producto o de tema al que realmente da soporte
+
+### D2 · Explicaciones y guías prácticas refritas sin valor original (Rehashed explainers)
+- **Por defecto:** CR L · CP L · BM L · BV L · PA L · EF M
+- **Por qué (framework):** Este contenido reempaqueta consejos comunes o fuentes existentes sin pruebas de primera mano, aportación de expertos, datos originales, herramientas ni material audiovisual distintivo. Cambiar la extensión o el título no resuelve el problema: la IA puede resumir el mismo consenso y la página no da a los usuarios ningún motivo adicional para visitarla.
+- **Prompts relacionados:** ¿Cómo empiezo con [Tema amplio]?; Guía completa de [Proceso común]; ¿Cómo puedo mejorar [Resultado genérico]?
+- **Ejemplos:** Tutoriales amplios, reescrituras ampliadas, introducciones exhaustivas y guías de «todo lo que necesitas saber» montadas con fuentes públicas sin evidencia original ni utilidad práctica.
+- **Dirección probable (resumen de la skill del Por qué):** Reconvertir las páginas que merezca la pena conservar a un formato que aporte lo que un resumen de IA no puede y dejar de producir nuevas. Etiqueta corta: Rehacer o retirar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Comparativas basadas en evidencias (Evidence-led comparisons), cuando la función es elegir; Pruebas de primera mano (First-hand tests), cuando la función es cómo funcionó algo; Implementación y resolución de problemas (Implementation & troubleshooting), solo cuando la función es configurar o arreglar; Investigación original (Original research), cuando la función es un patrón entre muchos casos
+
+### D3 · Páginas de FAQ fragmentadas y variantes de palabra clave que sirven a una misma intención (Fragmented FAQ & variants)
+- **Por defecto:** CR L · CP M · BM L · BV L · PA L · EF L
+- **Por qué (framework):** Este contenido reparte una misma necesidad del usuario en distintas URLs porque las preguntas o las palabras clave están formuladas de forma diferente, no porque la respuesta cambie realmente. Consolídalas en la página canónica de producto, política, soporte o transacción correspondiente, salvo que una ubicación, audiencia, normativa, plataforma o tarea genere una respuesta realmente distinta.
+- **Prompts relacionados:** ¿Es gratis [Producto]? / ¿Cuesta algo [Producto]?; Comprar [Producto] online / ¿Dónde puedo pedir [Producto]?; ¿Puedo cancelar [Plan]? / ¿Cómo doy de baja [Plan]?
+- **Ejemplos:** URLs de FAQ de una sola pregunta y páginas casi duplicadas creadas por variaciones de redacción, de palabra clave o de audiencia menores que una única página canónica más sólida puede satisfacer.
+- **Dirección probable (resumen de la skill del Por qué):** Consolidar en la página canónica de producto, política, soporte o transacción correspondiente, salvo que la ubicación, la audiencia, la normativa, la plataforma o la tarea cambien realmente la respuesta. Etiqueta corta: Consolidar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Transacción y tarea (Transaction & task), cuando la pregunta trata de comprar o de realizar la tarea; Documentación oficial y políticas (Official docs & policies), cuando trata de reglas o especificaciones; Implementación y resolución de problemas (Implementation & troubleshooting), cuando trata de hacer que funcione
+
+### D4 · Reescrituras de noticias de terceros y notas de prensa sin aportación original (News & press rewrites)
+- **Por defecto:** CR L · CP L · BM L · BV L · PA L · EF M
+- **Por qué (framework):** Este contenido repite un anuncio o el reportaje de otro medio sin añadir una fuente de primera mano, evidencia nueva, análisis o impacto específico para la audiencia. Se queda obsoleto rápidamente y no da a los sistemas de búsqueda o de IA ningún motivo para citar la reescritura o enviarle usuarios.
+- **Prompts relacionados:** ¿Qué anunció hoy [Empresa]?; ¿Qué cambió en la última actualización de [Producto de terceros]?; ¿Cuáles son las últimas noticias de [Sector]?
+- **Ejemplos:** Reescrituras de notas de prensa, resúmenes copiados de otra fuente y resúmenes de anuncios de terceros sin periodismo original, evidencia ni análisis.
+- **Dirección probable (resumen de la skill del Por qué):** Añadir una fuente de primera mano, evidencia, análisis o impacto específico para la audiencia, o dejar de producirlas. Etiqueta corta: Rehacer o retirar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Reportajes originales (Original reporting), solo si hay una fuente de primera mano; si no, dejar de producirlas
+
+### D5 · Temas tangenciales de alto volumen sin un recorrido de negocio creíble (Tangential high-volume topics)
+- **Por defecto:** CR L · CP L · BM L · BV L · PA L · EF M
+- **Por qué (framework):** Este contenido apunta a una demanda de búsqueda que solo guarda una relación vaga con el producto, el servicio, la experiencia o el resultado para la audiencia de la organización. Aunque atraiga visitas, no tiene un siguiente paso creíble ni valor de negocio, y a menudo una respuesta de IA lo satisface por completo.
+- **Prompts relacionados:** ¿Cuáles son las principales tendencias de [Sector] en [Año]?; ¿Cómo empiezo con [Actividad no relacionada]?; ¿Cuál es el mejor [Producto no relacionado] para [Audiencia amplia]?
+- **Ejemplos:** Temas de alto volumen sobre estilo de vida, carrera profesional, tendencias o sectores que solo guardan una relación vaga con el sitio y no ofrecen ningún siguiente paso útil.
+- **Dirección probable (resumen de la skill del Por qué):** Dejar de invertir en estos temas y decidir qué pasa con las páginas existentes después de las comprobaciones. Etiqueta corta: Retirar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** ninguna: no hay ningún formato priorizado al que reconvertirlo
+
+### D6 · Páginas de «mejores», comparativas y alternativas sesgadas o producidas en masa (Biased or mass comparisons)
+- **Por defecto:** CR L · CP L · BM L · BV M · PA L · EF M
+- **Por qué (framework):** Este contenido apunta a consultas de decisión de compra, pero no ofrece un apoyo creíble para decidir: sitúa al editor en primer lugar, oculta el método, repite la misma plantilla a escala o no es capaz de mostrar una situación en la que gane otra opción. Consolida la cobertura y conserva solo las comparativas con criterios transparentes, evidencia y contrapartidas significativas.
+- **Prompts relacionados:** ¿Cuáles son las mejores marcas de [Categoría]?; [Marca] vs [Competidor] para [Caso de uso]; ¿Cuáles son las alternativas a [Producto]?
+- **Ejemplos:** Listas de «los mejores» interesadas, comparativas X vs. Y pobres y páginas de alternativas creadas a escala sin criterios declarados, pruebas, evidencia, contrapartidas ni recomendaciones específicas para la audiencia.
+- **Dirección probable (resumen de la skill del Por qué):** Consolidar la cobertura y conservar solo las comparativas con criterios transparentes, evidencia y contrapartidas significativas. Etiqueta corta: Rehacer o consolidar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Comparativas basadas en evidencias (Evidence-led comparisons)
+
+### D7 · Calculadoras, cuestionarios y generadores genéricos sin entradas distintivas (Generic calculators & quizzes)
+- **Por defecto:** CR L · CP L · BM L · BV L · PA L · EF M
+- **Por qué (framework):** Este contenido aplica una fórmula básica o produce una respuesta superficial a partir de entradas que una interfaz de IA puede gestionar directamente. Mantenlo solo cuando los datos en vivo o propios, una personalización significativa, el uso recurrente o una acción clara sobre el producto hagan que el resultado sea realmente útil.
+- **Prompts relacionados:** ¿Qué [Tipo de producto] debería elegir?; Genera un nombre para [Tema]; Calcula un porcentaje o una conversión básicos
+- **Ejemplos:** Cuestionarios, calculadoras y generadores genéricos sin datos en vivo, profundidad de personalización, uso recurrente, resultado distintivo ni un recorrido de producto creíble.
+- **Dirección probable (resumen de la skill del Por qué):** Conservar solo las herramientas con datos en vivo o propios, personalización real, uso recurrente o una acción clara sobre el producto. Etiqueta corta: Rehacer o retirar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Herramientas personalizadas (Personalized tools)
+
+### D8 · Páginas programáticas creadas con datos públicos o de la competencia (Programmatic public-data pages)
+- **Por defecto:** CR L · CP L · BM L · BV L · PA L · EF H
+- **Por qué (framework):** Este contenido crea muchas páginas con plantilla a partir de datos a los que cualquiera puede acceder, sin datos propios únicos, criterio experto ni una tarea realmente distinta en cada URL. La escala multiplica la duplicación, el mantenimiento y los riesgos de calidad; no crea valor real.
+- **Prompts relacionados:** Precios y funciones de [Competidor]; Especificaciones de [Producto de terceros]; Glosario de [Término genérico]
+- **Ejemplos:** Páginas de ubicación, definición, especificación, precios o entidad generadas a partir de conjuntos de datos de terceros o públicos sin datos propios, criterio experto ni una tarea del usuario diferenciada.
+- **Dirección probable (resumen de la skill del Por qué):** Conservar solo las URLs con datos distintivos y una tarea diferenciada; la escala por sí sola no crea valor. Etiqueta corta: Rehacer o podar.
+- **Opciones de reconversión (traducción de la skill; elige la que encaje con la función de la página):** Páginas escalables de datos propios (Scalable first-party data pages) (no apruebes la plantilla como un único lote)

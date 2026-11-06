@@ -1,171 +1,171 @@
-# Examples by vertical
+# Ejemplos por vertical
 
-The framework's own examples for ecommerce, SaaS and finance, per content type. Use them for gap ideas and briefs. For other verticals, write examples in the same pattern and label them as suggestions.
+Los ejemplos propios del framework para ecommerce, SaaS y finanzas, por tipo de contenido. Úsalos para ideas de huecos (gaps) y briefs. Para otras verticales, redacta ejemplos siguiendo el mismo patrón y márcalos como sugerencias.
 
-## P1 · Brand & entity (Prioritize)
-- **Ecommerce:** About and brand story pages with ownership, product provenance, manufacturing locations and verified sustainability or quality claims
-- **Ecommerce:** Store, contact and trust hubs with consistent company, service-area and certification details
-- **SaaS:** Company, leadership and author pages connected to the platform, products and subject-matter expertise
-- **SaaS:** Trust, security and availability hubs clarifying ownership, locations, compliance claims and supported markets
-- **Finance:** Legal-entity and leadership pages with licences, regulator references, registered locations and verifiable credentials
-- **Finance:** Product and market overview hubs clarifying which regulated entity offers each service and where it is available
+## P1 · Marca y entidad (Brand & entity) (Priorizar)
+- **Ecommerce:** Páginas «Quiénes somos» y de historia de marca con titularidad, procedencia del producto, ubicaciones de fabricación y afirmaciones verificadas de sostenibilidad o calidad
+- **Ecommerce:** Hubs de tienda, contacto y confianza con datos coherentes de empresa, zona de servicio y certificaciones
+- **SaaS:** Páginas de empresa, equipo directivo y autores conectadas con la plataforma, los productos y la experiencia temática
+- **SaaS:** Hubs de confianza, seguridad y disponibilidad que aclaran titularidad, ubicaciones, afirmaciones de cumplimiento normativo y mercados soportados
+- **Finanzas:** Páginas de entidad jurídica y de equipo directivo con licencias, referencias al regulador, domicilios registrados y credenciales verificables
+- **Finanzas:** Hubs de presentación de productos y mercados que aclaran qué entidad regulada ofrece cada servicio y dónde está disponible
 
-## P2 · Transaction & task (Prioritize)
-- **Ecommerce:** Product and category pages with current price, variants, stock, delivery dates and a clear add-to-cart path
-- **Ecommerce:** Checkout, store pickup, returns, order tracking and customer-service resolution pages
-- **SaaS:** Pricing and plan pages with limits, billing terms and a clear trial, purchase or contact-sales path
-- **SaaS:** Trial signup, demo booking, download, upgrade, cancellation and account-management pages
-- **Finance:** Account, card, loan or insurance application pages with rates or premiums, fees, eligibility, risks and required documents
-- **Finance:** Quote, transfer, claim, appointment and secure account-task pages with clear next steps
+## P2 · Transacción y tarea (Transaction & task) (Priorizar)
+- **Ecommerce:** Páginas de producto y categoría con precio actual, variantes, stock, fechas de entrega y un camino claro para añadir al carrito
+- **Ecommerce:** Páginas de checkout, recogida en tienda, devoluciones, seguimiento de pedidos y resolución en atención al cliente
+- **SaaS:** Páginas de precios y planes con límites, condiciones de facturación y un camino claro de prueba, compra o contacto con ventas
+- **SaaS:** Páginas de alta en prueba, reserva de demo, descarga, mejora de plan, cancelación y gestión de cuenta
+- **Finanzas:** Páginas de solicitud de cuenta, tarjeta, préstamo o seguro con tipos o primas, comisiones, requisitos, riesgos y documentación necesaria
+- **Finanzas:** Páginas de presupuesto, transferencia, siniestro o reclamación, cita y tareas seguras de cuenta con pasos siguientes claros
 
-## P3 · Official docs & policies (Prioritize)
-- **Ecommerce:** Product specifications covering dimensions, materials, ingredients, compatibility, care and safety
-- **Ecommerce:** Shipping, returns, warranty, subscription and price-adjustment policies with current terms
-- **SaaS:** Product and API documentation, system requirements, integration matrices and feature-limit pages
-- **SaaS:** Release notes, security documentation, data-processing terms, uptime commitments and billing policies
-- **Finance:** Current rate, fee, APR/APY, eligibility and product-feature documentation
-- **Finance:** Terms, risk disclosures, deposit protection, claims, complaints and regulatory policy pages with effective dates
+## P3 · Documentación y políticas oficiales (Official docs & policies) (Priorizar)
+- **Ecommerce:** Especificaciones de producto que cubren dimensiones, materiales, ingredientes, compatibilidad, cuidado y seguridad
+- **Ecommerce:** Políticas de envío, devoluciones, garantía, suscripción y ajuste de precios con condiciones vigentes
+- **SaaS:** Documentación de producto y de API, requisitos del sistema, matrices de integración y páginas de límites de funcionalidades
+- **SaaS:** Notas de versión, documentación de seguridad, condiciones de tratamiento de datos, compromisos de disponibilidad (uptime) y políticas de facturación
+- **Finanzas:** Documentación vigente de tipos, comisiones, TAE/APR/APY, requisitos y características del producto
+- **Finanzas:** Páginas de condiciones, avisos de riesgo, garantía de depósitos, siniestros, reclamaciones y políticas regulatorias con fecha de entrada en vigor
 
-## P4 · First-hand tests (Prioritize)
-- **Ecommerce:** Hands-on durability, fit, wash, battery or performance tests using named products and disclosed conditions
-- **Ecommerce:** Product demonstrations with measurements, original photos, observed trade-offs and limitations
-- **SaaS:** Load, accuracy, usability or time-to-complete tests under documented datasets, plans and environments
-- **SaaS:** Integration and migration trials showing setup, observed results, limitations and reproducible steps
-- **Finance:** Disclosed tests of transfer times, card fees, FX costs or app accessibility across defined scenarios
-- **Finance:** Product simulations or service-performance reviews that separate observed results from forecasts or advice
+## P4 · Pruebas de primera mano (First-hand tests) (Priorizar)
+- **Ecommerce:** Pruebas prácticas de durabilidad, ajuste, lavado, batería o rendimiento con productos identificados por su nombre y condiciones declaradas
+- **Ecommerce:** Demostraciones de producto con mediciones, fotos originales y compromisos (trade-offs) y limitaciones observados
+- **SaaS:** Pruebas de carga, precisión, usabilidad o tiempo de realización con conjuntos de datos, planes y entornos documentados
+- **SaaS:** Pruebas de integración y migración que muestran la configuración, los resultados observados, las limitaciones y pasos reproducibles
+- **Finanzas:** Pruebas declaradas de tiempos de transferencia, comisiones de tarjeta, costes de cambio de divisa o accesibilidad de la app en escenarios definidos
+- **Finanzas:** Simulaciones de producto o revisiones del rendimiento del servicio que separan los resultados observados de las previsiones o el asesoramiento
 
-## P5 · Original research (Prioritize)
-- **Ecommerce:** First-party studies of sizing, returns, repeat purchases, reviews or category demand by segment
-- **Ecommerce:** Recurring price, availability, delivery or consumer-preference benchmarks with a published method
-- **SaaS:** Anonymized product-usage benchmarks by industry, company size, workflow or maturity
-- **SaaS:** Recurring adoption, productivity, reliability or integration indexes built from proprietary platform data
-- **Finance:** Anonymized spending, saving, payment, fraud or small-business cash-flow studies
-- **Finance:** Recurring rate, affordability or financial-behavior benchmarks with methodology, sample limits and market scope
+## P5 · Investigación original (Original research) (Priorizar)
+- **Ecommerce:** Estudios con datos propios sobre tallas, devoluciones, recompras, reseñas o demanda de categoría por segmento
+- **Ecommerce:** Benchmarks recurrentes de precios, disponibilidad, entrega o preferencias del consumidor con método publicado
+- **SaaS:** Benchmarks anonimizados de uso del producto por sector, tamaño de empresa, flujo de trabajo o madurez
+- **SaaS:** Índices recurrentes de adopción, productividad, fiabilidad o integración elaborados con datos propios de la plataforma
+- **Finanzas:** Estudios anonimizados de gasto, ahorro, pagos, fraude o flujo de caja de pequeñas empresas
+- **Finanzas:** Benchmarks recurrentes de tipos, asequibilidad o comportamiento financiero con metodología, límites de la muestra y alcance de mercado
 
-## P6 · Live data hubs (Prioritize)
-- **Ecommerce:** Live inventory, variant availability, delivery-date and store-pickup finders
-- **Ecommerce:** Current price history, promotion, product-recall and store-location hubs
-- **SaaS:** Live service-status and incident-history pages
-- **SaaS:** Maintained integration directories, feature-availability matrices, usage limits and regional data-hosting references
-- **Finance:** Current interest-rate, fee, exchange-rate and product-availability hubs with timestamps
-- **Finance:** Branch, ATM, adviser, service-status and market-specific eligibility finders
+## P6 · Hubs de datos en vivo (Live data hubs) (Priorizar)
+- **Ecommerce:** Buscadores en vivo de inventario, disponibilidad de variantes, fecha de entrega y recogida en tienda
+- **Ecommerce:** Hubs actualizados de historial de precios, promociones, retiradas de producto y ubicación de tiendas
+- **SaaS:** Páginas en vivo de estado del servicio e historial de incidencias
+- **SaaS:** Directorios de integraciones mantenidos, matrices de disponibilidad de funcionalidades, límites de uso y referencias de alojamiento regional de datos
+- **Finanzas:** Hubs actualizados de tipos de interés, comisiones, tipos de cambio y disponibilidad de productos con marca de tiempo
+- **Finanzas:** Buscadores de oficinas, cajeros, asesores, estado del servicio y requisitos específicos por mercado
 
-## P7 · Customer outcomes (Prioritize)
-- **Ecommerce:** Case studies showing how a merchant improved conversion, merchandising, returns or fulfilment with measured before-and-after data
-- **Ecommerce:** Documented customer use cases with original inputs, product setup, timeline and outcome
-- **SaaS:** Customer stories with baseline, implementation, adoption and measured revenue, cost, productivity or risk outcomes
-- **SaaS:** Product experiments documenting configuration, sample, timeline and limitations
-- **Finance:** Documented fraud-reduction, payment or business-banking outcomes with methodology and material constraints
-- **Finance:** Financial-education or service case studies that avoid cherry-picked returns and include required disclosures
+## P7 · Resultados de clientes (Customer outcomes) (Priorizar)
+- **Ecommerce:** Casos de estudio que muestran cómo un comerciante mejoró la conversión, el merchandising, las devoluciones o la logística de pedidos con datos medidos de antes y después
+- **Ecommerce:** Casos de uso de clientes documentados con datos de partida originales, configuración del producto, cronología y resultado
+- **SaaS:** Historias de clientes con situación de partida, implantación, adopción y resultados medidos de ingresos, costes, productividad o riesgo
+- **SaaS:** Experimentos de producto que documentan configuración, muestra, cronología y limitaciones
+- **Finanzas:** Resultados documentados de reducción de fraude, pagos o banca de empresas con metodología y restricciones relevantes
+- **Finanzas:** Casos de estudio de educación financiera o de servicio que evitan rentabilidades escogidas a conveniencia e incluyen los avisos obligatorios
 
-## P8 · Implementation & troubleshooting (Prioritize)
-- **Ecommerce:** Model-specific setup, care, sizing, assembly and compatibility guides
-- **Ecommerce:** Troubleshooting for delivery, payment, returns, subscriptions and product faults by symptom or order status
-- **SaaS:** Error-code and symptom-led troubleshooting by plan, version, integration and operating environment
-- **SaaS:** Advanced configuration, migration, permissions and API implementation guides
-- **Finance:** Secure guides for failed payments, transfers, identity checks, card issues and account access
-- **Finance:** Product-specific setup and resolution steps by market, device, status and regulatory constraint
+## P8 · Implementación y resolución de problemas (Implementation & troubleshooting) (Priorizar)
+- **Ecommerce:** Guías de configuración, cuidado, tallas, montaje y compatibilidad específicas por modelo
+- **Ecommerce:** Resolución de problemas de entrega, pago, devoluciones, suscripciones y defectos de producto por síntoma o estado del pedido
+- **SaaS:** Resolución de problemas por código de error y por síntoma, según plan, versión, integración y entorno operativo
+- **SaaS:** Guías de configuración avanzada, migración, permisos e implementación de API
+- **Finanzas:** Guías seguras para pagos fallidos, transferencias, verificaciones de identidad, incidencias con tarjetas y acceso a la cuenta
+- **Finanzas:** Pasos de configuración y resolución específicos por producto según mercado, dispositivo, estado y restricción regulatoria
 
-## P9 · Evidence-led comparisons (Prioritize)
-- **Ecommerce:** Product-versus-product or category selection guides based on tested criteria such as fit, use, budget and durability
-- **Ecommerce:** Shortlists that show evidence, stock, trade-offs and when a competing option is a better fit
-- **SaaS:** Plan, product, competitor and alternatives comparisons by team size, workflow, integration needs and total cost
-- **SaaS:** Transparent selection guides with tested criteria, evidence, limitations and migration implications
-- **Finance:** Account, card, loan or insurance comparisons using current rates, fees, eligibility, risks and protections
-- **Finance:** Scenario-led selection guides with transparent criteria, balanced trade-offs and no undisclosed recommendation bias
+## P9 · Comparativas basadas en evidencias (Evidence-led comparisons) (Priorizar)
+- **Ecommerce:** Guías de producto frente a producto o de selección por categoría basadas en criterios probados como ajuste, uso, presupuesto y durabilidad
+- **Ecommerce:** Selecciones breves que muestran evidencias, stock, compromisos (trade-offs) y cuándo una opción de la competencia encaja mejor
+- **SaaS:** Comparativas de planes, productos, competidores y alternativas por tamaño de equipo, flujo de trabajo, necesidades de integración y coste total
+- **SaaS:** Guías de selección transparentes con criterios probados, evidencias, limitaciones e implicaciones de migración
+- **Finanzas:** Comparativas de cuentas, tarjetas, préstamos o seguros con tipos, comisiones, requisitos, riesgos y protecciones vigentes
+- **Finanzas:** Guías de selección por escenarios con criterios transparentes, compromisos equilibrados y sin sesgo de recomendación no declarado
 
-## P10 · Personalized tools (Prioritize)
-- **Ecommerce:** Product finders using live inventory, fit, compatibility, location, budget and preference inputs
-- **Ecommerce:** Room, bundle or configuration planners that return purchasable combinations and current total cost
-- **SaaS:** Plan and integration selectors using team size, workflow, usage, stack and security requirements
-- **SaaS:** ROI, migration and implementation estimators using product data and user-specific assumptions
-- **Finance:** Mortgage, loan, savings, pension or insurance tools using current product data, assumptions and required disclosures
-- **Finance:** Eligibility and affordability checks that explain inputs, limits, risks and the next product action
+## P10 · Herramientas personalizadas (Personalized tools) (Priorizar)
+- **Ecommerce:** Buscadores de producto que usan como entradas inventario en vivo, ajuste, compatibilidad, ubicación, presupuesto y preferencias
+- **Ecommerce:** Planificadores de estancias, packs o configuraciones que devuelven combinaciones comprables y el coste total actual
+- **SaaS:** Selectores de plan e integración que usan tamaño de equipo, flujo de trabajo, uso, stack tecnológico y requisitos de seguridad
+- **SaaS:** Estimadores de ROI, migración e implantación que usan datos de producto e hipótesis específicas del usuario
+- **Finanzas:** Herramientas de hipoteca, préstamo, ahorro, pensión o seguro con datos de producto actuales, hipótesis y avisos obligatorios
+- **Finanzas:** Comprobaciones de requisitos y asequibilidad que explican las entradas, los límites, los riesgos y la siguiente acción de producto
 
-## P11 · Curated community (Prioritize)
-- **Ecommerce:** Moderated verified-buyer Q&A organized by product, use case and ownership stage
-- **Ecommerce:** Expert and customer showcases with disclosed authorship, original media and editorial context
-- **SaaS:** Curated community solutions for advanced workflows, integrations and edge cases
-- **SaaS:** Practitioner playbooks, expert columns and customer templates with named authors and moderation
-- **Finance:** Moderated Q&A from qualified practitioners or financial educators with credentials and review dates
-- **Finance:** Curated customer questions and real-world scenarios with privacy controls, compliance review and clear limitations
+## P11 · Comunidad curada (Curated community) (Priorizar)
+- **Ecommerce:** Preguntas y respuestas moderadas de compradores verificados organizadas por producto, caso de uso y etapa de propiedad
+- **Ecommerce:** Escaparates de expertos y clientes con autoría declarada, contenido multimedia original y contexto editorial
+- **SaaS:** Soluciones curadas de la comunidad para flujos de trabajo avanzados, integraciones y casos límite
+- **SaaS:** Playbooks de profesionales, columnas de expertos y plantillas de clientes con autores identificados y moderación
+- **Finanzas:** Preguntas y respuestas moderadas de profesionales cualificados o educadores financieros con credenciales y fechas de revisión
+- **Finanzas:** Preguntas de clientes y escenarios reales curados con controles de privacidad, revisión de cumplimiento normativo y limitaciones claras
 
-## P12 · Original reporting (Prioritize)
-- **Ecommerce:** First-hand interviews with designers, buyers, suppliers or product experts
-- **Ecommerce:** Factory, sourcing, sustainability-audit or supply-chain reporting supported by original access and evidence
-- **SaaS:** Engineering incident postmortems, product-team interviews and original event coverage
-- **SaaS:** Expert analysis of platform changes supported by internal data, tests or first-hand sources
-- **Finance:** Economist or analyst interpretation of primary market data, filings or regulatory decisions
-- **Finance:** Executive interviews and original reporting that clearly separates factual analysis from personalized financial advice
+## P12 · Periodismo original (Original reporting) (Priorizar)
+- **Ecommerce:** Entrevistas de primera mano con diseñadores, compradores, proveedores o expertos de producto
+- **Ecommerce:** Reportajes sobre fábricas, abastecimiento, auditorías de sostenibilidad o cadena de suministro respaldados por acceso y evidencias originales
+- **SaaS:** Postmortems de incidencias de ingeniería, entrevistas con equipos de producto y cobertura original de eventos
+- **SaaS:** Análisis experto de cambios de plataforma respaldado por datos internos, pruebas o fuentes de primera mano
+- **Finanzas:** Interpretación por economistas o analistas de datos de mercado primarios, documentación registrada ante el regulador (filings) o decisiones regulatorias
+- **Finanzas:** Entrevistas a directivos y periodismo original que separa claramente el análisis factual del asesoramiento financiero personalizado
 
-## P13 · Scalable first-party data pages (Prioritize)
-- **Ecommerce:** SKU and model pages with unique specifications, fit, compatibility, reviews, price and live stock
-- **Ecommerce:** Store or delivery-area pages with local inventory, services, hours, pickup rules and current fulfilment data
-- **SaaS:** Integration pages with supported actions, setup, limitations, status and usage data unique to each connector
-- **SaaS:** Template or use-case pages populated with distinct workflow requirements, examples and first-party performance insights
-- **Finance:** Product, branch, country or payment-corridor pages with unique rates, fees, eligibility, availability and disclosures
-- **Finance:** Instrument or fund pages using owned, current facts and documents rather than copied public-market summaries
+## P13 · Páginas escalables con datos propios (Scalable first-party data pages) (Priorizar)
+- **Ecommerce:** Páginas de SKU y modelo con especificaciones, ajuste, compatibilidad, reseñas, precio y stock en vivo únicos
+- **Ecommerce:** Páginas de tienda o zona de entrega con inventario local, servicios, horarios, condiciones de recogida y datos actuales de logística de pedidos
+- **SaaS:** Páginas de integración con acciones soportadas, configuración, limitaciones, estado y datos de uso exclusivos de cada conector
+- **SaaS:** Páginas de plantilla o caso de uso con requisitos de flujo de trabajo, ejemplos e insights de rendimiento propios y diferenciados
+- **Finanzas:** Páginas de producto, oficina, país o corredor de pagos con tipos, comisiones, requisitos, disponibilidad y avisos únicos
+- **Finanzas:** Páginas de instrumento o fondo con hechos y documentos propios y actualizados en lugar de resúmenes copiados de mercados públicos
 
-## D1 · Commodity definitions (Deprioritize)
-- **Ecommerce:** Standalone pages such as ‘What is cotton?’ or ‘What does SPF mean?’ copied from common sources
-- **Ecommerce:** Keep only when the definition supports a product decision and adds testing, provenance or care context
-- **SaaS:** Standalone ‘What is CRM?’, ‘What is an API?’ or acronym pages with no product or workflow context
-- **SaaS:** Consolidate useful definitions into relevant product, documentation or solution hubs
-- **Finance:** Standalone ‘What is APR?’, ‘What is inflation?’ or acronym pages that repeat standard definitions
-- **Finance:** Retain only where market rules, product implications, worked examples or expert-reviewed guidance add value
+## D1 · Definiciones genéricas (Commodity definitions) (Despriorizar)
+- **Ecommerce:** Páginas independientes como «¿Qué es el algodón?» o «¿Qué significa SPF?» copiadas de fuentes comunes
+- **Ecommerce:** Mantener solo cuando la definición apoya una decisión de producto y añade contexto de pruebas, procedencia o cuidado
+- **SaaS:** Páginas independientes de «¿Qué es un CRM?», «¿Qué es una API?» o de siglas sin contexto de producto ni de flujo de trabajo
+- **SaaS:** Consolidar las definiciones útiles en hubs relevantes de producto, documentación o soluciones
+- **Finanzas:** Páginas independientes de «¿Qué es la TAE?», «¿Qué es la inflación?» o de siglas que repiten definiciones estándar
+- **Finanzas:** Conservar solo cuando las normas del mercado, las implicaciones de producto, los ejemplos resueltos o la orientación revisada por expertos aporten valor
 
-## D2 · Rehashed explainers (Deprioritize)
-- **Ecommerce:** Generic ‘How to choose shoes’ or ‘Ultimate gift guide’ articles assembled from public advice
-- **Ecommerce:** Broad care or styling guides with no product tests, expert input, original media or useful buying path
-- **SaaS:** Generic ‘How to improve productivity’ or ‘Complete guide to project management’ rewrites
-- **SaaS:** Broad how-tos with no product workflow, original data, practitioner evidence, templates or tested examples
-- **Finance:** Generic ‘How to save money’ or ‘How to invest’ articles compiled from common advice
-- **Finance:** Broad guides without qualified review, original evidence, jurisdiction, risk context or a credible product journey
+## D2 · Explicativos refritos (Rehashed explainers) (Despriorizar)
+- **Ecommerce:** Artículos genéricos tipo «Cómo elegir zapatos» o «La guía definitiva de regalos» montados a partir de consejos públicos
+- **Ecommerce:** Guías amplias de cuidado o estilo sin pruebas de producto, aportación de expertos, contenido multimedia original ni un camino de compra útil
+- **SaaS:** Reescrituras genéricas tipo «Cómo mejorar la productividad» o «Guía completa de gestión de proyectos»
+- **SaaS:** Tutoriales amplios sin flujo de trabajo del producto, datos originales, evidencias de profesionales, plantillas ni ejemplos probados
+- **Finanzas:** Artículos genéricos tipo «Cómo ahorrar dinero» o «Cómo invertir» recopilados a partir de consejos comunes
+- **Finanzas:** Guías amplias sin revisión cualificada, evidencias originales, jurisdicción, contexto de riesgo ni un recorrido de producto creíble
 
-## D3 · Fragmented FAQ & variants (Deprioritize)
-- **Ecommerce:** Separate URLs for ‘Is [product] in stock?’, ‘Can I buy [product] online?’ and ‘Where to order [product]?’
-- **Ecommerce:** Consolidate variants into the canonical product, delivery, returns or subscription page
-- **SaaS:** Separate pages for ‘Is [tool] free?’, ‘How much does [tool] cost?’ and minor plan-question variants
-- **SaaS:** Consolidate into pricing, product, policy or support pages unless the answer genuinely changes
-- **Finance:** Separate URLs for reworded questions about rates, fees, eligibility, cancellation or claims
-- **Finance:** Consolidate into the regulated product or policy page unless market, customer type or rule changes the answer
+## D3 · FAQ fragmentadas y variantes (Fragmented FAQ & variants) (Despriorizar)
+- **Ecommerce:** URL separadas para «¿Hay stock de [producto]?», «¿Puedo comprar [producto] online?» y «¿Dónde pedir [producto]?»
+- **Ecommerce:** Consolidar las variantes en la página canónica de producto, entrega, devoluciones o suscripción
+- **SaaS:** Páginas separadas para «¿Es gratis [herramienta]?», «¿Cuánto cuesta [herramienta]?» y variantes menores de preguntas sobre planes
+- **SaaS:** Consolidar en páginas de precios, producto, políticas o soporte salvo que la respuesta cambie de verdad
+- **Finanzas:** URL separadas para preguntas reformuladas sobre tipos, comisiones, requisitos, cancelación o siniestros
+- **Finanzas:** Consolidar en la página del producto regulado o de la política salvo que el mercado, el tipo de cliente o la norma cambie la respuesta
 
-## D4 · News & press rewrites (Deprioritize)
-- **Ecommerce:** Rewrites of a supplier launch, marketplace announcement or retail trend report
-- **Ecommerce:** Product-news recaps with no testing, interview, original images, stock data or customer impact analysis
-- **SaaS:** Summaries of another vendor’s release notes, funding news or conference announcement
-- **SaaS:** Industry-news recaps with no first-hand source, product test, expert interpretation or user impact
-- **Finance:** Rewrites of central-bank, regulator, company or market announcements
-- **Finance:** News summaries with no primary-document analysis, qualified expert input, local implications or original evidence
+## D4 · Reescrituras de noticias y notas de prensa (News & press rewrites) (Despriorizar)
+- **Ecommerce:** Reescrituras del lanzamiento de un proveedor, un anuncio de un marketplace o un informe de tendencias del retail
+- **Ecommerce:** Resúmenes de noticias de producto sin pruebas, entrevistas, imágenes originales, datos de stock ni análisis del impacto en el cliente
+- **SaaS:** Resúmenes de las notas de versión de otro proveedor, noticias de financiación o anuncios de congresos
+- **SaaS:** Resúmenes de noticias del sector sin fuente de primera mano, prueba de producto, interpretación experta ni impacto en el usuario
+- **Finanzas:** Reescrituras de anuncios de bancos centrales, reguladores, empresas o mercados
+- **Finanzas:** Resúmenes de noticias sin análisis de documentos primarios, aportación de expertos cualificados, implicaciones locales ni evidencias originales
 
-## D5 · Tangential high-volume topics (Deprioritize)
-- **Ecommerce:** High-volume lifestyle, travel or celebrity topics that do not support the category or a purchase task
-- **Ecommerce:** Seasonal trend articles with no relevant products, owned evidence or credible next step
-- **SaaS:** Broad workplace, career, leadership or AI-trend topics unrelated to the product’s buyer and workflow
-- **SaaS:** Traffic-led topics with no connection to evaluation, adoption, retention or practitioner expertise
-- **Finance:** Celebrity wealth, generic crypto news or broad lifestyle topics unrelated to the firm’s regulated services
-- **Finance:** High-demand news or trends with no credible customer need, expertise, product action or risk context
+## D5 · Temas tangenciales de alto volumen (Tangential high-volume topics) (Despriorizar)
+- **Ecommerce:** Temas de alto volumen de estilo de vida, viajes o famosos que no apoyan la categoría ni una tarea de compra
+- **Ecommerce:** Artículos de tendencias de temporada sin productos relevantes, evidencias propias ni un siguiente paso creíble
+- **SaaS:** Temas amplios de trabajo, carrera profesional, liderazgo o tendencias de IA sin relación con el comprador y el flujo de trabajo del producto
+- **SaaS:** Temas orientados al tráfico sin conexión con la evaluación, la adopción, la retención ni la experiencia de los profesionales
+- **Finanzas:** Fortunas de famosos, noticias genéricas de cripto o temas amplios de estilo de vida sin relación con los servicios regulados de la entidad
+- **Finanzas:** Noticias o tendencias de alta demanda sin una necesidad creíble del cliente, experiencia, acción de producto ni contexto de riesgo
 
-## D6 · Biased or mass comparisons (Deprioritize)
-- **Ecommerce:** ‘Best products’ lists that always rank the retailer’s own or highest-margin item first
-- **Ecommerce:** Mass-produced product comparisons with no tests, criteria, fit scenarios, evidence or meaningful trade-offs
-- **SaaS:** Competitor and alternatives pages that always declare the publisher the winner
-- **SaaS:** Templated X-vs-Y pages with no plan-level evidence, criteria, use-case differences or migration trade-offs
-- **Finance:** ‘Best account/card/loan’ pages that omit rates, fees, eligibility, risks, protections or commercial relationships
-- **Finance:** Product comparisons that cannot explain methodology or when another option may suit the user better
+## D6 · Comparativas sesgadas o masivas (Biased or mass comparisons) (Despriorizar)
+- **Ecommerce:** Listas de «mejores productos» que siempre colocan primero el artículo propio del vendedor o el de mayor margen
+- **Ecommerce:** Comparativas de productos producidas en masa sin pruebas, criterios, escenarios de ajuste, evidencias ni compromisos (trade-offs) significativos
+- **SaaS:** Páginas de competidores y alternativas que siempre declaran ganador al editor
+- **SaaS:** Páginas X-vs-Y con plantilla sin evidencias a nivel de plan, criterios, diferencias por caso de uso ni compromisos de migración
+- **Finanzas:** Páginas de «mejor cuenta/tarjeta/préstamo» que omiten tipos, comisiones, requisitos, riesgos, protecciones o relaciones comerciales
+- **Finanzas:** Comparativas de productos que no pueden explicar la metodología ni cuándo otra opción puede encajar mejor con el usuario
 
-## D7 · Generic calculators & quizzes (Deprioritize)
-- **Ecommerce:** Basic percentage, unit-conversion, gift-name or generic product quizzes
-- **Ecommerce:** Product finders based on a few static questions with no live stock, fit, compatibility or useful output
-- **SaaS:** Generic ROI calculators using arbitrary assumptions and no product, usage or implementation data
-- **SaaS:** Name, headline or prompt generators that return shallow text with no workflow integration or repeat value
-- **Finance:** Simple interest, currency-conversion or budget tools using a generic formula and stale inputs
-- **Finance:** Risk or product quizzes that lack regulated product data, meaningful personalization, assumptions or disclosures
+## D7 · Calculadoras y cuestionarios genéricos (Generic calculators & quizzes) (Despriorizar)
+- **Ecommerce:** Calculadoras básicas de porcentajes, conversores de unidades, generadores de nombres para regalos o cuestionarios genéricos de producto
+- **Ecommerce:** Buscadores de producto basados en unas pocas preguntas estáticas sin stock en vivo, ajuste, compatibilidad ni un resultado útil
+- **SaaS:** Calculadoras genéricas de ROI con hipótesis arbitrarias y sin datos de producto, uso ni implantación
+- **SaaS:** Generadores de nombres, titulares o prompts que devuelven texto superficial sin integración en el flujo de trabajo ni valor de uso repetido
+- **Finanzas:** Herramientas sencillas de interés, conversión de divisas o presupuesto con una fórmula genérica y datos de entrada desactualizados
+- **Finanzas:** Cuestionarios de riesgo o de producto que carecen de datos de producto regulado, personalización significativa, hipótesis o avisos
 
-## D8 · Programmatic public-data pages (Deprioritize)
-- **Ecommerce:** Thin pages for every location, color, brand or model built from supplier feeds or scraped specifications
-- **Ecommerce:** Competitor price or coupon pages with no owned inventory, service, testing or editorial value
-- **SaaS:** Programmatic competitor-pricing, software-definition or integration pages built from public directories
-- **SaaS:** Template pages that change only a keyword and add no first-party usage data, supported workflow or expert insight
-- **Finance:** Mass pages for public rates, tickers, instruments, branches or locations copied from third-party feeds
-- **Finance:** Templated product or market pages with no owned terms, eligibility, documents, analysis or distinct user task
+## D8 · Páginas programáticas con datos públicos (Programmatic public-data pages) (Despriorizar)
+- **Ecommerce:** Páginas pobres para cada ubicación, color, marca o modelo generadas a partir de feeds de proveedores o especificaciones extraídas por scraping
+- **Ecommerce:** Páginas de precios de la competencia o de cupones sin inventario propio, servicio, pruebas ni valor editorial
+- **SaaS:** Páginas programáticas de precios de competidores, definiciones de software o integraciones generadas a partir de directorios públicos
+- **SaaS:** Páginas de plantilla que solo cambian una palabra clave y no añaden datos de uso propios, flujo de trabajo soportado ni conocimiento experto
+- **Finanzas:** Páginas masivas de tipos públicos, tickers, instrumentos, oficinas o ubicaciones copiadas de feeds de terceros
+- **Finanzas:** Páginas de producto o de mercado con plantilla sin condiciones, requisitos, documentos o análisis propios ni una tarea de usuario diferenciada

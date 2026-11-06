@@ -6,7 +6,7 @@ Se basa en el marco **«Content Prioritization in an AI Search Era»** de **Aley
 - Guía: https://www.aleydasolis.com/en/ai-search/content-prioritization-ai-search/
 - Hoja de cálculo: https://docs.google.com/spreadsheets/d/18myHCvxeylIyc6zGnE5HWLYw8nN7rQz-TfMQslAfiko/edit
 
-Las instrucciones de la skill están en inglés; el agente te responde en el idioma en que le hables.
+Las instrucciones y las referencias de la skill están en español. El script (`evaluate.py`), la plantilla Excel y los ejemplos mantienen los nombres de columna en inglés, porque el script los lee así; el agente te traduce sus resultados.
 
 ## Instalación rápida
 
