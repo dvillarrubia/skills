@@ -28,6 +28,14 @@ El tutorial con los comandos exactos está en **[TUTORIAL.md](TUTORIAL.md)**. En
    Sin `--fresco` cada paso **reutiliza las capturas ya preparadas**: va rápido, no gasta API y no necesita claves.
 4. **Desde Claude Code**, abierto dentro de la carpeta: `/paso 1`, `/recorrido`, `/preparar-ejemplo`, `/nuevo-caso`.
 
+### Con tu propio caso, de una tirada
+```
+/caso-completo tudominio.com "tu tema o consulta"
+```
+Claude monta el `caso.toml`, ejecuta los 14 pasos (ICP y dolores → contenido) y deja el resultado en una
+carpeta nueva. Necesita claves propias (`SERPAPI_API_KEY` y, para volumen/competencia, DataForSEO) y tu
+conocimiento de primera mano en `fuentes-cliente/` para que no suene genérico. Detalles en `TUTORIAL.md`.
+
 ## Qué hay dentro
 
 - **`DEMO/`** — el trabajo terminado, ordenado por 4 bloques (cliente y público · investigación · briefing · redacción) y un informe visual. Es lo que se enseña.

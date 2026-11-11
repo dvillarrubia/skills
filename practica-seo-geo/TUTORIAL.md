@@ -91,6 +91,27 @@ Abre Claude Code **dentro de esta carpeta** y usa los comandos:
 
 ---
 
+## Úsalo con tu propio caso (de cero)
+Para generar un caso nuevo —otra marca, otro tema— con Claude de motor, desde Claude Code dentro de la carpeta:
+
+```
+/caso-completo tudominio.com "tu tema o consulta principal"
+```
+
+Claude monta el `caso.toml` (investigando la web), ejecuta los 14 pasos (ICP y dolores → keywords y
+competencia → visibilidad → cobertura → briefing → contenido) y deja el resultado en una carpeta nueva,
+sin tocar el caso de ejemplo. Qué saber:
+
+- **Necesitas claves propias** en `.env`: `SERPAPI_API_KEY` (gratis) y, para volumen y keywords de
+  competencia, `DATAFORSEO_LOGIN`/`DATAFORSEO_PASSWORD` (de pago). Si lo quieres solo gratis, pon
+  `volumenes = "ninguno"` y omite el paso `03b`.
+- **Aporta tu conocimiento de primera mano** en `fuentes-cliente/` (una cata, un dato, una prueba real).
+  Es lo que evita que el contenido suene a IA; sin ello saldrá más genérico, y Claude te lo advertirá.
+- **Los controles humanos** (qué se da por verificado y la aportación original) Claude los deja en
+  **borrador marcados «revisar»**: míralos antes de publicar.
+- Si prefieres solo preparar la config y decidir tú cada control: usa `/nuevo-caso tudominio.com "tema"`
+  y luego `/preparar-ejemplo`.
+
 ## Detalles útiles
 - **La pieza final** está en `DEMO/4-redaccion/PIEZA-FINAL.md` (y el borrador automático «antes», en `anexos-del-proceso/`).
 - **El modelo es Claude Code**: si borras una captura de `crudo/` o usas `--fresco`, el script se detiene y
