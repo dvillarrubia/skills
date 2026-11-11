@@ -1,0 +1,114 @@
+# Caso de la práctica. Todo lo que cambia de un caso a otro vive aquí; los scripts no se tocan.
+
+[apis]
+# Qué servicio hace cada cosa. Por defecto, todo lo que tiene opción gratuita usa la gratuita.
+serp = "serpapi"          # serpapi: resultados de Google en JSON, plan gratuito | dataforseo
+lector = "jina"           # jina: r.jina.ai convierte una URL en Markdown, sin clave | local: extracción en tu equipo
+volumenes = "dataforseo"  # ninguno: sin volumen, se prioriza por veces observada | dataforseo: volumen, dificultad y posiciones
+asistente = "claudecode"  # claudecode: Claude Code (esta sesión) responde con búsqueda web y da fuentes | gemini | dataforseo: ChatGPT real (de pago)
+
+[caso]
+id = "barsel-cafetera-italiana"
+marca = "Barsel"                       # cómo aparece la marca en un texto
+dominio = "cafebarsel.com"
+consulta_principal = "molienda para cafetera italiana"
+variantes = [
+  "molienda cafetera italiana",
+  "café molido para cafetera italiana",
+  "cómo moler café para cafetera italiana",
+]
+semillas = ["molienda cafetera italiana", "café cafetera italiana", "moler café en grano"]
+# Una consulta solo es candidata si contiene alguno de estos términos. Lo decide Python, no el modelo.
+terminos_negocio = ["café", "cafe", "cafetera", "molienda", "moler", "molido", "moka", "molinillo"]
+# Entidades que un pasaje debe nombrar para entenderse solo, sin «esto» ni «lo anterior».
+entidades_clave = ["cafetera italiana", "moka", "molienda", "café", "molinillo"]
+
+[icp]
+# Dónde habla el público con sus palabras. Se consulta con «site:» en la SERP API de DataForSEO.
+foros = ["reddit.com", "forocoches.com"]
+busquedas_dolor = [
+  "café cafetera italiana sale amargo",
+  "cafetera italiana café aguado sin sabor",
+  "qué molienda usar cafetera italiana",
+]
+hilos_por_busqueda = 5
+umbral_fuentes_confirmado = 2          # fuentes independientes con cita literal para dar un problema por confirmado
+
+[publico]
+segmento = "Persona que acaba de comprar una cafetera italiana y café en grano"
+problema = "El café le sale amargo o aguado y no sabe si el fallo está en la molienda, la dosis o el fuego"
+objetivo_negocio = "Que compre café en grano con la molienda correcta para su cafetera"
+conversion = "Añadir al carrito un café con molienda para cafetera italiana"
+# Esto es la hipótesis de partida. 01_icp_pains.py la contrasta con lo que el público dice de verdad.
+
+[mercado]
+location_code = 2724                   # España en DataForSEO
+language_code = "es"
+pais_iso = "ES"
+dispositivo = "desktop"
+
+[asistentes]
+preguntas = [
+  "Mi café de cafetera italiana sale amargo, ¿qué estoy haciendo mal?",
+  "¿Qué molienda necesito para una cafetera italiana si compro café en grano?",
+  "¿Qué café de especialidad me recomiendas comprar online en España para cafetera italiana?",
+]
+ejecuciones = 1                        # con Claude Code de asistente (determinista en la sesión) una pasada basta; con Gemini se ponía 3 para ver variabilidad
+# Superficies extra por API (opcional). Formato "plataforma:modelo". Los modelos válidos los lista 00_conexiones.py
+llm_responses = []                     # ej. ["chat_gpt:gpt-4.1", "perplexity:sonar", "gemini:gemini-2.5-flash"]
+
+[propias]
+# URLs propias que ya tocan la consulta. 05_corpus.py las descarga y comprueba si responden.
+urls = [
+  "https://cafebarsel.com/blogs/noticias/el-mejor-cafe-para-cafetera-italiana",
+  "https://cafebarsel.com/blogs/noticias/como-hacer-cafe-en-cafetera-italiana",
+  "https://cafebarsel.com/blogs/noticias/como-elegir-el-cafe-y-la-molienda-perfecta-segun-tu-cafetera",
+]
+# URLs de la estructura anterior de la web. 05_corpus.py comprueba qué devuelven hoy.
+urls_antiguas = [
+  "https://cafebarsel.com/el-mejor-cafe-para-cafetera-italiana/",
+  "https://cafebarsel.com/los-diferentes-tipos-de-molinos-de-cafe-y-como-elegir-el-adecuado/",
+  "https://cafebarsel.com/tienda/",
+]
+
+[voz]
+# Listón editorial: lo que la voz debe cumplir aunque la marca hoy no lo haga. Lo fija una persona.
+principios = [
+  "Cada frase dice algo que el lector puede usar; se borra el relleno y los elogios al producto sin dato",
+  "Concreto antes que abstracto: gramos, segundos, texturas y errores reales en lugar de adjetivos",
+  "Habla de tú, como un tostador que explica su oficio en el mostrador, sin jerga gratuita ni tono de anuncio",
+  "Encabezados en minúscula normal y con la pregunta del lector, no con Mayúsculas En Cada Palabra",
+]
+tolerancia = 0.15                      # margen sobre el rango medido en los textos de la marca
+max_revisiones = 2                     # pasadas de corrección automática del borrador
+cliches_extra = []                     # fórmulas prohibidas propias del caso
+# Medidas del estilo de la marca que NO se imitan porque chocan con los principios.
+medidas_a_ignorar = ["encabezados_mayusculas_pct"]
+# Textos de la marca para extraer la guía de voz. El último se reserva para contrastar y no se envía al modelo.
+textos = [
+  "https://cafebarsel.com/blogs/noticias/el-mejor-cafe-para-cafetera-italiana",
+  "https://cafebarsel.com/blogs/noticias/como-preparar-cafe-en-la-v60-guia-completa-para-un-cafe-perfecto",
+  "https://cafebarsel.com/blogs/noticias/que-evitar-al-comprar-cafe-en-grano",
+  "https://cafebarsel.com/blogs/noticias/cuanto-dura-el-cafe-hecho-en-casa",
+  "https://cafebarsel.com/blogs/noticias/cafe-ecologico-que-es-en-que-se-diferencia-y-como-elegirlo",
+  "https://cafebarsel.com/blogs/noticias/como-entender-las-notas-de-cata-y-la-puntuacion-sca-en-cafes-de-especialidad",
+]
+
+[limites]
+max_consultas_por_semilla = 100
+profundidad_serp = 20
+top_organico = 10
+candidatas_serp = 8                    # consultas mejor puntuadas del paso 2 que pasan a análisis de resultados
+competidores_keywords = 4              # cuántos dominios competidores de la SERP se analizan en el paso 3b (DataForSEO)
+consultas_a_asignar = 60               # consultas que el modelo relaciona con un problema del público
+paginas_comparables = 4                # competidores que pasan al análisis profundo
+umbral_solape_serp = 0.4               # Jaccard de URLs del top 10 para considerar dos consultas el mismo grupo
+umbral_hueco = 0.5                     # proporción de competidores que cubren bien un tema para llamarlo hueco
+caracteres_por_pagina = 9000           # texto de cada página que se envía al modelo
+excluir_dominios = ["youtube.com", "amazon.es", "pinterest.com", "instagram.com", "tiktok.com", "facebook.com"]
+
+[modelo]
+proveedor = "claudecode"               # claudecode: Claude Code (esta sesión) etiqueta y redacta, sin clave ni API | gemini | anthropic
+nombre_claudecode = "claude-opus-4-8"  # solo informativo: queda anotado en cada captura del expediente
+nombre_gemini = "gemini-3.5-flash"     # modelo para el ASISTENTE del paso 4 (Gemini con búsqueda). La cuenta es nueva: el 2.5 da 404 y solo admite modelos 3.x
+nombre_anthropic = "claude-sonnet-5-5"

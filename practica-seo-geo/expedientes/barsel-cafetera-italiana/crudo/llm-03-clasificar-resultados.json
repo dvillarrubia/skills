@@ -1,0 +1,6 @@
+{
+ "capturado": "2026-11-11T13:35:29Z",
+ "modelo": "claude-opus-4-8",
+ "uso": null,
+ "texto": "[{\"posicion\": 1, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"saber qué molienda comprar para su cafetera italiana\", \"formato\": \"guía\"}, {\"posicion\": 2, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"elegir el tipo de molienda ideal para la cafetera italiana\", \"formato\": \"guía\"}, {\"posicion\": 3, \"tipo_pagina\": \"foro\", \"tarea\": \"contrastar experiencias reales sobre el grado de molienda para la italiana\", \"formato\": \"otro\"}, {\"posicion\": 4, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"conocer los tipos de molienda y cuál corresponde a cada cafetera\", \"formato\": \"guía\"}, {\"posicion\": 5, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"elegir la molienda según el tipo de cafetera\", \"formato\": \"guía\"}, {\"posicion\": 6, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"identificar la molienda adecuada para moka/italiana\", \"formato\": \"guía\"}, {\"posicion\": 7, \"tipo_pagina\": \"blog de marca\", \"tarea\": \"entender qué grado de molienda usar y cómo influye en la extracción\", \"formato\": \"guía\"}]"
+}

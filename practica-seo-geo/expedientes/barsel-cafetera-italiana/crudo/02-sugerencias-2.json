@@ -1,0 +1,2362 @@
+{
+ "capturado": "2026-11-11T16:19:02Z",
+ "ruta": "dataforseo_labs/google/keyword_suggestions/live",
+ "carga": {
+  "location_code": 2724,
+  "language_code": "es",
+  "keyword": "moler café en grano",
+  "limit": 100,
+  "include_seed_keyword": true
+ },
+ "respuesta": {
+  "version": "0.1.20261103",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.1116 sec.",
+  "cost": 0.0144,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "11111619-1448-0399-0000-d6162c4cf94b",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1035 sec.",
+    "cost": 0.0144,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "dataforseo_labs",
+     "google",
+     "keyword_suggestions",
+     "live"
+    ],
+    "data": {
+     "api": "dataforseo_labs",
+     "function": "keyword_suggestions",
+     "se_type": "google",
+     "location_code": 2724,
+     "language_code": "es",
+     "keyword": "moler café en grano",
+     "limit": 100,
+     "include_seed_keyword": true
+    },
+    "result": [
+     {
+      "se_type": "google",
+      "seed_keyword": "moler café en grano",
+      "seed_keyword_data": {
+       "se_type": "google",
+       "keyword": "moler café en grano",
+       "location_code": 2724,
+       "language_code": "es",
+       "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-09-12 10:38:20 +00:00",
+        "competition": null,
+        "competition_level": null,
+        "cpc": null,
+        "search_volume": null,
+        "low_top_of_page_bid": null,
+        "high_top_of_page_bid": null,
+        "categories": [
+         10004,
+         10009,
+         10301,
+         10410,
+         11340,
+         11566,
+         12803
+        ],
+        "monthly_searches": [
+         {
+          "year": 2026,
+          "month": 8,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 7,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 0
+         },
+         {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 0
+         },
+         {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 0
+         },
+         {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 0
+         },
+         {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 0
+         },
+         {
+          "year": 2025,
+          "month": 9,
+          "search_volume": 0
+         }
+        ],
+        "search_volume_trend": {
+         "monthly": 0,
+         "quarterly": 0,
+         "yearly": 0
+        }
+       },
+       "keyword_info_normalized_with_bing": null,
+       "keyword_info_normalized_with_clickstream": null,
+       "clickstream_keyword_info": null,
+       "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": "cafe en grano molido",
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": null,
+        "detected_language": "es",
+        "is_another_language": false,
+        "words_count": 4
+       },
+       "serp_info": null,
+       "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": null,
+        "last_updated_time": "2026-09-12 10:38:55 +00:00"
+       },
+       "avg_backlinks_info": null
+      },
+      "location_code": 2724,
+      "language_code": "es",
+      "total_count": 20,
+      "items_count": 20,
+      "offset": 0,
+      "offset_token": "eyJDdXJyZW50T2Zmc2V0IjoyMCwiUmVxdWVzdERhdGEiOnsia2V5d29yZCI6Im1vbGVyIGNhZsOpIGVuIGdyYW5vIiwiaW5jbHVkZV9zZWVkX2tleXdvcmQiOnRydWUsImZ1bGxfbWF0Y2giOmZhbHNlLCJsb2FkX3NlcnBfaW5mbyI6ZmFsc2UsInNlYXJjaF9hZnRlcl90b2tlbiI6bnVsbCwiaWdub3JlX3N5bm9ueW1zIjpmYWxzZSwibGFuZ3VhZ2UiOiJlcyIsInNlYXJjaF9lbmdpbmUiOiJnb29nbGUiLCJsb2NhdGlvbiI6MjcyNCwidXNlX25ld19jYXRlZ29yaWVzIjp0cnVlLCJvcmRlcl9ieSI6eyJvcmRlcl9maWVsZCI6ImtleXdvcmRfaW5mby5zZWFyY2hfdm9sdW1lIiwib3JkZXJfdHlwZSI6IkRlc2MiLCJuZXh0IjpudWxsfSwibGltaXQiOjEwMCwib2Zmc2V0IjowLCJhaWQiOjE0NDgyOCwidXNlX2NhY2hlIjp0cnVlLCJ0YXNrX2lkIjoiMTExMTE2MTktMTQ0OC0wMzk5LTAwMDAtZDYxNjJjNGNmOTRiIiwiZmxhZ3MiOm51bGx9LCJSYXdRdWVyeSI6bnVsbCwiSWQiOiIxMDVkNzgxZS0wYmQxLTQ1ZjctYjMzZi01ZWU3ZWU2ZjY1MTgiLCJTZWFyY2hBZnRlckRhdGEiOlstOTIyMzM3MjAzNjg1NDc3NTgwOCwiZGQ1YzhkNmMtZGE5Yi1mMjNkLTFmOTAtMjAyMDQ0OTYwMmZjIl0sIkV4ZWN1dG9yIjotOTE4NDQwNTk0MDQ0NDUxNzYzM30=",
+      "items": [
+       {
+        "se_type": "google",
+        "keyword": "cómo moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-16 11:58:47 +00:00",
+         "competition": 0.93,
+         "competition_level": "HIGH",
+         "cpc": 0.06,
+         "search_volume": 70,
+         "low_top_of_page_bid": 0.01,
+         "high_top_of_page_bid": 0.13,
+         "categories": [
+          10004,
+          10010,
+          10083,
+          10301,
+          10444,
+          11340,
+          11644
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 110
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 70
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 29,
+          "yearly": 29
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler el cafe en grano",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 07:26:43 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 10:44:54 +00:00",
+         "competition": 0.93,
+         "competition_level": "HIGH",
+         "cpc": 0.06,
+         "search_volume": 70,
+         "low_top_of_page_bid": 0.01,
+         "high_top_of_page_bid": 0.13,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 90
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 110
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 70
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 29,
+          "yearly": 29
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler el cafe en grano",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-26 05:15:08 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "máquina para moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-16 07:38:31 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": 0.14,
+         "search_volume": 30,
+         "low_top_of_page_bid": 0.04,
+         "high_top_of_page_bid": 0.4,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 20
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 67,
+          "quarterly": 67,
+          "yearly": 150
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": 51,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 17:13:49 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "café en grano para moler",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-11-05 21:47:25 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": 0.41,
+         "search_volume": 20,
+         "low_top_of_page_bid": 0.07,
+         "high_top_of_page_bid": 0.52,
+         "categories": [
+          10004,
+          10009,
+          10010,
+          10083,
+          10301,
+          10410,
+          10444,
+          11340,
+          11566,
+          11644,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 20
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": -50
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "cafe en grano molido",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-11-05 21:48:38 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "máquina de moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-20 05:57:12 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": 0.2,
+         "search_volume": 20,
+         "low_top_of_page_bid": 0.02,
+         "high_top_of_page_bid": 0.32,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 20
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 100,
+          "yearly": 100
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "máquina para moler café en grano",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 14:19:05 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "molino para moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-16 21:17:08 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": 0.09,
+         "search_volume": 20,
+         "low_top_of_page_bid": 0.09,
+         "high_top_of_page_bid": 0.41,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 100,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "molino para moler cafe en grano",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": [
+          "informational"
+         ],
+         "last_updated_time": "2026-04-29 20:30:20 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "hacer café en grano sin moler",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-17 21:24:52 +00:00",
+         "competition": 0.36,
+         "competition_level": "MEDIUM",
+         "cpc": 0.02,
+         "search_volume": 20,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 30
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 100,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 16:33:48 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "máquina para moler café en grano industrial",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 11:58:23 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": -100,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 15:03:28 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café de grano en licuadora",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 16:35:14 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-26 01:13:09 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como hacer café en grano sin moler",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-18 19:35:55 +00:00",
+         "competition": 0.06,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10010,
+          10083,
+          10301,
+          10444,
+          11340,
+          11644
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como hacer cafe en grano sin moler",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": 45,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 16:46:09 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano en casa",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-18 08:47:02 +00:00",
+         "competition": 1,
+         "competition_level": "HIGH",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": null
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler grano de cafe en casa",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 06:11:12 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "moler café en grano thermomix",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 18:43:31 +00:00",
+         "competition": 0.21,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-28 19:13:06 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano sin molinillo",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-18 09:14:03 +00:00",
+         "competition": 0.34,
+         "competition_level": "MEDIUM",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": -33,
+          "quarterly": 100,
+          "yearly": 100
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler cafe en grano sin molinillo",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-26 18:23:42 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano con minipimer",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-15 19:15:52 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": -100,
+          "quarterly": 0,
+          "yearly": -100
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler cafe en grano con minipimer",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 06:52:14 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano sin molino",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-16 18:55:16 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": -100,
+          "quarterly": 0,
+          "yearly": -100
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como moler cafe en grano sin molino",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 07:21:15 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "cómo hacer café en grano sin moler",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-15 17:07:58 +00:00",
+         "competition": 0.06,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10009,
+          10010,
+          10083,
+          10410,
+          10444,
+          11566,
+          11644,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "como hacer cafe en grano sin moler",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-09-03 20:16:24 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "donde moler café en grano cerca de mi",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-16 13:19:47 +00:00",
+         "competition": 0.32,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10010,
+          10083,
+          10444,
+          11644
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": null
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 8
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "commercial",
+         "foreign_intent": null,
+         "last_updated_time": "2026-09-03 10:00:45 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "como moler café en grano para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-12 10:40:14 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10009,
+          10410,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 8
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-09-12 10:40:31 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-12 10:38:20 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "cafe en grano molido",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 4
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-09-12 10:38:55 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "cómo utilizar un molinillo para moler café en grano",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-15 16:59:27 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 9
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 04:47:51 +00:00"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

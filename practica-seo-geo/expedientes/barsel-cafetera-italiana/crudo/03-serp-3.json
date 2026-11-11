@@ -1,0 +1,699 @@
+{
+ "capturado": "2026-11-11T12:49:08Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "cómo moler café para cafetera italiana",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af464432106d4aa11a64831",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/hljhSKlkyna05MyycPKGNHG84HqkQIzLuuplbUTTbkY/6af464432106d4aa11a64831.json",
+   "markdown_endpoint": "https://serpapi.com/searches/hljhSKlkyna05MyycPKGNHG84HqkQIzLuuplbUTTbkY/6af464432106d4aa11a64831.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/hljhSKlkyna05MyycPKGNHG84HqkQIzLuuplbUTTbkY/6af464432106d4aa11a64831.json_with_pixel_position",
+   "created_at": "2026-11-11 12:49:07 UTC",
+   "processed_at": "2026-11-11 12:49:07 UTC",
+   "google_url": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&oq=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/hljhSKlkyna05MyycPKGNHG84HqkQIzLuuplbUTTbkY/6af464432106d4aa11a64831.html",
+   "total_time_taken": 2.18
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "cómo moler café para cafetera italiana",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "cómo moler café para cafetera italiana",
+   "total_results": 130,
+   "time_taken_displayed": 1.57,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "CÓMO PREPARAR UNA CAFETERA ITALIANA - Café de ...",
+    "link": "https://www.youtube.com/watch?v=pdomQW3U-M8",
+    "thumbnail": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/3QpWDNjQ1ktTE6tz4vv29gbvy2wZD8gLxIQXzMGOFZ0.jpg",
+    "channel": "Café en Vena",
+    "duration": "4:38",
+    "platform": "YouTube",
+    "date": "16 jul 2022"
+   },
+   {
+    "position": 2,
+    "title": "How to make the PERFECT Moka Pot coffee step-by-step",
+    "link": "https://www.youtube.com/watch?v=2y2TOwtCar4",
+    "thumbnail": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/QS6sfEV6Ye9uehAlqZ_NQP6ZEoix6xEy7yBfkw478uI.jpg",
+    "channel": "ProcessingRAW",
+    "duration": "19:25",
+    "platform": "YouTube",
+    "date": "17 abr 2024"
+   },
+   {
+    "position": 3,
+    "title": "How to Use an Italian Coffee Maker Correctly | A Basic Guide ...",
+    "link": "https://www.youtube.com/watch?v=iszR7yQ7j78",
+    "thumbnail": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/Ls4CS31xrLGL1mGZefD51R07THEWkEnpAkXjvi0S7bM.jpg",
+    "channel": "Fuego Loco",
+    "duration": "4:55",
+    "platform": "YouTube",
+    "date": "1 oct 2024",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQhAUKO78D2gt1nyMBkGjbYSMsjSPHLxZjd_g"
+   },
+   {
+    "position": 4,
+    "title": "TRUCO para MEJORAR EL CAFÉ en tu CAFETERA ITALIANA ...",
+    "link": "https://www.youtube.com/watch?v=J93trRCb76c",
+    "thumbnail": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/6GW8UIUzq0RwO5VvJHmK5css5Muug_Jmg-Co3anek4I.jpg",
+    "channel": "flat&white",
+    "duration": "6:54",
+    "platform": "YouTube",
+    "date": "29 ago 2022"
+   }
+  ],
+  "short_videos": [
+   {
+    "position": 1,
+    "title": "Molienda para Moka Italiana: ¿Gruesa, Media Fina o Fina? La ... por lychecafecito en TikTok. Reproducir en TikTok. 1:36",
+    "source": "TikTok",
+    "profile_name": "lychecafecito",
+    "extensions": [
+     "lychecafecito"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "1:36",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ4utM9H0T-mz6xmzffQGqiV7EK1nfhTSEIdA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXzWVgmW9FuodWaZpHDjjdff-MXNPI4noHrwtnO2_GS8NLhMIlTwYjTs&s=10",
+    "link": "https://www.tiktok.com/@lychecafecito/video/7497037090962607415"
+   },
+   {
+    "position": 2,
+    "title": "Molienda para cafetera italiana: qué pasa si está mal por santoamaro.es en TikTok. Reproducir en TikTok. 0:53",
+    "source": "TikTok",
+    "profile_name": "santoamaro.es",
+    "extensions": [
+     "santoamaro.es"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "0:53",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQSqDO0OJitqFJdTwLJXY6KsY7k6VW_5SiwLg",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCQjmYYn6szOba22BLxL1S_AsOi5YA4kIXwopi4PNQY37m-_7VMSBG-E&s=10",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7473208428475911447?lang=es"
+   },
+   {
+    "position": 3,
+    "title": "🤔 Cómo preparar tu café en casa? ☕️ CAFETERA ITALIANA O ... por NOI COFFEE en Instagram. Reproducir en Instagram. 0:56",
+    "source": "Instagram",
+    "profile_name": "NOI COFFEE",
+    "extensions": [
+     "NOI COFFEE"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/tFrWkKdR_lVQMVEaHEokuQkfOOi-1BOVIvfF1xwMI1Y.png",
+    "duration": "0:56",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly2kNg5h22wjw2AJoue_dRU8ljuq4VGWZvyFRUh4r7LnyDSqf_BXxWbA&s=10",
+    "link": "https://www.instagram.com/reel/DRkv4dWjcqM/"
+   },
+   {
+    "position": 4,
+    "title": "Este es el tipo de molienda que necesita tu café, según ... por Café Santo Amaro en Facebook. Reproducir en Facebook. 0:34",
+    "source": "Facebook",
+    "profile_name": "Café Santo Amaro",
+    "extensions": [
+     "Café Santo Amaro"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "0:34",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeR3-Iroypnw40ecKkkV6iwAFuGPdv6u3J-PPR8Q_ScLdkSsd3B3HaAE&s=10",
+    "link": "https://www.facebook.com/santoamaro.es/videos/este-es-el-tipo-de-molienda-que-necesita-tu-caf%C3%A9-seg%C3%BAn-tu-cafeterael-punto-de-mo/1076165994853908/"
+   },
+   {
+    "position": 5,
+    "title": "Paso a paso moka italiana, 15 gramos de café x 150 ml ... por Santiago El Cafetero en Instagram. Reproducir en Instagram. 1:12",
+    "source": "Instagram",
+    "profile_name": "Santiago El Cafetero",
+    "extensions": [
+     "Santiago El Cafetero"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/0jKZK3sZfxdza1ofOwPcRtwp8K6PLPj-UqV5qqM-4kY.png",
+    "duration": "1:12",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGc7mVIv5sAeZe5rlFJzkGxm5i4eXXGwenyFddsyw0Nn0XrYke3B5tL-w&s=10",
+    "link": "https://www.instagram.com/reel/DVr1dIjOsus/?hl=es"
+   },
+   {
+    "position": 6,
+    "title": "Te enseñamos a preparar café en la cafetera italiana perfecto ... por Café Santo Amaro en Facebook. Reproducir en Facebook. 1:59",
+    "source": "Facebook",
+    "profile_name": "Café Santo Amaro",
+    "extensions": [
+     "Café Santo Amaro"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "1:59",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebyUqNa2_0kHDkTl_8jgUEA7aX5crf7MGPz6_M1VsXrIaG-l_89swBPI&s=10",
+    "link": "https://www.facebook.com/santoamaro.es/posts/te-ense%C3%B1amos-a-preparar-caf%C3%A9-en-la-cafetera-italiana-perfecto-y-a-evitar-muchos-/1244372334383299/"
+   },
+   {
+    "position": 7,
+    "title": "Guía rápida para moler tu café en casa según el método que ... por Tostado Speciality Coffee Roasters en Instagram. Reproducir en Instagram. 1:06",
+    "source": "Instagram",
+    "profile_name": "Tostado Speciality Coffee Roasters",
+    "extensions": [
+     "Tostado Speciality Coffee Roasters"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/NX66bGsrLfJJr7DyxQ5QO49PAs5eNq3n1CrsRxmem_M.png",
+    "duration": "1:06",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYbJKqWVrEajq51YDYBrPHZ-tYUFX6051BXqi4TshnbnTlbj_HU6wrwI&s=10",
+    "link": "https://www.instagram.com/reel/Dcek26LJk3j/"
+   },
+   {
+    "position": 8,
+    "title": "Molido de café | Aprende con Yes por Aprende con Yes en Facebook. Reproducir en Facebook. 0:18",
+    "source": "Facebook",
+    "profile_name": "Aprende con Yes",
+    "extensions": [
+     "Aprende con Yes"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "0:18",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-bNrQ4vpGVsXRGp101c625PLkkhfUUyKeDMn3GjEDXiOKRcFjAGZyQ0&s=10",
+    "link": "https://www.facebook.com/juniormerlinp/videos/molido-de-caf%C3%A9/1724133049036614/"
+   },
+   {
+    "position": 9,
+    "title": "Tips con @supracafeesp para moler tu café de la mejor forma. ... por El Corte Inglés Food en Instagram. Reproducir en Instagram. 0:40",
+    "source": "Instagram",
+    "profile_name": "El Corte Inglés Food",
+    "extensions": [
+     "El Corte Inglés Food"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af464432106d4aa11a64831/images/2mEtZLWUt1odOpqIRkYf2t9Avpx4bfxh9D27ZEiNeDQ.png",
+    "duration": "0:40",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWf0gdIvrNYFQdzDauqhepsRPysVeTUyDhltjWwYINkQSe4Lt86mMf_k&s=10",
+    "link": "https://www.google.es/goto?url=CAESaAHEIkXXj1T24YWOHSYTt028UR8xIX4ZPpR081js87v37gbJstNYnL2aTsQdHOXEprk1Wn6ZjH1rEq6ORWyjZdXbHJoHXhRrihjcntvlU60N6GlN1slXgYeGtIq_yPy24zObvEvkEVmz&gsessionid=nPXOuZiQNCnVJBeeOLQRDhcXK_qfsElZJ8c4VvXCstem0j2qpW0Wiw"
+   },
+   {
+    "position": 10,
+    "title": "Aprende a moler café en un molino de Café Moreno por Café Moreno Oficial en Facebook. Reproducir en Facebook. 1:58",
+    "source": "Facebook",
+    "profile_name": "Café Moreno Oficial",
+    "extensions": [
+     "Café Moreno Oficial"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "1:58",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZnbIE_Elip14tzgbpAolC4bSzHIVeMazs7MaEQD5przw0vbknsdoO3A&s=10",
+    "link": "https://www.facebook.com/CafeMorenoOficial/videos/aprende-a-moler-caf%C3%A9-en-un-molino-de-caf%C3%A9-moreno/1255469872080740/"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "¿Cuántas cucharadas de café molido por taza de prensa francesa?",
+    "type": "ai_overview",
+    "page_token": "5gRKJHicHdBdbpswAABg9TJ9bHAJbIsUTXJioFZwijHm56UyNgkJtkMCnds99ix92mF2gJ1jB5i07wjfx6c-2eHP3dTP8zitFgvn3MPxcjnq7qGbFmJ6t3IhhdatkMMq_BKC7we5Rq8Ibq5PMCsoqrXSZRnFFcBBt1WGcej2EZxEHGjCyNMeRXntE0gi3PNKG3KGz43uXTqoDWf1G0tG0pTcFba_pgB70kSVNIDuCwAoCqZd8XXJkyjIDc6FN-LWvI0NoO_Kqj61alKVXqbDNygQDxuPnLmPvBLpUj4C3jLlC58gaoIdYzRMPeSkVdc04bjbNrpl_fO-UrB-HHXrkZBvi0AkxKK-oanOXF1B1qLmxMB4K5DOyAlsM65gfMIwR0tHmYrLJPophyDNzUx4iXdFpW2Wg4wZ3Ks48Jml_v1B_lj79_831y8HM6_G2-X4S946MXfqRcy_z3_V5h9aQIc1",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5gRKJHicHdBdbpswAABg9TJ9bHAJbIsUTXJioFZwijHm56UyNgkJtkMCnds99ix92mF2gJ1jB5i07wjfx6c-2eHP3dTP8zitFgvn3MPxcjnq7qGbFmJ6t3IhhdatkMMq_BKC7we5Rq8Ibq5PMCsoqrXSZRnFFcBBt1WGcej2EZxEHGjCyNMeRXntE0gi3PNKG3KGz43uXTqoDWf1G0tG0pTcFba_pgB70kSVNIDuCwAoCqZd8XXJkyjIDc6FN-LWvI0NoO_Kqj61alKVXqbDNygQDxuPnLmPvBLpUj4C3jLlC58gaoIdYzRMPeSkVdc04bjbNrpl_fO-UrB-HHXrkZBvi0AkxKK-oanOXF1B1qLmxMB4K5DOyAlsM65gfMIwR0tHmYrLJPophyDNzUx4iXdFpW2Wg4wZ3Ks48Jml_v1B_lj79_831y8HM6_G2-X4S946MXfqRcy_z3_V5h9aQIc1",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK/Q3XDoW50YXMgY3VjaGFyYWRhcyBkZSBjYWbDqSBtb2xpZG8gcG9yIHRhemEgZGUgcHJlbnNhIGZyYW5jZXNhPyIsImxrIjoiY3czR3NRM0FNQWdFd0QxU19Selo1Z1ZZdHBTQUJYYmo2Wk9yN3JwbDB4Y0xzcVV6cVhfVklHeUdONTZoZ1JtSnhVUE1OQy1pSlYycy1BRSIsImJzIjoiYzQyUU1Rb0NNUkJGc1UxbHZkV0lLRFlpV29vZ2FHMGhubUJJUmczRVpFMHlGcGJleE5KVExLd1hNN3NxaUlyWURlUzlfek1qVGcweEs0czVYODgyWWdESmNvc2VWUm9WZ2NUMTlRSTdaN1J5a0RzUEVZOVlQZVNlYkVCWWU3U1NBazVIazJ3c0diOUgwRWZDbXk2VUdKYkZrbE5YMUxtcnRJZGhEQjBRRE5ZeGtUeUNqbWcwMmxRNXlQcDdwdjhOc1JTOXNsaWx6elBkZWZLUERja0MyMlRwdElOeVBvVjNzbmI0SUtrQ3pRc25GcUw3UEo0TEVHakRWdFVEN0poTTRzMjlZVHBxWjYzNlFEOHdhalp1IiwiaWQiOiJmY19RMlQwYXBTbEZiT1prUElQNi1DQVdBXzEwIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK%2FQ3XDoW50YXMgY3VjaGFyYWRhcyBkZSBjYWbDqSBtb2xpZG8gcG9yIHRhemEgZGUgcHJlbnNhIGZyYW5jZXNhPyIsImxrIjoiY3czR3NRM0FNQWdFd0QxU19Selo1Z1ZZdHBTQUJYYmo2Wk9yN3JwbDB4Y0xzcVV6cVhfVklHeUdONTZoZ1JtSnhVUE1OQy1pSlYycy1BRSIsImJzIjoiYzQyUU1Rb0NNUkJGc1UxbHZkV0lLRFlpV29vZ2FHMGhubUJJUmczRVpFMHlGcGJleE5KVExLd1hNN3NxaUlyWURlUzlfek1qVGcweEs0czVYODgyWWdESmNvc2VWUm9WZ2NUMTlRSTdaN1J5a0RzUEVZOVlQZVNlYkVCWWU3U1NBazVIazJ3c0diOUgwRWZDbXk2VUdKYkZrbE5YMUxtcnRJZGhEQjBRRE5ZeGtUeUNqbWcwMmxRNXlQcDdwdjhOc1JTOXNsaWx6elBkZWZLUERja0MyMlRwdElOeVBvVjNzbmI0SUtrQ3pRc25GcUw3UEo0TEVHakRWdFVEN0poTTRzMjlZVHBxWjYzNlFEOHdhalp1IiwiaWQiOiJmY19RMlQwYXBTbEZiT1prUElQNi1DQVdBXzEwIn0%3D"
+   },
+   {
+    "question": "¿Qué tipo de molido lleva la cafetera italiana?",
+    "type": "ai_overview",
+    "page_token": "Q8CGM3icHdBLcpswAADQ6WWyjCVwk4lnPJ2RESRKUAqRhNEmow82HwVToxbMsmfpqofpAXqOHiCTrt_u_fzlmr77-2msvR_GzWo1TdP18XQ6uuq6GldqvPRmZZRzWpluc3N7A78czBZ_x2j37QFlPMels65oa8k6j5izs2pT-FxkM2Pysocx-ADtCKH3-SMDQyz28U73x0UV4JLuZckBjERQc7pYz0MCKMaLchQyvp41pE5HpJUdHFUvYQlFWbC65UHOKkbnLCwDGRFscS2qTjpTiJEX60X14qmIBGFB7fMEgPzeId5alvIYckZTFtwNlUOPJiGgfJtJFsbTS08b3dJEcxLiWuapy6Zyj5jGsmFwOHPsMtrAKBMWJQ1BL3g95cw-6D6XNLGBcShSLFvSBHy23D89x26W3fC1FARdHcyPbXj1f3P7enjzm-F8Ov4250r5yr4q_6f9Z3fvrPOIpw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q8CGM3icHdBLcpswAADQ6WWyjCVwk4lnPJ2RESRKUAqRhNEmow82HwVToxbMsmfpqofpAXqOHiCTrt_u_fzlmr77-2msvR_GzWo1TdP18XQ6uuq6GldqvPRmZZRzWpluc3N7A78czBZ_x2j37QFlPMels65oa8k6j5izs2pT-FxkM2Pysocx-ADtCKH3-SMDQyz28U73x0UV4JLuZckBjERQc7pYz0MCKMaLchQyvp41pE5HpJUdHFUvYQlFWbC65UHOKkbnLCwDGRFscS2qTjpTiJEX60X14qmIBGFB7fMEgPzeId5alvIYckZTFtwNlUOPJiGgfJtJFsbTS08b3dJEcxLiWuapy6Zyj5jGsmFwOHPsMtrAKBMWJQ1BL3g95cw-6D6XNLGBcShSLFvSBHy23D89x26W3fC1FARdHcyPbXj1f3P7enjzm-F8Ov4250r5yr4q_6f9Z3fvrPOIpw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK/UXXDqSB0aXBvIGRlIG1vbGlkbyBsbGV2YSBsYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6IkdpMXhkV1VnZEdsd2J5QmtaU0J0YjJ4cFpHOGdiR3hsZG1FZ2JHRWdZMkZtWlhSbGNtRWdhWFJoYkdsaGJtRSIsImJzIjoiYzQyUU1Rb0NNUkJGc1UxbHZkV0lLRFlpV29vZ2FHMGhubUJJUmczRVpFMHlGcGJleE5KVExLd1hNN3NxaUlyWURlUzlfek1qVGcweEs0czVYODgyWWdESmNvc2VWUm9WZ2NUMTlRSTdaN1J5a0RzUEVZOVlQZVNlYkVCWWU3U1NBazVIazJ3c0diOUgwRWZDbXk2VUdKYkZrbE5YMUxtcnRJZGhEQjBRRE5ZeGtUeUNqbWcwMmxRNXlQcDdwdjhOc1JTOXNsaWx6elBkZWZLUERja0MyMlRwdElOeVBvVjNzbmI0SUtrQ3pRc25GcUw3UEo0TEVHakRWdFVEN0poTTRzMjlZVHBxWjYzNlFEOHdhalp1IiwiaWQiOiJmY19RMlQwYXBTbEZiT1prUElQNi1DQVdBXzEwIn0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK%2FUXXDqSB0aXBvIGRlIG1vbGlkbyBsbGV2YSBsYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6IkdpMXhkV1VnZEdsd2J5QmtaU0J0YjJ4cFpHOGdiR3hsZG1FZ2JHRWdZMkZtWlhSbGNtRWdhWFJoYkdsaGJtRSIsImJzIjoiYzQyUU1Rb0NNUkJGc1UxbHZkV0lLRFlpV29vZ2FHMGhubUJJUmczRVpFMHlGcGJleE5KVExLd1hNN3NxaUlyWURlUzlfek1qVGcweEs0czVYODgyWWdESmNvc2VWUm9WZ2NUMTlRSTdaN1J5a0RzUEVZOVlQZVNlYkVCWWU3U1NBazVIazJ3c0diOUgwRWZDbXk2VUdKYkZrbE5YMUxtcnRJZGhEQjBRRE5ZeGtUeUNqbWcwMmxRNXlQcDdwdjhOc1JTOXNsaWx6elBkZWZLUERja0MyMlRwdElOeVBvVjNzbmI0SUtrQ3pRc25GcUw3UEo0TEVHakRWdFVEN0poTTRzMjlZVHBxWjYzNlFEOHdhalp1IiwiaWQiOiJmY19RMlQwYXBTbEZiT1prUElQNi1DQVdBXzEwIn0%3D"
+   },
+   {
+    "question": "¿Se puede moler café en una licuadora?",
+    "type": "ai_overview",
+    "page_token": "Wd8INnicHdBLbqMwAABQ9TJdNnyijCZSVNXEZEDBGYNtsDeVY5vwMYVJ6ECynLPMqofpAXqOHqBS3xHev_-2fmk_7i7VOA6X9WIxTdPDqe9P1jyYy0Jeri9qoaS1R6na9erHyn0s1Qa-QhD8iQCmKeRWW95WFfKia7Y7zZRqu2dxmf0CKCtC1zR6n-Vo3FPuiXy-SaaLpIh8w9JANMmcdKGvu5-NoO6BObGjPZQqyx3uzTGmA0e0OnOCAhEOPekGmbTIEx4qab680W0lmRvW1Ac9JywiEN9UyMd8i1zRaWyohShwfxMGHRE-XXUDArOLD7TAV96FpaRzyHIWcKJupEgPRwvazEEAViJNLJ54AcgRipq4w5lCi1HtbjHTYFfHIIPLKSU6Ynn1qmnkmQKtcK5XJhfjoQCJ8KpGkmg-Mubfl-rvxr__3tw8l924Hs796U2djRyNfpbje_Opgy-5Fojj",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Wd8INnicHdBLbqMwAABQ9TJdNnyijCZSVNXEZEDBGYNtsDeVY5vwMYVJ6ECynLPMqofpAXqOHqBS3xHev_-2fmk_7i7VOA6X9WIxTdPDqe9P1jyYy0Jeri9qoaS1R6na9erHyn0s1Qa-QhD8iQCmKeRWW95WFfKia7Y7zZRqu2dxmf0CKCtC1zR6n-Vo3FPuiXy-SaaLpIh8w9JANMmcdKGvu5-NoO6BObGjPZQqyx3uzTGmA0e0OnOCAhEOPekGmbTIEx4qab680W0lmRvW1Ac9JywiEN9UyMd8i1zRaWyohShwfxMGHRE-XXUDArOLD7TAV96FpaRzyHIWcKJupEgPRwvazEEAViJNLJ54AcgRipq4w5lCi1HtbjHTYFfHIIPLKSU6Ynn1qmnkmQKtcK5XJhfjoQCJ8KpGkmg-Mubfl-rvxr__3tw8l924Hs796U2djRyNfpbje_Opgy-5Fojj",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK/U2UgcHVlZGUgbW9sZXIgY2Fmw6kgZW4gdW5hIGxpY3VhZG9yYT8iLCJsayI6IkdpTnpaU0J3ZFdWa1pTQnRiMnhsY2lCallXWmxJR1Z1SUd4aElHeHBZM1ZoWkc5eVlRIiwiYnMiOiJjNDJRTVFvQ01SQkZzVTFsdmRXSUtEWWlXb29nYUcwaG5tQklSZzNFWkUweUZwYmV4TkpUTEt3WE03c3FpSXJZRGVTOV96TWpUZzB4SzRzNVg4ODJZZ0RKY29zZVZSb1ZnY1QxOVFJN1o3UnlrRHNQRVk5WVBlU2ViRUJZZTdTU0FrNUhrMndzR2I5SDBFZkNteTZVR0piRmtsTlgxTG1ydElkaERCMFFETll4a1R5Q2ptZzAybFE1eVBwN3B2OE5zUlM5c2xpbHp6UGRlZktQRGNrQzIyVHB0SU55UG9WM3NuYjRJS2tDelFzbkZxTDdQSjRMRUdqRFZ0VUQ3SmhNNHMyOVlUcHFaNjM2UUQ4d2FqWnUiLCJpZCI6ImZjX1EyVDBhcFNsRmJPWmtQSVA2LUNBV0FfMTAifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK%2FU2UgcHVlZGUgbW9sZXIgY2Fmw6kgZW4gdW5hIGxpY3VhZG9yYT8iLCJsayI6IkdpTnpaU0J3ZFdWa1pTQnRiMnhsY2lCallXWmxJR1Z1SUd4aElHeHBZM1ZoWkc5eVlRIiwiYnMiOiJjNDJRTVFvQ01SQkZzVTFsdmRXSUtEWWlXb29nYUcwaG5tQklSZzNFWkUweUZwYmV4TkpUTEt3WE03c3FpSXJZRGVTOV96TWpUZzB4SzRzNVg4ODJZZ0RKY29zZVZSb1ZnY1QxOVFJN1o3UnlrRHNQRVk5WVBlU2ViRUJZZTdTU0FrNUhrMndzR2I5SDBFZkNteTZVR0piRmtsTlgxTG1ydElkaERCMFFETll4a1R5Q2ptZzAybFE1eVBwN3B2OE5zUlM5c2xpbHp6UGRlZktQRGNrQzIyVHB0SU55UG9WM3NuYjRJS2tDelFzbkZxTDdQSjRMRUdqRFZ0VUQ3SmhNNHMyOVlUcHFaNjM2UUQ4d2FqWnUiLCJpZCI6ImZjX1EyVDBhcFNsRmJPWmtQSVA2LUNBV0FfMTAifQ%3D%3D"
+   },
+   {
+    "question": "¿Cuántos segundos se muele el café?",
+    "type": "ai_overview",
+    "page_token": "aKljmnicHdBdTsIwAADgeBkfodt0CgkxTFpgcdW2-4G-mK4dTNqy4Ra28ehZfPIwHsBzeAATvyN8H5_m7ah_rtKybetmOh53XTfaV9XeFKOiGYtmOMqxFMbkQuqpf-c7Dzs5g00TPFZdQBIKt0aZ7WYOqK06cayBMpQq0PvccMZA1KeaOAo0t-JCAF_pm8iZcJUgIHTNt5pirOuSwd5sHVTmdrLMLXZjuPeyJPSjZekQ5pwi2J4wxC1zwxXPSEcyfInc9KxsuYi92ieZydQC4Wd0f6EexbHHPWX1EC3NW6LDU2xVlW24EBuU5AcTsqNkyMAhXQSlRLihNnzJbEtYOnefEhykAIq1Ruv4ECAMOCyWvOcpXeV6UjK3TxnklVrVZZFEQwL4QKy83snzzLv-D5u97mw7rd-r_Zd8L0RbqFfRfh9-1eMfT7iACA",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aKljmnicHdBdTsIwAADgeBkfodt0CgkxTFpgcdW2-4G-mK4dTNqy4Ra28ehZfPIwHsBzeAATvyN8H5_m7ah_rtKybetmOh53XTfaV9XeFKOiGYtmOMqxFMbkQuqpf-c7Dzs5g00TPFZdQBIKt0aZ7WYOqK06cayBMpQq0PvccMZA1KeaOAo0t-JCAF_pm8iZcJUgIHTNt5pirOuSwd5sHVTmdrLMLXZjuPeyJPSjZekQ5pwi2J4wxC1zwxXPSEcyfInc9KxsuYi92ieZydQC4Wd0f6EexbHHPWX1EC3NW6LDU2xVlW24EBuU5AcTsqNkyMAhXQSlRLihNnzJbEtYOnefEhykAIq1Ruv4ECAMOCyWvOcpXeV6UjK3TxnklVrVZZFEQwL4QKy83snzzLv-D5u97mw7rd-r_Zd8L0RbqFfRfh9-1eMfT7iACA",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK/Q3XDoW50b3Mgc2VndW5kb3Mgc2UgbXVlbGUgZWwgY2Fmw6k/IiwibGsiOiJjNU5TVEM1TnpDdkpMMVlvVGswdnpVc0JNeFJ5UzFOelVoVlNjeFNTRTlOU0FRIiwiYnMiOiJjNDJRTVFvQ01SQkZzVTFsdmRXSUtEWWlXb29nYUcwaG5tQklSZzNFWkUweUZwYmV4TkpUTEt3WE03c3FpSXJZRGVTOV96TWpUZzB4SzRzNVg4ODJZZ0RKY29zZVZSb1ZnY1QxOVFJN1o3UnlrRHNQRVk5WVBlU2ViRUJZZTdTU0FrNUhrMndzR2I5SDBFZkNteTZVR0piRmtsTlgxTG1ydElkaERCMFFETll4a1R5Q2ptZzAybFE1eVBwN3B2OE5zUlM5c2xpbHp6UGRlZktQRGNrQzIyVHB0SU55UG9WM3NuYjRJS2tDelFzbkZxTDdQSjRMRUdqRFZ0VUQ3SmhNNHMyOVlUcHFaNjM2UUQ4d2FqWnUiLCJpZCI6ImZjX1EyVDBhcFNsRmJPWmtQSVA2LUNBV0FfMTAifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYWFIaEZhSFIxTTJaelgxUlZSMnc0VHpVdFJuQkJYMVk0YWtjek5HVnFWa3BTUmxwT2JVZHZPRTFIY1RsSFQweFNlVXByWTJ4SE4wVTFNMEZ3WWxGWVdrMTJNRWs0UWtwTmRGQnJjRjlOT1Vkek0zQk5kWGwwVUV4NFFSSVdVVEpVTUdGd1UyeEdZazlhYTFCSlVEWXRRMEZYUVJvaVFVaE9NRVUzUjNsV2VsZHhVbFJMVmpGWGNHTndYMkpWV1RSdk9FZHZRMjlWUVEiLCJmY3YiOiIzIiwiZWkiOiJRMlQwYXBTbEZiT1prUElQNi1DQVdBIiwicWMiOiJjLVBTU0Q2OE9UZGZJVGNfSjdWSUlUa3g3ZkJLaFlMRW9rUVFNN1VrRmNqSUxFbk15VXpNU3hUZ3E0MjlLbUFQQUEiLCJxdWVzdGlvbiI6IsK%2FQ3XDoW50b3Mgc2VndW5kb3Mgc2UgbXVlbGUgZWwgY2Fmw6k%2FIiwibGsiOiJjNU5TVEM1TnpDdkpMMVlvVGswdnpVc0JNeFJ5UzFOelVoVlNjeFNTRTlOU0FRIiwiYnMiOiJjNDJRTVFvQ01SQkZzVTFsdmRXSUtEWWlXb29nYUcwaG5tQklSZzNFWkUweUZwYmV4TkpUTEt3WE03c3FpSXJZRGVTOV96TWpUZzB4SzRzNVg4ODJZZ0RKY29zZVZSb1ZnY1QxOVFJN1o3UnlrRHNQRVk5WVBlU2ViRUJZZTdTU0FrNUhrMndzR2I5SDBFZkNteTZVR0piRmtsTlgxTG1ydElkaERCMFFETll4a1R5Q2ptZzAybFE1eVBwN3B2OE5zUlM5c2xpbHp6UGRlZktQRGNrQzIyVHB0SU55UG9WM3NuYjRJS2tDelFzbkZxTDdQSjRMRUdqRFZ0VUQ3SmhNNHMyOVlUcHFaNjM2UUQ4d2FqWnUiLCJpZCI6ImZjX1EyVDBhcFNsRmJPWmtQSVA2LUNBV0FfMTAifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "text_blocks": [
+    {
+     "type": "paragraph",
+     "snippet": "Para la cafetera italiana (moka), el café debe tener un grado de molienda medio-fino, similar a una arena de playa fina o sal fina (un punto intermedio entre el café de filtro y el del espresso).",
+     "snippet_highlighted_words": [
+      "el café debe tener un grado de molienda medio-fino, similar a una arena de playa fina o sal fina"
+     ],
+     "reference_indexes": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "type": "heading",
+     "snippet": "El tipo de molinillo ideal"
+    },
+    {
+     "type": "list",
+     "list": [
+      {
+       "snippet": "Molinillo de muelas (recomendado): Ofrece un tamaño de partícula uniforme, lo que garantiza una extracción equilibrada."
+      },
+      {
+       "snippet": "Molinillo de cuchillas: Corta el grano de forma irregular (generando polvo fino y trozos gruesos a la vez), lo que puede hacer que el café quede amargo o acuoso.",
+       "reference_indexes": [
+        7,
+        8
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "snippet": "Pasos para moler y preparar correctamente"
+    },
+    {
+     "type": "list",
+     "list": [
+      {
+       "snippet": "Muele justo antes de usar: Los granos enteros conservan mejor los aceites y el aroma; muele la cantidad exacta que vas a utilizar en el momento.",
+       "reference_indexes": [
+        1
+       ]
+      },
+      {
+       "snippet": "Ajusta el grosor: Configura tu molinillo en un punto medio-fino. Si al hacer el café sale muy rápido y sabe flojo, necesitas molerlo un poco más fino; si no sale o sabe muy amargo y quemado, hazlo un poco más grueso.",
+       "reference_indexes": [
+        3,
+        5
+       ]
+      },
+      {
+       "snippet": "Llena la canasta sin presionar: Vierte el café molido en el embudo y nivélalo con el dedo o un palito, sin prensarlo ni aplastarlo. Dejarlo suelto permite que el agua pase de forma uniforme.",
+       "reference_indexes": [
+        0,
+        5,
+        9
+       ]
+      },
+      {
+       "snippet": "Limpia los bordes: Retira los restos de café que queden en la rosca para que la cafetera cierre de forma hermética.",
+       "reference_indexes": [
+        9
+       ]
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "snippet": "Puedes consultar más detalles sobre el tipo de grano adecuado en la guía de Café Platino o revisar consejos adicionales en Bonka.",
+     "snippet_links": [
+      {
+       "text": "Café Platino",
+       "link": "https://cafeplatino.com/blogs/consejos-cafe/como-moler-cafe-para-cada-cafetera-guia-practica-para-principiantes"
+      },
+      {
+       "text": "Bonka",
+       "link": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe"
+      }
+     ],
+     "reference_indexes": [
+      2,
+      7
+     ]
+    },
+    {
+     "type": "paragraph",
+     "snippet": "Aquí tienes un video tutorial sobre cómo preparar el café paso a paso con una cafetera italiana:"
+    }
+   ],
+   "references": [
+    {
+     "index": 0,
+     "title": "ITALIAN COFFEE MAKER (MOKA): How to Use It Correctly. Specialty ...",
+     "link": "https://www.youtube.com/watch?v=i5pvZZBTkxo&t=44",
+     "snippet": "CAFETERA ITALIANA (MOKA): cómo usarla correctamente. Café de especialidad super tradicional que se encuentra en la mayoría de las casas fue diseñado en 1933 por un",
+     "source": "YouTube",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAdUnUJy-U7vP1ax_Cj40-CEgAVg-kwR1AfozcdWyFju9pxPY5lzndqO-nPozvCtsvjkj47CGjiGdCMOhdCUNMsKDdS2dJducaLVyFTNWMRE0hq2Q8qm9XDxmoDQpTPPeel5yXCSf3HgnZtuZdJ6igA0"
+    },
+    {
+     "index": 1,
+     "title": "HOW TO USE AN ITALIAN COFFEE MAKER: A basic guide to preparing ...",
+     "link": "https://www.youtube.com/watch?v=e44MyMrsZmk&t=1",
+     "snippet": "CÓMO USAR LA CAFETERA ITALIANA: Guía básica para preparar café sexta y última entrega de la serie sobre homenaje que hemos venido presentando en colaboración con B",
+     "source": "YouTube",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtgzuDtp5sII7Or3qccYhrWN4SEHBMyIZ6P_rjcw9ogBdTj4AcrFR8BwzBo8R-3b07LVzyXVJi5AFowbES4wdGtXLfWRPGHC0OtUgc80alkMC9T83iz1sq2_x1OtbWRjQTb_wjyJk9aC8pCZfjS9y4Rdw"
+    },
+    {
+     "index": 2,
+     "title": "Molienda del café: un tipo para cada cafetera | Bonka",
+     "link": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe",
+     "snippet": "La molienda ideal para cafetera italiana es la molienda media, de un grosor del grano tipo arena de playa, ya que facilita el contacto del agua con el café pero si...",
+     "source": "Café Bonka",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bonka.es&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsso13-kxbB6LwRke8Gt6dapAdWuKt0bnhkJBQbW_cPmU171ZnadSicdDkiRNYb5BZCrXnhBz0TxVwhXMrz_04PH4drgRrg6o1ZCskTUqm_9C0zD4RMUpcNy12eK9SssMMH6b1PYxlax5RbyDymt43BNk"
+    },
+    {
+     "index": 3,
+     "title": "Moler café para cafetera italiana: análisis y comparativa de las ...",
+     "link": "https://quemescafeteria.es/moler-cafe-para-cafetera-italiana/",
+     "snippet": "¿Qué grado de molido es el más adecuado para una cafetera italiana y cómo afecta al sabor según distintos productos analizados en las comparativas? Para una cafete...",
+     "source": "quemescafeteria.es",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://quemescafeteria.es&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2hEoUpkCQW6CvOOFkFg3Ul-ea3XXSWZwJEGeD2QMZrtF9vgD1T3NjdVigidYLalHIV48fUs0a8nV1USac1x0DLVB2GYkaHc-nYOqM0RsC7w2Y7_9vkmWlqbwypUGRK3tciGaTGiLX4iE2F85DY3BC18"
+    },
+    {
+     "index": 4,
+     "title": "Cómo moler café con molinillos manuales: tipos y consejos",
+     "link": "https://cafeirreverentes.com/blog/como-moler-cafe-manual/",
+     "snippet": "Preguntas frecuentes sobre cómo moler café. ¿Cómo moler café para cafetera italiana? Para cafetera italiana, lo ideal es una molienda media-fina, parecida a arena ...",
+     "source": "Café Irreverentes",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cafeirreverentes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROrCgCoHI_wTsbgplTK6R-EsLXM123DHYnctuQh9l3gxUTOt_6bIsA_qSFUSixVF1rrw2CrSk_Z0tevJ1gsDe5EL4wO4DrcXodrYx6XE2qrONyzCLoewWPNA7K2obAhOLmALpwaa9MSSJ-iKLFvRvh3Xo"
+    },
+    {
+     "index": 5,
+     "title": "Aprende a moler café en función de la cafetera que usas - Cafés SABORA",
+     "link": "https://cafesabora.com/es/aprende-moler-caf%C3%A9-en-funci%C3%B3n-de-la-cafetera-que-usas",
+     "snippet": "Textura tipo harina fina. Permite que el agua pase a mucha presión que precisamente es lo que buscamos. Si es demasiado gruesa → café sale rápido y aguado. Si es d...",
+     "source": "Cafés SABORA",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cafesabora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw9cVRfTbPajtSBpcVAqVpG6ByM9W18qnHTLk4oMSX0kjm7BM2avUncGyNT__s2DWifRogHQwBorLoobBnMY5BDLUBrv1cHraqfgEF_04zs5j394Avn2aAyevcP8k9CdvIISh2vIwL6pUToSOtRcaBNM"
+    },
+    {
+     "index": 6,
+     "title": "How to make the PERFECT Moka Pot coffee step-by-step",
+     "link": "https://www.youtube.com/watch?v=2y2TOwtCar4&t=460",
+     "snippet": "Curso de CAFÉ: CAFÉ en ITALIANA (MOKA) PERFECTO paso a paso teníamos por ejemplo el tamaño de grano teníamos el tiempo de extracción teníamos la cantidad de café q",
+     "source": "YouTube",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvuVahFYh-zuzJJEXFLIlb9gKj4UK7ss1AZqdRARNnhlHWlvSgJPhiDrdpydTtgiHGczXrpq_R_hfYuKJ6WYcFQQ2Ch2sen16zywfKujBaue63o6LKbGJK7fYJ1vggl8GiSWjJOaGaUhyhBvuPRCGbPw"
+    },
+    {
+     "index": 7,
+     "title": "Cómo moler café de la forma correcta para cada cafetera – Café Platino",
+     "link": "https://cafeplatino.com/blogs/consejos-cafe/como-moler-cafe-para-cada-cafetera-guia-practica-para-principiantes",
+     "snippet": "Guía de molienda de Café Platino (7 oct 2025): - Gruesa: prensa francesa, cold brew (sal gorda). - Media: filtro, V60, Chemex (arena fina). - Fina: espresso, moka",
+     "source": "Café Platino",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cafeplatino.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMEMoTWibTo8VaMAl4dyeix5QYgBph_lU6zyF4YEpCx39-ofoMX9kvRYJq3r_S0iswJ3WuAM1mjh42TY82N7dYDk5rXXqbFCdj5a_8Lv3ZWI3Ju76p4rCtL2DWUQSCiTCBAnShuYQ3V-QJio6kFy6tSg"
+    },
+    {
+     "index": 8,
+     "title": "Cómo moler café en casa | Starbucks® at Home",
+     "link": "https://www.starbucksathome.com/es/brewing-guide/at-home-tips/find-your-grind",
+     "snippet": "* Grueso: tamaño sal marina gruesa; para inmersión (prensa, cold brew). * Medio: tamaño sal marina; para Chemex, filtro, cafetera italiana/moka. * Fino: tamaño azú...",
+     "source": "Starbucks",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.starbucksathome.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhFmWgoCvzQO43rJnU2cmWBzjaUM09q867ztcWcEyMeZw54SmajMspPlQP3sCTd1Rch-urgSXdN-XFIlBHXQOpY4QixxqZYlPPisA9yAHbz38QBkEItFgAuOm-HCiJxJnEemK3duGxJpzwqpa3sDH_BTY"
+    },
+    {
+     "index": 9,
+     "title": "How to Use an Italian Coffee Maker Correctly | A Basic Guide to Making ...",
+     "link": "https://www.youtube.com/watch?v=iszR7yQ7j78&t=1",
+     "snippet": "Cómo usar la CAFETERA ITALIANA CORRECTAMENTE | Guía básica para PREPARAR CAFÉ hoy toca un vídeo pero no va a ser una receta de las normales voy a preparar café y d",
+     "source": "YouTube",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs7E9aLilL3k5Rz2EF2N8J5BgVrXqO4dMTK4IifOXhoN6mM61JyX7ybrRAVgK6rKsKAOCEaw4s-YPl6WYWBI88kNcAUAPf5BoDdEWSkLJy83VSfWRHV0vTR3XejHVE3H4RT9XennSXkSvHnuWKK8AOYes"
+    }
+   ]
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Molienda para Moka Italiana: ¿Gruesa, Media Fina o Fina? La ...",
+    "link": "https://www.tiktok.com/@lychecafecito/video/7497037090962607415",
+    "displayed_link": "Más de 431,5 mil visualizaciones",
+    "date": "hace 1 año",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2z5Tt48Q_G4RcsNOTkFHtNTakTGei1g3MsJV-pANTe3jvFQMDBe8gow&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "snippet": "Para entender por qué, es fundamental probar cómo se comporta el café con diferentes texturas. ### Prueba de Moliendas en la Moka Italiana ...",
+    "duration": "1:36",
+    "about_this_result": {
+     "source": {
+      "description": "Para entender por qué, es fundamental probar cómo se comporta el café con diferentes texturas. ### Prueba de Moliendas en la Moka Italiana ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWE9VdlVqMjRMTmV4TGFYRmV3ME1XaGd1eVBnbV9rWm5aV1VKYjA3Q2JQd1FPWHdsT3RSbE1uWlBTdG0wTUc1SDR3Rmo2WWNIaWhMbVVyTGQ3bVp0SnNjM1dwSWhlZWtvYjhiR2Zxd0pTSlFEX2l0VTZqZEgtalVxaTZkSmZ2WXhGZFJfMmpMZXcwSm5tcGdQZ2dFZGNtOFFVZlFSbkl2SRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWE9VdlVqMjRMTmV4TGFYRmV3ME1XaGd1eVBnbV9rWm5aV1VKYjA3Q2JQd1FPWHdsT3RSbE1uWlBTdG0wTUc1SDR3Rmo2WWNIaWhMbVVyTGQ3bVp0SnNjM1dwSWhlZWtvYjhiR2Zxd0pTSlFEX2l0VTZqZEgtalVxaTZkSmZ2WXhGZFJfMmpMZXcwSm5tcGdQZ2dFZGNtOFFVZlFSbkl2SRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSDvw2hJvjvKs7fI77wD2aEdj_jAIkVuribhg",
+    "source": "TikTok · Lyche Cafecito"
+   },
+   {
+    "position": 2,
+    "title": "¿Cómo hacer café en cafetera italiana? - Tutorial para preparar ...",
+    "link": "https://www.youtube.com/watch?v=Nnxxfi0tuDg",
+    "displayed_link": "Más de 864,8 mil visualizaciones",
+    "date": "hace 7 años",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROt1G2-4bexsuQby6vhFMMdxCP7PUmf8ldvFgGUg7LOkaoxf65SbUABA&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+    "snippet": "Aprende cómo hacer café en cafetera italiana siguiendo los pasos que te indicamos. Si te gusta el café Bonka en grano o el café tostado en ...",
+    "duration": "1:09",
+    "about_this_result": {
+     "source": {
+      "description": "Aprende cómo hacer café en cafetera italiana siguiendo los pasos que te indicamos. Si te gusta el café Bonka en grano o el café tostado en ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEdBTFRmM0FwUE0tcXRvTzdtU0VtcjUwcmExNkY0bXcwT3RJZ0lBNHhtM2VLZHRjdDhnT2ZNOEVhQUxqT2hzWlQ2eUE2Mm5qVW52VHdFVUtYWEVqVTZUcUUweWR6MVB3TUp0WnctcHNpNEpLY0lyNzYtbHl5Rm44SmJnX2IxMkM0emEyZBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEdBTFRmM0FwUE0tcXRvTzdtU0VtcjUwcmExNkY0bXcwT3RJZ0lBNHhtM2VLZHRjdDhnT2ZNOEVhQUxqT2hzWlQ2eUE2Mm5qVW52VHdFVUtYWEVqVTZUcUUweWR6MVB3TUp0WnctcHNpNEpLY0lyNzYtbHl5Rm44SmJnX2IxMkM0emEyZBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5yb0txhbJ9gBVS2kLzlOtobLrWN6NJH1JtQ",
+    "source": "YouTube · Nestlé España"
+   },
+   {
+    "position": 3,
+    "title": "Molienda para cafetera italiana: qué pasa si está mal",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7473208428475911447?lang=es",
+    "displayed_link": "Más de 28,9 mil visualizaciones",
+    "date": "hace 1 año",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyY24HT5x1x2bqpBpPybsoxhyfLhyLg-rdnfaLEMvXuRpK8dGGAVySUA&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "snippet": "Molienda del café Se utiliza café molido con una molienda media fina. En este caso se muelen 25 g de café usando 8 clics en un molino de muelas ...",
+    "duration": "0:53",
+    "about_this_result": {
+     "source": {
+      "description": "Molienda del café Se utiliza café molido con una molienda media fina. En este caso se muelen 25 g de café usando 8 clics en un molino de muelas ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF5WmlRQ0pGRHpZRVJGM3RSMXQyblNGQ04tMVhwc1dmRGxqVHViSGhtRGlvVkJ2NTFlWm9HTmNJVkpnNi1PbGtjODF0aUFPZDR1U21IV3REelo3OEU3SXJFN3gxYXljY1VyOVhhQ3Ytb3FHUXVieVNXSEpvUmowNS1JNEtOLTRZczBVbXBWSE9LSWQxa1EwQXhSQlY2Ti1YR3o5RlZxWFhLeWp5di1qdDFfRRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF5WmlRQ0pGRHpZRVJGM3RSMXQyblNGQ04tMVhwc1dmRGxqVHViSGhtRGlvVkJ2NTFlWm9HTmNJVkpnNi1PbGtjODF0aUFPZDR1U21IV3REelo3OEU3SXJFN3gxYXljY1VyOVhhQ3Ytb3FHUXVieVNXSEpvUmowNS1JNEtOLTRZczBVbXBWSE9LSWQxa1EwQXhSQlY2Ti1YR3o5RlZxWFhLeWp5di1qdDFfRRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSxKssl__FQurTU5rFDRAqe6AOI2Y_rKADM9Q",
+    "source": "TikTok · Santo Amaro"
+   },
+   {
+    "position": 4,
+    "title": "¿Qué grado de molienda usar y cómo influye al preparar ...",
+    "link": "https://www.cafescandelas.com/es/blog/grado-molienda-influye-cafe",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHEIkXXGAr1R2Qz-1fqSAKSaveG2zRYyBsef693uYRVgjvCtgVzCAo6L6KYoAmv4b5VQFH4t0ZgC7itKVOkPgj7OeeimBlLstiM5wIMp2NbKXgM5xU0dYJ5cj2caiye9Hu4A_YiUmAJi0_mkCba8tZ2SgVLoHCg6_6ZMTCKlA&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQFnoECCsQAQ&uoh=1",
+    "displayed_link": "https://www.cafescandelas.com › blog › grado-moliend...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____U0tLt7OwUAADCwMCuq6oXBAAdEA7k4-P9_PwtIyImHBtfWll2cXEkGRgvJiUMAADc29uDf38hFBKgnZx9eXhwa2u0srEXAwD19PRzbm6Sjo4AAABRS0pnYmJJQkHMyspZU1I5MTCHJA5rAAAA0UlEQVR4AXXRBZbAMAgEUGrUM3X3-99xPUtq8zTvxwC6xKL32I77jh77wZuFURQnb5gqIMufrfABlNWzMQCo9MnqH0PcvJ4DVPFu4DZ8vPMnXd8OZxsdbf5IzTSaZv2bmikvI8ds8RJrW3uaY8SLmK0isaUEImXLrSzW-ADAcq_LFwPL5DbWtvwaeJM3SwCxnANKeZP2GNFhWLyTxM3Amxgyl4ykTmJ26TK12aMo0g_udE5v9462JKRrwjgSu2Xkn_cejcLFKUtn0XbNNo6buf4EalgTfUjME4AAAAAASUVORK5CYII.png",
+    "date": "26 ene 2018",
+    "snippet": "El punto de molienda debe adaptarse al tipo de cafetera; el grosor debe ser mayor cuanto más dure el tiempo de extracción de café.",
+    "snippet_highlighted_words": [
+     "El punto de molienda debe adaptarse al tipo de cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "El punto de molienda debe adaptarse al tipo de cafetera; el grosor debe ser mayor cuanto más dure el tiempo de extracción de café.",
+      "source_info_link": "https://www.cafescandelas.com/es/blog/grado-molienda-influye-cafe",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____U0tLt7OwUAADCwMCuq6oXBAAdEA7k4-P9_PwtIyImHBtfWll2cXEkGRgvJiUMAADc29uDf38hFBKgnZx9eXhwa2u0srEXAwD19PRzbm6Sjo4AAABRS0pnYmJJQkHMyspZU1I5MTCHJA5rAAAA0UlEQVR4AXXRBZbAMAgEUGrUM3X3-99xPUtq8zTvxwC6xKL32I77jh77wZuFURQnb5gqIMufrfABlNWzMQCo9MnqH0PcvJ4DVPFu4DZ8vPMnXd8OZxsdbf5IzTSaZv2bmikvI8ds8RJrW3uaY8SLmK0isaUEImXLrSzW-ADAcq_LFwPL5DbWtvwaeJM3SwCxnANKeZP2GNFhWLyTxM3Amxgyl4ykTmJ26TK12aMo0g_udE5v9462JKRrwjgSu2Xkn_cejcLFKUtn0XbNNo6buf4EalgTfUjME4AAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWHFuMm9oX3BQdjVNZC1ESHd5dlRrMEtqQXlISDlqMWpWOTlLSUhoeUU2Y0F5NnlZNFZ4MDZMd285NWFXVDBIZmtzZHJqbXJ4LUZxOUFvam5nWmtwc2lRUjNoNmpZMmtOdXgwbWJXZVhseXVGY3czZFJZTjUxNUxoZXBaVUJ0TTlRSmREN245LW1vR2VZbEhUTkdqaGkwQWZlbThweWZHSTNadxIEGgIIABqoBRICCAAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQIIFCA4QABgAIAAqEgoFY8OzbW8VtypfQBoEY29tbypACgVtb2xlchXihwk_Ggh0cml0dXJhchoJbW9saW5pbGxvGghtb2xpZW5kYRoKbW9saW5pbGxvcxoHdHJpdHVyYSoZCgVjYWbDqRXJgsRAGgRjYWZlGgVjYWZlcyoLCgRwYXJhFeUC4D8qLAoIY2FmZXRlcmEVii4DQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFQAAAAAaCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTK4AS9nb3RvP3VybD1DQUVTZmdIRUlrWFhxbjJvaF9wUHY1TWQtREh3eXZUazBLakF5SEg5ajFqVjk5S0lIaHlFNmNBeTZ5WTRWeDA2THdvOTVhV1QwSGZrc2Ryam1yeC1GcTlBb2puZ1prcHNpUVIzaDZqWTJrTnV4MG1iV2VYbHl1RmN3M2RSWU41MTVMaGVwWlVCdE05UUpkRDduOS1tb0dlWWxIVE5HamhpMEFmZW04cHlmR0kzWnc6TsK_UXXDqSBncmFkbyBkZSBtb2xpZW5kYSB1c2FyIHkgPGI-Y8OzbW88L2I-IGluZmx1eWUgYWwgcHJlcGFyYXIgPGI-Y2Fmw6k8L2I-P0KMATxiPkVsIHB1bnRvIGRlIG1vbGllbmRhIGRlYmUgYWRhcHRhcnNlIGFsIHRpcG8gZGUgY2FmZXRlcmE8L2I-OyBlbCBncm9zb3IgZGViZSBzZXIgbWF5b3IgY3VhbnRvIG3DoXMgZHVyZSBlbCB0aWVtcG8gZGUgZXh0cmFjY2nDs24gZGUgY2Fmw6kuUgRjb21vIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWHFuMm9oX3BQdjVNZC1ESHd5dlRrMEtqQXlISDlqMWpWOTlLSUhoeUU2Y0F5NnlZNFZ4MDZMd285NWFXVDBIZmtzZHJqbXJ4LUZxOUFvam5nWmtwc2lRUjNoNmpZMmtOdXgwbWJXZVhseXVGY3czZFJZTjUxNUxoZXBaVUJ0TTlRSmREN245LW1vR2VZbEhUTkdqaGkwQWZlbThweWZHSTNadxIEGgIIABqoBRICCAAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQIIFCA4QABgAIAAqEgoFY8OzbW8VtypfQBoEY29tbypACgVtb2xlchXihwk_Ggh0cml0dXJhchoJbW9saW5pbGxvGghtb2xpZW5kYRoKbW9saW5pbGxvcxoHdHJpdHVyYSoZCgVjYWbDqRXJgsRAGgRjYWZlGgVjYWZlcyoLCgRwYXJhFeUC4D8qLAoIY2FmZXRlcmEVii4DQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFQAAAAAaCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTK4AS9nb3RvP3VybD1DQUVTZmdIRUlrWFhxbjJvaF9wUHY1TWQtREh3eXZUazBLakF5SEg5ajFqVjk5S0lIaHlFNmNBeTZ5WTRWeDA2THdvOTVhV1QwSGZrc2Ryam1yeC1GcTlBb2puZ1prcHNpUVIzaDZqWTJrTnV4MG1iV2VYbHl1RmN3M2RSWU41MTVMaGVwWlVCdE05UUpkRDduOS1tb0dlWWxIVE5HamhpMEFmZW04cHlmR0kzWnc6TsK_UXXDqSBncmFkbyBkZSBtb2xpZW5kYSB1c2FyIHkgPGI-Y8OzbW88L2I-IGluZmx1eWUgYWwgcHJlcGFyYXIgPGI-Y2Fmw6k8L2I-P0KMATxiPkVsIHB1bnRvIGRlIG1vbGllbmRhIGRlYmUgYWRhcHRhcnNlIGFsIHRpcG8gZGUgY2FmZXRlcmE8L2I-OyBlbCBncm9zb3IgZGViZSBzZXIgbWF5b3IgY3VhbnRvIG3DoXMgZHVyZSBlbCB0aWVtcG8gZGUgZXh0cmFjY2nDs24gZGUgY2Fmw6kuUgRjb21vIgIQAUgAWABoAA",
+    "source": "Café Candelas"
+   },
+   {
+    "position": 5,
+    "title": "Moler el café: técnicas y consejos para un mejor sabor en tu ...",
+    "link": "https://shop.cafesbou.com/blogs/news/moler-el-cafe-tecnicas-y-consejos-para-un-mejor-sabor-en-tu-taza?srsltid=AYCX9vJbNe8sMoK_N_KiMEnW8MeGryG1ySoD46wt8MqBZ6WPbpZnrf0A",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES5AEBxCJF14dzihrdsrCEdSiA7RWJTVVrhVyRq9GIAYnalVuPWbwt1Lpk4YU23weB5EqZaRwr7L69Zdm7DwB_DM6llgi8BEYIMLhFwcmJBq0Lx65RSQiWqCYisAKc6KQQGCH2Xx5jaWtXEMXGnj8FwAouFhkNg6A9La6IaiVsS2zGW8K4fPhBEa5kecogAtLINwzWPoIEjMSVThsFV4wh8le-akHfYeeaMtfrLSoqS82h6GqpRmOeTsZzcb0u35QvKuNZeGD16jWsjL3vP_sldfgQ625wX3QuKwUXd4zHqjsrm3TZr4E&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQFnoECCoQAQ&uoh=1",
+    "displayed_link": "https://shop.cafesbou.com › blogs › news › moler-el-ca...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAOVBMVEVHcEyhoaBwcG8wMC4lJSMgIB4cHBonJyUsLCspKSdBQUAmJiQkJCJTU1I0NDIpKScbGxk5OTg0NDOSI68ZAAAAE3RSTlMABxJ10___y4mgMeHtHmOz_0FalMDwdgAAALhJREFUeAGMUgUCgEAMsoZ16f__ag67iwVwlfy-0ixL7wt5IRCgvKlVgrqZyddai5bZm5rZgpNtBVjipsjHb-7WVsCvfWGqZZtSDkSFLniVYqYE1CeVBUWg0qJAqKH62TZfoFVUwLGfqQAiCVYBR7QhG0S9NzFDz45Odpuc5xrUyNlFlERCka19XWqDdiFy5kLViRrcNElhjUT1GF_bMcoD4tNZ8UGam7x1rioh1S2pKkpfxWQYFQAAvpcF1sv0R0kAAAAASUVORK5CYII.png",
+    "snippet": "Pequeños ajustes marcan grandes diferencias. Cafetera italiana (moka) Para la moka, el equilibrio es clave.Utiliza una molienda media-fina, algo más gruesa que ...",
+    "snippet_highlighted_words": [
+     "Cafetera italiana",
+     "Para"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Pequeños ajustes marcan grandes diferencias. Cafetera italiana (moka) Para la moka, el equilibrio es clave.Utiliza una molienda media-fina, algo más gruesa que ...",
+      "source_info_link": "https://shop.cafesbou.com/blogs/news/moler-el-cafe-tecnicas-y-consejos-para-un-mejor-sabor-en-tu-taza?srsltid=AYCX9vJbNe8sMoK_N_KiMEnW8MeGryG1ySoD46wt8MqBZ6WPbpZnrf0A",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAOVBMVEVHcEyhoaBwcG8wMC4lJSMgIB4cHBonJyUsLCspKSdBQUAmJiQkJCJTU1I0NDIpKScbGxk5OTg0NDOSI68ZAAAAE3RSTlMABxJ10___y4mgMeHtHmOz_0FalMDwdgAAALhJREFUeAGMUgUCgEAMsoZ16f__ag67iwVwlfy-0ixL7wt5IRCgvKlVgrqZyddai5bZm5rZgpNtBVjipsjHb-7WVsCvfWGqZZtSDkSFLniVYqYE1CeVBUWg0qJAqKH62TZfoFVUwLGfqQAiCVYBR7QhG0S9NzFDz45Odpuc5xrUyNlFlERCka19XWqDdiFy5kLViRrcNElhjUT1GF_bMcoD4tNZ8UGam7x1rioh1S2pKkpfxWQYFQAAvpcF1sv0R0kAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsECL2dvdG8_dXJsPUNBRVM1QUVCeENKRjE0emh5WTRpRTEyVUdQbndRazg1YkhaRldEZi1UcXRkcFJnWlQ3anJBSS12Y0VrU0NVWEJNeVJmWC0tQldqazdKM1pkODhDN1BfY213ZmhEU05LSU5CTlkzSm1OYVltbUUyUDJtRVFwYWF3WjVuOXp4YWFaMFRPaVhON0I1cExPWlhwajlJRVo5MjA4N09WdXBKUWtTNjhjd3JRSjdhVG8ySFhYY2tkdUpLOV9lQV91YkUycUh1YTVuaGI3Wm5QTnhiMTNxX1ZnVTNNWkVuaEQwbGJoT1QxZ1B0NzVKenFWYXRLQXgxNFcxeGJKa010SVFFSXVXa1lyVDY0cFF3d0poc2I2dkkxR3g2UG5BTWsxSVJ0QXA3V21JOERvcUFCS2ZHX2FsbkRuSVNREgQaAggAGowGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQOgFCA4QABgAIAAqEgoFY8OzbW8Vmv49PxoEY29tbypACgVtb2xlchUzoUhAGgh0cml0dXJhchoJbW9saW5pbGxvGghtb2xpZW5kYRoKbW9saW5pbGxvcxoHdHJpdHVyYSoZCgVjYWbDqRXzCNpAGgRjYWZlGgVjYWZlcyoLCgRwYXJhFZbUiEAqLAoIY2FmZXRlcmEViTStPxoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFUMJgz8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxNnh3MnVpdVlCVnJJME9BR085UFFENlFlNlhRRGZsdGpfblJBZ0VHZUZlRXdKV1JpbkduempiVklnc1FBcHhaS0pydFRNcm9oOFV3TnVyY0JQeWZEbzZtM3Voa3NKZWExb2JhRVBTaG90OXlPT1ZtdThNdElmV0dHeTRBa0FpZlZRd18zTXJXUTAxUUI0RU9DSTlWVEp6TXZlUDY4dlh0U1h0Q2VUT0ZZdi0zUU9ESHRhT2NJc3NuZzV0OGJZOTRscE9rbkxSeWdrU2lJa01tNVFROlc8Yj5Nb2xlcjwvYj4gZWwgPGI-Y2Fmw6k8L2I-OiB0w6ljbmljYXMgeSBjb25zZWpvcyA8Yj5wYXJhPC9iPiB1biBtZWpvciBzYWJvciBlbiB0dSAuLi5CuAFQZXF1ZcOxb3MgYWp1c3RlcyBtYXJjYW4gZ3JhbmRlcyBkaWZlcmVuY2lhcy4gPGI-Q2FmZXRlcmEgaXRhbGlhbmE8L2I-IChtb2thKSA8Yj5QYXJhPC9iPiBsYSBtb2thLCBlbCBlcXVpbGlicmlvIGVzIGNsYXZlLlV0aWxpemEgdW5hIG1vbGllbmRhIG1lZGlhLWZpbmEsIGFsZ28gbcOhcyBncnVlc2EgcXVlJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsECL2dvdG8_dXJsPUNBRVM1QUVCeENKRjE0emh5WTRpRTEyVUdQbndRazg1YkhaRldEZi1UcXRkcFJnWlQ3anJBSS12Y0VrU0NVWEJNeVJmWC0tQldqazdKM1pkODhDN1BfY213ZmhEU05LSU5CTlkzSm1OYVltbUUyUDJtRVFwYWF3WjVuOXp4YWFaMFRPaVhON0I1cExPWlhwajlJRVo5MjA4N09WdXBKUWtTNjhjd3JRSjdhVG8ySFhYY2tkdUpLOV9lQV91YkUycUh1YTVuaGI3Wm5QTnhiMTNxX1ZnVTNNWkVuaEQwbGJoT1QxZ1B0NzVKenFWYXRLQXgxNFcxeGJKa010SVFFSXVXa1lyVDY0cFF3d0poc2I2dkkxR3g2UG5BTWsxSVJ0QXA3V21JOERvcUFCS2ZHX2FsbkRuSVNREgQaAggAGowGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQOgFCA4QABgAIAAqEgoFY8OzbW8Vmv49PxoEY29tbypACgVtb2xlchUzoUhAGgh0cml0dXJhchoJbW9saW5pbGxvGghtb2xpZW5kYRoKbW9saW5pbGxvcxoHdHJpdHVyYSoZCgVjYWbDqRXzCNpAGgRjYWZlGgVjYWZlcyoLCgRwYXJhFZbUiEAqLAoIY2FmZXRlcmEViTStPxoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFUMJgz8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxNnh3MnVpdVlCVnJJME9BR085UFFENlFlNlhRRGZsdGpfblJBZ0VHZUZlRXdKV1JpbkduempiVklnc1FBcHhaS0pydFRNcm9oOFV3TnVyY0JQeWZEbzZtM3Voa3NKZWExb2JhRVBTaG90OXlPT1ZtdThNdElmV0dHeTRBa0FpZlZRd18zTXJXUTAxUUI0RU9DSTlWVEp6TXZlUDY4dlh0U1h0Q2VUT0ZZdi0zUU9ESHRhT2NJc3NuZzV0OGJZOTRscE9rbkxSeWdrU2lJa01tNVFROlc8Yj5Nb2xlcjwvYj4gZWwgPGI-Y2Fmw6k8L2I-OiB0w6ljbmljYXMgeSBjb25zZWpvcyA8Yj5wYXJhPC9iPiB1biBtZWpvciBzYWJvciBlbiB0dSAuLi5CuAFQZXF1ZcOxb3MgYWp1c3RlcyBtYXJjYW4gZ3JhbmRlcyBkaWZlcmVuY2lhcy4gPGI-Q2FmZXRlcmEgaXRhbGlhbmE8L2I-IChtb2thKSA8Yj5QYXJhPC9iPiBsYSBtb2thLCBlbCBlcXVpbGlicmlvIGVzIGNsYXZlLlV0aWxpemEgdW5hIG1vbGllbmRhIG1lZGlhLWZpbmEsIGFsZ28gbcOhcyBncnVlc2EgcXVlJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "source": "BOU Café"
+   },
+   {
+    "position": 6,
+    "title": "Moler café para cafetera italiana: análisis y comparativa de las ...",
+    "link": "https://quemescafeteria.es/moler-cafe-para-cafetera-italiana/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHEIkXX4d-HyX2v-RZsq2pfLQPVvK05JtbG4kQaLKH7C9-0vEGtlNtU3gT_1oSvnBKEnMJ3Wca-seSGPyTl3DZ6cJ9fxb6T1CX36PKd3kcBw6-Ahq2V9hNBzcr9-p_lQ4FXFFVjBWOOU9wg57FHtNIjCPuoPgnR3FU9&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQFnoECCkQAQ&uoh=1",
+    "displayed_link": "https://quemescafeteria.es › moler-cafe-para-cafetera-ita...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEXr6-vr6urq6urs6-vs7Ozk4uHU0M3u7--cjIa3ranr6us9AADW0tDx8vKOe3RrTUA3AADo5-dXMB1AAADz9PWUgnuEbmX3-fp_aF3d2tmpm5VMGQDPyccuAACvo57Jwr_AuLV2XFGgkoyJdGtfPCtkRDYyAABEBABUKhJSJQZwVEhdOCYqAABJIRGFAAAB1UlEQVR4AS1PB5IjMQhsEBo82Dhq4k7anO7_77vCa2XRqQCIEwMsQK6U4pmYhSFMIBCDED_d1Qr-4wIEjitGAmC6P6gBkATY_UEQACRG4seTRwJxVDmewgkQILHvzheBRElAoeEwBMRM_HrLlbLB5C_XOMzjzaW5tV0_CJgEfMfjNha2Mu6fctfunENh91yyZIFqvb9VZZoXjbzoE49hkHzbr2U6nxQgJtgjzQSALvumG869QyjhoRJOdw-t5630p_LXRoqSIRaYwXpqu-cXZyZjYhiDQAhIXdVf6-FNRFRhgIH4DrHU7XFc9XC5HPI2jhcTphQAmP3t_VJUo1mBdutHFn2YGvTlvFuzFvei6bC8nTxPSTlAAJdhd_rcP319fT99_-ymrp_n2yQGTmBd1N0l53yJh-aPlX5-C0EM0L6wAAIRE7AvdSnNrwMGsLeVgvEYqbyLDv82paixTtcCgONnrGvTVZ-133VQLX1fhIWRWETf89hklZAln8ZK396qomokwv1A6kLBJa1nV2jz8T5OWTTXJOIHMAgQ3ebXoXhHddM_v76sxUt-XRRCAItX7fmp3y3bOk3TWr-8_r5vmogDNRLXwzY2bf_8_Nw243rxaB7M_wHvTBwA62emJwAAAABJRU5ErkJggg.png",
+    "snippet": "Para una cafetera italiana o moka pot, la molienda debe ser media a fina, con una consistencia que permita una extracción lenta y uniforme. Un grinder adecuado ...",
+    "snippet_highlighted_words": [
+     "la molienda debe ser media a fina"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Para una cafetera italiana o moka pot, la molienda debe ser media a fina, con una consistencia que permita una extracción lenta y uniforme. Un grinder adecuado ...",
+      "source_info_link": "https://quemescafeteria.es/moler-cafe-para-cafetera-italiana/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEXr6-vr6urq6urs6-vs7Ozk4uHU0M3u7--cjIa3ranr6us9AADW0tDx8vKOe3RrTUA3AADo5-dXMB1AAADz9PWUgnuEbmX3-fp_aF3d2tmpm5VMGQDPyccuAACvo57Jwr_AuLV2XFGgkoyJdGtfPCtkRDYyAABEBABUKhJSJQZwVEhdOCYqAABJIRGFAAAB1UlEQVR4AS1PB5IjMQhsEBo82Dhq4k7anO7_77vCa2XRqQCIEwMsQK6U4pmYhSFMIBCDED_d1Qr-4wIEjitGAmC6P6gBkATY_UEQACRG4seTRwJxVDmewgkQILHvzheBRElAoeEwBMRM_HrLlbLB5C_XOMzjzaW5tV0_CJgEfMfjNha2Mu6fctfunENh91yyZIFqvb9VZZoXjbzoE49hkHzbr2U6nxQgJtgjzQSALvumG869QyjhoRJOdw-t5630p_LXRoqSIRaYwXpqu-cXZyZjYhiDQAhIXdVf6-FNRFRhgIH4DrHU7XFc9XC5HPI2jhcTphQAmP3t_VJUo1mBdutHFn2YGvTlvFuzFvei6bC8nTxPSTlAAJdhd_rcP319fT99_-ymrp_n2yQGTmBd1N0l53yJh-aPlX5-C0EM0L6wAAIRE7AvdSnNrwMGsLeVgvEYqbyLDv82paixTtcCgONnrGvTVZ-133VQLX1fhIWRWETf89hklZAln8ZK396qomokwv1A6kLBJa1nV2jz8T5OWTTXJOIHMAgQ3ebXoXhHddM_v76sxUt-XRRCAItX7fmp3y3bOk3TWr-8_r5vmogDNRLXwzY2bf_8_Nw243rxaB7M_wHvTBwA62emJwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDdvWmpCY19JWnFHdWxab1lwYnlXOW5ZMGQ2bm5TT1dWMXh6QjZ0eVFPZTdaOVZ2cEo0eERabkdCcUNmUlEySzV4bW1KNXNlQ0Y4SUhGZ25FYW41a0tMNHpSTDVCM3A2MUJRZHdhei1pVTQ0ZTJ1Q3ppOVZjaXVuNlZ1a0lSaHJScXRiNTJSelRGU0hYV0Z0SU9fV1N3V2liUVRGZBIEGgIIABrDBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCfBQgOEAAYACAAKhIKBWPDs21vFctYlj8aBGNvbW8qQAoFbW9sZXIVYM6rQBoIdHJpdHVyYXIaCW1vbGluaWxsbxoIbW9saWVuZGEaCm1vbGluaWxsb3MaB3RyaXR1cmEqGQoFY2Fmw6kVxY3SQBoEY2FmZRoFY2FmZXMqCwoEcGFyYRV1E_JAKiwKCGNhZmV0ZXJhFQVux0AaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRWk9sVAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEysgEvZ290bz91cmw9Q0FFU2VnSEVJa1hYN29aakJjX0lacUd1bFpvWXBieVc5blkwZDZublNPV1YxeHpCNnR5UU9lN1o5VnZwSjR4RFpuR0JxQ2ZSUTJLNXhtbUo1c2VDRjhJSEZnbkVhbjVrS0w0elJMNUIzcDYxQlFkd2F6LWlVNDRlMnVDemk5VmNpdW42VnVrSVJoclJxdGI1MlJ6VEZTSFhXRnRJT19XU3dXaWJRVEZkOk08Yj5Nb2xlciBjYWbDqSBwYXJhIGNhZmV0ZXJhIGl0YWxpYW5hPC9iPjogYW7DoWxpc2lzIHkgY29tcGFyYXRpdmEgZGUgbGFzIC4uLkKwAVBhcmEgdW5hIGNhZmV0ZXJhIGl0YWxpYW5hIG8gbW9rYSBwb3QsIDxiPmxhIG1vbGllbmRhIGRlYmUgc2VyIG1lZGlhIGEgZmluYTwvYj4sIGNvbiB1bmEgY29uc2lzdGVuY2lhIHF1ZSBwZXJtaXRhIHVuYSBleHRyYWNjacOzbiBsZW50YSB5IHVuaWZvcm1lLiBVbiBncmluZGVyIGFkZWN1YWRvJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDdvWmpCY19JWnFHdWxab1lwYnlXOW5ZMGQ2bm5TT1dWMXh6QjZ0eVFPZTdaOVZ2cEo0eERabkdCcUNmUlEySzV4bW1KNXNlQ0Y4SUhGZ25FYW41a0tMNHpSTDVCM3A2MUJRZHdhei1pVTQ0ZTJ1Q3ppOVZjaXVuNlZ1a0lSaHJScXRiNTJSelRGU0hYV0Z0SU9fV1N3V2liUVRGZBIEGgIIABrDBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCfBQgOEAAYACAAKhIKBWPDs21vFctYlj8aBGNvbW8qQAoFbW9sZXIVYM6rQBoIdHJpdHVyYXIaCW1vbGluaWxsbxoIbW9saWVuZGEaCm1vbGluaWxsb3MaB3RyaXR1cmEqGQoFY2Fmw6kVxY3SQBoEY2FmZRoFY2FmZXMqCwoEcGFyYRV1E_JAKiwKCGNhZmV0ZXJhFQVux0AaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRWk9sVAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEysgEvZ290bz91cmw9Q0FFU2VnSEVJa1hYN29aakJjX0lacUd1bFpvWXBieVc5blkwZDZublNPV1YxeHpCNnR5UU9lN1o5VnZwSjR4RFpuR0JxQ2ZSUTJLNXhtbUo1c2VDRjhJSEZnbkVhbjVrS0w0elJMNUIzcDYxQlFkd2F6LWlVNDRlMnVDemk5VmNpdW42VnVrSVJoclJxdGI1MlJ6VEZTSFhXRnRJT19XU3dXaWJRVEZkOk08Yj5Nb2xlciBjYWbDqSBwYXJhIGNhZmV0ZXJhIGl0YWxpYW5hPC9iPjogYW7DoWxpc2lzIHkgY29tcGFyYXRpdmEgZGUgbGFzIC4uLkKwAVBhcmEgdW5hIGNhZmV0ZXJhIGl0YWxpYW5hIG8gbW9rYSBwb3QsIDxiPmxhIG1vbGllbmRhIGRlYmUgc2VyIG1lZGlhIGEgZmluYTwvYj4sIGNvbiB1bmEgY29uc2lzdGVuY2lhIHF1ZSBwZXJtaXRhIHVuYSBleHRyYWNjacOzbiBsZW50YSB5IHVuaWZvcm1lLiBVbiBncmluZGVyIGFkZWN1YWRvJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "source": "quemescafeteria.es"
+   },
+   {
+    "position": 7,
+    "title": "☕️ Cómo hacer café en cafetera italiana | Guía completa",
+    "link": "https://maneacoffee.es/blogs/blog/como-hacer-cafe-en-cafetera-italiana?srsltid=AYCX9vJ9b4PVZaKl1pdcRHNWxG8hxL6E9elcs2nIafVnOcI2-0QX0qa4",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEBxCJF1y1psPSuJffzK4qdTpLJ2YWtcuw9QEewIGK3KamAjdRgyXnZft4E8K86BdqbWiDWvMMN0YhsRemiu0jlNQlhlXyXZ-4rez60zHvHN2ScgMQayLeIGz-FCSn4ne3to53nNudNRGUlIhv1_r_gSKkRtPUgoKf6pNISOAXWU7soLJ5HwvwLhh99noKhPQd-ec3QRXijhIph_5Op64bE4GbWVdj0fwuDY5pbxq9EhWe8jM8U-It07ecgAPkyhAO3nxtqTw&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQFnoECCgQAQ&uoh=1",
+    "displayed_link": "https://maneacoffee.es › blogs › blog › como-hacer-caf...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEy1eFircFIfFA6CVT44JBqPXkUAAAAAAAAAAABrRjNoRDE4JRpgPy5iQS_7ov_4pHj8p3r2onb____flW3akGj_rH3tnXPOiWTnmG4AAADAgWBPKB8eFhSscFKVeWujl5K7ppy_fFmei4Lv8fLh5ebITz_N0dK_wMJDPTlbWFbLABAcAAAAD3RSTlMA6N4wmU2zDQMXcJCFsa9Ibe7tAAABbElEQVQokX2T15KDMAxFUyAJKTuS3DEdUv__A1c2pG5m9YaPda1ymc1eYsMx-xrrZbrd7bbpcv0HbdJk4ZWT1i-S9CN9vZtL0GS7zks5370lZz8KEV3lpVOVBfWTveQdJAKBcZocgSSUh2fuXiEBEWJX93VFSKj2d5bOAwOg6iKEONcGCOfpJJpIBnzgA2Pq-a5MRuHlghkBmn4Qw-UoROMAYLGMcGv5JgC6dhDnvBeiVZrQbifVCTaDODZnhnyAo262MhEC-GN889hDeGSVTTAgQlcHOjQytPUCKfZpqqZt6tj0C6SgS6S1soowyoxwKoiqurVGa80ffHkqKLbCpee3umytcsp4PphaGYeAPufoi1t7bW6FpvsQ4vjAFQzLvLzm15LhfXxx8KxTFqeiKIOA13Af_Lgy0lSdOMqy6DQ8VzYtG7UJNlGo35Y92oRAWSedxnebPAzGMzDwabCHNZ36Ys3Zv6aO2Z-_wy8b_ygwsc18rwAAAABJRU5ErkJggg.png",
+    "date": "5 nov 2024",
+    "snippet": "Paso 1: Elige y muele el café en punto medio. Selecciona unos buenos granos, muélelos a grosor medio y disfruta del aroma. Aquí el tamaño de la ...",
+    "snippet_highlighted_words": [
+     "y muele el café en punto medio"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Paso 1: Elige y muele el café en punto medio. Selecciona unos buenos granos, muélelos a grosor medio y disfruta del aroma. Aquí el tamaño de la ...",
+      "source_info_link": "https://maneacoffee.es/blogs/blog/como-hacer-cafe-en-cafetera-italiana?srsltid=AYCX9vJ9b4PVZaKl1pdcRHNWxG8hxL6E9elcs2nIafVnOcI2-0QX0qa4",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEVHcEy1eFircFIfFA6CVT44JBqPXkUAAAAAAAAAAABrRjNoRDE4JRpgPy5iQS_7ov_4pHj8p3r2onb____flW3akGj_rH3tnXPOiWTnmG4AAADAgWBPKB8eFhSscFKVeWujl5K7ppy_fFmei4Lv8fLh5ebITz_N0dK_wMJDPTlbWFbLABAcAAAAD3RSTlMA6N4wmU2zDQMXcJCFsa9Ibe7tAAABbElEQVQokX2T15KDMAxFUyAJKTuS3DEdUv__A1c2pG5m9YaPda1ymc1eYsMx-xrrZbrd7bbpcv0HbdJk4ZWT1i-S9CN9vZtL0GS7zks5370lZz8KEV3lpVOVBfWTveQdJAKBcZocgSSUh2fuXiEBEWJX93VFSKj2d5bOAwOg6iKEONcGCOfpJJpIBnzgA2Pq-a5MRuHlghkBmn4Qw-UoROMAYLGMcGv5JgC6dhDnvBeiVZrQbifVCTaDODZnhnyAo262MhEC-GN889hDeGSVTTAgQlcHOjQytPUCKfZpqqZt6tj0C6SgS6S1soowyoxwKoiqurVGa80ffHkqKLbCpee3umytcsp4PphaGYeAPufoi1t7bW6FpvsQ4vjAFQzLvLzm15LhfXxx8KxTFqeiKIOA13Af_Lgy0lSdOMqy6DQ8VzYtG7UJNlGo35Y92oRAWSedxnebPAzGMzDwabCHNZ36Ys3Zv6aO2Z-_wy8b_ygwsc18rwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCeENKRjE1NDhvVVFoSDZDTll6Q0pwRFU3ZnZkV1NNS2hOTFBWY3NTRGVvQXZZWXdRQlIzWXBKaG4wLUlhMVd4UjJtMnF0MHluVG5oaHFKUnJOWnNuOW5YbUNXdGNRT3FoU2dJaGVkaWc4YUtYeGxmbjlPWU5lbm5HU3d1elRJYXExcDQyb3FJQU03UmgyREJ2cHZEUnZRMEM1SUVXUnctX0pNOGNBQkZ0SkNIcnk2UDBIbURROWE5R1Q2YWdwcHNQbGkyTWQ0NW81MTd6OV84T1duRDA2czRDYzV6OHd2N0lwXzNNLTA1WEg4YmJ2WVU3LVBLUUxCYTZ4M0VyS3VPT3FjY01uURIEGgIIABrDBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCfBQgOEAAYACAAKhIKBWPDs21vFTnMk0AaBGNvbW8qQAoFbW9sZXIViF4NPhoIdHJpdHVyYXIaCW1vbGluaWxsbxoIbW9saWVuZGEaCm1vbGluaWxsb3MaB3RyaXR1cmEqGQoFY2Fmw6kVL_nmQBoEY2FmZRoFY2FmZXMqCwoEcGFyYRXDVG9AKiwKCGNhZmV0ZXJhFePYzUAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRXFL8xAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEywAEvZ290bz91cmw9Q0FFU2d3RUJ4Q0pGMTFTTFVJa1puZFYzU0pwM2JjWGs2NEtXUU1yQnJNYUtCV1lmMGh5YlhBVkl5bmRnaW5ORm1Nak51dEdOZHZoWWtwanNVRzV3WS1QOEJiWW5GTEpkZExYTktlUkc0WXhYQWJfNncwaldQYnd6MEFkZjFHamRkMFQ3R2VtMlJBLUpsUjNkNWstYmtWMEJxcUlOQVJzY3FzOUZraks3ekY3ejVyMHdubWtSZGc6TDxiPkPDs21vPC9iPiBoYWNlciA8Yj5jYWbDqTwvYj4gZW4gPGI-Y2FmZXRlcmEgaXRhbGlhbmE8L2I-IHwgR3XDrWEgY29tcGxldGFCowFQYXNvIDE6IEVsaWdlIDxiPnkgbXVlbGUgZWwgY2Fmw6kgZW4gcHVudG8gbWVkaW88L2I-LiBTZWxlY2Npb25hIHVub3MgYnVlbm9zIGdyYW5vcywgbXXDqWxlbG9zIGEgZ3Jvc29yIG1lZGlvIHkgZGlzZnJ1dGEgZGVsIGFyb21hLiBBcXXDrSBlbCB0YW1hw7FvIGRlIGxhJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCeENKRjE1NDhvVVFoSDZDTll6Q0pwRFU3ZnZkV1NNS2hOTFBWY3NTRGVvQXZZWXdRQlIzWXBKaG4wLUlhMVd4UjJtMnF0MHluVG5oaHFKUnJOWnNuOW5YbUNXdGNRT3FoU2dJaGVkaWc4YUtYeGxmbjlPWU5lbm5HU3d1elRJYXExcDQyb3FJQU03UmgyREJ2cHZEUnZRMEM1SUVXUnctX0pNOGNBQkZ0SkNIcnk2UDBIbURROWE5R1Q2YWdwcHNQbGkyTWQ0NW81MTd6OV84T1duRDA2czRDYzV6OHd2N0lwXzNNLTA1WEg4YmJ2WVU3LVBLUUxCYTZ4M0VyS3VPT3FjY01uURIEGgIIABrDBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCfBQgOEAAYACAAKhIKBWPDs21vFTnMk0AaBGNvbW8qQAoFbW9sZXIViF4NPhoIdHJpdHVyYXIaCW1vbGluaWxsbxoIbW9saWVuZGEaCm1vbGluaWxsb3MaB3RyaXR1cmEqGQoFY2Fmw6kVL_nmQBoEY2FmZRoFY2FmZXMqCwoEcGFyYRXDVG9AKiwKCGNhZmV0ZXJhFePYzUAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRXFL8xAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEywAEvZ290bz91cmw9Q0FFU2d3RUJ4Q0pGMTFTTFVJa1puZFYzU0pwM2JjWGs2NEtXUU1yQnJNYUtCV1lmMGh5YlhBVkl5bmRnaW5ORm1Nak51dEdOZHZoWWtwanNVRzV3WS1QOEJiWW5GTEpkZExYTktlUkc0WXhYQWJfNncwaldQYnd6MEFkZjFHamRkMFQ3R2VtMlJBLUpsUjNkNWstYmtWMEJxcUlOQVJzY3FzOUZraks3ekY3ejVyMHdubWtSZGc6TDxiPkPDs21vPC9iPiBoYWNlciA8Yj5jYWbDqTwvYj4gZW4gPGI-Y2FmZXRlcmEgaXRhbGlhbmE8L2I-IHwgR3XDrWEgY29tcGxldGFCowFQYXNvIDE6IEVsaWdlIDxiPnkgbXVlbGUgZWwgY2Fmw6kgZW4gcHVudG8gbWVkaW88L2I-LiBTZWxlY2Npb25hIHVub3MgYnVlbm9zIGdyYW5vcywgbXXDqWxlbG9zIGEgZ3Jvc29yIG1lZGlvIHkgZGlzZnJ1dGEgZGVsIGFyb21hLiBBcXXDrSBlbCB0YW1hw7FvIGRlIGxhJm5ic3A7Li4uUgRjb21vIgIQAUgAWABoAA",
+    "source": "Manea Coffee"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Como moler el café para cafetera espresso",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+moler+el+caf%C3%A9+para+cafetera+espresso&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhGEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+moler+el+caf%C3%A9+para+cafetera+espresso"
+   },
+   {
+    "block_position": 1,
+    "query": "Como hacer café en cafetera tradicional",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+hacer+caf%C3%A9+en+cafetera+tradicional&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhHEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+hacer+caf%C3%A9+en+cafetera+tradicional"
+   },
+   {
+    "block_position": 1,
+    "query": "Como preparar café en una cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+preparar+caf%C3%A9+en+una+cafetera+italiana&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhLEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+preparar+caf%C3%A9+en+una+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Café para cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Caf%C3%A9+para+cafetera+italiana&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhFEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Caf%C3%A9+para+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Como hacer correctamente café en cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+hacer+correctamente+caf%C3%A9+en+cafetera+italiana&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhJEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+hacer+correctamente+caf%C3%A9+en+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Como hacer café molido en cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+hacer+caf%C3%A9+molido+en+cafetera+italiana&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhKEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+hacer+caf%C3%A9+molido+en+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Cafe en grano cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Cafe+en+grano+cafetera+italiana&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhIEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Cafe+en+grano+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Como hacer café en cafetera italiana en inducción",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&q=Como+hacer+caf%C3%A9+en+cafetera+italiana+en+inducci%C3%B3n&sa=X&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ1QJ6BAhEEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Como+hacer+caf%C3%A9+en+cafetera+italiana+en+inducci%C3%B3n"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=10&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8NMDegQIPhAW",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=10&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAE",
+    "3": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=20&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAG",
+    "4": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=30&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAI",
+    "5": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=40&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAK",
+    "6": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=50&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAM",
+    "7": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=60&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAO",
+    "8": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=70&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAQ",
+    "9": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=80&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAS",
+    "10": "https://www.google.es/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDgo1KHKn6oRywtzhiu89wGmnvkgww:1794401347357&ei=Q2T0apSlFbOZkPIP6-CAWA&start=90&sa=N&sstk=AYl2yk8HX7GfnKKWUBW5gl1YsA9FV7YeoYr7LfbA8r57AKjH68qSsSupT8JdKSOUsbtdNH64WM9XdHTTGXLu3rMWXiQ036D2aagR0g&ved=2ahUKEwjU0pL3-f-XAxWzDEQIHWswAAsQ8tMDegQIPhAU"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=80",
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&start=90"
+   }
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "capturado": "2026-11-11T13:59:06Z",
+ "proveedor": "claudecode",
+ "carga": {
+  "pregunta": "¿Qué café de especialidad me recomiendas comprar online en España para cafetera italiana?"
+ },
+ "respuesta": {
+  "texto": "Para cafetera italiana funcionan muy bien los cafés de especialidad de cuerpo medio-alto y perfil dulce, con notas de chocolate, caramelo y frutos secos (orígenes como Brasil o Colombia). Tiendas online en España donde comprarlos: Cafés El Criollo (molienda media-fina para moka, tueste en Zaragoza), Cafés MyWay (pack 100% arábica molido para cafetera italiana), Incapto, Nomad Coffee y Café Gourmet, además de plataformas como East Crema o Slct of Caffe. Pide tueste reciente y, si puedes, el grano para molerlo al momento.",
+  "fuentes": [
+   {
+    "url": "https://slctocaffeto.es/",
+    "titulo": "Café de especialidad online"
+   },
+   {
+    "url": "https://cafeselcriollo.com/cafe-para-cafetera-italiana/",
+    "titulo": "Café para Cafetera Italiana (Moka) - Cafés El Criollo"
+   },
+   {
+    "url": "https://www.gastroactitud.com/pista/cinco-sitios-para-comprar-cafe-de-especialidad-online/",
+    "titulo": "Cinco sitios para comprar café de especialidad online"
+   },
+   {
+    "url": "https://elrincondecafe.es/mejor-cafe-especialidad-online-espana",
+    "titulo": "Mejor Café de Especialidad Online España 2026"
+   },
+   {
+    "url": "https://cafesmyway.com/tienda/cafe/packs/cafetera-moka-italiana/",
+    "titulo": "Pack de café para Cafetera Moka Italiana - Cafes Myway"
+   },
+   {
+    "url": "https://salem.cafe/blogs/noticias/donde-comprar-cafe-especialidad-online",
+    "titulo": "Dónde comprar café de especialidad online en España"
+   },
+   {
+    "url": "https://eastcrema.com/",
+    "titulo": "Comprar Café de Especialidad Online"
+   },
+   {
+    "url": "https://www.topcafedeespecialidad.com/",
+    "titulo": "El mejor café de especialidad y accesorios para comprar online"
+   }
+  ],
+  "busquedas": [
+   "mejor café de especialidad comprar online España para cafetera italiana moka tienda recomendación"
+  ],
+  "crudo": {
+   "asistente": "claude-code",
+   "nota": "respuesta con búsqueda web real desde Claude Code"
+  }
+ }
+}

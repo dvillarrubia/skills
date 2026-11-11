@@ -1,0 +1,47 @@
+{
+ "capturado": "2026-11-11T13:59:06Z",
+ "proveedor": "claudecode",
+ "carga": {
+  "pregunta": "¿Qué molienda necesito para una cafetera italiana si compro café en grano?"
+ },
+ "respuesta": {
+  "texto": "Para cafetera italiana (moka) necesitas una molienda media-fina: más gruesa que la de espresso y más fina que la de filtro, con una textura parecida a la arena fina. Si te pasas de fina, el café se sobreextrae y amarga; si te quedas corto (demasiado gruesa), sale aguado y sin cuerpo. Comprar en grano es lo ideal porque conserva mejor el aroma y te permite moler justo antes de preparar, ajustando el punto a tu moka. Para el grano, un perfil equilibrado de intensidad media-alta y tueste natural medio funciona bien.",
+  "fuentes": [
+   {
+    "url": "https://cafesgranell.es/es/coffee-blog-1940/guias-y-consejos/mejor-cafe-en-grano-para-cafetera-italiana",
+    "titulo": "Mejor café en grano para cafetera italiana (moka)"
+   },
+   {
+    "url": "https://caffio.es/cafe/cafe-en-grano-para-moka/",
+    "titulo": "Los 10 mejores cafés en grano para moka"
+   },
+   {
+    "url": "https://www.aromasdete.com/en/blogs/news/cafe-molido-tipos-de-molienda",
+    "titulo": "Café molido: tipos de molienda y cómo elegir el correcto"
+   },
+   {
+    "url": "https://sanjorge.cafe/blogs/cafe-de-bueno/cafe-en-grano-o-molido",
+    "titulo": "Café en grano o molido: cuál elegir según tu cafetera"
+   },
+   {
+    "url": "https://cafeplatino.com/blogs/cultura-cafetera/cafe-molido-fino-o-grueso-cual-usar-en-cada-tipo-de-cafetera",
+    "titulo": "Café molido, fino o grueso: cuál usar con cada cafetera"
+   },
+   {
+    "url": "https://cafesytes.com/blogs/blogs/molienda-cafe-cafetera",
+    "titulo": "Molienda del café para cada cafetera"
+   },
+   {
+    "url": "https://cerescoffee.es/blogs/guias-de-cafe/tipos-de-molienda-segun-tu-cafetera",
+    "titulo": "Tipos de molienda según tu cafetera: guía práctica"
+   }
+  ],
+  "busquedas": [
+   "qué molienda necesito para cafetera italiana moka si compro café en grano grado molienda"
+  ],
+  "crudo": {
+   "asistente": "claude-code",
+   "nota": "respuesta con búsqueda web real desde Claude Code"
+  }
+ }
+}

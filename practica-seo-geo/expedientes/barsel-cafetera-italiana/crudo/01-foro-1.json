@@ -1,0 +1,347 @@
+{
+ "capturado": "2026-11-11T12:40:20Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "site:forocoches.com café cafetera italiana sale amargo",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af46235739fd708e2459e23",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Zd_M2CDC3qBKR-n0bVsR984nsP0h4Hq4haxRdNzznhs/6af46235739fd708e2459e23.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Zd_M2CDC3qBKR-n0bVsR984nsP0h4Hq4haxRdNzznhs/6af46235739fd708e2459e23.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/Zd_M2CDC3qBKR-n0bVsR984nsP0h4Hq4haxRdNzznhs/6af46235739fd708e2459e23.json_with_pixel_position",
+   "created_at": "2026-11-11 12:40:21 UTC",
+   "processed_at": "2026-11-11 12:40:21 UTC",
+   "google_url": "https://www.google.es/search?q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&oq=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/Zd_M2CDC3qBKR-n0bVsR984nsP0h4Hq4haxRdNzznhs/6af46235739fd708e2459e23.html",
+   "total_time_taken": 0.59
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "site:forocoches.com café cafetera italiana sale amargo",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "site:forocoches.com café cafetera italiana sale amargo",
+   "total_results": 69,
+   "time_taken_displayed": 0.15,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "¿Tu café sale demasiado amargo, aguado o con un sabor que ...",
+    "link": "https://www.facebook.com/cafessolycrema/posts/tu-caf%C3%A9-sale-demasiado-amargo-aguado-o-con-un-sabor-que-no-termina-de-convencert/1721822513286658/",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/vIBK3CM5eUVb855UQh6rTFwgCwmY_Uc24W-K2cODOCw.jpg",
+    "channel": "Cafés Sol y Crema",
+    "duration": "0:56",
+    "platform": "Facebook",
+    "date": "Hace 1 mes",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ2rNq3TisVBxtyfNBfnWNtpGN5ag8qiv_p8w"
+   },
+   {
+    "position": 2,
+    "title": "¿Por qué tu café sale amargo o quemado? Mirá este video  ...",
+    "link": "https://www.instagram.com/reel/Dd7Tis6j7XC/",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/mkGj2-9zyJwl9ZsYiI-6J6NBQe_gQ8VArYUEETmjrmA.jpg",
+    "channel": "Mercado de Cafeteras ☕",
+    "duration": "0:21",
+    "platform": "Instagram",
+    "date": "Hace 1 mes"
+   },
+   {
+    "position": 3,
+    "title": "¿Tu moka te deja un café más amargo que ...",
+    "link": "https://www.instagram.com/reel/DO21pcHjAUp/",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/iBhByL_tYKMsp1Hq1s4vHIWXNfT0gyupEKxd0q5trmE.jpg",
+    "channel": "Max Pagès",
+    "duration": "0:46",
+    "platform": "Instagram",
+    "date": "21 sept 2025"
+   },
+   {
+    "position": 4,
+    "title": "¿Tienes una cafetera italiana pero el café te sabe amargo o ...",
+    "link": "https://www.instagram.com/reel/DeMfgeYAFLB/",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/crvsxmdXFOQDkF9ppItb4xnSbDVI_1YjjpLpZkmvQzI.jpg",
+    "channel": "Jose Maria Pellejero",
+    "duration": "0:40",
+    "platform": "Instagram",
+    "date": "Hace 1 mes"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "María, barista profesional: \"Este error común en España ...",
+    "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20250208/maria-barista-profesionaleste-error-comun-espana-cafetera-italiana-cambia-completo-sabor-cafe/922158101_0.html",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES8QEBxCJF11WUDD9PClphOj2tYBK03kguytk6mpr1Xhc8XFQSiNPBXl5MJoiYkkwhlmzn_1Q0ngQC933giOfgbg-0KfLLJVrU1g0z6C5ieKp3hveiBAMzZHsaDzVZP2JbOFYN2lgSJGvUI2QnJGLlzeOobkZk6DS7cZIRGkhel60iFJKIpefcrIBvQHoO67fKY1DMvgE7mwZWFtHWVXglGzaWnRGBoRsyBhBlLoFK12Ff4YyaccVsm5Qxmy5idotseuxqcU-OoSYVE1dn2gwXrXXq0OEMVSKk2uEDxSq1VXqIconUdKc_vkCnSrAaV5JNKrd7&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECCEQAQ&uoh=1",
+    "displayed_link": "https://www.elespanol.com › ... › Actualidad gastronómica",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX____CwsF1dXQ4OTcZGhgKCwnR0dGys7Lg4OBHSEYoKiiUlJOEhYRmZmWjo6Pv7-8pKihWV1VrzDGGAAABlElEQVR4AW3SB5YjIQwE0IJWgQCJcP_LrhvG6Xm_sxU74C3ESygiKWXFr1DIymZVPfb2Ex7OOs1dGczvZh1fklQ2qoQog2GUa-CLCjPTHMylZA6vY6jGgSP4FDIwS6LJNCa27Agyy-oAosRulXNeLHxYdEZqJD0HnwM1tdjR-EmkkNaXa3I0X4-nyUe4VJLVyCIaEUla3IEwcqE0AMZtWevgS1G8FN7Erb0T3Oyd0cgSbdUpr4SFT4OGW_B3h0nxcaI9IITosSsAvth1ynRWKWHP6OOdEMpaLHu-xBIGAw6LleQJnXdrCkBmiTtntMWHCSDT9z8DQOKc58j5x7MJg6oObDsrG8AfMwMqZOm4eSz8I1P4UBWwk6rnXjwkA4hkvFv3AKRW2T9HVBsYYngwIWVlhJLxjmtWQBTortyWIkNcuMndrzHibFBsnSX04h9pfd2RnoLscvU7Y_JTae36OFytBWRdfIpjAOWkVrJDKxjTu8k1VXWe-tGrJAwYJn-5cEHrxFn51wzCAK0GKP_LkswBnfgHKYkWZth6MzoAAAAASUVORK5CYII.png",
+    "date": "8 feb 2025",
+    "snippet": "Este fallo puede hacer que el café sea más amargo y pierda su sabor auténtico, afectando la experiencia final.",
+    "snippet_highlighted_words": [
+     "café",
+     "amargo"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Este fallo puede hacer que el café sea más amargo y pierda su sabor auténtico, afectando la experiencia final.",
+      "source_info_link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20250208/maria-barista-profesionaleste-error-comun-espana-cafetera-italiana-cambia-completo-sabor-cafe/922158101_0.html",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX____CwsF1dXQ4OTcZGhgKCwnR0dGys7Lg4OBHSEYoKiiUlJOEhYRmZmWjo6Pv7-8pKihWV1VrzDGGAAABlElEQVR4AW3SB5YjIQwE0IJWgQCJcP_LrhvG6Xm_sxU74C3ESygiKWXFr1DIymZVPfb2Ex7OOs1dGczvZh1fklQ2qoQog2GUa-CLCjPTHMylZA6vY6jGgSP4FDIwS6LJNCa27Agyy-oAosRulXNeLHxYdEZqJD0HnwM1tdjR-EmkkNaXa3I0X4-nyUe4VJLVyCIaEUla3IEwcqE0AMZtWevgS1G8FN7Erb0T3Oyd0cgSbdUpr4SFT4OGW_B3h0nxcaI9IITosSsAvth1ynRWKWHP6OOdEMpaLHu-xBIGAw6LleQJnXdrCkBmiTtntMWHCSDT9z8DQOKc58j5x7MJg6oObDsrG8AfMwMqZOm4eSz8I1P4UBWwk6rnXjwkA4hkvFv3AKRW2T9HVBsYYngwIWVlhJLxjmtWQBTortyWIkNcuMndrzHibFBsnSX04h9pfd2RnoLscvU7Y_JTae36OFytBWRdfIpjAOWkVrJDKxjTu8k1VXWe-tGrJAwYJn-5cEHrxFn51wzCAK0GKP_LkswBnfgHKYkWZth6MzoAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtICL2dvdG8_dXJsPUNBRVM4UUVCeENKRjEwNXIxUkEzODFTcWJ4QjBjekcxc0U1aENSUlZYVV8tR28tMkhnVkU4bklwb2U3dVdOckh6WEVyRHNIeFRxckRVaUFtNEU5UTNEVDc0WEJudjRmdTMtdUNwdlJZaTU0bnpjbThqYkVGU0hqV3ZKdUFmeEZxVk93UFEwbHlDYzMxTk5kT0FtNWtOOW9icWExclFlZVpnUG9ISmlvUzN4bU5vczB0VGJyWTVyc3RoUkRwZmpUZFljUmxaM0pXUmpqYVFUSkZBbzI3a25qS3ZXZmxLajFaVTRScVg2RVI0cGh0Y1NPTS00VmNmeXpEdi1BMXVGRGs2SzB0UHhUbW5LSUFLR2pHWnhjLXE4Zl8tQjhnaTROdG94dFVpOGVucWJjNl9RVEdDaTVnc1JkYU9NVW9WMkQ5c1hQQXdWZHgSBBoCCAAaowYSABoAIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJA_wUIDhAAGAAgACozCgVjYWbDqRWJzz1AGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgVjYWZmZRoGY2Fmw6lzKjgKCGNhZmV0ZXJhFb5ZfUAaBGNhZmUaCWNhZmV0ZXJhcxoEbW9rYRoQY2FmZXRlcmFpdGFsaWFuYSo1CghpdGFsaWFuYRUCHnNAGgdpdGFsaWFuGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqGAoEc2FsZRXwmno9GgRzYWJlGgVzYWxlcyoWCgZhbWFyZ28VCBStPhoHYW1hcmdvczLSAi9nb3RvP3VybD1DQUVTOFFFQnhDSkYxMDVyMVJBMzgxU3FieEIwY3pHMXNFNWhDUlJWWFVfLUdvLTJIZ1ZFOG5JcG9lN3VXTnJIelhFckRzSHhUcXJEVWlBbTRFOVEzRFQ3NFhCbnY0ZnUzLXVDcHZSWWk1NG56Y204amJFRlNIald2SnVBZnhGcVZPd1BRMGx5Q2MzMU5OZE9BbTVrTjlvYnFhMXJRZWVaZ1BvSEppb1MzeG1Ob3MwdFRiclk1cnN0aFJEcGZqVGRZY1JsWjNKV1JqamFRVEpGQW8yN2tuakt2V2ZsS2oxWlU0UnFYNkVSNHBodGNTT00tNFZjZnl6RHYtQTF1RkRrNkswdFB4VG1uS0lBS0dqR1p4Yy1xOGZfLUI4Z2k0TnRveHRVaThlbnFiYzZfUVRHQ2k1Z3NSZGFPTVVvVjJEOXNYUEF3VmR4OkdNYXLDrWEsIGJhcmlzdGEgcHJvZmVzaW9uYWw6ICZxdW90O0VzdGUgZXJyb3IgY29tw7puIGVuIEVzcGHDsWEgY29uIC4uLkJ_RXN0ZSBmYWxsbyBwdWVkZSBoYWNlciBxdWUgZWwgPGI-Y2Fmw6k8L2I-IHNlYSBtw6FzIDxiPmFtYXJnbzwvYj4geSBwaWVyZGEgc3Ugc2Fib3IgYXV0w6ludGljbywgYWZlY3RhbmRvIGxhIGV4cGVyaWVuY2lhIGZpbmFsLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtICL2dvdG8_dXJsPUNBRVM4UUVCeENKRjEwNXIxUkEzODFTcWJ4QjBjekcxc0U1aENSUlZYVV8tR28tMkhnVkU4bklwb2U3dVdOckh6WEVyRHNIeFRxckRVaUFtNEU5UTNEVDc0WEJudjRmdTMtdUNwdlJZaTU0bnpjbThqYkVGU0hqV3ZKdUFmeEZxVk93UFEwbHlDYzMxTk5kT0FtNWtOOW9icWExclFlZVpnUG9ISmlvUzN4bU5vczB0VGJyWTVyc3RoUkRwZmpUZFljUmxaM0pXUmpqYVFUSkZBbzI3a25qS3ZXZmxLajFaVTRScVg2RVI0cGh0Y1NPTS00VmNmeXpEdi1BMXVGRGs2SzB0UHhUbW5LSUFLR2pHWnhjLXE4Zl8tQjhnaTROdG94dFVpOGVucWJjNl9RVEdDaTVnc1JkYU9NVW9WMkQ5c1hQQXdWZHgSBBoCCAAaowYSABoAIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJA_wUIDhAAGAAgACozCgVjYWbDqRWJzz1AGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgVjYWZmZRoGY2Fmw6lzKjgKCGNhZmV0ZXJhFb5ZfUAaBGNhZmUaCWNhZmV0ZXJhcxoEbW9rYRoQY2FmZXRlcmFpdGFsaWFuYSo1CghpdGFsaWFuYRUCHnNAGgdpdGFsaWFuGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqGAoEc2FsZRXwmno9GgRzYWJlGgVzYWxlcyoWCgZhbWFyZ28VCBStPhoHYW1hcmdvczLSAi9nb3RvP3VybD1DQUVTOFFFQnhDSkYxMDVyMVJBMzgxU3FieEIwY3pHMXNFNWhDUlJWWFVfLUdvLTJIZ1ZFOG5JcG9lN3VXTnJIelhFckRzSHhUcXJEVWlBbTRFOVEzRFQ3NFhCbnY0ZnUzLXVDcHZSWWk1NG56Y204amJFRlNIald2SnVBZnhGcVZPd1BRMGx5Q2MzMU5OZE9BbTVrTjlvYnFhMXJRZWVaZ1BvSEppb1MzeG1Ob3MwdFRiclk1cnN0aFJEcGZqVGRZY1JsWjNKV1JqamFRVEpGQW8yN2tuakt2V2ZsS2oxWlU0UnFYNkVSNHBodGNTT00tNFZjZnl6RHYtQTF1RkRrNkswdFB4VG1uS0lBS0dqR1p4Yy1xOGZfLUI4Z2k0TnRveHRVaThlbnFiYzZfUVRHQ2k1Z3NSZGFPTVVvVjJEOXNYUEF3VmR4OkdNYXLDrWEsIGJhcmlzdGEgcHJvZmVzaW9uYWw6ICZxdW90O0VzdGUgZXJyb3IgY29tw7puIGVuIEVzcGHDsWEgY29uIC4uLkJ_RXN0ZSBmYWxsbyBwdWVkZSBoYWNlciBxdWUgZWwgPGI-Y2Fmw6k8L2I-IHNlYSBtw6FzIDxiPmFtYXJnbzwvYj4geSBwaWVyZGEgc3Ugc2Fib3IgYXV0w6ludGljbywgYWZlY3RhbmRvIGxhIGV4cGVyaWVuY2lhIGZpbmFsLiICEAFIAFgAaAA",
+    "source": "El Español"
+   },
+   {
+    "position": 2,
+    "title": "Cómo preparar café en moka italiana sin amargor",
+    "link": "https://brewfusionshop.com/es/blogs/news/como-preparar-cafe-en-moka-italiana-sin-amargor?srsltid=AYCX9vIblZ4pxu63aA2bcWEhq_tMag8ei5rXGLMWbAhLAHGlBIVtRxGB",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1gEBxCJF18macaw0CF9p1ku9pAy5wILSIiFf9m-QJ2ZdhNLFmR5LbC-3tzyJVoTJvWtlcWDLIaoil_KAgUbgW-lmIyruoa0Jh8SLZOsBA_GHxaOSna4R93e_undzQN6KNIxIHL3rbrLhS4bZRJdmEWhZgqGcmP1uD3WikN6gS78sup_gsNIK6wyRMF6RLmKmIwsVzRA-K1jcNCLnM3MZrw93SPXRcFfsjrRP5-V0kWPtkmBbCGNgSd2o3_in5uQct0ja8DnJ9k6lnp7_nVg44eXG-cCboQwd&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECCAQAQ&uoh=1",
+    "displayed_link": "https://brewfusionshop.com › blogs › news › como-prep...",
+    "favicon": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/b5a_L7v8841ODBLnvhjwTz7xMixBg5984UV3YU9DUVk.png",
+    "date": "22 oct 2025",
+    "snippet": "Resumen: La cafetera moka es un clásico italiano, pero su sabor puede volverse amargo si no controlas la molienda, el agua o el tiempo.",
+    "snippet_highlighted_words": [
+     "cafetera",
+     "amargo"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Resumen: La cafetera moka es un clásico italiano, pero su sabor puede volverse amargo si no controlas la molienda, el agua o el tiempo.",
+      "source_info_link": "https://brewfusionshop.com/es/blogs/news/como-preparar-cafe-en-moka-italiana-sin-amargor?srsltid=AYCX9vIblZ4pxu63aA2bcWEhq_tMag8ei5rXGLMWbAhLAHGlBIVtRxGB",
+      "icon": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/b5a_L7v8841ODBLnvhjwT8-H5pNR4Rp08JXQv8RhTTczov51oo072ogCLZ7Gdbwu.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCeENKRjEyZ2ZjRXlMVnZwS2p5WElYQk9QeTNlaFFSRUNrYjJxN2FjUnRSXzBMYm5jZmhkS2Z3NVJCY21fdE9oVjVTYmpzNVFQTFd0RDdkZG5DWUxzZUxRRWxkSVFOd1VseTZyZUI1U1l6b3E1UkRhSWw3X1NITlhYM3ZPX2NJRTB3Slg3dWN1d0dGdnVvcWh0QzRDU1pUQkxObWQ1dmVaNVhWYnB4VWMxQ003Zk9uOGQ2NmY1WHVUSUNOYVdUa0Z5ODlHWVc2dHFrUmFFRmV4dGxJZTJpYXFPRlM5aFNzMTlUQkxtOVpiV29KMjd6N1RDYUgxRV9kMl9yZjNWX1VQWndTMWRYQWhqYTdoZ0l6ekhKb1p5YTJGeV9aT3cSBBoCCAAaxAUSABoAIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAoAUIDhAAGAAgACozCgVjYWbDqRUTy5dAGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgVjYWZmZRoGY2Fmw6lzKjgKCGNhZmV0ZXJhFWZ15T4aBGNhZmUaCWNhZmV0ZXJhcxoEbW9rYRoQY2FmZXRlcmFpdGFsaWFuYSo1CghpdGFsaWFuYRXCPolAGgdpdGFsaWFuGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqGAoEc2FsZRUAAAAAGgRzYWJlGgVzYWxlcyoWCgZhbWFyZ28VlkyLPhoHYW1hcmdvczLWAS9nb3RvP3VybD1DQUVTbEFFQnhDSkYxX2FwV3R1RzJ3aTBmUmtRc1RaTGl2SVhNWU1rQ2lxWG0yLUNrc1BlckpXdWpoajNpaHlLcTNpV2szLW5kWTM4UjhWMExwRXFXOUtGSkd6cjhQRUhVWlN6UE1aSXJIT3UtN2h4MGpMVkREbmFyWWFUOWdVY1VuYV9xNEd2YmJ0andpZ2t1TkF3Z0VRX25hd2hsZWlEQVh6YzhaT1lzZnBZRk5jMGVnY3FWbjBPMzZpYW5oZmVnbzM3UGoxTHBPYjM6TEPDs21vIHByZXBhcmFyIDxiPmNhZsOpPC9iPiBlbiBtb2thIDxiPml0YWxpYW5hPC9iPiBzaW4gYW1hcmdvciAtIEJyZXdGdXNpb25ClgFSZXN1bWVuOiBMYSA8Yj5jYWZldGVyYTwvYj4gbW9rYSBlcyB1biBjbMOhc2ljbyBpdGFsaWFubywgcGVybyBzdSBzYWJvciBwdWVkZSB2b2x2ZXJzZSA8Yj5hbWFyZ288L2I-IHNpIG5vIGNvbnRyb2xhcyBsYSBtb2xpZW5kYSwgZWwgYWd1YSBvIGVsIHRpZW1wby4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cq4CL2dvdG8_dXJsPUNBRVMxZ0VCeENKRjEyZ2ZjRXlMVnZwS2p5WElYQk9QeTNlaFFSRUNrYjJxN2FjUnRSXzBMYm5jZmhkS2Z3NVJCY21fdE9oVjVTYmpzNVFQTFd0RDdkZG5DWUxzZUxRRWxkSVFOd1VseTZyZUI1U1l6b3E1UkRhSWw3X1NITlhYM3ZPX2NJRTB3Slg3dWN1d0dGdnVvcWh0QzRDU1pUQkxObWQ1dmVaNVhWYnB4VWMxQ003Zk9uOGQ2NmY1WHVUSUNOYVdUa0Z5ODlHWVc2dHFrUmFFRmV4dGxJZTJpYXFPRlM5aFNzMTlUQkxtOVpiV29KMjd6N1RDYUgxRV9kMl9yZjNWX1VQWndTMWRYQWhqYTdoZ0l6ekhKb1p5YTJGeV9aT3cSBBoCCAAaxAUSABoAIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAoAUIDhAAGAAgACozCgVjYWbDqRUTy5dAGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgVjYWZmZRoGY2Fmw6lzKjgKCGNhZmV0ZXJhFWZ15T4aBGNhZmUaCWNhZmV0ZXJhcxoEbW9rYRoQY2FmZXRlcmFpdGFsaWFuYSo1CghpdGFsaWFuYRXCPolAGgdpdGFsaWFuGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqGAoEc2FsZRUAAAAAGgRzYWJlGgVzYWxlcyoWCgZhbWFyZ28VlkyLPhoHYW1hcmdvczLWAS9nb3RvP3VybD1DQUVTbEFFQnhDSkYxX2FwV3R1RzJ3aTBmUmtRc1RaTGl2SVhNWU1rQ2lxWG0yLUNrc1BlckpXdWpoajNpaHlLcTNpV2szLW5kWTM4UjhWMExwRXFXOUtGSkd6cjhQRUhVWlN6UE1aSXJIT3UtN2h4MGpMVkREbmFyWWFUOWdVY1VuYV9xNEd2YmJ0andpZ2t1TkF3Z0VRX25hd2hsZWlEQVh6YzhaT1lzZnBZRk5jMGVnY3FWbjBPMzZpYW5oZmVnbzM3UGoxTHBPYjM6TEPDs21vIHByZXBhcmFyIDxiPmNhZsOpPC9iPiBlbiBtb2thIDxiPml0YWxpYW5hPC9iPiBzaW4gYW1hcmdvciAtIEJyZXdGdXNpb25ClgFSZXN1bWVuOiBMYSA8Yj5jYWZldGVyYTwvYj4gbW9rYSBlcyB1biBjbMOhc2ljbyBpdGFsaWFubywgcGVybyBzdSBzYWJvciBwdWVkZSB2b2x2ZXJzZSA8Yj5hbWFyZ288L2I-IHNpIG5vIGNvbnRyb2xhcyBsYSBtb2xpZW5kYSwgZWwgYWd1YSBvIGVsIHRpZW1wby4iAhABSABYAGgA",
+    "source": "BrewFusion"
+   },
+   {
+    "position": 3,
+    "title": "Esa gente que te amarga el café Ahora bien, si tu ...",
+    "link": "https://www.facebook.com/santoamaro.es/posts/esa-gente-que-te-amarga-el-caf%C3%A9ahora-bien-si-tu-caf%C3%A9-es-amargo-de-por-s%C3%AD-algo-fa/1207192071434659/",
+    "displayed_link": "Más de 90 reacciones",
+    "date": "hace 1 año",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/b5a_L7v8841ODBLnvhjwT3tCmI23RBmp-KL38FXeXAM.jpg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "snippet": "☕ ¿Tu café te sale amargo? No siempre es el café… muchas veces es este error Usar agua hirviendo (100°C) quema el café y arruina el sabor.",
+    "duration": "0:38",
+    "about_this_result": {
+     "source": {
+      "description": "☕ ¿Tu café te sale amargo? No siempre es el café… muchas veces es este error Usar agua hirviendo (100°C) quema el café y arruina el sabor.",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrUCL2dvdG8_dXJsPUNBRVMyd0VCeENKRjExbnFxS3M4b0dpRC1qQjdNckVNbTA4MlRCWnJHSjdqbzl5UURNVEE3QThvWjhTT09CQ2hmdGhodUJRX0x3a3llTWZNUXJRLUp3by13enJKdWs5Y2h2N2o5U1BRNVFQVnMzZTNvZzhIT3IyX2NXOUVBQWZsYUdCcUczbjY0ME1iYTh1aVVOcHYxN2lCTHBIbEdmQzV2YTJNWVQxVDNiVFc1d0hWRUdSRmt4a0FFbThmOFZPc2FOZ05TS1JiS1JWUV9rYURoYjhhbkEzUzROWXZDRGJJclFURDZRb1R2ekJMdi1Yd0tVTjhVdS1XWV9yckpSMmxySEYxUWVoc0Ric2d1RFpzZmZYRFhfbDF5djhwQ1V4NUZNUUllVVdjMURFEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrUCL2dvdG8_dXJsPUNBRVMyd0VCeENKRjExbnFxS3M4b0dpRC1qQjdNckVNbTA4MlRCWnJHSjdqbzl5UURNVEE3QThvWjhTT09CQ2hmdGhodUJRX0x3a3llTWZNUXJRLUp3by13enJKdWs5Y2h2N2o5U1BRNVFQVnMzZTNvZzhIT3IyX2NXOUVBQWZsYUdCcUczbjY0ME1iYTh1aVVOcHYxN2lCTHBIbEdmQzV2YTJNWVQxVDNiVFc1d0hWRUdSRmt4a0FFbThmOFZPc2FOZ05TS1JiS1JWUV9rYURoYjhhbkEzUzROWXZDRGJJclFURDZRb1R2ekJMdi1Yd0tVTjhVdS1XWV9yckpSMmxySEYxUWVoc0Ric2d1RFpzZmZYRFhfbDF5djhwQ1V4NUZNUUllVVdjMURFEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "source": "Facebook · Café Santo Amaro"
+   },
+   {
+    "position": 4,
+    "title": "Trucos para mejorar el sabor de tu café en la cafetera ...",
+    "link": "https://www.facebook.com/karlosarguinano/posts/trucos-para-mejorar-el-sabor-de-tu-caf%C3%A9-en-la-cafetera-italiana-a%C3%B1ade-el-caf%C3%A9-ju/1209289623896700/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3QEBxCJF17xtTXJ91LulyFcfFZBUmJPcyFrCxe3izo2Yck99XlzAtkod8pEcWTt5JyvOF_y4nkkEFIu38blUIgJDWrZPoySPvGy9JEDkO9Pf0m4ayVhp_d95tQ96YjCfS-pEvmjOMC_i8KcqKmTLEijlVju0dU-ZLdiQjlod_-lzPijym97kxMk0kmi65jk4YMw2vuTu55UW_D_W437AdbsGdGgJY3dSHGoTIetl1kfzVWe1WoxqNeondHMJgKjfrL4CJk3K8MsNmAA5ExMQjJanrHejmAqoX0beAMmQhw&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECC8QAQ&uoh=1",
+    "displayed_link": "Más de 950 reacciones",
+    "date": "hace 1 año",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "snippet": "Tu café te sale amargo? No siempre es el café… muchas veces es este error Usar agua hirviendo (100°C) quema el café y arruina el sabor.",
+    "snippet_highlighted_words": [
+     "Usar agua hirviendo (100°C) quema el café y arruina el sabor"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Tu café te sale amargo? No siempre es el café… muchas veces es este error Usar agua hirviendo (100°C) quema el café y arruina el sabor.",
+      "source_info_link": "https://www.facebook.com/karlosarguinano/posts/trucos-para-mejorar-el-sabor-de-tu-caf%C3%A9-en-la-cafetera-italiana-a%C3%B1ade-el-caf%C3%A9-ju/1209289623896700/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCeENKRjF3LUF3M1hUZHM5YmRhZmEzZnpURE5kbmVnc0ZPaXBiRGs1V254c3pOUjV6SXBYYTlQLXY1b0lZQThZSTR5VlEycXdiWWthVmE2WkxreXctVktyRmpnUFFobV92bl9JUXY1cWFEZ1dqWUhsczVTVm1rNTRVXzJxSUN1c0p3bUgzUUlCQm9zNnBDVzFCWExIRW9WTXF6WUs2Y09jcHBFblVRNjVEQ2NleUZMZ2dieGFERDJ0VG92VjN5ZkpuNFRZZGJJYlY5MmVQWDBvWFNTUU9Qa3N3QnB1S0NVSWNBcDBvZzZhQW9pSlM3S0lJbHFJNTRXclVUbEhHVExPU1owcV9oaEdGdmZiMC05eDhubXVvSHk4ZVZ2NVFSa2FqbVJhazd3EgQaAggAGqoGEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQIYGCA4QABgAIAAqMwoFY2Fmw6kV3iueQBoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoFY2FmZmUaBmNhZsOpcyo4CghjYWZldGVyYRWfz4hAGgRjYWZlGgljYWZldGVyYXMaBG1va2EaEGNhZmV0ZXJhaXRhbGlhbmEqNQoIaXRhbGlhbmEVye1rQBoHaXRhbGlhbhoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKhgKBHNhbGUV1IMAPxoEc2FiZRoFc2FsZXMqFgoGYW1hcmdvFWu3LT8aB2FtYXJnb3MyuAIvZ290bz91cmw9Q0FFUzNRRUJ4Q0pGMXctQXczWFRkczliZGFmYTNmelRETmRuZWdzRk9pcGJEazVXbnhzek5SNXpJcFhhOVAtdjVvSVlBOFlJNHlWUTJxd2JZa2FWYTZaTGt5dy1WS3JGamdQUWhtX3ZuX0lRdjVxYURnV2pZSGxzNVNWbWs1NFVfMnFJQ3VzSndtSDNRSUJCb3M2cENXMUJYTEhFb1ZNcXpZSzZjT2NwcEVuVVE2NURDY2V5RkxnZ2J4YUREMnRUb3ZWM3lmSm40VFlkYkliVjkyZVBYMG9YU1NRT1Brc3dCcHVLQ1VJY0FwMG9nNmFBb2lKUzdLSUlscUk1NFdyVVRsSEdUTE9TWjBxX2hoR0Z2ZmIwLTl4OG5tdW9IeThlVnY1UVJrYWptUmFrN3c6UlRydWNvcyBwYXJhIG1lam9yYXIgZWwgc2Fib3IgZGUgdHUgPGI-Y2Fmw6k8L2I-IGVuIGxhIDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPiAuLi5ClAFUdSBjYWbDqSB0ZSBzYWxlIGFtYXJnbz8gTm8gc2llbXByZSBlcyBlbCBjYWbDqeKApiBtdWNoYXMgdmVjZXMgZXMgZXN0ZSBlcnJvciA8Yj5Vc2FyIGFndWEgaGlydmllbmRvICgxMDDCsEMpIHF1ZW1hIGVsIGNhZsOpIHkgYXJydWluYSBlbCBzYWJvcjwvYj4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCeENKRjF3LUF3M1hUZHM5YmRhZmEzZnpURE5kbmVnc0ZPaXBiRGs1V254c3pOUjV6SXBYYTlQLXY1b0lZQThZSTR5VlEycXdiWWthVmE2WkxreXctVktyRmpnUFFobV92bl9JUXY1cWFEZ1dqWUhsczVTVm1rNTRVXzJxSUN1c0p3bUgzUUlCQm9zNnBDVzFCWExIRW9WTXF6WUs2Y09jcHBFblVRNjVEQ2NleUZMZ2dieGFERDJ0VG92VjN5ZkpuNFRZZGJJYlY5MmVQWDBvWFNTUU9Qa3N3QnB1S0NVSWNBcDBvZzZhQW9pSlM3S0lJbHFJNTRXclVUbEhHVExPU1owcV9oaEdGdmZiMC05eDhubXVvSHk4ZVZ2NVFSa2FqbVJhazd3EgQaAggAGqoGEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQIYGCA4QABgAIAAqMwoFY2Fmw6kV3iueQBoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoFY2FmZmUaBmNhZsOpcyo4CghjYWZldGVyYRWfz4hAGgRjYWZlGgljYWZldGVyYXMaBG1va2EaEGNhZmV0ZXJhaXRhbGlhbmEqNQoIaXRhbGlhbmEVye1rQBoHaXRhbGlhbhoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKhgKBHNhbGUV1IMAPxoEc2FiZRoFc2FsZXMqFgoGYW1hcmdvFWu3LT8aB2FtYXJnb3MyuAIvZ290bz91cmw9Q0FFUzNRRUJ4Q0pGMXctQXczWFRkczliZGFmYTNmelRETmRuZWdzRk9pcGJEazVXbnhzek5SNXpJcFhhOVAtdjVvSVlBOFlJNHlWUTJxd2JZa2FWYTZaTGt5dy1WS3JGamdQUWhtX3ZuX0lRdjVxYURnV2pZSGxzNVNWbWs1NFVfMnFJQ3VzSndtSDNRSUJCb3M2cENXMUJYTEhFb1ZNcXpZSzZjT2NwcEVuVVE2NURDY2V5RkxnZ2J4YUREMnRUb3ZWM3lmSm40VFlkYkliVjkyZVBYMG9YU1NRT1Brc3dCcHVLQ1VJY0FwMG9nNmFBb2lKUzdLSUlscUk1NFdyVVRsSEdUTE9TWjBxX2hoR0Z2ZmIwLTl4OG5tdW9IeThlVnY1UVJrYWptUmFrN3c6UlRydWNvcyBwYXJhIG1lam9yYXIgZWwgc2Fib3IgZGUgdHUgPGI-Y2Fmw6k8L2I-IGVuIGxhIDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPiAuLi5ClAFUdSBjYWbDqSB0ZSBzYWxlIGFtYXJnbz8gTm8gc2llbXByZSBlcyBlbCBjYWbDqeKApiBtdWNoYXMgdmVjZXMgZXMgZXN0ZSBlcnJvciA8Yj5Vc2FyIGFndWEgaGlydmllbmRvICgxMDDCsEMpIHF1ZW1hIGVsIGNhZsOpIHkgYXJydWluYSBlbCBzYWJvcjwvYj4uIgIQAUgAWABoAA",
+    "source": "Facebook · Karlos Arguiñano"
+   },
+   {
+    "position": 5,
+    "title": "¿Sigues pensando que el café de cafetera italiana tiene que ...",
+    "link": "https://www.facebook.com/61583231776480/posts/sigues-pensando-que-el-caf%C3%A9-de-cafetera-italiana-tiene-que-saber-a-rayos-si-tu-c/122126870067107725/",
+    "displayed_link": "9 reacciones",
+    "date": "hace 7 meses",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/b5a_L7v8841ODBLnvhjwT51lhHWsjgmnHX9uQacVPZQ.jpg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "snippet": "Sigues pensando que el café de cafetera italiana tiene que saber a rayos? Si tu café sale a borbotones, negro y amargo, no es culpa de la ...",
+    "duration": "0:46",
+    "about_this_result": {
+     "source": {
+      "description": "Sigues pensando que el café de cafetera italiana tiene que saber a rayos? Si tu café sale a borbotones, negro y amargo, no es culpa de la ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqwCL2dvdG8_dXJsPUNBRVMxQUVCeENKRjEwZDN0RE92RU43ejdsUmRpOGFrQkhJbmkzUnRwWF9IWFVDRUQwM0JocW9LU3d4TmdkeUJ3VEVvXzFJOVljVjdiT05oc0xOX191djVQNU1iU0hnaDFLX0NDN0ZEelRpdGpXckcwM19xNnFNbHo5N2xuVWNGRVhBNEhrOTNhRER2T1dfeUE3N2ZtVGF0MDRVOFBkeWs3bl9jOV9oY2ZSQVFLUmd1VlNidGYyUjZYY1lqRE8yMlRmVGM2T3NMUTY4Q3F4NGhqcEh4eFFkQmZfTXdaTVMyTVJNdUYxV3l4Zy1YSmtjQk1FUDNKd2hZTGI1R1RFMU5CLWVqNXJHWG02OUYwc0FVc0NOVHR1eHkxd1h0R0Rlbm5BEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqwCL2dvdG8_dXJsPUNBRVMxQUVCeENKRjEwZDN0RE92RU43ejdsUmRpOGFrQkhJbmkzUnRwWF9IWFVDRUQwM0JocW9LU3d4TmdkeUJ3VEVvXzFJOVljVjdiT05oc0xOX191djVQNU1iU0hnaDFLX0NDN0ZEelRpdGpXckcwM19xNnFNbHo5N2xuVWNGRVhBNEhrOTNhRER2T1dfeUE3N2ZtVGF0MDRVOFBkeWs3bl9jOV9oY2ZSQVFLUmd1VlNidGYyUjZYY1lqRE8yMlRmVGM2T3NMUTY4Q3F4NGhqcEh4eFFkQmZfTXdaTVMyTVJNdUYxV3l4Zy1YSmtjQk1FUDNKd2hZTGI1R1RFMU5CLWVqNXJHWG02OUYwc0FVc0NOVHR1eHkxd1h0R0Rlbm5BEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "source": "Facebook"
+   },
+   {
+    "position": 6,
+    "title": "Errores que cometes al limpiar tu cafetera italiana y por los ...",
+    "link": "https://www.telecinco.es/noticias/estilo-de-vida/20240415/errores-cometes-limpiar-cafetera-italiana-cafe-sabe-muy-amargo-be5m_18_011947486.html",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEBxCJF12n1VqRAi4f5Zjz7eMNfLgNGXdwu3GsEoQU2lRrhpKTR867rWRaj1HYbKTUqzIuZx84bLExEIevYcHewlO7ml9NFob_8u0LqHPJvu0qlVsZe3gqro84UykULg1c9Rx1ukv2UMbwHEHUm05hS7sqVhnQkouc7f76yvvtMbIOAy1MhPagh3Jf1tPmSn1bmPSgc_V_kGVFzjhDN5qYoqtn4wkVNfpVLbuJ6Er7V1x-_VIQH1f14HOJEoRDlluHFtfHU0skDZ9ebSRk&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECDEQAQ&uoh=1",
+    "displayed_link": "https://www.telecinco.es › Actualidad › Estilo de vida",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaX___8AN6QAJZ8AMaL09vtfeL2Sos8zV6--x-JzicSksdY8XrIAGp3l6fQAEpsAP6fX3e4dSqtGZbU2drc5AAAAC3RSTlMAxv3R6oebMWT0TTTwpMIAAAEDSURBVCiRfZPRloIwDEQRUcCShNJSENT__8wtSwaqHJ2XQuc0nVxClkG367k2pj5fb9mnLibR5c0qa_Omuty9yhxUHTxSJW4Jj51d5eJLvlYu4PlG5ZazRVqUeniet2sRlO9N-6_AGjm5kXiappGZBTvl1j3ZLso-dy-yOKFqu1547xnmCVn3OM0DZ4ssXx-kC6ELvk3SmhymkbHzjsfXYs8wgUC6uEtGhrhY0rIIJF7RxKUnDYRWxMYoLGMAvqUVQJDRvKa5fyzdMCAoPgkRnvYyEPApeDCI5wbts8InA4PWWyYg2D42zW4YnsJCO_ZkTDAfCuA4RLs27_do_h7qL7_DH5tWHr_sU0HMAAAAAElFTkSuQmCC.png",
+    "date": "15 abr 2024",
+    "snippet": "Si no se limpia correctamente puede tener una vida útil muy corta y aportar un sabor amargo al café. Existen cinco errores garrafales que ...",
+    "snippet_highlighted_words": [
+     "amargo",
+     "café"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Si no se limpia correctamente puede tener una vida útil muy corta y aportar un sabor amargo al café. Existen cinco errores garrafales que ...",
+      "source_info_link": "https://www.telecinco.es/noticias/estilo-de-vida/20240415/errores-cometes-limpiar-cafetera-italiana-cafe-sabe-muy-amargo-be5m_18_011947486.html",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaUAPaX___8AN6QAJZ8AMaL09vtfeL2Sos8zV6--x-JzicSksdY8XrIAGp3l6fQAEpsAP6fX3e4dSqtGZbU2drc5AAAAC3RSTlMAxv3R6oebMWT0TTTwpMIAAAEDSURBVCiRfZPRloIwDEQRUcCShNJSENT__8wtSwaqHJ2XQuc0nVxClkG367k2pj5fb9mnLibR5c0qa_Omuty9yhxUHTxSJW4Jj51d5eJLvlYu4PlG5ZazRVqUeniet2sRlO9N-6_AGjm5kXiappGZBTvl1j3ZLso-dy-yOKFqu1547xnmCVn3OM0DZ4ssXx-kC6ELvk3SmhymkbHzjsfXYs8wgUC6uEtGhrhY0rIIJF7RxKUnDYRWxMYoLGMAvqUVQJDRvKa5fyzdMCAoPgkRnvYyEPApeDCI5wbts8InA4PWWyYg2D42zW4YnsJCO_ZkTDAfCuA4RLs27_do_h7qL7_DH5tWHr_sU0HMAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCeENKRjEtRzVUZUQyclRQaVdKWGlRWFhaOW9VVk8xNEdpa3VBRnNMb0tzNk5IWkZ0SHZ6OF9nWFo5WHVjeFBWX1RJaG9oZmlCOGF2dFJBcXJGQ2MxS1I0bHlkLThBRWtoZUhpekNJYmhpMDd0MmluR2RTc3V4UWdrVUJka0d5NUYxV2xwNWNvbkhnUWk3QXdlV3VFUHREZWo4SjlpSlJNZlFlZkFZekhWZDJUZGpFZzcwNVlfSG5vT0ZsTDhDM0JmN1JpU25GeGFuUGw1Q0lpSlRObWhvV29hTzFvQ1gzVVhvSUVZdWJtWFh1bE9VOWF1X3VwQlh4Q1VqVU9TZHdiYXVpbkVzcVhSQXdveWpfYxIEGgIIABqXBhIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDzBQgOEAAYACAAKjMKBWNhZsOpFf5ZjkAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEV-YmkQBoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFWiCoUAaB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFQAAAAAaBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxWYwU9AGgdhbWFyZ29zMqECL2dvdG8_dXJsPUNBRVN6QUVCeENKRjEtRzVUZUQyclRQaVdKWGlRWFhaOW9VVk8xNEdpa3VBRnNMb0tzNk5IWkZ0SHZ6OF9nWFo5WHVjeFBWX1RJaG9oZmlCOGF2dFJBcXJGQ2MxS1I0bHlkLThBRWtoZUhpekNJYmhpMDd0MmluR2RTc3V4UWdrVUJka0d5NUYxV2xwNWNvbkhnUWk3QXdlV3VFUHREZWo4SjlpSlJNZlFlZkFZekhWZDJUZGpFZzcwNVlfSG5vT0ZsTDhDM0JmN1JpU25GeGFuUGw1Q0lpSlRObWhvV29hTzFvQ1gzVVhvSUVZdWJtWFh1bE9VOWF1X3VwQlh4Q1VqVU9TZHdiYXVpbkVzcVhSQXdveWpfYzpIRXJyb3JlcyBxdWUgY29tZXRlcyBhbCBsaW1waWFyIHR1IDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPiB5IHBvciBsb3MgLi4uQqIBU2kgbm8gc2UgbGltcGlhIGNvcnJlY3RhbWVudGUgcHVlZGUgdGVuZXIgdW5hIHZpZGEgw7p0aWwgbXV5IGNvcnRhIHkgYXBvcnRhciB1biBzYWJvciA8Yj5hbWFyZ288L2I-IGFsIDxiPmNhZsOpPC9iPi4gRXhpc3RlbiBjaW5jbyBlcnJvcmVzIGdhcnJhZmFsZXMgcXVlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCeENKRjEtRzVUZUQyclRQaVdKWGlRWFhaOW9VVk8xNEdpa3VBRnNMb0tzNk5IWkZ0SHZ6OF9nWFo5WHVjeFBWX1RJaG9oZmlCOGF2dFJBcXJGQ2MxS1I0bHlkLThBRWtoZUhpekNJYmhpMDd0MmluR2RTc3V4UWdrVUJka0d5NUYxV2xwNWNvbkhnUWk3QXdlV3VFUHREZWo4SjlpSlJNZlFlZkFZekhWZDJUZGpFZzcwNVlfSG5vT0ZsTDhDM0JmN1JpU25GeGFuUGw1Q0lpSlRObWhvV29hTzFvQ1gzVVhvSUVZdWJtWFh1bE9VOWF1X3VwQlh4Q1VqVU9TZHdiYXVpbkVzcVhSQXdveWpfYxIEGgIIABqXBhIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDzBQgOEAAYACAAKjMKBWNhZsOpFf5ZjkAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEV-YmkQBoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFWiCoUAaB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFQAAAAAaBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxWYwU9AGgdhbWFyZ29zMqECL2dvdG8_dXJsPUNBRVN6QUVCeENKRjEtRzVUZUQyclRQaVdKWGlRWFhaOW9VVk8xNEdpa3VBRnNMb0tzNk5IWkZ0SHZ6OF9nWFo5WHVjeFBWX1RJaG9oZmlCOGF2dFJBcXJGQ2MxS1I0bHlkLThBRWtoZUhpekNJYmhpMDd0MmluR2RTc3V4UWdrVUJka0d5NUYxV2xwNWNvbkhnUWk3QXdlV3VFUHREZWo4SjlpSlJNZlFlZkFZekhWZDJUZGpFZzcwNVlfSG5vT0ZsTDhDM0JmN1JpU25GeGFuUGw1Q0lpSlRObWhvV29hTzFvQ1gzVVhvSUVZdWJtWFh1bE9VOWF1X3VwQlh4Q1VqVU9TZHdiYXVpbkVzcVhSQXdveWpfYzpIRXJyb3JlcyBxdWUgY29tZXRlcyBhbCBsaW1waWFyIHR1IDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPiB5IHBvciBsb3MgLi4uQqIBU2kgbm8gc2UgbGltcGlhIGNvcnJlY3RhbWVudGUgcHVlZGUgdGVuZXIgdW5hIHZpZGEgw7p0aWwgbXV5IGNvcnRhIHkgYXBvcnRhciB1biBzYWJvciA8Yj5hbWFyZ288L2I-IGFsIDxiPmNhZsOpPC9iPi4gRXhpc3RlbiBjaW5jbyBlcnJvcmVzIGdhcnJhZmFsZXMgcXVlJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Telecinco"
+   },
+   {
+    "position": 7,
+    "title": "¿Por qué el café te sale amargo? Explicación y consejos",
+    "link": "https://www.tiktok.com/@cafeschuler/video/7355918765277711622",
+    "displayed_link": "Más de 1,5 mil visualizaciones",
+    "date": "hace 2 años",
+    "thumbnail": "https://serpapi.com/searches/6af46235739fd708e2459e23/images/b5a_L7v8841ODBLnvhjwT3i1_b_k7IBSIEmEi2BI7Tc.jpg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "snippet": "Mientras más amargo sea el café, peor es su calidad. 2️⃣ **Preparación incorrecta de un café especialidad:** Si tienes un café especial de ...",
+    "duration": "1:04",
+    "about_this_result": {
+     "source": {
+      "description": "Mientras más amargo sea el café, peor es su calidad. 2️⃣ **Preparación incorrecta de un café especialidad:** Si tienes un café especial de ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWGd1c2dXVVFjZTRNRDhwZTFGanB6VzUwZHIyUlkzYVRRRDc5aVdKSEVnUzBaZ0lRMUJoX2p2bU9oWl9SdGFUdEpaWlMwMGJ1cTI3cEctdFM4WHAyQnpLbWU2MW5QODZoWHJNR1NLODNiV3h5X2JGbGxlR0VvVER5MThuV1g2cE1vWWp1cWMtM3d4OGpKQU1rOXpBWE5uTXQyQUV3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWGd1c2dXVVFjZTRNRDhwZTFGanB6VzUwZHIyUlkzYVRRRDc5aVdKSEVnUzBaZ0lRMUJoX2p2bU9oWl9SdGFUdEpaWlMwMGJ1cTI3cEctdFM4WHAyQnpLbWU2MW5QODZoWHJNR1NLODNiV3h5X2JGbGxlR0VvVER5MThuV1g2cE1vWWp1cWMtM3d4OGpKQU1rOXpBWE5uTXQyQUV3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+    "source": "TikTok · Kaffee Schuler ☕"
+   },
+   {
+    "position": 8,
+    "title": "Si te sirven un café y sabe amargo, huye.",
+    "link": "https://furocafe.com/si-te-sirven-un-cafe-y-sabe-amargo-huye/?srsltid=AYCX9vKiZsfnImbb8q0KNTbJ3dY8yZP_icrCg6Jo0UzCIZx0ufhnl5YI",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESugEBxCJF173GcInkRcFm4siAf6yMCthmGU8FDCeTZlGicQESLg-URxEQz4y-9_7wUIq3apV2-vJxMbLi-7bWKRjYU9XUcLBkr9h8R7IRmRirf_qeokcHTbRVFMyQWN-jnehOdF8-Eiau32yHL2O_5T8Dkzbd-o_FiQq5miNLpuclO25lCCZ2wMpTI5Yw1RUe0kCvppGHX8d3GVDKEFkJDV2-ypVDYIzpu-SCIbFYQt0zYgQBBUJ8dMpI3AE&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECC4QAQ&uoh=1",
+    "displayed_link": "https://furocafe.com › Blog",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX___-BgYJnZ2j5-flDQ0QAAACTk5NRUVKzs7SlpaU6Ojvv7--cnJzX19esrKzo6Ojh4eHd3d3Pz88cHB0YGBoPDxH7-_uJiYpgYGEjIyXIyMhtbW4rKyw1NTZISEjCwsN1dXUDAwib_AMvAAAAuUlEQVR4Ac3JN2LDMBBFwUcSH8w5k4r3P6TD9uhsSdMOHymKCUmcPCGpMkIy5QS5gqBSFUG1mrb7AXQltB1JAvSD5ThJmrWwaIVtH3TAJk0D1POaZVk8_6aH8zJfSypVRzEt1DoAL8ByjID0Bplqat2BRhmZGjh3gMdY8lBrCVyf47MAYsvuOe-KoH30AIk__QLkK7bRmfE_SmijHlOVmEeG2e7QrR0AS-oxUQuWB5BgFhbMgiFJeIdvSIgJUNLwcQEAAAAASUVORK5CYII.png",
+    "date": "17 sept 2025",
+    "snippet": "El amargor **no manda**: mandas tú. Con unos ajustes sencillos —**temperatura, molienda, tiempo, agua y limpieza**— tu café pasa de “puf” a **“ ...",
+    "snippet_highlighted_words": [
+     "El amargor **no manda"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "El amargor **no manda**: mandas tú. Con unos ajustes sencillos —**temperatura, molienda, tiempo, agua y limpieza**— tu café pasa de “puf” a **“ ...",
+      "source_info_link": "https://furocafe.com/si-te-sirven-un-cafe-y-sabe-amargo-huye/?srsltid=AYCX9vKiZsfnImbb8q0KNTbJ3dY8yZP_icrCg6Jo0UzCIZx0ufhnl5YI",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEX___-BgYJnZ2j5-flDQ0QAAACTk5NRUVKzs7SlpaU6Ojvv7--cnJzX19esrKzo6Ojh4eHd3d3Pz88cHB0YGBoPDxH7-_uJiYpgYGEjIyXIyMhtbW4rKyw1NTZISEjCwsN1dXUDAwib_AMvAAAAuUlEQVR4Ac3JN2LDMBBFwUcSH8w5k4r3P6TD9uhsSdMOHymKCUmcPCGpMkIy5QS5gqBSFUG1mrb7AXQltB1JAvSD5ThJmrWwaIVtH3TAJk0D1POaZVk8_6aH8zJfSypVRzEt1DoAL8ByjID0Bplqat2BRhmZGjh3gMdY8lBrCVyf47MAYsvuOe-KoH30AIk__QLkK7bRmfE_SmijHlOVmEeG2e7QrR0AS-oxUQuWB5BgFhbMgiFJeIdvSIgJUNLwcQEAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CokCL2dvdG8_dXJsPUNBRVN1Z0VCeENKRjE3WDN6UlVfeFVqRk5QMFQ2RU03MGdickNRdmVIanhOLUJrSEJLaFAtSjBRREdETGlRNktBVUZDaXVPbk05ZW1QRTZNRnNzdHlPQnA2TURTd1UzcnBTZjJEUWNGUmJuVTQ5T0FmTE9LWWtUNnh5SkIzaWV6bTU0SDh2UlpLNDgwZ3N4SDBWQkJVRUFpSDlMVVFYcVBwdEYyOUV5Tk56SGFYMTVsVjNMbVNZNzFlRjNRcGlBMEFXc0NuQTF0YTRaRXFEZG5NNU85REVpY2E2RzdGUENyRUdGQWFnOFg4WnhCZmljem42RXpaLW1FY0lsR1JZZxIEGgIIABqtBRIAGgAiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCJBQgOEAAYACAAKjMKBWNhZsOpFbbLwkAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEV5gZyPxoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFffOCj8aB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFVJocz8aBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxXALZpAGgdhbWFyZ29zMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWGk5RzVNM3kzOG5aYU1CRGNrai1SS3lqYmhHcHFRWERRZS02WTZZYktqSWdtOHhYZGJraHpQTmxjUmtCVHN0dDFpUXZ6azF4ZHA3enBrcHloNGNxTUlBZ2N2cE5ldVFpZXBKRUUzT1VjTVA2YW5URlVqQUQ1R2stVWxSVHBUTHF4a1JfZnd5N1Z4dXByZnFiRVBpNkZ4eVZCNW9BOkVTaSB0ZSBzaXJ2ZW4gdW4gPGI-Y2Fmw6k8L2I-IHkgPGI-c2FiZSBhbWFyZ288L2I-LCBodXllLiAtIEZ1cm8gQ2Fmw6lCqwE8Yj5FbCBhbWFyZ29yICoqbm8gbWFuZGE8L2I-Kio6IG1hbmRhcyB0w7ouIENvbiB1bm9zIGFqdXN0ZXMgc2VuY2lsbG9zIOKAlCoqdGVtcGVyYXR1cmEsIG1vbGllbmRhLCB0aWVtcG8sIGFndWEgeSBsaW1waWV6YSoq4oCUIHR1IGNhZsOpIHBhc2EgZGUg4oCccHVm4oCdIGEgKirigJwmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CokCL2dvdG8_dXJsPUNBRVN1Z0VCeENKRjE3WDN6UlVfeFVqRk5QMFQ2RU03MGdickNRdmVIanhOLUJrSEJLaFAtSjBRREdETGlRNktBVUZDaXVPbk05ZW1QRTZNRnNzdHlPQnA2TURTd1UzcnBTZjJEUWNGUmJuVTQ5T0FmTE9LWWtUNnh5SkIzaWV6bTU0SDh2UlpLNDgwZ3N4SDBWQkJVRUFpSDlMVVFYcVBwdEYyOUV5Tk56SGFYMTVsVjNMbVNZNzFlRjNRcGlBMEFXc0NuQTF0YTRaRXFEZG5NNU85REVpY2E2RzdGUENyRUdGQWFnOFg4WnhCZmljem42RXpaLW1FY0lsR1JZZxIEGgIIABqtBRIAGgAiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCJBQgOEAAYACAAKjMKBWNhZsOpFbbLwkAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEV5gZyPxoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFffOCj8aB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFVJocz8aBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxXALZpAGgdhbWFyZ29zMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWGk5RzVNM3kzOG5aYU1CRGNrai1SS3lqYmhHcHFRWERRZS02WTZZYktqSWdtOHhYZGJraHpQTmxjUmtCVHN0dDFpUXZ6azF4ZHA3enBrcHloNGNxTUlBZ2N2cE5ldVFpZXBKRUUzT1VjTVA2YW5URlVqQUQ1R2stVWxSVHBUTHF4a1JfZnd5N1Z4dXByZnFiRVBpNkZ4eVZCNW9BOkVTaSB0ZSBzaXJ2ZW4gdW4gPGI-Y2Fmw6k8L2I-IHkgPGI-c2FiZSBhbWFyZ288L2I-LCBodXllLiAtIEZ1cm8gQ2Fmw6lCqwE8Yj5FbCBhbWFyZ29yICoqbm8gbWFuZGE8L2I-Kio6IG1hbmRhcyB0w7ouIENvbiB1bm9zIGFqdXN0ZXMgc2VuY2lsbG9zIOKAlCoqdGVtcGVyYXR1cmEsIG1vbGllbmRhLCB0aWVtcG8sIGFndWEgeSBsaW1waWV6YSoq4oCUIHR1IGNhZsOpIHBhc2EgZGUg4oCccHVm4oCdIGEgKirigJwmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Furo Café"
+   },
+   {
+    "position": 9,
+    "title": "Estás usando mal la cafetera italiana: Este es el error que ...",
+    "link": "https://www.sport.es/es/noticias/fuera-de-juego/usando-mal-cafetera-italiana-error-106705114",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEBxCJF122x0zaux0T12Z7GbWUpYiw1tiT_6bG5NNkP4N2xPSTjQybjtLl9IEweuDOhwLQtCGp_mqrjEJGqtK0dvr0xzRQ-XiLmqfNmcon7c6isApCW11T8ugJ0j8PDfgK_nXDD4HWpMjKWQkcmX7O0i1BHyN1QtXkfQuper409d5yQ5Eytl_BeVbOuS471pB-bvzaLDbkIlw&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQFnoECDIQAQ&uoh=1",
+    "displayed_link": "https://www.sport.es › Sport › Fuera de Juego",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEXsCRjsARHrAALuNDzxYWXtICr2pKb____83t__9vb6zc_1lZnzfID5wML96uv3sbPvRk0H99PvAAAAkElEQVR4Ae2QhxHAIAwDbREjOuw_bWh3WSJPx92y-dHLukLlXO8P1B2gcI_B5vX8mcBzEuaKlkj6zMn-LAKyeh-YwtJoZGJLjPMSt5CpJPa6dNEZGTIjyAFRV9txe4WbB2sJ_IlSi1Uez-0TcpICMxRTxJ6ZOnmEOsYwuGEqivE42HA6v-a8PZC1viYcZPHzArDoBjZO0uVpAAAAAElFTkSuQmCC.png",
+    "date": "7 ago 2024",
+    "snippet": "Poner la cafetera al fuego con la tapa levantada; cuando empiece a salir el café, bajar el fuego a medio y tapar. Retirar la cafetera del fuego ...",
+    "snippet_highlighted_words": [
+     "Poner la cafetera al fuego con la tapa levantada"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Poner la cafetera al fuego con la tapa levantada; cuando empiece a salir el café, bajar el fuego a medio y tapar. Retirar la cafetera del fuego ...",
+      "source_info_link": "https://www.sport.es/es/noticias/fuera-de-juego/usando-mal-cafetera-italiana-error-106705114",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEXsCRjsARHrAALuNDzxYWXtICr2pKb____83t__9vb6zc_1lZnzfID5wML96uv3sbPvRk0H99PvAAAAkElEQVR4Ae2QhxHAIAwDbREjOuw_bWh3WSJPx92y-dHLukLlXO8P1B2gcI_B5vX8mcBzEuaKlkj6zMn-LAKyeh-YwtJoZGJLjPMSt5CpJPa6dNEZGTIjyAFRV9txe4WbB2sJ_IlSi1Uez-0TcpICMxRTxJ6ZOnmEOsYwuGEqivE42HA6v-a8PZC1viYcZPHzArDoBjZO0uVpAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwZWdaTlREbWtRcFE5aW5ZWFhMNVJhWC1iYUNpUkI2eW1FTDVYU1FpU2RZNWFYVVo2aU82cUZlSjRFdDZlZGVpblVlTTlrUC1nZTJmNktJXzV0RHhSbVpxVjN2dXEtaFBKZFFzalRhaUgxVEh3d3p2WThFR3ZWQjM3dzJBV2J1MkJqZDhiQ3BJbXY5b0txUEVFNXJHOXV4ZHJZTE9GUTdiUmZQZzBGaG80N1h4a2cyS1kwMnFXTktRMmtILTF5WFVWX1AzdxIEGgIIABrRBRIAGgAiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCtBQgOEAAYACAAKjMKBWNhZsOpFUsmNUAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEVqBGIQBoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFS_ehEAaB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFQAAAAAaBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxUETPk_GgdhbWFyZ29zMtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwZWdaTlREbWtRcFE5aW5ZWFhMNVJhWC1iYUNpUkI2eW1FTDVYU1FpU2RZNWFYVVo2aU82cUZlSjRFdDZlZGVpblVlTTlrUC1nZTJmNktJXzV0RHhSbVpxVjN2dXEtaFBKZFFzalRhaUgxVEh3d3p2WThFR3ZWQjM3dzJBV2J1MkJqZDhiQ3BJbXY5b0txUEVFNXJHOXV4ZHJZTE9GUTdiUmZQZzBGaG80N1h4a2cyS1kwMnFXTktRMmtILTF5WFVWX1AzdzpJRXN0ZSBlcyBlbCBlcnJvciBxdWUgaGFjZSBxdWUgdHUgPGI-Y2Fmw6k8L2I-IHNhbGdhIDxiPmFtYXJnbzwvYj4gLSBTUE9SVEKgATxiPlBvbmVyIGxhIGNhZmV0ZXJhIGFsIGZ1ZWdvIGNvbiBsYSB0YXBhIGxldmFudGFkYTwvYj47IGN1YW5kbyBlbXBpZWNlIGEgc2FsaXIgZWwgY2Fmw6ksIGJhamFyIGVsIGZ1ZWdvIGEgbWVkaW8geSB0YXBhci4gUmV0aXJhciBsYSBjYWZldGVyYSBkZWwgZnVlZ28mbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwZWdaTlREbWtRcFE5aW5ZWFhMNVJhWC1iYUNpUkI2eW1FTDVYU1FpU2RZNWFYVVo2aU82cUZlSjRFdDZlZGVpblVlTTlrUC1nZTJmNktJXzV0RHhSbVpxVjN2dXEtaFBKZFFzalRhaUgxVEh3d3p2WThFR3ZWQjM3dzJBV2J1MkJqZDhiQ3BJbXY5b0txUEVFNXJHOXV4ZHJZTE9GUTdiUmZQZzBGaG80N1h4a2cyS1kwMnFXTktRMmtILTF5WFVWX1AzdxIEGgIIABrRBRIAGgAiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCtBQgOEAAYACAAKjMKBWNhZsOpFUsmNUAaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaBWNhZmZlGgZjYWbDqXMqOAoIY2FmZXRlcmEVqBGIQBoEY2FmZRoJY2FmZXRlcmFzGgRtb2thGhBjYWZldGVyYWl0YWxpYW5hKjUKCGl0YWxpYW5hFS_ehEAaB2l0YWxpYW4aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSoYCgRzYWxlFQAAAAAaBHNhYmUaBXNhbGVzKhYKBmFtYXJnbxUETPk_GgdhbWFyZ29zMtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwZWdaTlREbWtRcFE5aW5ZWFhMNVJhWC1iYUNpUkI2eW1FTDVYU1FpU2RZNWFYVVo2aU82cUZlSjRFdDZlZGVpblVlTTlrUC1nZTJmNktJXzV0RHhSbVpxVjN2dXEtaFBKZFFzalRhaUgxVEh3d3p2WThFR3ZWQjM3dzJBV2J1MkJqZDhiQ3BJbXY5b0txUEVFNXJHOXV4ZHJZTE9GUTdiUmZQZzBGaG80N1h4a2cyS1kwMnFXTktRMmtILTF5WFVWX1AzdzpJRXN0ZSBlcyBlbCBlcnJvciBxdWUgaGFjZSBxdWUgdHUgPGI-Y2Fmw6k8L2I-IHNhbGdhIDxiPmFtYXJnbzwvYj4gLSBTUE9SVEKgATxiPlBvbmVyIGxhIGNhZmV0ZXJhIGFsIGZ1ZWdvIGNvbiBsYSB0YXBhIGxldmFudGFkYTwvYj47IGN1YW5kbyBlbXBpZWNlIGEgc2FsaXIgZWwgY2Fmw6ksIGJhamFyIGVsIGZ1ZWdvIGEgbWVkaW8geSB0YXBhci4gUmV0aXJhciBsYSBjYWZldGVyYSBkZWwgZnVlZ28mbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "SPORT"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=10&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8NMDegQIKxAQ",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=10&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAE",
+    "3": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=20&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAG",
+    "4": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=30&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAI",
+    "5": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=40&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAK",
+    "6": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=50&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAM",
+    "7": "https://www.google.es/search?q=site:forocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDjlZP4cw-mZ1AU_jK4MJfKcovuJKQ:1794400821771&ei=NWL0asbOLuHakPIP8I6FEQ&start=60&sa=N&sstk=AYl2yk-Cl3SiRtaAeIma_5S6glqKSHSiJkzfyTOgQliRsrHfImBCOG3o7hHsCNWhmrqh3sRxaX83shrIaQIOhrdOkndcZHNs2AxeFQ&ved=2ahUKEwiGvcP89_-XAxVhLUQIHXBHIQIQ8tMDegQIKxAO"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+caf%C3%A9+cafetera+italiana+sale+amargo&start=60"
+   }
+  }
+ }
+}

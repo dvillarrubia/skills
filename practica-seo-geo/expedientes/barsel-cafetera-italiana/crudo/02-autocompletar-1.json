@@ -1,0 +1,126 @@
+{
+ "capturado": "2026-11-11T12:43:12Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "café cafetera italiana",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af462e1b2707d0beed20dd5",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ScSDnVpBJPg7FsIqljWvVM4-67uqmVkSN_vF6e1hPOo/6af462e1b2707d0beed20dd5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ScSDnVpBJPg7FsIqljWvVM4-67uqmVkSN_vF6e1hPOo/6af462e1b2707d0beed20dd5.md",
+   "created_at": "2026-11-11 12:43:13 UTC",
+   "processed_at": "2026-11-11 12:43:13 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=caf%C3%A9+cafetera+italiana&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/ScSDnVpBJPg7FsIqljWvVM4-67uqmVkSN_vF6e1hPOo/6af462e1b2707d0beed20dd5.html",
+   "prettify_html_file": "https://serpapi.com/searches/ScSDnVpBJPg7FsIqljWvVM4-67uqmVkSN_vF6e1hPOo/6af462e1b2707d0beed20dd5.prettify",
+   "total_time_taken": 0.38
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "café cafetera italiana",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "café cafetera italiana mercadona",
+    "relevance": 1250,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+cafetera+italiana+mercadona"
+   },
+   {
+    "value": "cafe cafetera italiana como hacer",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+cafetera+italiana+como+hacer"
+   },
+   {
+    "value": "cafe cafetera italiana cuanto dura",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+cafetera+italiana+cuanto+dura"
+   },
+   {
+    "value": "cafe cafetera italiana dia",
+    "relevance": 561,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+cafetera+italiana+dia"
+   },
+   {
+    "value": "cafe cafetera italiana lidl",
+    "relevance": 560,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+cafetera+italiana+lidl"
+   },
+   {
+    "value": "cafe para cafetera italiana",
+    "relevance": 559,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+para+cafetera+italiana"
+   },
+   {
+    "value": "café filtrado cafetera italiana",
+    "relevance": 558,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+filtrado+cafetera+italiana"
+   },
+   {
+    "value": "cafe molido cafetera italiana",
+    "relevance": 557,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+molido+cafetera+italiana"
+   },
+   {
+    "value": "café para cafetera italiana mercadona",
+    "relevance": 556,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+para+cafetera+italiana+mercadona"
+   },
+   {
+    "value": "mejor cafe cafetera italiana",
+    "relevance": 555,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=mejor+cafe+cafetera+italiana"
+   },
+   {
+    "value": "café para cafetera italiana alcampo",
+    "relevance": 554,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+para+cafetera+italiana+alcampo"
+   },
+   {
+    "value": "cafe para cafetera italiana carrefour",
+    "relevance": 553,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+para+cafetera+italiana+carrefour"
+   },
+   {
+    "value": "café para cafetera italiana mallorca",
+    "relevance": 552,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+para+cafetera+italiana+mallorca"
+   },
+   {
+    "value": "cafe especialidad cafetera italiana",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafe+especialidad+cafetera+italiana"
+   },
+   {
+    "value": "café quemado cafetera italiana",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=caf%C3%A9+quemado+cafetera+italiana"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

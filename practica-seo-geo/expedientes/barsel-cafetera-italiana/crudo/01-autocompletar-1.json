@@ -1,0 +1,35 @@
+{
+ "capturado": "2026-11-11T12:40:56Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "café cafetera italiana sale amargo",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af462582ed1233fcc851506",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/yehtc8PzCigBkZkKRbrzxbAeCcYKXUlTfqPtABKy7m4/6af462582ed1233fcc851506.json",
+   "markdown_endpoint": "https://serpapi.com/searches/yehtc8PzCigBkZkKRbrzxbAeCcYKXUlTfqPtABKy7m4/6af462582ed1233fcc851506.md",
+   "created_at": "2026-11-11 12:40:56 UTC",
+   "processed_at": "2026-11-11 12:40:56 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=caf%C3%A9+cafetera+italiana+sale+amargo&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/yehtc8PzCigBkZkKRbrzxbAeCcYKXUlTfqPtABKy7m4/6af462582ed1233fcc851506.html",
+   "prettify_html_file": "https://serpapi.com/searches/yehtc8PzCigBkZkKRbrzxbAeCcYKXUlTfqPtABKy7m4/6af462582ed1233fcc851506.prettify",
+   "total_time_taken": 0.97
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "café cafetera italiana sale amargo",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "No results."
+  },
+  "suggestions": [],
+  "verbatim_relevance": 1300
+ }
+}

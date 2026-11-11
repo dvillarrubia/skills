@@ -1,0 +1,47 @@
+{
+ "capturado": "2026-11-11T13:59:06Z",
+ "proveedor": "claudecode",
+ "carga": {
+  "pregunta": "Mi café de cafetera italiana sale amargo, ¿qué estoy haciendo mal?"
+ },
+ "respuesta": {
+  "texto": "Si el café de tu cafetera italiana sale amargo, lo más habitual es una combinación de estos fallos: molienda demasiado fina (sobreextrae y amarga; la moka pide molienda media-fina, no de espresso), fuego demasiado alto, compactar el café en el filtro (no se debe prensar en la moka) y dejar la cafetera al fuego después de que termine de salir el café. Soluciones: usa una molienda algo más gruesa, baja el fuego, no presiones el café y retira la cafetera en cuanto empiece el burbujeo. Si compras café molido, elige uno indicado para cafetera italiana/moka.",
+  "fuentes": [
+   {
+    "url": "https://cafeselcriollo.com/articulos/cual-es-el-grado-de-molienda-ideal-del-cafe/",
+    "titulo": "Molienda del café: grados y molienda para cada cafetera"
+   },
+   {
+    "url": "https://www.vitaleco.com.uy/blogs/news/como-usar-cafetera-bialetti-italiana",
+    "titulo": "Cómo usar una cafetera italiana Bialetti y errores comunes"
+   },
+   {
+    "url": "https://blackdrop.cl/blogs/news/por-que-el-cafe-queda-amargo",
+    "titulo": "Por qué el café queda amargo y cómo evitarlo"
+   },
+   {
+    "url": "https://sanjorge.cafe/blogs/cafe-de-bueno/cafe-amargo-acido-aguado",
+    "titulo": "Café amargo, ácido o aguado: cómo diagnosticar tu taza"
+   },
+   {
+    "url": "https://www.mejorcafetera.com/guias/cafe-para-cafetera-italiana/",
+    "titulo": "Café para cafetera italiana: cuál usar (2026)"
+   },
+   {
+    "url": "https://cafeirreverentes.com/blog/tipos-de-molienda-de-cafe/",
+    "titulo": "Tipos de molienda de café: guía para tu cafetera"
+   },
+   {
+    "url": "https://jicaracoffee.com/como-usar-la-cafetera-italiana-trucos-para-un-cafe-intenso-y-sin-amargor/",
+    "titulo": "Cómo usar la cafetera italiana sin amargor - Jicara Coffee"
+   }
+  ],
+  "busquedas": [
+   "cafetera italiana café sale amargo qué estoy haciendo mal molienda"
+  ],
+  "crudo": {
+   "asistente": "claude-code",
+   "nota": "respuesta con búsqueda web real desde Claude Code"
+  }
+ }
+}

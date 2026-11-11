@@ -1,0 +1,20 @@
+bloque,control,página actual,borrador,detalle página actual,detalle borrador
+Google,Título de 60 caracteres o menos con la consulta principal,NO (48 car.),sí (51 car.),☕️ El mejor café para cafetera italiana – Barsel,Molienda para cafetera italiana: guía y diagnóstico
+Google,Descripción de 135 a 145 caracteres,NO (123 car.),sí (145 car.),,
+Google,Un único H1,sí (1),sí (1),,
+Google,Consulta principal en las primeras 100 palabras,NO (67%),sí (100%),,
+Google,Consultas del grupo presentes en el texto,NO (1 de 2),sí (2 de 2),faltan: molienda para cafetera italiana numero,faltan: 
+Google,Preguntas que muestra Google con encabezado propio,NO (6 de 12),sí (8 de 12),sin encabezado: ¿Qué tipo de molienda es adecuado para una cafetera moka?; ¿Qué molienda es para cafetera?; ¿Qué tipo de molienda se usa para la cafetera italiana?; ¿Qué molienda lleva la moka italiana?; ¿Cómo se prepara la sopa italiana con pasta?; ¿Qué molienda se usa para moka italiana?,sin encabezado: ¿Qué tipo de molienda es adecuado para una cafetera moka?; ¿Qué supermercado tiene el mejor café molido?; ¿Cómo se prepara la sopa italiana con pasta?; ¿Qué molienda se usa para moka italiana?
+Google,Dos o más enlaces internos,n/e (no evaluable en el texto limpio),sí (2),,
+Google,Alguna tabla o lista que ordene la decisión,sí (),sí (),,
+IA,"Secciones que abren con la respuesta (frase de 30 palabras o menos, sin remitir a lo anterior)",sí (7 de 7),sí (9 de 9),revisar: ,revisar: 
+IA,Primera frase de cada sección nombra la entidad de la que habla,sí (7 de 7),sí (9 de 9),revisar: ,revisar: 
+IA,Preguntas hechas a los asistentes con un pasaje que las responde,NO (0 de 3),sí (3 de 3),"sin pasaje: Mi café de cafetera italiana sale amargo, ¿qué estoy haciendo mal?; ¿Qué molienda necesito para una cafetera italiana si compro café en grano?; ¿Qué café de especialidad me recomiendas comprar online en España para cafetera italiana?",sin pasaje: 
+IA,Búsquedas que lanza el asistente (fan-out) cubiertas por el texto,NO (0 de 3),sí (3 de 3),sin cubrir: cafetera italiana café sale amargo qué estoy haciendo mal molienda; qué molienda necesito para cafetera italiana moka si compro café en grano grado molienda; mejor café de especialidad comprar online españa para cafetera italiana moka tienda recomendación,sin cubrir: 
+IA,Cifras acompañadas de su unidad,NO (2 de 7),sí (2 de 2),,
+IA,"Secciones de 40 a 300 palabras, extraíbles como pasaje",sí (6 de 7),sí (9 de 9),,
+Técnico,robots.txt permite el acceso a los rastreadores de IA,sí (7 de 7),,GPTBot; OAI-SearchBot; ChatGPT-User; PerplexityBot; ClaudeBot; Google-Extended; CCBot,
+Técnico,Contenido principal presente en el HTML sin ejecutar JavaScript (300 palabras o más),sí (1441 palabras),,,
+Técnico,Datos estructurados en el HTML inicial,"sí (Article, Organization)",,,
+Técnico,Canonical apunta a la propia URL,sí (https://cafebarsel.com/blogs/noticias/el-mejor-cafe-para-cafetera-italiana),,,
+Técnico,Sin noindex,sí (sin meta robots),,,

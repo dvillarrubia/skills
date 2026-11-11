@@ -1,0 +1,119 @@
+{
+ "rango": {
+  "palabras_por_frase": [
+   10.39,
+   20.51
+  ],
+  "frases_cortas_pct": [
+   2.41,
+   47.39
+  ],
+  "frases_largas_pct": [
+   2.34,
+   7.86
+  ],
+  "palabras_por_parrafo": [
+   20.16,
+   58.34
+  ],
+  "segunda_persona_por_100": [
+   0,
+   1.57
+  ],
+  "nosotros_por_100": [
+   0,
+   1.89
+  ],
+  "preguntas_pct": [
+   0,
+   27.75
+  ],
+  "exclamaciones_pct": [
+   0,
+   2.1
+  ],
+  "negritas_por_100": [
+   0.2,
+   4.6
+  ],
+  "encabezados_mayusculas_pct": [
+   0,
+   62.67
+  ]
+ },
+ "medidas": {
+  "https://cafebarsel.com/blogs/noticias/el-mejor-cafe-para-cafetera-italiana": {
+   "palabras_por_frase": 18.2,
+   "frases_cortas_pct": 7.6,
+   "frases_largas_pct": 3.8,
+   "palabras_por_parrafo": 53.2,
+   "segunda_persona_por_100": 0.55,
+   "nosotros_por_100": 1.39,
+   "preguntas_pct": 6.3,
+   "exclamaciones_pct": 0.0,
+   "negritas_por_100": 1.39,
+   "encabezados_mayusculas_pct": 54.5
+  },
+  "https://cafebarsel.com/blogs/noticias/como-preparar-cafe-en-la-v60-guia-completa-para-un-cafe-perfecto": {
+   "palabras_por_frase": 12.7,
+   "frases_cortas_pct": 42.2,
+   "frases_largas_pct": 3.1,
+   "palabras_por_parrafo": 25.4,
+   "segunda_persona_por_100": 0.73,
+   "nosotros_por_100": 0.48,
+   "preguntas_pct": 6.2,
+   "exclamaciones_pct": 1.6,
+   "negritas_por_100": 1.58,
+   "encabezados_mayusculas_pct": 0
+  },
+  "https://cafebarsel.com/blogs/noticias/que-evitar-al-comprar-cafe-en-grano": {
+   "palabras_por_frase": 15.0,
+   "frases_cortas_pct": 22.2,
+   "frases_largas_pct": 5.6,
+   "palabras_por_parrafo": 25.3,
+   "segunda_persona_por_100": 1.07,
+   "nosotros_por_100": 0.18,
+   "preguntas_pct": 2.8,
+   "exclamaciones_pct": 0.0,
+   "negritas_por_100": 0.71,
+   "encabezados_mayusculas_pct": 0
+  },
+  "https://cafebarsel.com/blogs/noticias/cuanto-dura-el-cafe-hecho-en-casa": {
+   "palabras_por_frase": 17.2,
+   "frases_cortas_pct": 23.8,
+   "frases_largas_pct": 7.1,
+   "palabras_por_parrafo": 38.6,
+   "segunda_persona_por_100": 0.41,
+   "nosotros_por_100": 0.0,
+   "preguntas_pct": 14.3,
+   "exclamaciones_pct": 0.0,
+   "negritas_por_100": 4.09,
+   "encabezados_mayusculas_pct": 0.0
+  },
+  "https://cafebarsel.com/blogs/noticias/cafe-ecologico-que-es-en-que-se-diferencia-y-como-elegirlo": {
+   "palabras_por_frase": 13.9,
+   "frases_cortas_pct": 32.1,
+   "frases_largas_pct": 5.7,
+   "palabras_por_parrafo": 28.8,
+   "segunda_persona_por_100": 0.54,
+   "nosotros_por_100": 0.27,
+   "preguntas_pct": 24.5,
+   "exclamaciones_pct": 0.0,
+   "negritas_por_100": 1.89,
+   "encabezados_mayusculas_pct": 0
+  },
+  "https://cafebarsel.com/blogs/noticias/como-entender-las-notas-de-cata-y-la-puntuacion-sca-en-cafes-de-especialidad": {
+   "palabras_por_frase": 14.1,
+   "frases_cortas_pct": 16.2,
+   "frases_largas_pct": 0.0,
+   "palabras_por_parrafo": 36.3,
+   "segunda_persona_por_100": 0.95,
+   "nosotros_por_100": 0.38,
+   "preguntas_pct": 8.1,
+   "exclamaciones_pct": 0.0,
+   "negritas_por_100": 1.9,
+   "encabezados_mayusculas_pct": 0
+  }
+ },
+ "reservado": "https://cafebarsel.com/blogs/noticias/como-entender-las-notas-de-cata-y-la-puntuacion-sca-en-cafes-de-especialidad"
+}

@@ -1,0 +1,412 @@
+{
+ "capturado": "2026-11-11T12:40:47Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "site:forocoches.com qué molienda usar cafetera italiana",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af4625025c6573aad781871",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/hkoLbooM63i3IJPtBKvezMT042w8egB2dJDUUHehwug/6af4625025c6573aad781871.json",
+   "markdown_endpoint": "https://serpapi.com/searches/hkoLbooM63i3IJPtBKvezMT042w8egB2dJDUUHehwug/6af4625025c6573aad781871.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/hkoLbooM63i3IJPtBKvezMT042w8egB2dJDUUHehwug/6af4625025c6573aad781871.json_with_pixel_position",
+   "created_at": "2026-11-11 12:40:48 UTC",
+   "processed_at": "2026-11-11 12:40:48 UTC",
+   "google_url": "https://www.google.es/search?q=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&oq=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/hkoLbooM63i3IJPtBKvezMT042w8egB2dJDUUHehwug/6af4625025c6573aad781871.html",
+   "total_time_taken": 0.44
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "site:forocoches.com qué molienda usar cafetera italiana",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "site:forocoches.com qué molienda usar cafetera italiana",
+   "total_results": 43200000,
+   "time_taken_displayed": 0.31,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.instagram.com/reel/Dcv5714xdrS/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IvN56ht6gTmubgUVdAzH_24VBttPwUB-khdqFl_FQgzF7VgMv92JOSs&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3976651796952505042",
+    "title": "Cómo usar la cafetera francesa? , Acá te dejo algunos tips para que no se  te queme el café, quedé con cuerpo, aroma y sabor deseado ☕️, #cafe  #cafeterafrancesa #cafetera",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/paulinacocina.net/videos/si-te-compraste-una-cafetera-moka-y-no-sabes-c%C3%B3mo-usarla-quedate-que-te-cuento-%EF%B8%8F/2018280282152918/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_n54fyArn2ZJWWTjZCQ-S6ugFwrR_h96U21ETK32J0D-ho7YBYaSPuo&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2018280282152918&get_thumbnail=1",
+    "title": "Si te compraste una cafetera moka y no sabes cómo usarla, quedate que te  cuento ✋☕️, Esta cafetera italiana no falla NUNCA pero tiene sus mañas y  secretos, así que en este video te explico cómo se usa ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.youtube.com/watch?v=8-rbMwJ30BM",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE11bQcpALPYV2Ou6cuA1nDWqqxhbqer_HoLvi-8Jv&s",
+    "original": "https://i.ytimg.com/vi/8-rbMwJ30BM/maxresdefault.jpg",
+    "title": "¿Cómo usar CAFETERA ITALIANA moka? Prepara el café correctamente",
+    "source_name": "YouTube"
+   },
+   {
+    "source": "https://www.instagram.com/reel/Dcv5714xdrS/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5XUf6ai1YOyMcLbeqc-4wHbP9Z0OXt4kcsxp3A3rQT6iUFdbeGSeSLY&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=4019695640342092907",
+    "title": "Cómo usar la cafetera francesa? Acá te dejo algunos tips ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/reel/Dcv5714xdrS/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6C3H1wSkTMZaE9vBMABfHN_6XXmKODVXS-vizyqIKd41vzfkCbCkI6mI&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=4019581197268171154",
+    "title": "Cómo usar la cafetera francesa? Acá te dejo algunos tips ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.instagram.com/reel/Dcv5714xdrS/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRK9NlB6RGhhji6MECMZP2317V6wQeinqrx0IOBy-qgvWjEMS3ny3Loo&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3985369533898260528",
+    "title": "Cómo usar la cafetera francesa? Acá te dejo algunos tips ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.youtube.com/watch?v=EUVP0lXe12A",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpXl7hBkWXmWpRx15_lNJEGZlhfFg39T-JZQPQl3P2&s",
+    "original": "https://i.ytimg.com/vi/EUVP0lXe12A/maxresdefault.jpg",
+    "title": "Como limpiar la cafetera italiana o cafetera moka!",
+    "source_name": "YouTube"
+   },
+   {
+    "source": "https://www.instagram.com/reel/Dcv5714xdrS/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXhhndNeGtdDiaBdJYtUIB96DjZCseEa5KdMGQgUcku-NrOq4oozEKm4&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=4017987974209424713",
+    "title": "Cómo usar la cafetera francesa? Acá te dejo algunos tips ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.youtube.com/watch?v=J93trRCb76c",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHvbBRhRO5rZyi1j8Nh9XYL2ChL8Xe6rntMGK36dhAEpx51mN005ztI0&s",
+    "original": "https://i.ytimg.com/vi/fFFYxoAxRVc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJDovOX_wMOCLi3jdcGGODqBCDgqAE=&rs=AOn4CLDjI8FPkAtKgW_O71lBFnXKRj9aHQ&usqp=CBU",
+    "title": "TRUCO para MEJORAR EL CAFÉ en tu CAFETERA ITALIANA / MOKA ...",
+    "source_name": "YouTube"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Si te compraste una cafetera moka y no sabes cómo usarla ...",
+    "link": "https://www.youtube.com/shorts/z5-Cjhb7gfY",
+    "thumbnail": "https://serpapi.com/searches/6af4625025c6573aad781871/images/zqIte0nPOmXbfKwAnuawNXQ2ZRjsiQcKtoeBo_KvrH4.jpg",
+    "channel": "Paulina Cocina",
+    "duration": "0:34",
+    "platform": "YouTube",
+    "date": "10 sept 2026",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSYQolUJZlymXeMFtxdRa7ALspW-YgWLfJGEA"
+   },
+   {
+    "position": 2,
+    "title": "¿Cómo usar CAFETERA ITALIANA moka? Prepara el café ...",
+    "link": "https://www.youtube.com/watch?v=8-rbMwJ30BM",
+    "thumbnail": "https://serpapi.com/searches/6af4625025c6573aad781871/images/uUXBOUq3sDkso69iAuL_mUk-vDaHsmf6DI0okLPC38M.jpg",
+    "channel": "Templo Cafés",
+    "duration": "5:12",
+    "platform": "YouTube",
+    "date": "29 abr 2024"
+   },
+   {
+    "position": 3,
+    "title": "How to Use an Italian Coffee Maker Correctly | A Basic Guide ...",
+    "link": "https://www.youtube.com/watch?v=iszR7yQ7j78",
+    "thumbnail": "https://serpapi.com/searches/6af4625025c6573aad781871/images/ibgiomnUiX5uaIYrEt4QibJkT6hjGv9b_YbosRgYgas.jpg",
+    "channel": "Fuego Loco",
+    "duration": "4:55",
+    "platform": "YouTube",
+    "date": "1 oct 2024",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQhAUKO78D2gt1nyMBkGjbYSMsjSPHLxZjd_g"
+   },
+   {
+    "position": 4,
+    "title": "Si te compraste una cafetera moka y no sabes cómo usarla, ...",
+    "link": "https://www.facebook.com/paulinacocina.net/videos/si-te-compraste-una-cafetera-moka-y-no-sabes-c%C3%B3mo-usarla-quedate-que-te-cuento-%EF%B8%8F/2018280282152918/",
+    "thumbnail": "https://serpapi.com/searches/6af4625025c6573aad781871/images/GeS8tIPBIdoAvCEYsnlt0PY1p6FY9hhj9KutmNMaPUw.jpg",
+    "channel": "Paulina Cocina",
+    "duration": "0:34",
+    "platform": "Facebook",
+    "date": "9 sept 2026"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Ofertas en Cafeteras y Teteras al mejor precio",
+    "link": "https://www.mediamarkt.es/es/category/cafeteras-y-teteras-567.html?srsltid=AYCX9vK22EYmkmba0enJ2I5Lgr09xj29rLc6YKNZpU8DbXrLZX74DiuQ",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEBxCJF14-ucEzroTjthxFeyqZe9tAg87-KBfbZPSpaV1iDfN1TwmifPRor_Pq_j053I8KN8vxDA4fTXhO-B-dFYbDg5U2V_1QBdToANuDKttjrPo8OSxYAzbpTSkxQ_c8ekcVQjWKIPG9xoxsjvN4pKtR6UjjGP17YmghVIJV2jQxCAT2Jjjqt-Z4rixeL5kTzn1lhRj1KAFevkABAZsxIZLpBXKtH0v6ZX5mX1F8DuYXwgk3n3nYPQ79TUZKEOQts&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECCMQAQ&uoh=1",
+    "displayed_link": "https://www.mediamarkt.es › category › cafeteras-y-teter...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEVHcEzfAADfAADfAADfAADfAADfAADfAADfAADgAADfAADfAADfAADfAABC5tJWAAAADnRSTlMALJ7J7f8Ntxpthz_cVhpx8ScAAAGRSURBVHgBTcqBh1MBAMfx7y7e3jZjsRNp7JpXIzGxQoXFU1G4t_08d2_jMRy5GFqC40WiDE-arg4Gpcrx6IaqERkDdJfFNf0vtSdzH-DLl1iiZJ_hqA05YG6z0NeAzFhviZkh4yZGV2oGzA3DhG7Ql76ffgNg2FFag6waHwJibUXHxLT5g__2lOs52GXM0cwH6CnKe0vrHEhqnPchqTA_eVQ8odgAUirmK8-z13IYB2PVwFBls7P18fHhPjxRi19YXrLyYOX9q6obkXa4Sn49--3czmjX7Lo-P7GDlPzaS4zC5YxaGKhDt_hsBKO9aKoIVGfJSc_gc8GbL4x1H2vwOzC_dG5hNWBDiswrO7PR9qQfttWB13JziT_Hy53a8sWUPDDuqbF7WLozWO15qAUkXkjXo2lmtb2GVcMg9tRLTtouwyLGlg-ctMNhpV1nOQeWLp0d6zZ2eKrJXWBT_7hBWv6wyZxpq3EhwHLo14l9erfvs6QaVZeFjK3I1Nqiza4c0iovuiqFfF1hoVC6CQ-Z-wu6s3_KlgjGugAAAABJRU5ErkJggg.png",
+    "snippet": "Molinillo integrado, vapor MyLatte Art y 3 temperaturas para preparar espressos y cafés con leche a tu medida.",
+    "snippet_highlighted_words": [
+     "Molinillo integrado, vapor MyLatte Art y 3 temperaturas"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Molinillo integrado, vapor MyLatte Art y 3 temperaturas para preparar espressos y cafés con leche a tu medida.",
+      "source_info_link": "https://www.mediamarkt.es/es/category/cafeteras-y-teteras-567.html?srsltid=AYCX9vK22EYmkmba0enJ2I5Lgr09xj29rLc6YKNZpU8DbXrLZX74DiuQ",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEVHcEzfAADfAADfAADfAADfAADfAADfAADfAADgAADfAADfAADfAADfAABC5tJWAAAADnRSTlMALJ7J7f8Ntxpthz_cVhpx8ScAAAGRSURBVHgBTcqBh1MBAMfx7y7e3jZjsRNp7JpXIzGxQoXFU1G4t_08d2_jMRy5GFqC40WiDE-arg4Gpcrx6IaqERkDdJfFNf0vtSdzH-DLl1iiZJ_hqA05YG6z0NeAzFhviZkh4yZGV2oGzA3DhG7Ql76ffgNg2FFag6waHwJibUXHxLT5g__2lOs52GXM0cwH6CnKe0vrHEhqnPchqTA_eVQ8odgAUirmK8-z13IYB2PVwFBls7P18fHhPjxRi19YXrLyYOX9q6obkXa4Sn49--3czmjX7Lo-P7GDlPzaS4zC5YxaGKhDt_hsBKO9aKoIVGfJSc_gc8GbL4x1H2vwOzC_dG5hNWBDiswrO7PR9qQfttWB13JziT_Hy53a8sWUPDDuqbF7WLozWO15qAUkXkjXo2lmtb2GVcMg9tRLTtouwyLGlg-ctMNhpV1nOQeWLp0d6zZ2eKrJXWBT_7hBWv6wyZxpq3EhwHLo14l9erfvs6QaVZeFjK3I1Nqiza4c0iovuiqFfF1hoVC6CQ-Z-wu6s3_KlgjGugAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCeENKRjF6cl92ZmN1b1lUZTFaejhTN1BjdGRKVEtuSU9GYWtDZGxaVEtyeVFlcW92UTNWTXRyMEJmVEQxcGFkcjQ0a1hhYU1OWk94M2l5WTlMcjRpWmktYUoyNkRXWS10Mm96a3E1WlZqVmpDQUhsQ2lWdlFwdU5ocExqOVVDdWRldXBnNzY3TmZaVUpfaVF3ZTI3X0tBVzV0dVEyV0kzMW9LNU9BbmZpUEV0cWlyOS0za2dVYUhrWmJ5bWZWQTNPQkl3QVAtcVM0UTQ3a2NHUEY0aWZxMlpVX1EtdldzZmtZN1hqNm11QXczSjgxVC1FU0F3cXp2eEkzWEpmRFVUaRIEGgIIABrAAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQJoDCA4QABgAIAAqEwoEcXXDqRXQ8qw_GgFxGgNxdWUyuQEvZ290bz91cmw9Q0FFU2Z3SEVJa1hYeDR6OWtyM0xYdG0tN2kxU1lBWGMyUEpqcUNpaVZjT09HZjJHY0FUajQ1aTlDel9vQ2ZUMHRBd2hUT25oRTV5V3lVdUYtQVdXOHdmb2ZENjRBdWJsN1pFcXdWa0JCSFREa1NZLU5fbFB1aVlXMzhkdHotVnd3MmJRdDlQWFZIYXItanVyU1pZMlA4ejZXZnA4OHFKWXBGM1NWVWhKQTB1WVFBTTpCT2ZlcnRhcyBlbiA8Yj5DYWZldGVyYXM8L2I-IHkgVGV0ZXJhcyBhbCBtZWpvciBwcmVjaW8gfCBNZWRpYU1hcmt0QnY8Yj5Nb2xpbmlsbG8gaW50ZWdyYWRvLCB2YXBvciBNeUxhdHRlIEFydCB5IDMgdGVtcGVyYXR1cmFzPC9iPiBwYXJhIHByZXBhcmFyIGVzcHJlc3NvcyB5IGNhZsOpcyBjb24gbGVjaGUgYSB0dSBtZWRpZGEuUgNxdWUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCeENKRjF6cl92ZmN1b1lUZTFaejhTN1BjdGRKVEtuSU9GYWtDZGxaVEtyeVFlcW92UTNWTXRyMEJmVEQxcGFkcjQ0a1hhYU1OWk94M2l5WTlMcjRpWmktYUoyNkRXWS10Mm96a3E1WlZqVmpDQUhsQ2lWdlFwdU5ocExqOVVDdWRldXBnNzY3TmZaVUpfaVF3ZTI3X0tBVzV0dVEyV0kzMW9LNU9BbmZpUEV0cWlyOS0za2dVYUhrWmJ5bWZWQTNPQkl3QVAtcVM0UTQ3a2NHUEY0aWZxMlpVX1EtdldzZmtZN1hqNm11QXczSjgxVC1FU0F3cXp2eEkzWEpmRFVUaRIEGgIIABrAAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQJoDCA4QABgAIAAqEwoEcXXDqRXQ8qw_GgFxGgNxdWUyuQEvZ290bz91cmw9Q0FFU2Z3SEVJa1hYeDR6OWtyM0xYdG0tN2kxU1lBWGMyUEpqcUNpaVZjT09HZjJHY0FUajQ1aTlDel9vQ2ZUMHRBd2hUT25oRTV5V3lVdUYtQVdXOHdmb2ZENjRBdWJsN1pFcXdWa0JCSFREa1NZLU5fbFB1aVlXMzhkdHotVnd3MmJRdDlQWFZIYXItanVyU1pZMlA4ejZXZnA4OHFKWXBGM1NWVWhKQTB1WVFBTTpCT2ZlcnRhcyBlbiA8Yj5DYWZldGVyYXM8L2I-IHkgVGV0ZXJhcyBhbCBtZWpvciBwcmVjaW8gfCBNZWRpYU1hcmt0QnY8Yj5Nb2xpbmlsbG8gaW50ZWdyYWRvLCB2YXBvciBNeUxhdHRlIEFydCB5IDMgdGVtcGVyYXR1cmFzPC9iPiBwYXJhIHByZXBhcmFyIGVzcHJlc3NvcyB5IGNhZsOpcyBjb24gbGVjaGUgYSB0dSBtZWRpZGEuUgNxdWUiAhABSABYAGgA",
+    "source": "MediaMarkt"
+   },
+   {
+    "position": 2,
+    "title": "Cafeteras express y eléctricas | Electrodomésticos",
+    "link": "https://www.elcorteingles.es/electrodomesticos/cafeteras/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXqJ1d0kNN_x9f2z_k8ZI2PqaaL8BzyG8nqGNhJfvualHB3FUCfpCs3HHth_Azk5lOgV7oNwVsBLadzLxmP8DDj5vguPPxytbVWjlMb6lPi54QbK2_iMDkj67HtoU0T0sUynzPB4ASKZlPPmjmBg0PgjU&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECCAQAQ&uoh=1",
+    "displayed_link": "https://www.elcorteingles.es › electrodomesticos › cafet...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAhy8AljMAmTUAlDMAmDYAoTgAlzUAkzMAlTQAlTMAkzMAlDMAjzIAkDIAlTMAlDMAlzQAlDOiMebBAAAAE3RSTlMAA4jkOBH____Xm1Ah__-oab71FTC71QAAAIRJREFUeAHV0TUCwzAQAEGLMUf_f2xOTcCC3tuOWNfDMiezzvpgdhhTLrX1sMT0gpygIPm-Qg1yzo5t6wv8eiW_wpG66AJ-iRpATlKsDyscQYoJ-4yQITu9WpiWhZylsB1i_jGrjMOG6bQ5qdj7OymqJGF9IHOZ-W0Faf30hqqffu6RvQFxZAlirbKEkAAAAABJRU5ErkJggg.png",
+    "snippet": "Cafetera espresso manual De'Longhi La Specialista Mini Arte EC9155.MB con molinillo integrado - Gris / Negro. Precio de venta 349 €. Precio de venta 349 €.",
+    "snippet_highlighted_words": [
+     "Cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Cafetera espresso manual De'Longhi La Specialista Mini Arte EC9155.MB con molinillo integrado - Gris / Negro. Precio de venta 349 €. Precio de venta 349 €.",
+      "source_info_link": "https://www.elcorteingles.es/electrodomesticos/cafeteras/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwAhy8AljMAmTUAlDMAmDYAoTgAlzUAkzMAlTQAlTMAkzMAlDMAjzIAkDIAlTMAlDMAlzQAlDOiMebBAAAAE3RSTlMAA4jkOBH____Xm1Ah__-oab71FTC71QAAAIRJREFUeAHV0TUCwzAQAEGLMUf_f2xOTcCC3tuOWNfDMiezzvpgdhhTLrX1sMT0gpygIPm-Qg1yzo5t6wv8eiW_wpG66AJ-iRpATlKsDyscQYoJ-4yQITu9WpiWhZylsB1i_jGrjMOG6bQ5qdj7OymqJGF9IHOZ-W0Faf30hqqffu6RvQFxZAlirbKEkAAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJPd2k1bzRCd0M1SzVXcnRteUxYc0dqVWNCZV80T3lubHJackJDZmxXampzbng3ZFowTV96YlVxbHpSeW5QRkkyTEtTeDRMSF82ajZseFAxNGpnRUIwWnFDVWRJb0RVV1ZHT010RVhGck1veTdVV0lXWW9aUkJfbk1KcjhwVXRnRkYzcjJvQmQ3amNwRDJLN0VDWkEwdGsSBBoCCAAa4gMSAggAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkC8AwgOEAAYACAAKhMKBHF1w6kVNI8HQBoBcRoDcXVlMq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJPd2k1bzRCd0M1SzVXcnRteUxYc0dqVWNCZV80T3lubHJackJDZmxXampzbng3ZFowTV96YlVxbHpSeW5QRkkyTEtTeDRMSF82ajZseFAxNGpnRUIwWnFDVWRJb0RVV1ZHT010RVhGck1veTdVV0lXWW9aUkJfbk1KcjhwVXRnRkYzcjJvQmQ3amNwRDJLN0VDWkEwdGs6OzxiPkNhZmV0ZXJhczwvYj4gZXhwcmVzcyB5IGVsw6ljdHJpY2FzIHwgRWxlY3Ryb2RvbcOpc3RpY29zQqoBPGI-Q2FmZXRlcmE8L2I-IGVzcHJlc3NvIG1hbnVhbCBEZSYjMzk7TG9uZ2hpIExhIFNwZWNpYWxpc3RhIE1pbmkgQXJ0ZSBFQzkxNTUuTUIgY29uIG1vbGluaWxsbyBpbnRlZ3JhZG8gLSBHcmlzIC8gTmVncm8uIFByZWNpbyBkZSB2ZW50YSAzNDkg4oKsLiBQcmVjaW8gZGUgdmVudGEgMzQ5IOKCrC5SA3F1ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJPd2k1bzRCd0M1SzVXcnRteUxYc0dqVWNCZV80T3lubHJackJDZmxXampzbng3ZFowTV96YlVxbHpSeW5QRkkyTEtTeDRMSF82ajZseFAxNGpnRUIwWnFDVWRJb0RVV1ZHT010RVhGck1veTdVV0lXWW9aUkJfbk1KcjhwVXRnRkYzcjJvQmQ3amNwRDJLN0VDWkEwdGsSBBoCCAAa4gMSAggAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkC8AwgOEAAYACAAKhMKBHF1w6kVNI8HQBoBcRoDcXVlMq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJPd2k1bzRCd0M1SzVXcnRteUxYc0dqVWNCZV80T3lubHJackJDZmxXampzbng3ZFowTV96YlVxbHpSeW5QRkkyTEtTeDRMSF82ajZseFAxNGpnRUIwWnFDVWRJb0RVV1ZHT010RVhGck1veTdVV0lXWW9aUkJfbk1KcjhwVXRnRkYzcjJvQmQ3amNwRDJLN0VDWkEwdGs6OzxiPkNhZmV0ZXJhczwvYj4gZXhwcmVzcyB5IGVsw6ljdHJpY2FzIHwgRWxlY3Ryb2RvbcOpc3RpY29zQqoBPGI-Q2FmZXRlcmE8L2I-IGVzcHJlc3NvIG1hbnVhbCBEZSYjMzk7TG9uZ2hpIExhIFNwZWNpYWxpc3RhIE1pbmkgQXJ0ZSBFQzkxNTUuTUIgY29uIG1vbGluaWxsbyBpbnRlZ3JhZG8gLSBHcmlzIC8gTmVncm8uIFByZWNpbyBkZSB2ZW50YSAzNDkg4oKsLiBQcmVjaW8gZGUgdmVudGEgMzQ5IOKCrC5SA3F1ZSICEAFIAFgAaAA",
+    "source": "El Corte Inglés"
+   },
+   {
+    "position": 3,
+    "title": "Cafetera Piccolo instrucciones - NESCAFÉ® Dolce Gusto®",
+    "link": "https://www.dolce-gusto.es/manuales-cafeteras/piccolo-instrucciones?srsltid=AYCX9vKPtmWKMaU-4bzlVxnyTYJtwHswGI7epZ-a75CNv_Ml5UmUpjTL",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEBxCJF11LaSbquGOhCLtFKiSnXW121bq-N5HeFtWdsTXXw7mb9sbwrwHpEmNlchmeyAI5wueYP6tGMmsdxTZMuY5okm4Jm8UiaGGxoSEMWaQttkhBk6xTKi3qrqfIdGMILxlfQCpRrLZ6t8pTcjb6ps2POX2hHn2py4KaGszpYI1AR3slr2iOq69XNxGUw_HbEoAnO2zEQFavUJq5rZ6aMtzpvh_7dfhR7BDCKzMa7_1DHzIxLFuqilQ1YkyiBdD2yXQ&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECCIQAQ&uoh=1",
+    "displayed_link": "https://www.dolce-gusto.es › manuales-cafeteras › picco...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png",
+    "snippet": "Ponemos a tu disposición las instrucciones y manuales de uso de la cafetera Piccolo de NESCAFÉ® Dolce Gusto®. ¡Contáctanos para cualquier consulta!",
+    "snippet_highlighted_words": [
+     "cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Ponemos a tu disposición las instrucciones y manuales de uso de la cafetera Piccolo de NESCAFÉ® Dolce Gusto®. ¡Contáctanos para cualquier consulta!",
+      "source_info_link": "https://www.dolce-gusto.es/manuales-cafeteras/piccolo-instrucciones?srsltid=AYCX9vKPtmWKMaU-4bzlVxnyTYJtwHswGI7epZ-a75CNv_Ml5UmUpjTL",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCeENKRjEyR3k5aFloRjN2QWJDc0dUcTd5cVdSMXBFbmdYUlNoRFJqX2JCeDNNOFdJMHRaN0F4OUpyVFA3VEhuYy1rbm1tYkIycFp5LU1yUU0tT1ZRX1V1RzNLVV81bmhMek9FQmVsNERhUW5LLVkxWTNDc21yVzhTbjJZSWF0cm1vZkp6UHNTVUFQbm1YUGtzUFg2dmhPNnZpcmRLX2xaNWRIUHZsSmRMelg2bFhEbGlXYjFBdDZpOTJMMnZ6d1FKZmtDeENCRktZSGF2MUVuWEtWV19zSWNsYzctWmlWVmxpaVZqZUNQRzZMcG0tRmxlcndfbTktTWJLVVFqMFZqNFlREgQaAggAGuwDEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAxgMIDhAAGAAgACoTCgRxdcOpFe2khkAaAXEaA3F1ZTK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxX3hRcmxETFhISTZLVVpxQ1VVb1NsTnBJN3JtTHF0NGMxdUhwbmNubm9nd2x5eTFvbDI5WGFiaU1kdnBHNkswNW9pS2g0SHg3dVUtN25WTFhPNDBoZmh3MWtRRUZIY3JqVUFOc2tNQkszUnRRZ1BYU3FYSmF1TXNXNEM2UHB5OUVuNjItUzZ0b0xmWEFkU1Z1eWZYcnhzazh1VDdNTnc2cWJDd05ROkA8Yj5DYWZldGVyYTwvYj4gUGljY29sbyBpbnN0cnVjY2lvbmVzIC0gTkVTQ0FGw4nCriBEb2xjZSBHdXN0b8KuQqABUG9uZW1vcyBhIHR1IGRpc3Bvc2ljacOzbiBsYXMgaW5zdHJ1Y2Npb25lcyB5IG1hbnVhbGVzIGRlIHVzbyBkZSBsYSA8Yj5jYWZldGVyYTwvYj4gUGljY29sbyBkZSBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq4uIMKhQ29udMOhY3Rhbm9zIHBhcmEgY3VhbHF1aWVyIGNvbnN1bHRhIVIDcXVlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCeENKRjEyR3k5aFloRjN2QWJDc0dUcTd5cVdSMXBFbmdYUlNoRFJqX2JCeDNNOFdJMHRaN0F4OUpyVFA3VEhuYy1rbm1tYkIycFp5LU1yUU0tT1ZRX1V1RzNLVV81bmhMek9FQmVsNERhUW5LLVkxWTNDc21yVzhTbjJZSWF0cm1vZkp6UHNTVUFQbm1YUGtzUFg2dmhPNnZpcmRLX2xaNWRIUHZsSmRMelg2bFhEbGlXYjFBdDZpOTJMMnZ6d1FKZmtDeENCRktZSGF2MUVuWEtWV19zSWNsYzctWmlWVmxpaVZqZUNQRzZMcG0tRmxlcndfbTktTWJLVVFqMFZqNFlREgQaAggAGuwDEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAxgMIDhAAGAAgACoTCgRxdcOpFe2khkAaAXEaA3F1ZTK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxX3hRcmxETFhISTZLVVpxQ1VVb1NsTnBJN3JtTHF0NGMxdUhwbmNubm9nd2x5eTFvbDI5WGFiaU1kdnBHNkswNW9pS2g0SHg3dVUtN25WTFhPNDBoZmh3MWtRRUZIY3JqVUFOc2tNQkszUnRRZ1BYU3FYSmF1TXNXNEM2UHB5OUVuNjItUzZ0b0xmWEFkU1Z1eWZYcnhzazh1VDdNTnc2cWJDd05ROkA8Yj5DYWZldGVyYTwvYj4gUGljY29sbyBpbnN0cnVjY2lvbmVzIC0gTkVTQ0FGw4nCriBEb2xjZSBHdXN0b8KuQqABUG9uZW1vcyBhIHR1IGRpc3Bvc2ljacOzbiBsYXMgaW5zdHJ1Y2Npb25lcyB5IG1hbnVhbGVzIGRlIHVzbyBkZSBsYSA8Yj5jYWZldGVyYTwvYj4gUGljY29sbyBkZSBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq4uIMKhQ29udMOhY3Rhbm9zIHBhcmEgY3VhbHF1aWVyIGNvbnN1bHRhIVIDcXVlIgIQAUgAWABoAA",
+    "source": "Nescafé Dolce Gusto"
+   },
+   {
+    "position": 4,
+    "title": "Configurar cafetera NEO Latte | NESCAFÉ® Dolce Gusto®",
+    "link": "https://www.dolce-gusto.es/n2-onboarding?srsltid=AYCX9vLyzUChsoJpPZvugXo4Dl_G08dH3hDuwOslahccjFmHoXWihHhW",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEBxCJF1xU-lOFykZlMV1ZGokH6DGJqFAyjUO1tmMPRx6FAFMOUKp30YYl2yLPs-NS9g6OTdjFjbJTn2jUzPk3FxihaSYN-k2QTaJPXfihqTJ0q2rDTA6KC-jODXkGkNaJv8TEOhcNg5oBG1StE6wcKvvABRFle86Imj07qGhHIm83irFBzy8OQiB7omG_ymOG2PmBA-F6N07bHMn-4nNXqKNX4F7ZQ&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECC8QAQ&uoh=1",
+    "displayed_link": "https://www.dolce-gusto.es › n2-onboarding",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png",
+    "snippet": "Ajusta la posición de la bandeja de goteo en función del tamaño de la taza que vayas a utilizar. · Enciende la cafetera pulsando el botón ON/OFF lateral.",
+    "snippet_highlighted_words": [
+     "que",
+     "cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Ajusta la posición de la bandeja de goteo en función del tamaño de la taza que vayas a utilizar. · Enciende la cafetera pulsando el botón ON/OFF lateral.",
+      "source_info_link": "https://www.dolce-gusto.es/n2-onboarding?srsltid=AYCX9vLyzUChsoJpPZvugXo4Dl_G08dH3hDuwOslahccjFmHoXWihHhW",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCeENKRjF6NWNvbjBpV0ZKaFZ0X1JiUnBiLVFRNGhTa0tlN2F0T0lvWDhyUzhmcl9oeEFqQ3V0YTJMOTdrakRHTFdnSm0wNVRSWnp5b1Ntc0lfRkRfWUlUR2x5ejd3ajc4d1MxcWt3SXM3Y0FPRVNFZ1F2TkxDZ1NCdklsaXlPZ1huRWpMcUtFYVQ1ZWlNNHRESEx5Vl9SZ3hyUHBTRUlxQUxmalpCbFg0UzBkcEQ4TERBTTFJZ1VKN2tTbndOa05Ed05DTENaVTExMUd1cUsxY19BbnpadEo1cDdJSRIEGgIIABrVAxIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCxAwgOEAAYACAAKhMKBHF1w6kVyJaEQBoBcRoDcXVlMpYBL2dvdG8_dXJsPUNBRVNaUUhFSWtYWDBfdjlEZ3o1SzJnUkJqS1lUMjF4RXlKdXpqdlpVYkpxZ3dFMl9YTW0yeER5NWlKc1kxM2wwemhPMmJWbzZIRDg4STFoTkx5bTBwR3dnSWZIdGJZd2M2Y1ZUV0dQdlh5em1KcHBHMEVVT2NxbGthRXEtdW1janNoTENTMUJJXzRlOj9Db25maWd1cmFyIDxiPmNhZmV0ZXJhPC9iPiBORU8gTGF0dGUgfCBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq5CsgFBanVzdGEgbGEgcG9zaWNpw7NuIGRlIGxhIGJhbmRlamEgZGUgZ290ZW8gZW4gZnVuY2nDs24gZGVsIHRhbWHDsW8gZGUgbGEgdGF6YSA8Yj5xdWU8L2I-IHZheWFzIGEgdXRpbGl6YXIuICZtaWRkb3Q7IEVuY2llbmRlIGxhIDxiPmNhZmV0ZXJhPC9iPiBwdWxzYW5kbyBlbCBib3TDs24gT04vT0ZGIGxhdGVyYWwuUgNxdWUiAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCeENKRjF6NWNvbjBpV0ZKaFZ0X1JiUnBiLVFRNGhTa0tlN2F0T0lvWDhyUzhmcl9oeEFqQ3V0YTJMOTdrakRHTFdnSm0wNVRSWnp5b1Ntc0lfRkRfWUlUR2x5ejd3ajc4d1MxcWt3SXM3Y0FPRVNFZ1F2TkxDZ1NCdklsaXlPZ1huRWpMcUtFYVQ1ZWlNNHRESEx5Vl9SZ3hyUHBTRUlxQUxmalpCbFg0UzBkcEQ4TERBTTFJZ1VKN2tTbndOa05Ed05DTENaVTExMUd1cUsxY19BbnpadEo1cDdJSRIEGgIIABrVAxIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCxAwgOEAAYACAAKhMKBHF1w6kVyJaEQBoBcRoDcXVlMpYBL2dvdG8_dXJsPUNBRVNaUUhFSWtYWDBfdjlEZ3o1SzJnUkJqS1lUMjF4RXlKdXpqdlpVYkpxZ3dFMl9YTW0yeER5NWlKc1kxM2wwemhPMmJWbzZIRDg4STFoTkx5bTBwR3dnSWZIdGJZd2M2Y1ZUV0dQdlh5em1KcHBHMEVVT2NxbGthRXEtdW1janNoTENTMUJJXzRlOj9Db25maWd1cmFyIDxiPmNhZmV0ZXJhPC9iPiBORU8gTGF0dGUgfCBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq5CsgFBanVzdGEgbGEgcG9zaWNpw7NuIGRlIGxhIGJhbmRlamEgZGUgZ290ZW8gZW4gZnVuY2nDs24gZGVsIHRhbWHDsW8gZGUgbGEgdGF6YSA8Yj5xdWU8L2I-IHZheWFzIGEgdXRpbGl6YXIuICZtaWRkb3Q7IEVuY2llbmRlIGxhIDxiPmNhZmV0ZXJhPC9iPiBwdWxzYW5kbyBlbCBib3TDs24gT04vT0ZGIGxhdGVyYWwuUgNxdWUiAhABSABYAGgA",
+    "source": "Nescafé Dolce Gusto"
+   },
+   {
+    "position": 5,
+    "title": "Registra tu cafetera - NESCAFÉ® Dolce Gusto®",
+    "link": "https://www.dolce-gusto.es/registrar-cafetera?srsltid=AYCX9vL8Crj-i8sISo4zsa_9MH2GhG1a5nNZITeiDXcwgur2THRcB82o",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEBxCJF1-RLtqN6Lz0PxVt65wC5bikz18pLhH9IVRwBMBfYkf1-IlqBuZzQi8gRHUmR2DI4fxBpLI_UnM5eis8AgTHuiiIjRm0BEGQXXHp-Zr9FJPgVpgXQsaGkDFgM3WyvXNfa50fN1fFn5ZC4nPqLJqMA9TiOzKVDFEbm9qhOPEfkM37dVoFIpzAIek_ZjWuy9vySMcMynez2nLI8HBpSPWF0PsafoKeNcX4&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECDAQAQ&uoh=1",
+    "displayed_link": "https://www.dolce-gusto.es › registrar-cafetera",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png",
+    "snippet": "Registra tu cafetera Dolce Gusto® y disfruta de grandes regalos! Te regalamos 10€ para tu próxima compra y puntos PREMIO para conseguir regalos exclusivos.",
+    "snippet_highlighted_words": [
+     "cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Registra tu cafetera Dolce Gusto® y disfruta de grandes regalos! Te regalamos 10€ para tu próxima compra y puntos PREMIO para conseguir regalos exclusivos.",
+      "source_info_link": "https://www.dolce-gusto.es/registrar-cafetera?srsltid=AYCX9vL8Crj-i8sISo4zsa_9MH2GhG1a5nNZITeiDXcwgur2THRcB82o",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CvUBL2dvdG8_dXJsPUNBRVNxd0VCeENKRjEweXFpUkhNQzZreFVsQTBpY095dXpNZGdMTVo5UE9rd21nVDJDRFhuWm5xTUZCbU9wUHR3WmNqek9vM1RjRmxaRFRhVjRnVnB3RjF0REZaNnlJdXZ0NVliUkI2bC1ROHFVNklRS1hoVFlaREJsZmh2TTROVUtBVWpZZjQtZEowb0pYYVhJclp6bWxTdDVJOGMzd000TWE3SEhjTDl2Sl84NzRCaTMtY05acnl5bTJ1bGg2aEM3eDNwSnRHaDM1TXN6TjdCb0d5Uy10emlMR3d3YWxlZk9XcHVacnRHMHMSBBoCCAAaxwMSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAowMIDhAAGAAgACoTCgRxdcOpFTVajUAaAXEaA3F1ZTKdAS9nb3RvP3VybD1DQUVTYWdIRUlrWFhZNkhXeHNvaHdER1dKdWlleWpjTGhlNVIxSFNySV9GaGVoUzN5MTliR3lCZURxeWhiQTVsUVRicmVxWVFfNEZGci1ON0VTM2FZNmo3QmpGS0FaQ3VVazV6R1Q5eUhoaHQtZ3VLQm4xaDBRcFJrN0FTSGE3ZF9pME5GOUdtLWJTRi1RZ2paYTQ6NlJlZ2lzdHJhIHR1IDxiPmNhZmV0ZXJhPC9iPiAtIE5FU0NBRsOJwq4gRG9sY2UgR3VzdG_CrkKmAVJlZ2lzdHJhIHR1IDxiPmNhZmV0ZXJhPC9iPiBEb2xjZSBHdXN0b8KuIHkgZGlzZnJ1dGEgZGUgZ3JhbmRlcyByZWdhbG9zISBUZSByZWdhbGFtb3MgMTDigqwgcGFyYSB0dSBwcsOzeGltYSBjb21wcmEgeSBwdW50b3MgUFJFTUlPIHBhcmEgY29uc2VndWlyIHJlZ2Fsb3MgZXhjbHVzaXZvcy5SA3F1ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CvUBL2dvdG8_dXJsPUNBRVNxd0VCeENKRjEweXFpUkhNQzZreFVsQTBpY095dXpNZGdMTVo5UE9rd21nVDJDRFhuWm5xTUZCbU9wUHR3WmNqek9vM1RjRmxaRFRhVjRnVnB3RjF0REZaNnlJdXZ0NVliUkI2bC1ROHFVNklRS1hoVFlaREJsZmh2TTROVUtBVWpZZjQtZEowb0pYYVhJclp6bWxTdDVJOGMzd000TWE3SEhjTDl2Sl84NzRCaTMtY05acnl5bTJ1bGg2aEM3eDNwSnRHaDM1TXN6TjdCb0d5Uy10emlMR3d3YWxlZk9XcHVacnRHMHMSBBoCCAAaxwMSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAowMIDhAAGAAgACoTCgRxdcOpFTVajUAaAXEaA3F1ZTKdAS9nb3RvP3VybD1DQUVTYWdIRUlrWFhZNkhXeHNvaHdER1dKdWlleWpjTGhlNVIxSFNySV9GaGVoUzN5MTliR3lCZURxeWhiQTVsUVRicmVxWVFfNEZGci1ON0VTM2FZNmo3QmpGS0FaQ3VVazV6R1Q5eUhoaHQtZ3VLQm4xaDBRcFJrN0FTSGE3ZF9pME5GOUdtLWJTRi1RZ2paYTQ6NlJlZ2lzdHJhIHR1IDxiPmNhZmV0ZXJhPC9iPiAtIE5FU0NBRsOJwq4gRG9sY2UgR3VzdG_CrkKmAVJlZ2lzdHJhIHR1IDxiPmNhZmV0ZXJhPC9iPiBEb2xjZSBHdXN0b8KuIHkgZGlzZnJ1dGEgZGUgZ3JhbmRlcyByZWdhbG9zISBUZSByZWdhbGFtb3MgMTDigqwgcGFyYSB0dSBwcsOzeGltYSBjb21wcmEgeSBwdW50b3MgUFJFTUlPIHBhcmEgY29uc2VndWlyIHJlZ2Fsb3MgZXhjbHVzaXZvcy5SA3F1ZSICEAFIAFgAaAA",
+    "source": "Nescafé Dolce Gusto"
+   },
+   {
+    "position": 6,
+    "title": "Cafetera Genio S Plus instrucciones - NESCAFÉ® ...",
+    "link": "https://www.dolce-gusto.es/manuales-cafeteras/genio-s-plus-instrucciones?srsltid=AYCX9vIOxtO0MkfByNI6GRsgtiyLp7C1sFmT785oOSdXj73Zot-x5d0a",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEBxCJF14crARRQltONMxvLgNeyWNe9o8C2lYxDH-MAaTP5fZrjwUWEkOIxKFCQXs9AKIW8px8aZZ86pBvozwjr_p1v7wIvmiyKSgyqC27jFr8zhCCw1o-YFYGE8YH4kXRgaNGboVaL9XRcltFLX-LXZn6ZMRExOCZ4LiHbeGbq-et-0OmHiRYKnZCxY5i_y48203_gb6AhDgbXo5OQx2uJ7nX3Y7j70FuKXmU7vSXuaPWZuThIzSyBARwPFZGJ2mKmZJSIMJrO&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECC4QAQ&uoh=1",
+    "displayed_link": "https://www.dolce-gusto.es › manuales-cafeteras › geni...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png",
+    "snippet": "Ponemos a tu disposición las instrucciones y manuales de uso de la cafetera Genio S Plus de NESCAFÉ® Dolce Gusto®. ¡Contáctanos para cualquier consulta!",
+    "snippet_highlighted_words": [
+     "cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Ponemos a tu disposición las instrucciones y manuales de uso de la cafetera Genio S Plus de NESCAFÉ® Dolce Gusto®. ¡Contáctanos para cualquier consulta!",
+      "source_info_link": "https://www.dolce-gusto.es/manuales-cafeteras/genio-s-plus-instrucciones?srsltid=AYCX9vIOxtO0MkfByNI6GRsgtiyLp7C1sFmT785oOSdXj73Zot-x5d0a",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCeENKRjE0eUxhQzN1andWeURfcXAwU0ZWOVZ2RGttRjN3RUpXSi1JZkxsTUhnYzdsZ3V2OVFGVDR0QjEtTi1UeFBYbGQ4V3QtM19paEU1LTI3Rk42azBIaUlWNjFhS3JLMUt5dHFqUlAtRTg4bV9YUWJXNVpzMl9ud3Q1MnpLc1B5QmVWMFZLNDZxVGlGYXRGZThUaUdYX280RFdLNDVzMlg0NVR3Q2x3YWNmTFVUUE4zdDBWS05aQkg0b0pZVi1BVjY2WHVCOXF4RDhEakQ0N1RlNzlLS2xWVWVNazBKVzZzTjlnNEFDSUlpVkVKU3NlcTl3LVNOTUtZYURURnNseUNDX0Y1NG1NEgQaAggAGu8DEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAyQMIDhAAGAAgACoTCgRxdcOpFY7fYEAaAXEaA3F1ZTLCAS9nb3RvP3VybD1DQUVTaFFFQnhDSkYxNks1UlJnM2Rxa1JBR2llZm5xc2hjcDctR0lRc2w5MnkyeGJwM0xFMnNBcnZoUEdISy1oSlFRQS10NW8xOElEVk1mcjFqY0NONUEtQUhqX3ZJaTJNR3BEVWFReVFkTklaMVV3dmJJY1B4OUtQSnIxX3hJOTQxemo2WFBEUnRZMjh0bFV3QTZGSTZUODdoUTFwWi1tM3lyek1YZ2dISElNWmVyWWZlbUhIZDZtOjg8Yj5DYWZldGVyYTwvYj4gR2VuaW8gUyBQbHVzIGluc3RydWNjaW9uZXMgLSBEb2xjZSBHdXN0b0KlAVBvbmVtb3MgYSB0dSBkaXNwb3NpY2nDs24gbGFzIGluc3RydWNjaW9uZXMgeSBtYW51YWxlcyBkZSB1c28gZGUgbGEgPGI-Y2FmZXRlcmE8L2I-IEdlbmlvIFMgUGx1cyBkZSBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq4uIMKhQ29udMOhY3Rhbm9zIHBhcmEgY3VhbHF1aWVyIGNvbnN1bHRhIVIDcXVlIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCeENKRjE0eUxhQzN1andWeURfcXAwU0ZWOVZ2RGttRjN3RUpXSi1JZkxsTUhnYzdsZ3V2OVFGVDR0QjEtTi1UeFBYbGQ4V3QtM19paEU1LTI3Rk42azBIaUlWNjFhS3JLMUt5dHFqUlAtRTg4bV9YUWJXNVpzMl9ud3Q1MnpLc1B5QmVWMFZLNDZxVGlGYXRGZThUaUdYX280RFdLNDVzMlg0NVR3Q2x3YWNmTFVUUE4zdDBWS05aQkg0b0pZVi1BVjY2WHVCOXF4RDhEakQ0N1RlNzlLS2xWVWVNazBKVzZzTjlnNEFDSUlpVkVKU3NlcTl3LVNOTUtZYURURnNseUNDX0Y1NG1NEgQaAggAGu8DEgIIABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAyQMIDhAAGAAgACoTCgRxdcOpFY7fYEAaAXEaA3F1ZTLCAS9nb3RvP3VybD1DQUVTaFFFQnhDSkYxNks1UlJnM2Rxa1JBR2llZm5xc2hjcDctR0lRc2w5MnkyeGJwM0xFMnNBcnZoUEdISy1oSlFRQS10NW8xOElEVk1mcjFqY0NONUEtQUhqX3ZJaTJNR3BEVWFReVFkTklaMVV3dmJJY1B4OUtQSnIxX3hJOTQxemo2WFBEUnRZMjh0bFV3QTZGSTZUODdoUTFwWi1tM3lyek1YZ2dISElNWmVyWWZlbUhIZDZtOjg8Yj5DYWZldGVyYTwvYj4gR2VuaW8gUyBQbHVzIGluc3RydWNjaW9uZXMgLSBEb2xjZSBHdXN0b0KlAVBvbmVtb3MgYSB0dSBkaXNwb3NpY2nDs24gbGFzIGluc3RydWNjaW9uZXMgeSBtYW51YWxlcyBkZSB1c28gZGUgbGEgPGI-Y2FmZXRlcmE8L2I-IEdlbmlvIFMgUGx1cyBkZSBORVNDQUbDicKuIERvbGNlIEd1c3Rvwq4uIMKhQ29udMOhY3Rhbm9zIHBhcmEgY3VhbHF1aWVyIGNvbnN1bHRhIVIDcXVlIgIQAUgAWABoAA",
+    "source": "Nescafé Dolce Gusto"
+   },
+   {
+    "position": 7,
+    "title": "Accesorio NEO Start® Adapter",
+    "link": "https://www.dolce-gusto.es/neo-start-adapter?srsltid=AYCX9vKjRD7RRJY2QDgFEASmPBuusahEfkoMwfKL5b8b3YP9hX9S6wyU",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEBxCJF10Mg-lTysfMOgsBupkLmTXAT7JLE7lXOhwPICCuaIkSd812excalRx7aQFMJFVkVXggU8LUVhJDra1fvwy7YD5hiCEnftkCOaod0C0jzx8_2VrdiKFJ0MIzntJDJ_jzxt04OErM8YMGxaTQ-77vIdll_0tZVOq0NDuDkmVfSEJj9dJa9Zp-x5Zv2NcqhAjpgMaFlqmSgGRryPw1lIWVlBXSdkHpSow&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECC0QAQ&uoh=1",
+    "displayed_link": "https://www.dolce-gusto.es › neo-start-adapter",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png",
+    "snippet": "¿Qué bebida NEO quieres probar? Tu NEO Start® adaptador te permite usar tu cafetera NESCAFÉ® Dolce Gusto® ORIGINAL para preparar nuestros NEO Espresso Intense ...",
+    "snippet_highlighted_words": [
+     "Qué",
+     "usar",
+     "cafetera"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "rating": 1.0,
+       "reviews": 3,
+       "price": 14.9,
+       "currency": "€"
+      },
+      "extensions": [
+       "1,0(3)",
+       "14,90 €",
+       "En stock",
+       "Entrega sin coste adicional Más información sobre las valoraciones de reseñas.La Búsqueda de Google no verifica las reseñas"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "¿Qué bebida NEO quieres probar? Tu NEO Start® adaptador te permite usar tu cafetera NESCAFÉ® Dolce Gusto® ORIGINAL para preparar nuestros NEO Espresso Intense ...",
+      "source_info_link": "https://www.dolce-gusto.es/neo-start-adapter?srsltid=AYCX9vKjRD7RRJY2QDgFEASmPBuusahEfkoMwfKL5b8b3YP9hX9S6wyU",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAe1BMVEVHcEwrEwkrFAw_IxIkDwkgDQkHAAIXCwwWCg4GBg8BAAAqEww3GQ9QKhsLBwdDIRUbDArAwMA3LiykoqKtrKxMS0vp6embmZiRkJBhNil1dXWFhIPY2Nh6SDDMy8uQXj6seVZZWFgfHBxqaGiIVTf6-vq0s7O2hF6fHAwIvyofAAAACnRSTlMA4vC2jaQcRzELwrJM3QAAAY9JREFUKJFt09t6gyAMAGC7uaoBAhEQz9ZDu73_Ey64tXPdcoXfbzCEmCSHyLMsT_6LIj1ppZSWp7R4tje1TdvQ7CzeflEupss0NGxaSymFOOye6fdoLF8kjMgeeWxbc0-KZswjV3BeoxpVqnIP_JCI4ruW6TLYPtDo-tDXZMf5siCavapCXzYVxpHcLdx813dEZJBTz4zpMDXS-qu7rRUForGtyQOCSRlP26C5AsRSLLAuwFEiI7ww6kE11846gMXAOEMZNb4iiiRXjcYKgLo6uNV53tzTOkbMk0wpCYydqwB763teUmsjZtwdKSLauoKF8QqwEsAX5lIYxnaE1t5m6tq-g9GtjJKbxN2CmUrAvYoFlhrAxKXkqzsZA9f4QLPnswY-JbVcO-jYBIOM6Kz13tV9OQfbxiJEbEIhEKqZv2g9J5TVHOouoj7vjTdQ9sHVnkJt27AQb9ChfP2-MoRH3JeoivuQwJ9Qj1HInhV_LOaao8mjxap-WKrX58k9py9C8IRplZ7_Hfr4OxyTPgEHYSY3txYjCwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCeENKRjF4Q3piQ3FCMVJDRDZmQjFvUWJYZFNaLUh5WHRIMUg1WHotSmJaVzhLTWJnbG9iR05lcFl6dU8xMERmV0ZuaW5zaDZWUTJuQVVzSFRzRk12WEoyYXlZZ1dubTFOazhkVm41dWVjUnFNbV9sSUpHX0tvT1RSbEFrWGxybzFqMy1Jel9MZGdaUGNLeFMxNk5pdWp0TkhGY2x6T0xoUS1DZ05jdDdyclM1b1hGVGtvZFBEdjVCdUthZkxnZV9odjBfdnp3RHBQcWc3ejVmVnFkLW1IMGdzdU9DclFnMTh1ZxIEGgIIABqHBBICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQOEDCA4QABgAIAAqEwoEcXXDqRXL_vI_GgFxGgNxdWUynAEvZ290bz91cmw9Q0FFU2FRSEVJa1hYVkdNaVhQdU1yUDktX2VSOWxOM0lPQjBvZjRGUkozWHNCUmw4cWV5cVpvVEVfQmQ4QU5JeWdfWGNVTDhYRHBGaGhwY2NTekJ0TGNwZEZBVlAyLUtLWVh0Ym82WFFDZXVtUVl3eTJfcnJZelowUVZta0JVNkVLM0hPTkdmRmpvWW96TUM1d1E6OEFjY2Vzb3JpbyBORU8gU3RhcnTCriBBZGFwdGVyIHwgTkVTQ0FGw4nCriBEb2xjZSBHdXN0b8KuQuMBwr88Yj5RdcOpPC9iPiBiZWJpZGEgTkVPIHF1aWVyZXMgcHJvYmFyPyBUdSBORU8gU3RhcnQ8c3VwPsKuPC9zdXA-IGFkYXB0YWRvciB0ZSBwZXJtaXRlIDxiPnVzYXI8L2I-IHR1IDxiPmNhZmV0ZXJhPC9iPiBORVNDQUbDiTxzdXA-wq48L3N1cD4gRG9sY2UgR3VzdG88c3VwPsKuPC9zdXA-IE9SSUdJTkFMIHBhcmEgcHJlcGFyYXIgbnVlc3Ryb3MgTkVPIEVzcHJlc3NvIEludGVuc2UmbmJzcDsuLi5SA3F1ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCeENKRjF4Q3piQ3FCMVJDRDZmQjFvUWJYZFNaLUh5WHRIMUg1WHotSmJaVzhLTWJnbG9iR05lcFl6dU8xMERmV0ZuaW5zaDZWUTJuQVVzSFRzRk12WEoyYXlZZ1dubTFOazhkVm41dWVjUnFNbV9sSUpHX0tvT1RSbEFrWGxybzFqMy1Jel9MZGdaUGNLeFMxNk5pdWp0TkhGY2x6T0xoUS1DZ05jdDdyclM1b1hGVGtvZFBEdjVCdUthZkxnZV9odjBfdnp3RHBQcWc3ejVmVnFkLW1IMGdzdU9DclFnMTh1ZxIEGgIIABqHBBICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQOEDCA4QABgAIAAqEwoEcXXDqRXL_vI_GgFxGgNxdWUynAEvZ290bz91cmw9Q0FFU2FRSEVJa1hYVkdNaVhQdU1yUDktX2VSOWxOM0lPQjBvZjRGUkozWHNCUmw4cWV5cVpvVEVfQmQ4QU5JeWdfWGNVTDhYRHBGaGhwY2NTekJ0TGNwZEZBVlAyLUtLWVh0Ym82WFFDZXVtUVl3eTJfcnJZelowUVZta0JVNkVLM0hPTkdmRmpvWW96TUM1d1E6OEFjY2Vzb3JpbyBORU8gU3RhcnTCriBBZGFwdGVyIHwgTkVTQ0FGw4nCriBEb2xjZSBHdXN0b8KuQuMBwr88Yj5RdcOpPC9iPiBiZWJpZGEgTkVPIHF1aWVyZXMgcHJvYmFyPyBUdSBORU8gU3RhcnQ8c3VwPsKuPC9zdXA-IGFkYXB0YWRvciB0ZSBwZXJtaXRlIDxiPnVzYXI8L2I-IHR1IDxiPmNhZmV0ZXJhPC9iPiBORVNDQUbDiTxzdXA-wq48L3N1cD4gRG9sY2UgR3VzdG88c3VwPsKuPC9zdXA-IE9SSUdJTkFMIHBhcmEgcHJlcGFyYXIgbnVlc3Ryb3MgTkVPIEVzcHJlc3NvIEludGVuc2UmbmJzcDsuLi5SA3F1ZSICEAFIAFgAaAA",
+    "source": "Nescafé Dolce Gusto"
+   },
+   {
+    "position": 8,
+    "title": "Mi experiencia con la cafetera automática Jura: ¿merece ...",
+    "link": "https://canalcocina.es/actualidad/noticias/mi-experiencia-con-la-cafetera-automatica-jura-merece-la-pena",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF1-mEU8kR5jN__IKSN_9jtuXdBucSw5adHuztxPJsviw1HkiAUqs1T0pYGjdZOoMdL4PiviHqx43j-M4iI9vGxpAeUr1HjaXCKylv5l-UgFIauBUDstAjyni9zLalR2FbMRBPgB6GwhBTJbDvPw1PJ52Ivnk5kVtDLuUZE_EaGxulD9iBuuSuOVknyFO-KFOEqyej_oo2TwTf01P1kemh_HI&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQFnoECDEQAQ&uoh=1",
+    "displayed_link": "https://canalcocina.es › actualidad › noticias › mi-experi...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUKCgoGBgYAAABjY2Oampq9vb3W1taBgYEgICCKior____p6emnp6dGRkYpKSn4-Pjd3d0TExO1tbX889j53If301_42HX76LXx8fH1xgX2yy32yB72zkn--u765aj2zTf77MH88dBzc3P65KGRkZH41Gf99uDMzMxUVFQ0NDTF25EqAAAA1UlEQVR4AczSRQKEQAwEQNzd3eX_L1wjCc55-zLShcMw7GM-PfcY9t8AL4iSKCs3QJU0iG6YZyBgC0bdA0vXjrGBLMDWLuK4BDyN4gdhFMM8IZBQH6RZluVFuaxEBNRXef1NVsD6dIa8XpI3cA0AEvR-CiALfmsBgQygzRFEv3WHwARQ0hn633pAQHc5ZgtIywOQ8BT5T6TwJjoCg4ZizPO0bukpEbgapZxKnAoAjh8T4-0-t3isk-7ww6i7eoaawPpL2ZI4vKeBK00KamgOzoxDMPsDAKvnHOxWAk1rAAAAAElFTkSuQmCC.png",
+    "date": "22 sept 2025",
+    "snippet": "Moler el grano al instante, no usar café pre-molido. · Extraer con precisión la cantidad justa de café y agua. · Microespuma perfecta, sin grumos ...",
+    "snippet_highlighted_words": [
+     "Moler el grano al instante, no usar café pre-molido"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Moler el grano al instante, no usar café pre-molido. · Extraer con precisión la cantidad justa de café y agua. · Microespuma perfecta, sin grumos ...",
+      "source_info_link": "https://canalcocina.es/actualidad/noticias/mi-experiencia-con-la-cafetera-automatica-jura-merece-la-pena",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEUKCgoGBgYAAABjY2Oampq9vb3W1taBgYEgICCKior____p6emnp6dGRkYpKSn4-Pjd3d0TExO1tbX889j53If301_42HX76LXx8fH1xgX2yy32yB72zkn--u765aj2zTf77MH88dBzc3P65KGRkZH41Gf99uDMzMxUVFQ0NDTF25EqAAAA1UlEQVR4AczSRQKEQAwEQNzd3eX_L1wjCc55-zLShcMw7GM-PfcY9t8AL4iSKCs3QJU0iG6YZyBgC0bdA0vXjrGBLMDWLuK4BDyN4gdhFMM8IZBQH6RZluVFuaxEBNRXef1NVsD6dIa8XpI3cA0AEvR-CiALfmsBgQygzRFEv3WHwARQ0hn633pAQHc5ZgtIywOQ8BT5T6TwJjoCg4ZizPO0bukpEbgapZxKnAoAjh8T4-0-t3isk-7ww6i7eoaawPpL2ZI4vKeBK00KamgOzoxDMPsDAKvnHOxWAk1rAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjEyam9OTGlSTWkxYnpIbkZXV0VWSWo2NTlxS0Y0b284TGx0X2g3Zk5kT0plaE0yZEJzaU44d3dVRGxrX2pZN05BLWdPMXdLc0NhWWgyaUVSZXNlZkRQOFBYc3R4aUZTNURSUUZWeVYySzNSVTNPZWN5UnhsX3ZJSVJZMnVjQnRiYkRUXzJLR0xuYllERHhERk4zdmtnQ28yOWxSX2RyeDZLZ2RKMi0ydFpjY084OENEWW5uN3VtcEVMMGZlQ3M0eENJcnRpRDdNclJJSVZkVlUyU0tqbjNVEgQaAggAGrIEEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQI4ECA4QABgAIAAqEwoEcXXDqRWqNGNAGgFxGgNxdWUy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMTJqb05MaVJNaTFiekhuRldXRVZJajY1OXFLRjRvbzhMbHRfaDdmTmRPSmVoTTJkQnNpTjh3d1VEbGtfalk3TkEtZ08xd0tzQ2FZaDJpRVJlc2VmRFA4UFhzdHhpRlM1RFJRRlZ5VjJLM1JVM09lY3lSeGxfdklJUlkydWNCdGJiRFRfMktHTG5iWUREeERGTjN2a2dDbzI5bFJfZHJ4NktnZEoyLTJ0WmNjTzg4Q0RZbm43dW1wRUwwZmVDczR4Q0lydGlEN01yUklJVmRWVTJTS2puM1U6RU1pIGV4cGVyaWVuY2lhIGNvbiBsYSA8Yj5jYWZldGVyYTwvYj4gYXV0b23DoXRpY2EgSnVyYSAtIENhbmFsIENvY2luYUKyATxiPk1vbGVyIGVsIGdyYW5vIGFsIGluc3RhbnRlLCBubyB1c2FyIGNhZsOpIHByZS1tb2xpZG88L2I-LiAmbWlkZG90OyBFeHRyYWVyIGNvbiBwcmVjaXNpw7NuIGxhIGNhbnRpZGFkIGp1c3RhIGRlIGNhZsOpIHkgYWd1YS4gJm1pZGRvdDsgTWljcm9lc3B1bWEgcGVyZmVjdGEsIHNpbiBncnVtb3MmbmJzcDsuLi5SA3F1ZSICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjEyam9OTGlSTWkxYnpIbkZXV0VWSWo2NTlxS0Y0b284TGx0X2g3Zk5kT0plaE0yZEJzaU44d3dVRGxrX2pZN05BLWdPMXdLc0NhWWgyaUVSZXNlZkRQOFBYc3R4aUZTNURSUUZWeVYySzNSVTNPZWN5UnhsX3ZJSVJZMnVjQnRiYkRUXzJLR0xuYllERHhERk4zdmtnQ28yOWxSX2RyeDZLZ2RKMi0ydFpjY084OENEWW5uN3VtcEVMMGZlQ3M0eENJcnRpRDdNclJJSVZkVlUyU0tqbjNVEgQaAggAGrIEEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQI4ECA4QABgAIAAqEwoEcXXDqRWqNGNAGgFxGgNxdWUy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMTJqb05MaVJNaTFiekhuRldXRVZJajY1OXFLRjRvbzhMbHRfaDdmTmRPSmVoTTJkQnNpTjh3d1VEbGtfalk3TkEtZ08xd0tzQ2FZaDJpRVJlc2VmRFA4UFhzdHhpRlM1RFJRRlZ5VjJLM1JVM09lY3lSeGxfdklJUlkydWNCdGJiRFRfMktHTG5iWUREeERGTjN2a2dDbzI5bFJfZHJ4NktnZEoyLTJ0WmNjTzg4Q0RZbm43dW1wRUwwZmVDczR4Q0lydGlEN01yUklJVmRWVTJTS2puM1U6RU1pIGV4cGVyaWVuY2lhIGNvbiBsYSA8Yj5jYWZldGVyYTwvYj4gYXV0b23DoXRpY2EgSnVyYSAtIENhbmFsIENvY2luYUKyATxiPk1vbGVyIGVsIGdyYW5vIGFsIGluc3RhbnRlLCBubyB1c2FyIGNhZsOpIHByZS1tb2xpZG88L2I-LiAmbWlkZG90OyBFeHRyYWVyIGNvbiBwcmVjaXNpw7NuIGxhIGNhbnRpZGFkIGp1c3RhIGRlIGNhZsOpIHkgYWd1YS4gJm1pZGRvdDsgTWljcm9lc3B1bWEgcGVyZmVjdGEsIHNpbiBncnVtb3MmbmJzcDsuLi5SA3F1ZSICEAFIAFgAaAA",
+    "source": "canalcocina.es"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=site:forocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDgxMlgIiX2z9yBE-YhOGbVGJ-INFQ:1794400848083&ei=UGL0as7WBJvV5NoP_uCI4AY&start=10&sa=N&sstk=AYl2yk8ZsbrdLou-HAjfAqqLDA2gFs_HY3QJmiy_00VBBKyeesezBE6TzR_EKyiqN3oky-6mDASCEWb10a_FOXx_K_ZbPqa2uRsvlw&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQ8NMDegQIKhAI",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=site:forocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDgxMlgIiX2z9yBE-YhOGbVGJ-INFQ:1794400848083&ei=UGL0as7WBJvV5NoP_uCI4AY&start=10&sa=N&sstk=AYl2yk8ZsbrdLou-HAjfAqqLDA2gFs_HY3QJmiy_00VBBKyeesezBE6TzR_EKyiqN3oky-6mDASCEWb10a_FOXx_K_ZbPqa2uRsvlw&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQ8tMDegQIKhAE",
+    "3": "https://www.google.es/search?q=site:forocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDgxMlgIiX2z9yBE-YhOGbVGJ-INFQ:1794400848083&ei=UGL0as7WBJvV5NoP_uCI4AY&start=20&sa=N&sstk=AYl2yk8ZsbrdLou-HAjfAqqLDA2gFs_HY3QJmiy_00VBBKyeesezBE6TzR_EKyiqN3oky-6mDASCEWb10a_FOXx_K_ZbPqa2uRsvlw&ved=2ahUKEwjOvomJ-P-XAxWbKlkFHX4wAmwQ8tMDegQIKhAG"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Aforocoches.com+qu%C3%A9+molienda+usar+cafetera+italiana&start=20"
+   }
+  }
+ }
+}

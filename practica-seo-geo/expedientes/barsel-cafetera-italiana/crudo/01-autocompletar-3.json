@@ -1,0 +1,60 @@
+{
+ "capturado": "2026-11-11T12:40:57Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "qué molienda usar cafetera italiana",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af4625ae49cadfb54591a9f",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/FHN-D7fxASH5x6mfNft6PJlSWJ9Z6D3-aUZU-o17bU8/6af4625ae49cadfb54591a9f.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FHN-D7fxASH5x6mfNft6PJlSWJ9Z6D3-aUZU-o17bU8/6af4625ae49cadfb54591a9f.md",
+   "created_at": "2026-11-11 12:40:58 UTC",
+   "processed_at": "2026-11-11 12:40:58 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=qu%C3%A9+molienda+usar+cafetera+italiana&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/FHN-D7fxASH5x6mfNft6PJlSWJ9Z6D3-aUZU-o17bU8/6af4625ae49cadfb54591a9f.html",
+   "prettify_html_file": "https://serpapi.com/searches/FHN-D7fxASH5x6mfNft6PJlSWJ9Z6D3-aUZU-o17bU8/6af4625ae49cadfb54591a9f.prettify",
+   "total_time_taken": 0.58
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "qué molienda usar cafetera italiana",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "que molienda usar para cafetera italiana",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=que+molienda+usar+para+cafetera+italiana"
+   },
+   {
+    "value": "cuál es la molienda adecuada para la cafetera italiana o expresso",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cu%C3%A1l+es+la+molienda+adecuada+para+la+cafetera+italiana+o+expresso"
+   },
+   {
+    "value": "mejor molienda para cafetera italiana",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=mejor+molienda+para+cafetera+italiana"
+   },
+   {
+    "value": "que molienda usar para moka italiana",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=que+molienda+usar+para+moka+italiana"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

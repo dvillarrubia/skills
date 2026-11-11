@@ -1,0 +1,1391 @@
+{
+ "capturado": "2026-11-11T16:19:01Z",
+ "ruta": "dataforseo_labs/google/keyword_suggestions/live",
+ "carga": {
+  "location_code": 2724,
+  "language_code": "es",
+  "keyword": "molienda cafetera italiana",
+  "limit": 100,
+  "include_seed_keyword": true
+ },
+ "respuesta": {
+  "version": "0.1.20261103",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.0827 sec.",
+  "cost": 0.01332,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+   {
+    "id": "11111619-1448-0399-0000-8760a0a3fe88",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0735 sec.",
+    "cost": 0.01332,
+    "result_count": 1,
+    "path": [
+     "v3",
+     "dataforseo_labs",
+     "google",
+     "keyword_suggestions",
+     "live"
+    ],
+    "data": {
+     "api": "dataforseo_labs",
+     "function": "keyword_suggestions",
+     "se_type": "google",
+     "location_code": 2724,
+     "language_code": "es",
+     "keyword": "molienda cafetera italiana",
+     "limit": 100,
+     "include_seed_keyword": true
+    },
+    "result": [
+     {
+      "se_type": "google",
+      "seed_keyword": "molienda cafetera italiana",
+      "seed_keyword_data": {
+       "se_type": "google",
+       "keyword": "molienda cafetera italiana",
+       "location_code": 2724,
+       "language_code": "es",
+       "keyword_info": {
+        "se_type": "google",
+        "last_updated_time": "2026-10-18 07:20:46 +00:00",
+        "competition": 0.13,
+        "competition_level": "LOW",
+        "cpc": null,
+        "search_volume": 40,
+        "low_top_of_page_bid": null,
+        "high_top_of_page_bid": null,
+        "categories": [
+         10009,
+         10410,
+         11566,
+         12803
+        ],
+        "monthly_searches": [
+         {
+          "year": 2026,
+          "month": 9,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 8,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 7,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 6,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 5,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 4,
+          "search_volume": 30
+         },
+         {
+          "year": 2026,
+          "month": 3,
+          "search_volume": 70
+         },
+         {
+          "year": 2026,
+          "month": 2,
+          "search_volume": 40
+         },
+         {
+          "year": 2026,
+          "month": 1,
+          "search_volume": 50
+         },
+         {
+          "year": 2025,
+          "month": 12,
+          "search_volume": 70
+         },
+         {
+          "year": 2025,
+          "month": 11,
+          "search_volume": 50
+         },
+         {
+          "year": 2025,
+          "month": 10,
+          "search_volume": 70
+         }
+        ],
+        "search_volume_trend": {
+         "monthly": 0,
+         "quarterly": 0,
+         "yearly": -40
+        }
+       },
+       "keyword_info_normalized_with_bing": null,
+       "keyword_info_normalized_with_clickstream": null,
+       "clickstream_keyword_info": null,
+       "keyword_properties": {
+        "se_type": "google",
+        "core_keyword": null,
+        "synonym_clustering_algorithm": "text_processing",
+        "keyword_difficulty": null,
+        "detected_language": "it",
+        "is_another_language": true,
+        "words_count": 3
+       },
+       "serp_info": null,
+       "search_intent_info": {
+        "se_type": "google",
+        "main_intent": "transactional",
+        "foreign_intent": [
+         "navigational",
+         "commercial"
+        ],
+        "last_updated_time": "2026-04-29 14:48:20 +00:00"
+       },
+       "avg_backlinks_info": null
+      },
+      "location_code": 2724,
+      "language_code": "es",
+      "total_count": 11,
+      "items_count": 11,
+      "offset": 0,
+      "offset_token": "eyJDdXJyZW50T2Zmc2V0IjoxMSwiUmVxdWVzdERhdGEiOnsia2V5d29yZCI6Im1vbGllbmRhIGNhZmV0ZXJhIGl0YWxpYW5hIiwiaW5jbHVkZV9zZWVkX2tleXdvcmQiOnRydWUsImZ1bGxfbWF0Y2giOmZhbHNlLCJsb2FkX3NlcnBfaW5mbyI6ZmFsc2UsInNlYXJjaF9hZnRlcl90b2tlbiI6bnVsbCwiaWdub3JlX3N5bm9ueW1zIjpmYWxzZSwibGFuZ3VhZ2UiOiJlcyIsInNlYXJjaF9lbmdpbmUiOiJnb29nbGUiLCJsb2NhdGlvbiI6MjcyNCwidXNlX25ld19jYXRlZ29yaWVzIjp0cnVlLCJvcmRlcl9ieSI6eyJvcmRlcl9maWVsZCI6ImtleXdvcmRfaW5mby5zZWFyY2hfdm9sdW1lIiwib3JkZXJfdHlwZSI6IkRlc2MiLCJuZXh0IjpudWxsfSwibGltaXQiOjEwMCwib2Zmc2V0IjowLCJhaWQiOjE0NDgyOCwidXNlX2NhY2hlIjp0cnVlLCJ0YXNrX2lkIjoiMTExMTE2MTktMTQ0OC0wMzk5LTAwMDAtODc2MGEwYTNmZTg4IiwiZmxhZ3MiOm51bGx9LCJSYXdRdWVyeSI6bnVsbCwiSWQiOiI5NDc1MjMzYi05MzE0LTRlZWItOWY5ZC1lYjE2NTA2ZDY2MWUiLCJTZWFyY2hBZnRlckRhdGEiOlstOTIyMzM3MjAzNjg1NDc3NTgwOCwiZjgxZDc3YjItZWUwNi1kYWJmLTg4MjQtZmU3ZWI1OTYzYWIyIl0sIkV4ZWN1dG9yIjotOTE4NDQwNTk0MDQ0NDUxNzYzM30=",
+      "items": [
+       {
+        "se_type": "google",
+        "keyword": "molienda para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-16 19:08:19 +00:00",
+         "competition": 0.13,
+         "competition_level": "LOW",
+         "cpc": 0.8,
+         "search_volume": 50,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 40
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 40
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 40
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 50
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 90
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 40
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 25,
+          "quarterly": 0,
+          "yearly": 25
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "molienda cafetera italiana",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "pt",
+         "is_another_language": true,
+         "words_count": 4
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 17:39:09 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "molienda cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-18 07:20:46 +00:00",
+         "competition": 0.13,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 40,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10009,
+          10410,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 70
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 40
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 70
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 50
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 70
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": -40
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "it",
+         "is_another_language": true,
+         "words_count": 3
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": [
+          "navigational",
+          "commercial"
+         ],
+         "last_updated_time": "2026-04-29 14:48:20 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "tipo de molienda para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-20 03:30:18 +00:00",
+         "competition": 0.11,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 20,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 30
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 20
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 30
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 40
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 20
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 30
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 100,
+          "quarterly": 100,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-30 01:16:10 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "que molienda usa la cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-15 17:12:29 +00:00",
+         "competition": 0.29,
+         "competition_level": "LOW",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": null,
+          "quarterly": null,
+          "yearly": null
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 19:18:49 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "cafetera italiana molienda",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 08:06:20 +00:00",
+         "competition": 0.43,
+         "competition_level": "MEDIUM",
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": null,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "molienda cafetera italiana",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "it",
+         "is_another_language": true,
+         "words_count": 3
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": [
+          "navigational"
+         ],
+         "last_updated_time": "2026-04-26 19:08:38 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "que molienda usar para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-11-07 09:55:19 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": -100,
+          "quarterly": -100,
+          "yearly": -100
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "pt",
+         "is_another_language": true,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "commercial",
+         "foreign_intent": null,
+         "last_updated_time": "2026-11-07 09:56:06 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "que tipo de molienda para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-19 12:02:05 +00:00",
+         "competition": 0.14,
+         "competition_level": "LOW",
+         "cpc": 0.1,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10301,
+          11340
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 7
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-28 21:33:50 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "molienda de cafe para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-17 18:10:47 +00:00",
+         "competition": 0.59,
+         "competition_level": "MEDIUM",
+         "cpc": 0.19,
+         "search_volume": 10,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 10
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 10
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 10
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "pt",
+         "is_another_language": true,
+         "words_count": 6
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 17:34:13 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "molienda café cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-10-16 16:55:46 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10009,
+          10410,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": "molienda de cafe para cafetera italiana",
+         "synonym_clustering_algorithm": "text_processing",
+         "keyword_difficulty": null,
+         "detected_language": "it",
+         "is_another_language": true,
+         "words_count": 4
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-04-29 16:02:24 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "molienda para cafetera moka italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-09-03 20:12:27 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10009,
+          10410,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 8,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "pt",
+         "is_another_language": true,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "transactional",
+         "foreign_intent": null,
+         "last_updated_time": "2026-09-03 20:12:45 +00:00"
+        }
+       },
+       {
+        "se_type": "google",
+        "keyword": "que molienda para cafetera italiana",
+        "location_code": 2724,
+        "language_code": "es",
+        "keyword_info": {
+         "se_type": "google",
+         "last_updated_time": "2026-11-03 14:12:52 +00:00",
+         "competition": null,
+         "competition_level": null,
+         "cpc": null,
+         "search_volume": null,
+         "low_top_of_page_bid": null,
+         "high_top_of_page_bid": null,
+         "categories": [
+          10004,
+          10009,
+          10301,
+          10410,
+          11340,
+          11566,
+          12803
+         ],
+         "monthly_searches": [
+          {
+           "year": 2026,
+           "month": 9,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 8,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 7,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 6,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 5,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 4,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 3,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 2,
+           "search_volume": 0
+          },
+          {
+           "year": 2026,
+           "month": 1,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 12,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 11,
+           "search_volume": 0
+          },
+          {
+           "year": 2025,
+           "month": 10,
+           "search_volume": 0
+          }
+         ],
+         "search_volume_trend": {
+          "monthly": 0,
+          "quarterly": 0,
+          "yearly": 0
+         }
+        },
+        "keyword_info_normalized_with_bing": null,
+        "keyword_info_normalized_with_clickstream": null,
+        "clickstream_keyword_info": null,
+        "keyword_properties": {
+         "se_type": "google",
+         "core_keyword": null,
+         "synonym_clustering_algorithm": null,
+         "keyword_difficulty": null,
+         "detected_language": "es",
+         "is_another_language": false,
+         "words_count": 5
+        },
+        "serp_info": null,
+        "avg_backlinks_info": null,
+        "search_intent_info": {
+         "se_type": "google",
+         "main_intent": "informational",
+         "foreign_intent": [
+          "commercial"
+         ],
+         "last_updated_time": "2026-11-03 14:13:21 +00:00"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

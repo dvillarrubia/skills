@@ -1,0 +1,120 @@
+{
+ "capturado": "2026-11-11T12:43:13Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "moler café en grano",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af462e11389b1e2de1478c0",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Zur-w1j6gx4diM0SuHsH1ASh8UhimDshVrpsHzG92tU/6af462e11389b1e2de1478c0.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Zur-w1j6gx4diM0SuHsH1ASh8UhimDshVrpsHzG92tU/6af462e11389b1e2de1478c0.md",
+   "created_at": "2026-11-11 12:43:13 UTC",
+   "processed_at": "2026-11-11 12:43:13 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=moler+caf%C3%A9+en+grano&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/Zur-w1j6gx4diM0SuHsH1ASh8UhimDshVrpsHzG92tU/6af462e11389b1e2de1478c0.html",
+   "prettify_html_file": "https://serpapi.com/searches/Zur-w1j6gx4diM0SuHsH1ASh8UhimDshVrpsHzG92tU/6af462e11389b1e2de1478c0.prettify",
+   "total_time_taken": 0.54
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "moler café en grano",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "moler café en grano en thermomix",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=moler+caf%C3%A9+en+grano+en+thermomix"
+   },
+   {
+    "value": "moler cafe en grano casero",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=moler+cafe+en+grano+casero"
+   },
+   {
+    "value": "como moler café en grano sin molinillo",
+    "relevance": 561,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+caf%C3%A9+en+grano+sin+molinillo"
+   },
+   {
+    "value": "donde moler cafe en grano",
+    "relevance": 560,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=donde+moler+cafe+en+grano"
+   },
+   {
+    "value": "para moler cafe en grano",
+    "relevance": 559,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=para+moler+cafe+en+grano"
+   },
+   {
+    "value": "como moler cafe en grano sin maquina",
+    "relevance": 558,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+sin+maquina"
+   },
+   {
+    "value": "donde moler café en grano cerca de mi",
+    "relevance": 557,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=donde+moler+caf%C3%A9+en+grano+cerca+de+mi"
+   },
+   {
+    "value": "como moler cafe en grano si no tengo molino",
+    "relevance": 556,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+si+no+tengo+molino"
+   },
+   {
+    "value": "como moler café en grano con minipimer",
+    "relevance": 555,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+caf%C3%A9+en+grano+con+minipimer"
+   },
+   {
+    "value": "donde moler cafe en grano cdmx",
+    "relevance": 554,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=donde+moler+cafe+en+grano+cdmx"
+   },
+   {
+    "value": "como moler cafe en grano para cafetera italiana",
+    "relevance": 553,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+para+cafetera+italiana"
+   },
+   {
+    "value": "maquina moler cafe en grano",
+    "relevance": 552,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=maquina+moler+cafe+en+grano"
+   },
+   {
+    "value": "como moler cafe en grano para espresso",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+para+espresso"
+   },
+   {
+    "value": "como moler cafe en grano con molinillo",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+con+molinillo"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

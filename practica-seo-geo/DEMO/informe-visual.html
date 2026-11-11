@@ -1,0 +1,342 @@
+<title>Auditoría SEO &amp; GEO · Café Barsel</title>
+<style>
+  :root{
+    --paper:#f4f1ea; --surface:#fffdf8; --panel:#efeae0; --ink:#17140f; --ink2:#4a443b; --faint:#8a8276;
+    --line:#e3ddd1; --hair:#d6cfc1; --brass:#9c6f1c; --brass2:#b98a2e; --teal:#1f5a54;
+    --good:#3d7a49; --warn:#9f7716; --bad:#a9443a;
+    --good-bg:#e6efe3; --warn-bg:#f2e9d2; --bad-bg:#f1ddd7; --brass-bg:#f1e7d2; --teal-bg:#dde9e6;
+    --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+    --sans:"Inter","Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+    --shadow:0 1px 2px rgba(40,30,15,.05),0 10px 30px rgba(40,30,15,.06);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --paper:#131210; --surface:#1b1813; --panel:#221d16; --ink:#efe9de; --ink2:#b3a999; --faint:#7d7467;
+      --line:#312a21; --hair:#3a3127; --brass:#d8ad54; --brass2:#e2bd6e; --teal:#4fa89b;
+      --good:#61a870; --warn:#d2a443; --bad:#d16f60;
+      --good-bg:#1b2a1e; --warn-bg:#2c2614; --bad-bg:#2d1c18; --brass-bg:#2a2112; --teal-bg:#152824;
+      --shadow:0 1px 2px rgba(0,0,0,.35),0 14px 40px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="light"]{ --paper:#f4f1ea;--surface:#fffdf8;--panel:#efeae0;--ink:#17140f;--ink2:#4a443b;--faint:#8a8276;--line:#e3ddd1;--hair:#d6cfc1;--brass:#9c6f1c;--brass2:#b98a2e;--teal:#1f5a54;--good:#3d7a49;--warn:#9f7716;--bad:#a9443a;--good-bg:#e6efe3;--warn-bg:#f2e9d2;--bad-bg:#f1ddd7;--brass-bg:#f1e7d2;--teal-bg:#dde9e6;}
+  :root[data-theme="dark"]{ --paper:#131210;--surface:#1b1813;--panel:#221d16;--ink:#efe9de;--ink2:#b3a999;--faint:#7d7467;--line:#312a21;--hair:#3a3127;--brass:#d8ad54;--brass2:#e2bd6e;--teal:#4fa89b;--good:#61a870;--warn:#d2a443;--bad:#d16f60;--good-bg:#1b2a1e;--warn-bg:#2c2614;--bad-bg:#2d1c18;--brass-bg:#2a2112;--teal-bg:#152824;}
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;font-size:16px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:980px;margin:0 auto;padding:0 clamp(20px,5vw,40px)}
+  h1,h2,h3,h4{margin:0;line-height:1.12;text-wrap:balance;font-weight:600}
+  p{margin:0}
+  .mono{font-family:var(--mono)}
+  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--faint)}
+  a{color:var(--brass);text-decoration:none}
+
+  /* ---------- cover ---------- */
+  .cover{border-bottom:1px solid var(--ink);padding:clamp(28px,6vw,60px) 0 clamp(26px,4vw,40px)}
+  .firm{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;
+    font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--ink2);
+    border-bottom:1px solid var(--hair);padding-bottom:14px;margin-bottom:clamp(26px,6vw,56px)}
+  .firm b{color:var(--brass);font-weight:600}
+  .cover .kicker{font-family:var(--mono);font-size:.74rem;letter-spacing:.2em;text-transform:uppercase;color:var(--brass);margin-bottom:18px}
+  .cover h1{font-family:var(--serif);font-weight:600;font-size:clamp(2.4rem,6.5vw,4.4rem);letter-spacing:-.5px}
+  .cover .dek{font-family:var(--serif);font-size:clamp(1.05rem,2.3vw,1.4rem);color:var(--ink2);max-width:40ch;margin-top:18px;line-height:1.4}
+  .cover .meta{display:flex;gap:28px;flex-wrap:wrap;margin-top:clamp(28px,5vw,46px);
+    font-family:var(--mono);font-size:.74rem;color:var(--ink2)}
+  .cover .meta .k{color:var(--faint);text-transform:uppercase;letter-spacing:.12em;font-size:.64rem;display:block;margin-bottom:3px}
+  .cover .meta b{color:var(--ink);font-weight:600}
+
+  /* ---------- executive summary ---------- */
+  .exec{padding:clamp(34px,6vw,60px) 0;border-bottom:1px solid var(--hair)}
+  .exec .lead{font-family:var(--serif);font-size:clamp(1.25rem,2.8vw,1.7rem);line-height:1.45;max-width:30ch;letter-spacing:-.2px}
+  .exec .lead b{color:var(--brass);font-weight:600;font-style:italic}
+  .exec .body{color:var(--ink2);max-width:62ch;margin-top:18px;font-size:1.02rem}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0;margin-top:clamp(30px,5vw,48px);
+    border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--surface)}
+  .kpi{padding:18px 20px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .kpi .n{font-family:var(--serif);font-size:2.1rem;font-weight:600;letter-spacing:-1px;font-variant-numeric:tabular-nums;line-height:1}
+  .kpi .l{font-size:.78rem;color:var(--ink2);margin-top:8px;line-height:1.35}
+  .kpi.bad .n{color:var(--bad)} .kpi.good .n{color:var(--good)} .kpi.brass .n{color:var(--brass)}
+
+  /* ---------- sections ---------- */
+  section.part{padding:clamp(40px,7vw,72px) 0;border-bottom:1px solid var(--hair)}
+  .phead{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:baseline;margin-bottom:28px}
+  .phead .no{font-family:var(--mono);font-size:.9rem;color:var(--brass);font-weight:600;letter-spacing:.1em;
+    border-top:2px solid var(--brass);padding-top:8px}
+  .phead h2{font-family:var(--serif);font-size:clamp(1.5rem,3.6vw,2.3rem);font-weight:600;letter-spacing:-.4px}
+  .phead .sub{grid-column:2;color:var(--ink2);margin-top:6px;max-width:60ch}
+
+  .grid{display:grid;gap:16px}
+  .cols2{grid-template-columns:repeat(auto-fit,minmax(248px,1fr))}
+  .cols3{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:18px 20px;box-shadow:var(--shadow)}
+  .card h3{font-size:1.02rem;font-weight:600;margin-bottom:6px}
+  .card h3 .mono{color:var(--brass);font-size:.82rem}
+  .card p{color:var(--ink2);font-size:.92rem;margin-top:6px}
+  .card.flag{border-left:3px solid var(--brass)}
+
+  .pill{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:.68rem;font-weight:600;
+    padding:3px 9px;border-radius:3px;letter-spacing:.03em;white-space:nowrap}
+  .p-good{background:var(--good-bg);color:var(--good)} .p-warn{background:var(--warn-bg);color:var(--warn)}
+  .p-bad{background:var(--bad-bg);color:var(--bad)} .p-brass{background:var(--brass-bg);color:var(--brass)}
+  .p-teal{background:var(--teal-bg);color:var(--teal)}
+  .tags{display:flex;flex-wrap:wrap;gap:7px}
+  .chip{font-family:var(--mono);font-size:.72rem;padding:4px 9px;border:1px solid var(--line);border-radius:3px;color:var(--ink2);background:var(--panel)}
+  .chip b{color:var(--ink)}
+
+  /* data tables */
+  .tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:5px;background:var(--surface)}
+  table{border-collapse:collapse;width:100%;font-size:.86rem}
+  th,td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+  thead th{font-family:var(--mono);font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;background:var(--panel)}
+  td.num,th.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+  tbody tr:last-child td{border-bottom:none}
+  .vol{font-family:var(--mono);color:var(--brass);font-weight:600}
+
+  /* bars */
+  .bars{display:flex;flex-direction:column;gap:12px}
+  .barrow{display:grid;grid-template-columns:1fr;gap:5px}
+  .barrow .t{display:flex;justify-content:space-between;font-size:.86rem}
+  .barrow .t .v{font-family:var(--mono);color:var(--ink2);font-variant-numeric:tabular-nums}
+  .track{height:8px;border-radius:2px;background:var(--panel);overflow:hidden}
+  .fill{height:100%;border-radius:2px}
+  .fill.brass{background:var(--brass)} .fill.teal{background:var(--teal)} .fill.bad{background:var(--bad)} .fill.good{background:var(--good)}
+
+  /* matrix */
+  .cell{display:inline-block;width:26px;height:24px;line-height:24px;text-align:center;border-radius:3px;font-family:var(--mono);font-weight:600;font-size:.74rem}
+  .c0{background:var(--panel);color:var(--faint)} .c1{background:color-mix(in srgb,var(--brass) 25%,var(--panel));color:var(--ink)}
+  .c2{background:color-mix(in srgb,var(--brass) 55%,#6a4a12);color:#fff} .c3{background:var(--brass);color:#1a1205}
+  .cse{background:var(--bad-bg);color:var(--bad)}
+  .own{color:var(--teal)!important;font-weight:700}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-family:var(--mono);font-size:.7rem;color:var(--ink2);margin-top:10px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+
+  /* pull quote */
+  .pull{font-family:var(--serif);font-size:clamp(1.2rem,3vw,1.6rem);line-height:1.4;color:var(--ink);
+    border-left:3px solid var(--brass);padding:4px 0 4px 24px;margin:8px 0;max-width:42ch}
+  .pull b{color:var(--brass)}
+
+  /* before/after */
+  .ba{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+  .doc{background:var(--surface);border:1px solid var(--line);border-radius:5px;overflow:hidden}
+  .doc .h{padding:12px 16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:10px}
+  .doc .h .t{font-family:var(--mono);font-size:.74rem;text-transform:uppercase;letter-spacing:.08em;color:var(--faint)}
+  .doc .b{padding:16px 18px;font-size:.9rem;color:var(--ink2);max-height:260px;overflow-y:auto}
+  .doc .b p{margin:.5rem 0}
+  .doc .b .q{font-family:var(--serif);color:var(--ink);font-size:.98rem;line-height:1.5}
+
+  /* recommendations */
+  .rec{display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:start;padding:16px 0;border-bottom:1px solid var(--hair)}
+  .rec:last-child{border-bottom:none}
+  .rec .n{font-family:var(--serif);font-size:1.5rem;color:var(--brass);font-weight:600;line-height:1}
+  .rec h4{font-size:1rem;font-weight:600}
+  .rec p{color:var(--ink2);font-size:.9rem;margin-top:4px}
+
+  footer{padding:40px 0 60px;color:var(--faint);font-size:.8rem;font-family:var(--mono)}
+  footer .rule{height:1px;background:var(--ink);margin-bottom:20px}
+  @media (prefers-reduced-motion:no-preference){
+    section.part,.exec,.kpi{animation:fade .6s ease both}
+    @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  }
+</style>
+
+<div class="wrap">
+
+  <!-- ===== COVER ===== -->
+  <header class="cover">
+    <div class="firm"><span>MIDE · <b>SEO / GEO Content Practice</b></span><span>Informe de auditoría</span></div>
+    <div class="kicker">Engagement · Café de especialidad</div>
+    <h1>Auditoría de contenidos<br>SEO &amp; GEO</h1>
+    <p class="dek">Cómo convertir una consulta —«molienda para cafetera italiana»— en una pieza que Google premie y la IA cite, para <b>Café Barsel</b>.</p>
+    <div class="meta">
+      <div><span class="k">Cliente</span><b>Café Barsel · cafebarsel.com</b></div>
+      <div><span class="k">Mercado</span><b>España</b></div>
+      <div><span class="k">Método</span><b>Python decide · Claude redacta</b></div>
+      <div><span class="k">Datos</span><b>SerpApi · DataForSEO</b></div>
+      <div><span class="k">Fecha</span><b>11 nov 2026</b></div>
+    </div>
+  </header>
+
+  <!-- ===== EXECUTIVE SUMMARY ===== -->
+  <section class="exec">
+    <div class="eyebrow" style="margin-bottom:20px">Resumen ejecutivo</div>
+    <p class="lead">Barsel tiene el contenido, pero es <b>invisible</b> donde se decide la compra: ni en el top de Google ni en las respuestas de IA.</p>
+    <p class="body">El análisis de 597 consultas, 7 competidores y 3 asistentes de IA muestra un patrón claro: para «molienda para cafetera italiana» y su entorno, la marca no aparece en los primeros resultados ni es citada por los asistentes —que recomiendan a la competencia—. La oportunidad es doble: ocupar un hueco que nadie cubre con solvencia (un diagnóstico real del café amargo/aguado) y recuperar clústers con volumen que los competidores ya rentabilizan, como la limpieza de la cafetera. Con el conocimiento de primera mano del cliente, la pieza resultante deja de «sonar a IA» y pasa a leerse como lo que Google premia.</p>
+    <div class="kpis">
+      <div class="kpi bad"><div class="n">0 / 3</div><div class="l">Respuestas de IA que citan a Barsel</div></div>
+      <div class="kpi bad"><div class="n">0</div><div class="l">Enlaces a Barsel en la IA de Google</div></div>
+      <div class="kpi brass"><div class="n">597</div><div class="l">Consultas analizadas (DataForSEO)</div></div>
+      <div class="kpi brass"><div class="n">470</div><div class="l">Keywords de competidores que no teníamos</div></div>
+      <div class="kpi good"><div class="n">10→14</div><div class="l">Controles: página actual → pieza</div></div>
+      <div class="kpi"><div class="n">9</div><div class="l">Dolores del público (7 confirmados)</div></div>
+    </div>
+  </section>
+
+  <!-- ===== 01 CONTEXTO ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">01</div><h2>El encargo y el método</h2>
+      <p class="sub">Un procedimiento donde el código decide y el modelo solo redacta; cada dato se verifica contra su fuente.</p></div>
+    <div class="grid cols3">
+      <div class="card"><h3>El caso</h3><p>Web real de un tostador de especialidad. Consulta de partida: «molienda para cafetera italiana». Nada de lo que sale aquí se publica en la web del caso.</p></div>
+      <div class="card"><h3>Quién decide qué</h3><p><b>Python</b>: umbrales, prioridades, agrupación, verificación de citas y la nota. <b>Claude Code</b>: etiqueta y redacta. <b>El docente</b>: firma lo verificado y la decisión final.</p></div>
+      <div class="card"><h3>De dónde salen los datos</h3><p>SerpApi (SERP, preguntas, autocomplete), DataForSEO (volumen, dificultad y keywords de competidores) y lectura real de las páginas que rankean.</p></div>
+    </div>
+  </section>
+
+  <!-- ===== 02 CLIENTE Y PÚBLICO ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">02</div><h2>El cliente y su público</h2>
+      <p class="sub">Primero el tono (de sus propios textos) y los dolores reales del público (de fuentes externas), no de intuición.</p></div>
+    <div class="grid cols2" style="margin-bottom:18px">
+      <div class="card flag"><h3>Tono de marca <span class="pill p-warn">a corregir</span></h3>
+        <p>La voz actual de Barsel es de anuncio: «experiencia gourmet», «altísima calidad», encabezados en Mayúsculas. El listón editorial pide lo contrario: concreto, de tú, sin relleno. 16/16 ejemplos de estilo verificados literalmente.</p></div>
+      <div class="card"><h3>Público objetivo</h3>
+        <div class="tags" style="margin-top:8px"><span class="chip"><b>S1</b> recién estrenado en moka</span><span class="chip"><b>S2</b> aficionado</span><span class="chip"><b>S3</b> comprador</span></div>
+        <p>Dolor central: el café sale amargo o aguado y no sabe si el fallo está en la molienda, la dosis o el fuego.</p></div>
+    </div>
+    <div class="tscroll">
+      <table>
+        <thead><tr><th>Dolor del público</th><th>Etapa</th><th class="num">Fuentes</th><th>Estado</th></tr></thead>
+        <tbody>
+          <tr><td>La temperatura del agua mal ajustada estropea la extracción</td><td>uso</td><td class="num">3</td><td><span class="pill p-good">confirmado</span></td></tr>
+          <tr><td>Molienda demasiado fina → sobreextracción y amargor</td><td>uso</td><td class="num">2</td><td><span class="pill p-good">confirmado</span></td></tr>
+          <tr><td>Molienda demasiado gruesa → café aguado</td><td>uso</td><td class="num">2</td><td><span class="pill p-good">confirmado</span></td></tr>
+          <tr><td>No sabe qué grosor de molienda pide la moka</td><td>consideración</td><td class="num">2</td><td><span class="pill p-good">confirmado</span></td></tr>
+          <tr><td>Dejar la cafetera de más al fuego → sobreextrae</td><td>uso</td><td class="num">2</td><td><span class="pill p-good">confirmado</span></td></tr>
+          <tr><td>Dosis insuficiente de café en el filtro</td><td>uso</td><td class="num">1</td><td><span class="pill p-warn">hipótesis</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===== 03 MERCADO Y COMPETENCIA ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">03</div><h2>El mercado y la competencia</h2>
+      <p class="sub">Keyword research con volumen real y, sobre todo, minería de las palabras por las que ya rankean los competidores.</p></div>
+    <p class="pull">Una lista ordenada por volumen no es una estrategia: la consulta objetivo tiene poco volumen medido y cae al <b>#450</b>, pero es la que convierte.</p>
+    <div class="grid cols2" style="margin:24px 0 8px">
+      <div class="card"><h3>Lo que ya le funciona a la competencia <span class="mono">· 03b</span></h3>
+        <p>De bonka, cafesbou, cafeirreverentes y dfrnt extrajimos <b>524 keywords</b> de negocio; <b>470 no las teníamos</b>. Entre ellas, un clúster con volumen que ningún contenido propio cubre:</p>
+      </div>
+      <div class="card flag"><h3>La gema <span class="pill p-brass">oportunidad</span></h3>
+        <p><b>Cómo limpiar la cafetera italiana</b> suma ~1.100 búsquedas/mes entre variantes; cafeirreverentes rankea, Barsel no aparecía. Y encaja con su expertise (limpiar sin jabón). Entra como sección nueva de la pieza.</p></div>
+    </div>
+    <div class="tscroll">
+      <table>
+        <thead><tr><th>Keyword de competidor que no teníamos</th><th class="num">Volumen/mes</th><th>Rankea</th></tr></thead>
+        <tbody>
+          <tr><td>cafetera italiana</td><td class="num vol">40.500</td><td>bonka · pos. 8</td></tr>
+          <tr><td>cafe molido</td><td class="num vol">3.600</td><td>bonka · pos. 7</td></tr>
+          <tr><td>cafe molido natural</td><td class="num vol">880</td><td>bonka · pos. 5</td></tr>
+          <tr><td>cafetera italiana cómo usar</td><td class="num vol">720</td><td>bonka · pos. 12</td></tr>
+          <tr><td>molienda</td><td class="num vol">590</td><td>bonka · pos. 7</td></tr>
+          <tr><td>cómo limpiar la cafetera italiana (clúster)</td><td class="num vol">~1.100</td><td>cafeirreverentes · pos. 12</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===== 04 VISIBILIDAD ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">04</div><h2>Visibilidad actual: Google e IA</h2>
+      <p class="sub">La prueba del diagnóstico: medimos qué devuelve Google y qué responde un asistente con búsqueda.</p></div>
+    <div class="grid cols2">
+      <div class="card"><h3>En Google</h3>
+        <p>En los 9 grupos de consultas, <b>ninguna URL propia</b> aparece en los primeros resultados. La respuesta de IA de Google sale en 2 de 10 consultas y enlaza a cafebarsel.com <b>0 veces</b>. El top lo ocupan 6 guías de marca y 1 foro.</p></div>
+      <div class="card flag"><h3>En un asistente de IA <span class="pill p-bad">ausente 3/3</span></h3>
+        <p>A las 3 preguntas del público, la marca sale <b>citada 0 · mencionada 0 · ausente 3</b>. Ni pidiéndole directamente «¿qué café de especialidad me recomiendas?» aparece: recomienda a la competencia.</p>
+        <div class="tags" style="margin-top:10px"><span class="chip">El Criollo</span><span class="chip">MyWay</span><span class="chip">Incapto</span><span class="chip">Nomad</span></div></div>
+    </div>
+  </section>
+
+  <!-- ===== 05 OPORTUNIDAD ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">05</div><h2>La oportunidad y el briefing</h2>
+      <p class="sub">Qué cubren los competidores, dónde están los huecos y cómo se traduce en el encargo editorial.</p></div>
+    <p class="card" style="margin-bottom:16px"><b>Cobertura vs. competencia</b> — nota 0–3 por página, con fragmento literal verificado. Dos temas no los prueba nadie: candidatos a aportación original.</p>
+    <div class="tscroll">
+      <table class="mx"><thead><tr><th>Tema</th><th class="own">P1</th><th class="own">P2</th><th class="own">P3</th><th>P4</th><th>P5</th><th>P6</th><th>P7</th></tr></thead><tbody id="mxbody"></tbody></table>
+    </div>
+    <div class="legend">
+      <span><b class="own">P1–P3</b> = Barsel · P4–P7 = competencia</span>
+      <span><span class="cell c0">0</span>ausente</span><span><span class="cell c1">1</span>menció.</span>
+      <span><span class="cell c2">2</span>explicado</span><span><span class="cell c3">3</span>con prueba</span>
+      <span><span class="cell cse">SE</span>sin evidencia</span>
+    </div>
+    <div class="grid cols2" style="margin-top:20px">
+      <div class="card flag"><h3>Aportación original</h3><p>Tabla de diagnóstico <b>síntoma → causa → arreglo</b> (amargo / aguado / a borbotones). Es el hueco que nadie prueba y responde al dolor central.</p></div>
+      <div class="card flag"><h3>Expertise del cliente <span class="pill p-teal">de primera mano</span></h3><p>Recomendación real (<b>Venezuela Brisas del Gil, molienda media</b>), cata interna a tres moliendas, tueste natural y lata con válvula. Entra como evidencia verificada C1–C4.</p></div>
+    </div>
+  </section>
+
+  <!-- ===== 06 LA PIEZA ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">06</div><h2>La pieza y su auditoría</h2>
+      <p class="sub">Del briefing a un borrador que el código mide. Y la diferencia entre pasar controles y leerse como una persona.</p></div>
+
+    <div class="bars" style="max-width:620px;margin-bottom:28px">
+      <div class="barrow"><div class="t"><span>Página actual de Barsel</span><span class="v">10 / 19</span></div><div class="track"><div class="fill bad" style="width:53%"></div></div></div>
+      <div class="barrow"><div class="t"><span>Borrador automático (optimizado para IA)</span><span class="v">14 / 14</span></div><div class="track"><div class="fill good" style="width:100%"></div></div></div>
+      <div class="barrow"><div class="t"><span>Pieza final (fluida, pirámide invertida)</span><span class="v">10 / 14</span></div><div class="track"><div class="fill brass" style="width:71%"></div></div></div>
+    </div>
+
+    <p class="pull">El borrador que saca <b>14/14</b> suena a IA. El que se lee como lo que rankea renuncia a propósito a 4 controles: la metralleta de preguntas autocontenidas.</p>
+
+    <div class="ba" style="margin-top:24px">
+      <div class="doc"><div class="h"><span class="t">Antes · borrador automático</span><span class="pill p-bad">suena a IA</span></div>
+        <div class="b"><p class="q">«La molienda para cafetera italiana debe ser media o media-fina, con una textura parecida a la arena fina. Esa es la respuesta corta. La moka, inventada por Alfonso Bialetti en 1933, es noble pero exigente.»</p><p>Estructura pregunta→respuesta en cada sección. Correcto y extraíble, pero plano y sin voz.</p></div></div>
+      <div class="doc"><div class="h"><span class="t">Después · pieza final</span><span class="pill p-good">voz + expertise</span></div>
+        <div class="b"><p class="q">«Media, tirando a media-fina… En nuestro obrador cogimos el mismo café y lo preparamos a tres moliendas: la fina salió áspera, la gruesa aguada y la media fue el punto. Mismo grano; solo cambiaba el molido.»</p><p>Pirámide invertida: respuesta arriba, luego profundiza. Prosa con voz de tostador y una cata que solo el cliente puede firmar.</p></div></div>
+    </div>
+    <div class="tags" style="margin-top:18px">
+      <span class="chip"><b>5</b> secciones, no metralleta</span><span class="chip"><b>841</b> palabras</span>
+      <span class="chip">cifras solo <b>verificadas</b></span><span class="chip">nueva sección: <b>limpieza</b></span>
+    </div>
+  </section>
+
+  <!-- ===== RECOMENDACIONES ===== -->
+  <section class="part">
+    <div class="phead"><div class="no">→</div><h2>Recomendaciones</h2>
+      <p class="sub">Qué hacer con esto, por orden de impacto.</p></div>
+    <div class="rec"><div class="n">1</div><div><h4>Publicar la pieza ampliando la URL existente (P3)</h4><p>Reposicionar la página de molienda, no crear una nueva, para no competir consigo misma. Enlazar con las piezas de producto y preparación.</p></div><span class="pill p-brass">alto</span></div>
+    <div class="rec"><div class="n">2</div><div><h4>Añadir el clúster de limpieza de la moka</h4><p>~1.100 búsquedas/mes que la competencia rentabiliza y Barsel no tocaba, con su expertise real (sin jabón). Ya incorporado como sección.</p></div><span class="pill p-brass">alto</span></div>
+    <div class="rec"><div class="n">3</div><div><h4>Estar donde busca la IA</h4><p>Los asistentes citan dominios concretos y lanzan búsquedas (fan-out) propias. Trabajar presencia en esas superficies, no solo en la propia web.</p></div><span class="pill p-warn">medio</span></div>
+    <div class="rec"><div class="n">4</div><div><h4>Arreglar las URLs antiguas en 404</h4><p>Tres URLs de la estructura anterior devuelven 404 en vez de redirigir: autoridad y enlaces tirados en la migración.</p></div><span class="pill p-warn">medio</span></div>
+    <div class="rec"><div class="n">5</div><div><h4>Sistematizar el expertise del cliente</h4><p>La diferencia entre genérico y memorable es el dato de primera mano. Capturar catas, fotos y criterios del tostador como insumo fijo del contenido.</p></div><span class="pill p-teal">continuo</span></div>
+  </section>
+
+  <footer>
+    <div class="rule"></div>
+    MIDE · SEO/GEO Content Practice — Informe de auditoría para Café Barsel · 11 nov 2026.<br>
+    Python decide umbrales, prioridades y la nota; Claude Code etiqueta y redacta; cada cita se verifica contra su fuente.
+    Documento de práctica docente. El expertise del cliente es simulado para la demostración.
+  </footer>
+</div>
+
+<script>
+  var temas=[
+   ["Qué molienda usar",[2,0,3,3,2,3,3]],
+   ["Molienda muy fina → amargor",[2,0,1,3,2,2,3]],
+   ["Molienda muy gruesa → aguado",[0,0,0,1,1,0,3]],
+   ["No compactar el café",[2,"SE",0,0,0,1,3]],
+   ["Control del fuego",[3,3,0,0,0,2,0]],
+   ["Agua y válvula",[2,3,0,0,0,2,0]],
+   ["Dosis en gramos",[3,2,0,0,0,3,0]],
+   ["Grano vs molido",[2,2,0,3,2,1,3]],
+   ["Guía comparativa",[0,0,3,"SE",1,0,3]],
+   ["Tueste medio · nadie prueba",[2,2,0,1,0,0,0]],
+   ["Limpieza sin jabón",[0,3,0,0,0,0,0]],
+   ["Recomendación de café",[1,0,3,2,1,0,2]],
+   ["Diagnóstico · nadie prueba",[2,0,0,0,0,1,1]]
+  ];
+  var tb=document.getElementById('mxbody');
+  temas.forEach(function(t){
+    var tr=document.createElement('tr');
+    var td=document.createElement('td');td.textContent=t[0];td.style.whiteSpace='nowrap';tr.appendChild(td);
+    t[1].forEach(function(v){
+      var c=document.createElement('td');c.style.textAlign='center';
+      var s=document.createElement('span');s.className='cell '+(v==='SE'?'cse':'c'+v);s.textContent=v;
+      c.appendChild(s);tr.appendChild(c);
+    });
+    tb.appendChild(tr);
+  });
+</script>

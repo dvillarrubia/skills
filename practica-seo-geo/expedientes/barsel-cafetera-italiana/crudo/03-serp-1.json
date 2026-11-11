@@ -1,0 +1,877 @@
+{
+ "capturado": "2026-11-11T12:49:04Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "molienda cafetera italiana",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af4644071c542e57fb93287",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/QYU8jYsffjHvAOPBjNPwtp5G8ndJqgzeopaKfKJ0Ytw/6af4644071c542e57fb93287.json",
+   "markdown_endpoint": "https://serpapi.com/searches/QYU8jYsffjHvAOPBjNPwtp5G8ndJqgzeopaKfKJ0Ytw/6af4644071c542e57fb93287.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/QYU8jYsffjHvAOPBjNPwtp5G8ndJqgzeopaKfKJ0Ytw/6af4644071c542e57fb93287.json_with_pixel_position",
+   "created_at": "2026-11-11 12:49:04 UTC",
+   "processed_at": "2026-11-11 12:49:04 UTC",
+   "google_url": "https://www.google.es/search?q=molienda+cafetera+italiana&oq=molienda+cafetera+italiana&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/QYU8jYsffjHvAOPBjNPwtp5G8ndJqgzeopaKfKJ0Ytw/6af4644071c542e57fb93287.html",
+   "total_time_taken": 0.49
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "molienda cafetera italiana",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "molienda cafetera italiana",
+   "total_results": 177,
+   "time_taken_displayed": 0.21,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+   {
+    "source": "https://www.instagram.com/p/DJkSAwlyJeF/",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/Yz0UFbvX34mnCU9ES2Q3Ya9X5X5lNTalj7eOxEzE72M.jpg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3631106416578172805",
+    "title": "Sabías que el grosor y consistencia en la molienda determina ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.onedrop.cl/tipos-de-molienda-de-cafe?srsltid=AYCX9vIzuwemJCjoKCsjZcTKzgUmEIstg_tjQ539OLl6Z-R9FLNHa1ig",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/-SlMfChbVXZdnz832Zg_LSRFNPFpUWvtjwuoTBXFvms.jpg",
+    "original": "https://cdnx.jumpseller.com/onedrop/image/18479802/molidos.jpg.jpg?1629977123",
+    "title": "Tipos de Molienda de Café",
+    "source_name": "ONE DROP Coffee Store"
+   },
+   {
+    "source": "https://www.instagram.com/p/DCSiwmwJQUm/",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/s5pVhd--dhe36ggrtp_WzT5QdbXGEsqK4dGWvbKAYlw.jpg",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3500012734146479398",
+    "title": "☕ Elige la molienda perfecta para cada método Cada ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://cafehaciendacasablanca.com/tipos-de-molienda-cafe/",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/uA2rrdSQ0qj0HNISq17yDjAMY5wK6OVqyXAc6x8CbNM.jpg",
+    "original": "https://cafehaciendacasablanca.com/wp-content/uploads/2024/10/tipos-molienda-800x500-1.jpg",
+    "title": "Conoce los tipos de molienda del grano de Café – Cafe ...",
+    "source_name": "Cafe Hacienda Casablanca"
+   },
+   {
+    "source": "https://www.ghirardellicafe.com.ar/molinillo-de-cafe-principales-diferencias/?srsltid=AYCX9vLmgxh3CUJ4qcoB9jkNMLEkwvEUodvmgHHk1zhQoATCv0Nug-nG",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/tFh1MQEqe-NuDnIi1Bpm2Xyeu9J1O1gCv-Qb2zb6x8U.jpg",
+    "original": "https://d2r9epyceweg5n.cloudfront.net/stores/930/248/rte/molienda%20cafetera%20chica.jpg",
+    "title": "Molinillo de Café: cuáles son las opciones y sus principales ...",
+    "source_name": "Ghirardelli Cafe"
+   },
+   {
+    "source": "https://cafesabora.com/es/gu%C3%ADa-b%C3%A1sica-para-conseguir-caf%C3%A9s-molidos-perfectos",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/9RfsW_Al5Y725OKk4-scWihfNccTx7yAuk0s_5GtQQo.jpg",
+    "original": "https://live.staticflickr.com/65535/50057997022_943dc76588_b.jpg",
+    "title": "Guía básica para conseguir Cafés Molidos perfectos | SABORA ...",
+    "source_name": "Cafés SABORA"
+   },
+   {
+    "source": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/EClXJ5B7p2HX32tHip1hB1fPXsUksC5f2W7Hq7AVfH0.jpg",
+    "original": "https://www.bonka.es/themes/custom/bonka/img/molinillo-cafe-manual.jpg?v13",
+    "title": "Molienda del café: un tipo para cada cafetera | Bonka",
+    "source_name": "Café Bonka"
+   },
+   {
+    "source": "https://www.tiktok.com/@santoamaro.es/video/7473208428475911447",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/BPKihFK_NgoSJONIQ7OFYZgkvsxyViqzrHmfH2gUsGo.jpg",
+    "original": "https://www.tiktok.com/api/img/?itemId=7473208428475911447&location=0&aid=1988",
+    "title": "Molienda para cafetera italiana: qué pasa si está mal",
+    "source_name": "TikTok"
+   },
+   {
+    "source": "https://www.facebook.com/cafesabora/posts/moler-el-caf%C3%A9-justo-antes-de-prepararlo-y-hacerlo-en-el-grado-de-molienda-adecua/3477482595696672/",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/FTHHA6hkSG-TMj354UOwHGh5HBLBDGL4nrXRwziG6xU.jpg",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3477479642363634",
+    "title": "Moler el café justo antes de prepararlo y hacerlo en el ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://concafe.es/guia-sobre-la-molienda-de-cafe/?srsltid=AYCX9vIfvKH-uoOqsy71dblzdGp3iLTNee6SZDvU83_BLjsCTVPR4Fzn",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/jI4MhHlgq2RwelGUSrFY15e4aGj-43y7014v7hW2WtM.jpg",
+    "original": "https://concafe.es/wp-content/uploads/2020/04/molienda-6-1024x576.jpg",
+    "title": "Guía sobre la molienda de café - conCAFÉ",
+    "source_name": "conCAFÉ"
+   },
+   {
+    "source": "https://www.tiktok.com/@lychecafecito/video/7497037090962607415",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/fz2PCG_oPQIUjEjUcxd5GA55808Vt3BrDFGvGN9kRvM.jpg",
+    "original": "https://www.tiktok.com/api/img/?itemId=7497037090962607415&location=0&aid=1988",
+    "title": "Molienda para Moka Italiana: ¿Gruesa, Media Fina o Fina? La Prueba  Definitiva",
+    "source_name": "TikTok"
+   },
+   {
+    "source": "https://www.instagram.com/p/DZbKsttlVkz/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpvaCAQvKBr4H70q_iM6epRSGnmGfxGUmEK22rNVowtCLbK5QSWPh-U&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3916771354134010163",
+    "title": "☕ ¿Por qué la molienda debe ser correcta? Cuando preparamos ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://shop.cafesbou.com/blogs/news/que-tipo-de-molienda-es-mejor-para-una-cafetera-italiana?srsltid=AYCX9vLxzunr1medzgz4i11F89MgL_84Mk5gWZPUZJbZcjVq4QJmIs9-",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHFPXP49EN3lK_yDyygTVtbZY4ADwMoEjkayUvnO_Os7xtNhPIY7XoNHo&s",
+    "original": "http://shop.cafesbou.com/cdn/shop/articles/cafetera_italiana.jpg?v=1709023216",
+    "title": "Qué tipo de molienda es mejor para una cafetera italiana ...",
+    "source_name": "Café Bou - BOU Café"
+   },
+   {
+    "source": "https://cafestes.com/blogs/cafestes-gourmet/como-hacer-cafe-cafetera-italiana-molienda-cantidad?srsltid=AYCX9vJQ9Bb6Fzr9fyAMJsLVWGIP7H7AOdb_lhyVmGAVG3zaiBBRJsr0",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LiR_ZwIGWapF1cPg4swTk5bjwYc1YW7t1l3uu_SFrS0Ic8nuwDC-RPw&s",
+    "original": "https://cafestes.com/cdn/shop/articles/cafetera-italiana-moka-cafe_540x.png?v=1791968525",
+    "title": "Cómo hacer café en cafetera italiana: molienda, cantidad y ...",
+    "source_name": "Cafestes"
+   },
+   {
+    "source": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_96GyZ9JRbiuOygT-yVACrXh49QRJfoybHdRi10KdVonF61yPqYc6Ow&s",
+    "original": "https://www.bonka.es/themes/custom/bonka/img/cafetera-italiana-cafe-nivelado.jpg?v13",
+    "title": "Molienda del café: un tipo para cada cafetera | Bonka",
+    "source_name": "Café Bonka"
+   },
+   {
+    "source": "https://www.facebook.com/Chicabeancafe/posts/-el-secreto-de-un-caf%C3%A9-perfecto-la-molienda-correcta-sab%C3%ADas-que-la-molienda-del-/1175875774546255/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AMly84k66waRd0A1xE318OKzwt00H5cCb_O_a8sj0b9u8Og8DpNWmD8&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1175875544546278",
+    "title": "🌟 El Secreto de un Café Perfecto: La Molienda Correcta ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.norplat.cl/blogs/articles/molienda-para-cafetera-italiana?srsltid=AYCX9vIPP629ZYO9ObgsAYt-65-5LY5codk1zt1Q9TtVbx9PauoMTbuM",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX76JlZq1Li2lnIrZge3gEJAJ90F4emlwma00rNwsnu5tRdurWvQZ_MtE&s",
+    "original": "https://cdn.shopify.com/s/files/1/0951/0558/1361/files/03-additional_b4e178d7-06e0-41cd-92e1-186d1c97aedb.png?v=1790971523",
+    "title": "Molienda para cafetera italiana: cómo pedirla o ajustarla ...",
+    "source_name": "Norplat"
+   },
+   {
+    "source": "https://www.reddit.com/r/cafebrasil/comments/1k4kopj/moagem_para_cafeteira_italiana/?tl=es-es",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCKQWfCGIUUcUmRcbS__K4ENLC9NAI1wP2x-Bn1MO1KVnyRTejpfnEXg&s",
+    "original": "https://i.redd.it/mawgd5owd8we1.jpeg",
+    "title": "Molienda para cafetera italiana : r/cafebrasil",
+    "source_name": "Reddit"
+   },
+   {
+    "source": "https://dfrnt.coffee/blogs/info/como-elegir-la-molienda-del-cafe-segun-tu-cafetera?srsltid=AYCX9vLJL1Hwy6M2uX30crqKJhP1YZBzB7nktTyGRnO9OyzRdcYGNFAZ",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlhNatiyk4Av_FsKPXXYYp_nCGVpr6GpJH5gOtGHUEvGkYL8zPHf5nlk&s",
+    "original": "https://cdn.shopify.com/s/files/1/0799/3475/1065/files/10.IMG-US_THEM-opt-opt_2b86c311-ae39-4304-a2b3-539d933f01cb.webp?v=1773060630",
+    "title": "Cómo elegir la molienda del café según tu cafetera – DFRNT.",
+    "source_name": "Dfrnt Coffee"
+   },
+   {
+    "source": "https://cafesabora.com/es/aprende-moler-caf%C3%A9-en-funci%C3%B3n-de-la-cafetera-que-usas",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YKtIrxZjllcYYRbhO1BdoOG-rdsO6A2IwiCz3UOO1-JmVZFclDeAfHc&s",
+    "original": "https://live.staticflickr.com/65535/54976164943_c7fc29b424_c.jpg",
+    "title": "Aprende a moler café en función de la cafetera que usas ...",
+    "source_name": "Cafés SABORA"
+   },
+   {
+    "source": "https://latterra.cafe/blogs/noticias/molienda-perfecta-cafetera-italiana?srsltid=AYCX9vK3Mw1OiHUqh0dTrVufMIGdCLsYrdjw4lTBfJrUszh8lVODC0lZ",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSilpb4gZDAu6kNdlJcQljTm3p7vwXH4s5gjElltEqtKi2QASPGBxLO3hc&s",
+    "original": "https://latterra.cafe/cdn/shop/articles/descubre-la-molienda-perfecta-para-tu-cafetera-italiana-8209371.png?v=1771950798&width=1920",
+    "title": "Descubre la molienda perfecta para tu cafetera italiana ...",
+    "source_name": "Latterra Café"
+   },
+   {
+    "source": "https://incapto.com/blogs/articulos/molinillos-de-cafe-que-hay-que-saber?srsltid=AYCX9vLOQcmBoqsMUSmCgSqCMI-BgVObDNhPjRjAU18tuVDuHDirQxPz",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFwh60RMIuzpOUCVxzWjqnaYIISzc9GbkitfOQ9K35t7xjLGrwfLoO4k&s",
+    "original": "https://cdn.shopify.com/s/files/1/0977/3904/7250/files/bdc0eb57-molienda-cafe-1024x681.jpg",
+    "title": "Molinillos de café ¿Qué hay que saber? - INCAPTO",
+    "source_name": "Incapto"
+   },
+   {
+    "source": "https://cofesa.es/collections/cafe-molido-para-cafetera-italiana?srsltid=AYCX9vJr9gX20mlitaSDDvizlsV7zc92gpT3bMUdL-Ssmd67mqWH309R",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEQ3gs6Jd3nMaj38oaYtTYgDR5q4GRsy6RrlYwOhsmHnjjm5d7VIqsL4&s",
+    "original": "https://cofesa.es/cdn/shop/files/blend_diaz_en_grano_250_gr.png?v=1729598854&width=1500",
+    "title": "Café Molido para Cafetera Italiana | Comprar tu molienda ...",
+    "source_name": "Cofesa"
+   },
+   {
+    "source": "https://www.tiktok.com/@santoamaro.es/video/7660946650990398753",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkwVaeEKtZHewE24EEy7qyFMQ6zpryoueK3Azt8Pnq-wdj5SZ5TG9yY4&s",
+    "original": "https://www.tiktok.com/api/img/?itemId=7660946650990398753&location=0&aid=1988",
+    "title": "Molienda de café: ¿qué molido usar para tu cafetera italiana?",
+    "source_name": "TikTok"
+   },
+   {
+    "source": "https://cafedizeta.es/guia-de-molienda-segun-tu-metodo-de-preparacion/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWBdm9fCizHJQwdopXfJi_hHIcB2QNPN8ui3_J9l64LM8ELu2akhxWmY&s",
+    "original": "https://cafedizeta.es/wp-content/uploads/2025/07/blog_molienda_cafetera_small-1024x528.jpg",
+    "title": "Guía de molienda según tu método de preparación -",
+    "source_name": "Café de especialidad"
+   },
+   {
+    "source": "https://cafesgranell.es/es/coffee-blog-1940/news/como-hacer-cafe-en-cafetera-italiana?srsltid=AYCX9vK2h0mbtvyRri0zlHn3m3iPDs_6i0B8JrGQrE-SNZTSR3QkUq1F",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKt3b_5tuIhWBdyiX_4YlOPh-pwYD7bPbMqjJRmF89FtpcwERaOZR6hVg&s",
+    "original": "https://cafesgranell.es/modules/ph_simpleblog/covers/31-thumb.png",
+    "title": "Cómo Hacer Café en Cafetera Italiana | Consejos y Trucos ...",
+    "source_name": "Cafés Granell"
+   },
+   {
+    "source": "https://cafesabora.com/es/aprende-moler-caf%C3%A9-en-funci%C3%B3n-de-la-cafetera-que-usas",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MZCQtRQrDz-WGmItwGCHpYoOibkpLLE8zILva4KDIvQ6oIYRk1WM1H0&s",
+    "original": "https://live.staticflickr.com/65535/51296165857_77aab4c4a4_z.jpg",
+    "title": "Aprende a moler café en función de la cafetera que usas ...",
+    "source_name": "Cafés SABORA"
+   },
+   {
+    "source": "https://www.tiktok.com/@sebashomebrew/video/7393752454506024198",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQY1al101TjG_RTLLpCNoik2aEkHm6J4K3jd-A7jv8ND_8Qi-KgoDvwOE&s",
+    "original": "https://www.tiktok.com/api/img/?itemId=7393752454506024198&location=0&aid=1988",
+    "title": "Guía de molienda de café junto a @Multicenter Estoy usando el molino de  muelas cónicas que compré la última vez que estuve aquí. También te enseño  a preparar café en moka italiana Brugmann #coffee ...",
+    "source_name": "TikTok"
+   },
+   {
+    "source": "https://www.facebook.com/santoamaro.es/posts/este-es-el-tipo-de-molienda-que-necesita-tu-caf%C3%A9-seg%C3%BAn-tu-cafeterael-punto-de-mo/1486253103528553/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHDikgSMPeh5BYm7a_JTMODTKarD8D9krA1ToNxrtrU4NYu3W5NLRCpg&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=968763669558225",
+    "title": "Este es el tipo de molienda que necesita tu café, según tu ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.norplat.cl/blogs/articles/molienda-para-cafetera-italiana?srsltid=AYCX9vIGLc_7Ja--etx3p-2DDfFmXN2p8YYx9r3La36etot6V02uouxi",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TGL2rmQ6fIsM9ehQr0v0CqNBnZBYH60yyjjvbGJ3MEdQRyHIjWeznSM&s",
+    "original": "https://cdn.shopify.com/s/files/1/0951/0558/1361/files/02-additional_f130413d-d90b-483c-8fc7-95ffe134fc73.png?v=1790971518",
+    "title": "Molienda para cafetera italiana: cómo pedirla o ajustarla ...",
+    "source_name": "Norplat"
+   },
+   {
+    "source": "https://www.instagram.com/reel/DGQ5LWjIoa6/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbj2UzVIvly7JcnoOfWPVpRVJ2mMw9pK6S2ELhum3bhTW79H4znvCJ-A&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3571605973281965754",
+    "title": "Si te haces un café en tu cafetera italiana pero la molienda no es la  correcta vas a echar a perder el café., Te cuento hoy qué pasará si la  molienda del café está más fina o más gruesa de lo que ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/emprendimientoencafe/posts/-molienda-finatextura-similar-al-az%C3%BAcar-glas-o-harinaideal-param%C3%A1quina-de-espres/1185964260213305/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsb9CTibqy8oUG6lbvNrgqUpVR-g8J5OF_jkETCOdFjOR7nUH0o_nUVEs&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1099461648847940",
+    "title": "🟤 Molienda Fina Textura: Similar al azúcar glas o harina ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.instagram.com/p/DQIRMRUgTVm/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3o0JruKrr2B2O8DIYl3ogNtBpFGtZkJGg2tcRYM5vzQkdjMJ91lQWUd4&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3749322299807970662",
+    "title": "La molienda es un elemento fundamental de toda buena taza ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.tiktok.com/@artidorocoffee/video/7036484113443982597",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeXkBsk5vRNYk4nkvZaO7qqq9unHhIPikioPuUU1Y5eR3OmZJCfgcR2A&s",
+    "original": "https://www.tiktok.com/api/img/?itemId=7036484113443982597&location=0&aid=1988",
+    "title": "Molienda de café: fina, media y gruesa para cada cafetera",
+    "source_name": "TikTok"
+   },
+   {
+    "source": "https://www.norplat.cl/blogs/articles/molienda-para-cafetera-italiana?srsltid=AYCX9vIxe91suQt3Dj2l1z193ih7NavoSK0zQiRKjJAIUSI8Sj0gYcPn",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFuXwTRpJmQUYSGDnT_4Sf4hBfZ0jfTKj-6GYnYcrtaZhoDIUjNFtYI3M&s",
+    "original": "https://www.norplat.cl/cdn/shop/articles/01-hero_8221ac6f-f8e9-4222-b3d8-6d2e61392e61.png?v=1790971526&width=1100",
+    "title": "Molienda para cafetera italiana: cómo pedirla o ajustarla ...",
+    "source_name": "Norplat"
+   },
+   {
+    "source": "https://www.facebook.com/cafeanimamatris/posts/un-caf%C3%A9-de-calidad-preparado-con-cafetera-italiana-requiere-una-molienda-fina-po/631907129000735/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQV7rBWTH7cKsFMN6QcUyAvWMzZVxNDGiwTdSf_69kXmyd1TENw6X5MM&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=631907115667403",
+    "title": "Un café de calidad ☕ preparado con cafetera italiana ...",
+    "source_name": "Facebook"
+   },
+   {
+    "source": "https://www.instagram.com/reel/DVr1dIjOsus/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ZmSnASVatMdjREuunkQ5btVkwFYLbYANCizDuk2gAW6NthC-JlRSbPg&s",
+    "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3849405405029125036",
+    "title": "Paso a paso moka italiana, 15 gramos de café x 150 ml de agua. Molienda  media fina o fina si quieres aún más intensidad y carácter, recuerda no  tapar la válvula, precalentar la moka si es posible y ...",
+    "source_name": "Instagram"
+   },
+   {
+    "source": "https://www.facebook.com/santoamaro.es/posts/este-es-el-tipo-de-molienda-que-necesita-tu-caf%C3%A9-seg%C3%BAn-tu-cafeterael-punto-de-mo/1486253103528553/",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn28LHE1Pa06nNOQzHQs1K7qu8z_yAKfSLYDxhbMeSqWJa6VaWv3oUNJY&s",
+    "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1361241909346201",
+    "title": "Este es el tipo de molienda que necesita tu café, según tu ...",
+    "source_name": "Facebook"
+   }
+  ],
+  "inline_videos": [
+   {
+    "position": 1,
+    "title": "Molienda para cafetera italiana: qué pasa si está mal",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7473208428475911447?lang=es",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/GUx6CFe3WRNjBKODrfxBmkXdNFdCB7LX7O_vOReKAMU.jpg",
+    "channel": "santoamaro.es",
+    "duration": "0:53",
+    "platform": "TikTok",
+    "date": "19 feb 2025",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSxKssl__FQurTU5rFDRAqe6AOI2Y_rKADM9Q"
+   },
+   {
+    "position": 2,
+    "title": "Molienda para Moka Italiana: ¿Gruesa, Media Fina o Fina? La ...",
+    "link": "https://www.tiktok.com/@lychecafecito/video/7497037090962607415",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/7VQAXF5itn-b1yaplnTM1vYt8HiTxzFnW46FNi9P_iQ.jpg",
+    "channel": "lychecafecito",
+    "duration": "1:36",
+    "platform": "TikTok",
+    "date": "24 abr 2025",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSDvw2hJvjvKs7fI77wD2aEdj_jAIkVuribhg"
+   },
+   {
+    "position": 3,
+    "title": "Molienda de café: ¿qué molido usar para tu cafetera italiana?",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7660946650990398753",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/3tqjWxBrT40DzfLrKro9mz5IjDXHTCkMMz2WFaizbVs.jpg",
+    "channel": "santoamaro.es",
+    "duration": "1:00",
+    "platform": "TikTok",
+    "date": "10 jul 2026"
+   },
+   {
+    "position": 4,
+    "title": "Molienda de café: fina, media y gruesa para cada cafetera",
+    "link": "https://www.tiktok.com/@artidorocoffee/video/7036484113443982597",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/YSFkQYox_j5LgXSFdFFMpj4c3UY9YdsPMKkpjObXfmw.jpg",
+    "channel": "artidorocoffee",
+    "duration": "0:35",
+    "platform": "TikTok",
+    "date": "30 nov 2021",
+    "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSONmxK5-npKRsk23KYQxix54EuCNxIKRBCdw"
+   }
+  ],
+  "immersive_products": [
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJmCG95Sbp7cWa3vlThVnjE-iOvBB_YneMKUdrgOFv9B82De7x94YxlHAsGqSjeX2-ni2BLpjltZDfkSuSQYdo0AOApJ2NlC_EVJ2g388",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXU5tRv8qQp9IQp9Nm-FzCvw3iw4TZO7EMQT51IGOavpk.png",
+    "source": "Sitios de comparación",
+    "title": "Bialetti Café \"Perfetto Moka\" Classico",
+    "price": "5,80 €",
+    "extracted_price": 5.8,
+    "immersive_product_page_token": "Na8-fXicfZPNjts2FIWBvk4QgKRE2e5uZInWaCzJ-iEpczOQSNmyTckaWx7_IO_Qd5hJCiTLpECBbtrXSJ-mGnSbdsPFPby853zE_eWl2vwezzJQnJ7eP_Tv08PJXdzKxcq8W3_uDnt1kv1GfUMWxCMLgMkIjgFGljUZf5ZFX-j9eqN-gxBZwIBjC5hjCICFJ6b5ta4KpTdtFa1W1cHZy-GVCR7uQATMyQjA0QSO0ejLpinW1b_yGIygMTYBBsjAACJoTl4P6vi9mabp42L6iIeiBS3TtPBomGQhE3z4r3ISOY__1_am_1j79HSqDtc_mr3eVK0q3sliVfXVoXi3GeJuirb4tO7e3P6g9bXZqK8DJ9NCYzA2hjjmGGP82j33L_X64-mkq79e1vqlOr7Ub-ev-6J7Xsm_f_rT3Z_d6fHsxDRxl1ppzk1AKfQjoo6hYc-TGb4uUUgiT7QUdFZB2IKiHijtX4Mm3FZEAE5CV-TdNUHYqhx147RmPBOU5bYr-RknO5FVrglCvT7Lrb_nRIhsJrqU4z7M7G0J4ksJ8Cyl3bPg42tFfKukAQxSuEiI3ZdUb-cUP5Tu3pDDHO7UfnmzNwxMnihNOrWDfcEnLfd8WOZdLPmFqq2_kiDJljCJBh80ACqiub9PEeminEUlY4d0W5uDXyvdXXjY9JqhOs-IfaIwCRj1aUGJkSJ6k7vwFDPfqxwXVI4waUu8indcbOtblAk7yWpQul0eIr_PAH7gAymW0cvAjcfo8hDr9XXwx2TTJ6XLrpnj93KmbLmtUcJDk3IxWyJhVLnCdNY_F7S_lTMRR56qJQ0xY3EfOMGVOuy50jUt3YGRE_ZS23uVk25OxUrlwgq8uz4ipFGE4konZ2kILHP9RBEJ0qZvpbc0mCeWAl3OZU5O1Kkv5VbX1c53RaPzhHVQeaTNwdIsUuiXeY1pHhrhzI-DnZqWpOulY9PE6wau2iqzBKaZGFKSY8LIcs4USJuJwT3bEq0OQ6DtoJkcEqTbpGVPy8t9TqmiwYxAmcK5msJMtoxQr9vQ2RLEXBb3O3KfbW0SAtYpQy_SVsxTJuyM-gvWxIg6ig7_rwPXf0i1-_FyPKy-gztvMTqtRsZZF8U9nfLRNQIdklZ0WcLDY5qCu5-HtTdNAA3THNb_H-A_dxk",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Na8-fXicfZPNjts2FIWBvk4QgKRE2e5uZInWaCzJ-iEpczOQSNmyTckaWx7_IO_Qd5hJCiTLpECBbtrXSJ-mGnSbdsPFPby853zE_eWl2vwezzJQnJ7eP_Tv08PJXdzKxcq8W3_uDnt1kv1GfUMWxCMLgMkIjgFGljUZf5ZFX-j9eqN-gxBZwIBjC5hjCICFJ6b5ta4KpTdtFa1W1cHZy-GVCR7uQATMyQjA0QSO0ejLpinW1b_yGIygMTYBBsjAACJoTl4P6vi9mabp42L6iIeiBS3TtPBomGQhE3z4r3ISOY__1_am_1j79HSqDtc_mr3eVK0q3sliVfXVoXi3GeJuirb4tO7e3P6g9bXZqK8DJ9NCYzA2hjjmGGP82j33L_X64-mkq79e1vqlOr7Ub-ev-6J7Xsm_f_rT3Z_d6fHsxDRxl1ppzk1AKfQjoo6hYc-TGb4uUUgiT7QUdFZB2IKiHijtX4Mm3FZEAE5CV-TdNUHYqhx147RmPBOU5bYr-RknO5FVrglCvT7Lrb_nRIhsJrqU4z7M7G0J4ksJ8Cyl3bPg42tFfKukAQxSuEiI3ZdUb-cUP5Tu3pDDHO7UfnmzNwxMnihNOrWDfcEnLfd8WOZdLPmFqq2_kiDJljCJBh80ACqiub9PEeminEUlY4d0W5uDXyvdXXjY9JqhOs-IfaIwCRj1aUGJkSJ6k7vwFDPfqxwXVI4waUu8indcbOtblAk7yWpQul0eIr_PAH7gAymW0cvAjcfo8hDr9XXwx2TTJ6XLrpnj93KmbLmtUcJDk3IxWyJhVLnCdNY_F7S_lTMRR56qJQ0xY3EfOMGVOuy50jUt3YGRE_ZS23uVk25OxUrlwgq8uz4ipFGE4konZ2kILHP9RBEJ0qZvpbc0mCeWAl3OZU5O1Kkv5VbX1c53RaPzhHVQeaTNwdIsUuiXeY1pHhrhzI-DnZqWpOulY9PE6wau2iqzBKaZGFKSY8LIcs4USJuJwT3bEq0OQ6DtoJkcEqTbpGVPy8t9TqmiwYxAmcK5msJMtoxQr9vQ2RLEXBb3O3KfbW0SAtYpQy_SVsxTJuyM-gvWxIg6ig7_rwPXf0i1-_FyPKy-gztvMTqtRsZZF8U9nfLRNQIdklZ0WcLDY5qCu5-HtTdNAA3THNb_H-A_dxk",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=Na8-fXicfZPNjts2FIWBvk4QgKRE2e5uZInWaCzJ-iEpczOQSNmyTckaWx7_IO_Qd5hJCiTLpECBbtrXSJ-mGnSbdsPFPby853zE_eWl2vwezzJQnJ7eP_Tv08PJXdzKxcq8W3_uDnt1kv1GfUMWxCMLgMkIjgFGljUZf5ZFX-j9eqN-gxBZwIBjC5hjCICFJ6b5ta4KpTdtFa1W1cHZy-GVCR7uQATMyQjA0QSO0ejLpinW1b_yGIygMTYBBsjAACJoTl4P6vi9mabp42L6iIeiBS3TtPBomGQhE3z4r3ISOY__1_am_1j79HSqDtc_mr3eVK0q3sliVfXVoXi3GeJuirb4tO7e3P6g9bXZqK8DJ9NCYzA2hjjmGGP82j33L_X64-mkq79e1vqlOr7Ub-ev-6J7Xsm_f_rT3Z_d6fHsxDRxl1ppzk1AKfQjoo6hYc-TGb4uUUgiT7QUdFZB2IKiHijtX4Mm3FZEAE5CV-TdNUHYqhx147RmPBOU5bYr-RknO5FVrglCvT7Lrb_nRIhsJrqU4z7M7G0J4ksJ8Cyl3bPg42tFfKukAQxSuEiI3ZdUb-cUP5Tu3pDDHO7UfnmzNwxMnihNOrWDfcEnLfd8WOZdLPmFqq2_kiDJljCJBh80ACqiub9PEeminEUlY4d0W5uDXyvdXXjY9JqhOs-IfaIwCRj1aUGJkSJ6k7vwFDPfqxwXVI4waUu8indcbOtblAk7yWpQul0eIr_PAH7gAymW0cvAjcfo8hDr9XXwx2TTJ6XLrpnj93KmbLmtUcJDk3IxWyJhVLnCdNY_F7S_lTMRR56qJQ0xY3EfOMGVOuy50jUt3YGRE_ZS23uVk25OxUrlwgq8uz4ipFGE4konZ2kILHP9RBEJ0qZvpbc0mCeWAl3OZU5O1Kkv5VbX1c53RaPzhHVQeaTNwdIsUuiXeY1pHhrhzI-DnZqWpOulY9PE6wau2iqzBKaZGFKSY8LIcs4USJuJwT3bEq0OQ6DtoJkcEqTbpGVPy8t9TqmiwYxAmcK5msJMtoxQr9vQ2RLEXBb3O3KfbW0SAtYpQy_SVsxTJuyM-gvWxIg6ig7_rwPXf0i1-_FyPKy-gztvMTqtRsZZF8U9nfLRNQIdklZ0WcLDY5qCu5-HtTdNAA3THNb_H-A_dxk"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpMq3RsdClKWJxd7RKEibXoJF34Ux_RYo9uoTEedv0pvnZaXV5_MUvTjq7obWu2FCF89Gvj7e14zRHoXu_HrDtFiXs6_aQ_p0G9X2g7635etDXLVWF-OVC",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXdeebGv3B1ukTP3Ax00Ou2_bRyhgeWTMhp_rU07az4f7.png",
+    "source": "Sitios de comparación",
+    "title": "Café Molido Moka Illy",
+    "price": "7,99 €",
+    "extracted_price": 7.99,
+    "immersive_product_page_token": "O3fEHnicfVTLjqNGFJXyO6ORqqAKTHaDocDuBgxFFY9Nq0xhY1PgF24_lH_IP3TPRJosZ0aKlFV-Y_I1oZVtJpu7uOc-zrlHur--1Js_Yi8F4nx4_zC8p8ezu7gvFyv0Yf15f9zJczVs5FcTaBZC0DQNU7dMCxs6_lyJQajdekQR1vFEt4wx6LoBTIDRl6YWUm36Olqt6qOzq97KTAh1gDRkWdY4CqCJ-fumE-v6XxhDazKBE4iQaQANIgCM16M8fT9MKX1aTJ8g1kdUN-C4xNQnGrYM85cf5pPIefrfxreCH4CfDuf6ePuz26lN3UvxrhKreqiP4t1mVLwRvfi03o-Mv_1X72u3kV-waSBDm2ALT5AxAQayXvfPw0uz_ng-q_qvl7V6qU8vzVv8bSf2z6vq759e3efKmR4rJ2aJWyipstweAidBMYVAEBVlLXGSjlxSVc5Zqw6pxpMkl_rSlZEk4XOh1CHyJnAJeZcRW1-qME7T4Ma29iHxLMwynAaKL-o2uLKu2dMOe2XrIgpmuoBWW_chGPeiZV_ccq24lG04TfVmm2XNUQK-KPl-GrfhQ5gmoGAXWGTuELbNimlJVCsV1X5yoFse8Fw6mYu1ULk4chrMfHKq-pDJPtyKDocBgBnNGRZ-KKIMjFyIUxKrlJ6kodfcaTffS8URZQhXbRjIXD5WzlwEZK1LbhUhLI30PkeP3DoVFIZZC0UIZFmS3X3pky69N37cDSBR3KYdj5haX8q7bQTQAtxPSkH4kN_Lh6JPYKjNBtY3Q5XGV-YiFBCSVjq7R54LpEOo8JKeKR6wNNEoaS_FVtlSY9dlp5KlBrPUg26Uy128laeybzBValpxOxPbxg-z_T5ikArA3UBfD5nLOeX2QwmuOMptRV1w4Vq5eGTgynV1Kt98JSqu7vI26vdjdr2V_hplJNnRFme1izclS7TUVSNveRZA3gIge6FsxtiVB34wzuGxAMG1TJmeJbOcMckCj8CKwkc5hWnVc8L8_YZ5BYizSsxaMku3Nhnvl4ksafLRNdo1gObKXaYk5OxyD3J147wAy7z6eD0dV9_BB39hnlc4Naab2VMVmQ-O1-3mAy3nj2bIg9Xl8jM0x38BoI6QBa1_AETLbqs",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O3fEHnicfVTLjqNGFJXyO6ORqqAKTHaDocDuBgxFFY9Nq0xhY1PgF24_lH_IP3TPRJosZ0aKlFV-Y_I1oZVtJpu7uOc-zrlHur--1Js_Yi8F4nx4_zC8p8ezu7gvFyv0Yf15f9zJczVs5FcTaBZC0DQNU7dMCxs6_lyJQajdekQR1vFEt4wx6LoBTIDRl6YWUm36Olqt6qOzq97KTAh1gDRkWdY4CqCJ-fumE-v6XxhDazKBE4iQaQANIgCM16M8fT9MKX1aTJ8g1kdUN-C4xNQnGrYM85cf5pPIefrfxreCH4CfDuf6ePuz26lN3UvxrhKreqiP4t1mVLwRvfi03o-Mv_1X72u3kV-waSBDm2ALT5AxAQayXvfPw0uz_ng-q_qvl7V6qU8vzVv8bSf2z6vq759e3efKmR4rJ2aJWyipstweAidBMYVAEBVlLXGSjlxSVc5Zqw6pxpMkl_rSlZEk4XOh1CHyJnAJeZcRW1-qME7T4Ma29iHxLMwynAaKL-o2uLKu2dMOe2XrIgpmuoBWW_chGPeiZV_ccq24lG04TfVmm2XNUQK-KPl-GrfhQ5gmoGAXWGTuELbNimlJVCsV1X5yoFse8Fw6mYu1ULk4chrMfHKq-pDJPtyKDocBgBnNGRZ-KKIMjFyIUxKrlJ6kodfcaTffS8URZQhXbRjIXD5WzlwEZK1LbhUhLI30PkeP3DoVFIZZC0UIZFmS3X3pky69N37cDSBR3KYdj5haX8q7bQTQAtxPSkH4kN_Lh6JPYKjNBtY3Q5XGV-YiFBCSVjq7R54LpEOo8JKeKR6wNNEoaS_FVtlSY9dlp5KlBrPUg26Uy128laeybzBValpxOxPbxg-z_T5ikArA3UBfD5nLOeX2QwmuOMptRV1w4Vq5eGTgynV1Kt98JSqu7vI26vdjdr2V_hplJNnRFme1izclS7TUVSNveRZA3gIge6FsxtiVB34wzuGxAMG1TJmeJbOcMckCj8CKwkc5hWnVc8L8_YZ5BYizSsxaMku3Nhnvl4ksafLRNdo1gObKXaYk5OxyD3J147wAy7z6eD0dV9_BB39hnlc4Naab2VMVmQ-O1-3mAy3nj2bIg9Xl8jM0x38BoI6QBa1_AETLbqs",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=O3fEHnicfVTLjqNGFJXyO6ORqqAKTHaDocDuBgxFFY9Nq0xhY1PgF24_lH_IP3TPRJosZ0aKlFV-Y_I1oZVtJpu7uOc-zrlHur--1Js_Yi8F4nx4_zC8p8ezu7gvFyv0Yf15f9zJczVs5FcTaBZC0DQNU7dMCxs6_lyJQajdekQR1vFEt4wx6LoBTIDRl6YWUm36Olqt6qOzq97KTAh1gDRkWdY4CqCJ-fumE-v6XxhDazKBE4iQaQANIgCM16M8fT9MKX1aTJ8g1kdUN-C4xNQnGrYM85cf5pPIefrfxreCH4CfDuf6ePuz26lN3UvxrhKreqiP4t1mVLwRvfi03o-Mv_1X72u3kV-waSBDm2ALT5AxAQayXvfPw0uz_ng-q_qvl7V6qU8vzVv8bSf2z6vq759e3efKmR4rJ2aJWyipstweAidBMYVAEBVlLXGSjlxSVc5Zqw6pxpMkl_rSlZEk4XOh1CHyJnAJeZcRW1-qME7T4Ma29iHxLMwynAaKL-o2uLKu2dMOe2XrIgpmuoBWW_chGPeiZV_ccq24lG04TfVmm2XNUQK-KPl-GrfhQ5gmoGAXWGTuELbNimlJVCsV1X5yoFse8Fw6mYu1ULk4chrMfHKq-pDJPtyKDocBgBnNGRZ-KKIMjFyIUxKrlJ6kodfcaTffS8URZQhXbRjIXD5WzlwEZK1LbhUhLI30PkeP3DoVFIZZC0UIZFmS3X3pky69N37cDSBR3KYdj5haX8q7bQTQAtxPSkH4kN_Lh6JPYKjNBtY3Q5XGV-YiFBCSVjq7R54LpEOo8JKeKR6wNNEoaS_FVtlSY9dlp5KlBrPUg26Uy128laeybzBValpxOxPbxg-z_T5ikArA3UBfD5nLOeX2QwmuOMptRV1w4Vq5eGTgynV1Kt98JSqu7vI26vdjdr2V_hplJNnRFme1izclS7TUVSNveRZA3gIge6FsxtiVB34wzuGxAMG1TJmeJbOcMckCj8CKwkc5hWnVc8L8_YZ5BYizSsxaMku3Nhnvl4ksafLRNdo1gObKXaYk5OxyD3J147wAy7z6eD0dV9_BB39hnlc4Naab2VMVmQ-O1-3mAy3nj2bIg9Xl8jM0x38BoI6QBa1_AETLbqs"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvm9F18eM3NIwdpx6jThz9ma8oE5F3H55oppSM6HCjPxniXhk79meQ5f_kYh0FI81ryObmUI04pnaV0WTNiT3S_bWB5w9v0iRWMU0pfOwo-0C_AQAMY6Xo",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXWe3vAXlMXy2Oo8RrDCF_Uc8mEKWDG2K9pi3FE4qG_ju.png",
+    "source": "Sitios de comparación",
+    "title": "Cafetera Italiana Jata Odin 6 Tazas CAX106",
+    "price": "15,99 €",
+    "extracted_price": 15.99,
+    "immersive_product_page_token": "Xx1-zXicfZRLjttGEIaBXMcw0A8-xOws8aHhDJtik2qSvRlQ3ZRIsfkYibIkInfIHWbsAM7SCRAgq1zDQQ4TKXtnU4v6vyr8_6Lq59ey_iPyElCcXt4_ju_jw8lZTZvVVvuw-zIcenkSYy1_h9CcGRAaAFmmhTE0LMv4IoqxUP3uLmvQNGa6YSAAsKVDCyD0tSoLqequDLfb8mD34s7p0LT02-zsxtxXAl3_tW6LXfmf_hu0MLghpqlpQLewhWezt4M8fntZxPHzavEMoaVhEyFozLA104FhQPOn7_ZpaD__7-Ad-I74-eVUHq5_tr2qy04W70SxLcfyULyrb5nrois-74a7YxMgDDVkmJqhzTCEGoBvbS2_6qahGUg3dcOcQYSABd6Gj-Nrtft0Oqnyr9edei2Pr9W9_tIXw8et-PuHf5yXB2dxerCjNXVyJVXa-domvTCxdFDokUM-zdM4JT5xGrTJelxgCmjCLsFaT3PFCXNcgzfnS8yERmPY5DX0RcupTMdReOyF7nkioV-nzsA5ZhVfwDxAoy0zFyfp4PGlvyKYGtwlV-oAJBJFRDos8z1rRQyPUUOewuX6nDjjXjA1lA2lAaxsBnag9Pgx6Ni4catzgEkftWQVJDTLkDOFniw4Iy_FeniQSxWIjDoRIl3qnUcGeROm0ZjWYAo8dpGTagvGegJGle_JUVyhnqd8JCDHBaC5aBjM8PzE9x-uBaR0kw5Vur4l61RGmooXiO3zVq8Y3mnx0k05y2ExufXNMwgzrm0S2m6YKkRbuaTRV-GSg6LRNdnSfp2OMGACiInAiHEjseUqcOmTtIkhPesYtRRHiduHiasI2I0iVRGfZBAB7ZwDxSL8gBmqsiAhE00vqFxzsm5pKBI3kB2dxxNRUTPe_FckzubXtKGHzRVWm0aCDXMzDnPEbbV_yqRPM1rHTnBh4DgJIBFtKsxBAAVmepryVd5VeunAuEh8JbAC6_aMi66Z4vZ4oZmrBZh5opuvI2g9xlCuko46G6WavCENmziTkxxlwq-sIXbIiJch14s6ZSeM96UnYhe6S2bPK5k5Y4yjcY19SNncyNW8JY7bebU_jx3tTBO55MqPqHMEKZvroTNUrB0vFA2LAClDNhFmgHafLsfD9hv4sFyZp62eGIv64VmE5qPttb0_xtx_MgkLtufzj7cXcTt_iDXNgta_nsKDxg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Xx1-zXicfZRLjttGEIaBXMcw0A8-xOws8aHhDJtik2qSvRlQ3ZRIsfkYibIkInfIHWbsAM7SCRAgq1zDQQ4TKXtnU4v6vyr8_6Lq59ey_iPyElCcXt4_ju_jw8lZTZvVVvuw-zIcenkSYy1_h9CcGRAaAFmmhTE0LMv4IoqxUP3uLmvQNGa6YSAAsKVDCyD0tSoLqequDLfb8mD34s7p0LT02-zsxtxXAl3_tW6LXfmf_hu0MLghpqlpQLewhWezt4M8fntZxPHzavEMoaVhEyFozLA104FhQPOn7_ZpaD__7-Ad-I74-eVUHq5_tr2qy04W70SxLcfyULyrb5nrois-74a7YxMgDDVkmJqhzTCEGoBvbS2_6qahGUg3dcOcQYSABd6Gj-Nrtft0Oqnyr9edei2Pr9W9_tIXw8et-PuHf5yXB2dxerCjNXVyJVXa-domvTCxdFDokUM-zdM4JT5xGrTJelxgCmjCLsFaT3PFCXNcgzfnS8yERmPY5DX0RcupTMdReOyF7nkioV-nzsA5ZhVfwDxAoy0zFyfp4PGlvyKYGtwlV-oAJBJFRDos8z1rRQyPUUOewuX6nDjjXjA1lA2lAaxsBnag9Pgx6Ni4catzgEkftWQVJDTLkDOFniw4Iy_FeniQSxWIjDoRIl3qnUcGeROm0ZjWYAo8dpGTagvGegJGle_JUVyhnqd8JCDHBaC5aBjM8PzE9x-uBaR0kw5Vur4l61RGmooXiO3zVq8Y3mnx0k05y2ExufXNMwgzrm0S2m6YKkRbuaTRV-GSg6LRNdnSfp2OMGACiInAiHEjseUqcOmTtIkhPesYtRRHiduHiasI2I0iVRGfZBAB7ZwDxSL8gBmqsiAhE00vqFxzsm5pKBI3kB2dxxNRUTPe_FckzubXtKGHzRVWm0aCDXMzDnPEbbV_yqRPM1rHTnBh4DgJIBFtKsxBAAVmepryVd5VeunAuEh8JbAC6_aMi66Z4vZ4oZmrBZh5opuvI2g9xlCuko46G6WavCENmziTkxxlwq-sIXbIiJch14s6ZSeM96UnYhe6S2bPK5k5Y4yjcY19SNncyNW8JY7bebU_jx3tTBO55MqPqHMEKZvroTNUrB0vFA2LAClDNhFmgHafLsfD9hv4sFyZp62eGIv64VmE5qPttb0_xtx_MgkLtufzj7cXcTt_iDXNgta_nsKDxg",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=Xx1-zXicfZRLjttGEIaBXMcw0A8-xOws8aHhDJtik2qSvRlQ3ZRIsfkYibIkInfIHWbsAM7SCRAgq1zDQQ4TKXtnU4v6vyr8_6Lq59ey_iPyElCcXt4_ju_jw8lZTZvVVvuw-zIcenkSYy1_h9CcGRAaAFmmhTE0LMv4IoqxUP3uLmvQNGa6YSAAsKVDCyD0tSoLqequDLfb8mD34s7p0LT02-zsxtxXAl3_tW6LXfmf_hu0MLghpqlpQLewhWezt4M8fntZxPHzavEMoaVhEyFozLA104FhQPOn7_ZpaD__7-Ad-I74-eVUHq5_tr2qy04W70SxLcfyULyrb5nrois-74a7YxMgDDVkmJqhzTCEGoBvbS2_6qahGUg3dcOcQYSABd6Gj-Nrtft0Oqnyr9edei2Pr9W9_tIXw8et-PuHf5yXB2dxerCjNXVyJVXa-domvTCxdFDokUM-zdM4JT5xGrTJelxgCmjCLsFaT3PFCXNcgzfnS8yERmPY5DX0RcupTMdReOyF7nkioV-nzsA5ZhVfwDxAoy0zFyfp4PGlvyKYGtwlV-oAJBJFRDos8z1rRQyPUUOewuX6nDjjXjA1lA2lAaxsBnag9Pgx6Ni4catzgEkftWQVJDTLkDOFniw4Iy_FeniQSxWIjDoRIl3qnUcGeROm0ZjWYAo8dpGTagvGegJGle_JUVyhnqd8JCDHBaC5aBjM8PzE9x-uBaR0kw5Vur4l61RGmooXiO3zVq8Y3mnx0k05y2ExufXNMwgzrm0S2m6YKkRbuaTRV-GSg6LRNdnSfp2OMGACiInAiHEjseUqcOmTtIkhPesYtRRHiduHiasI2I0iVRGfZBAB7ZwDxSL8gBmqsiAhE00vqFxzsm5pKBI3kB2dxxNRUTPe_FckzubXtKGHzRVWm0aCDXMzDnPEbbV_yqRPM1rHTnBh4DgJIBFtKsxBAAVmepryVd5VeunAuEh8JbAC6_aMi66Z4vZ4oZmrBZh5opuvI2g9xlCuko46G6WavCENmziTkxxlwq-sIXbIiJch14s6ZSeM96UnYhe6S2bPK5k5Y4yjcY19SNncyNW8JY7bebU_jx3tTBO55MqPqHMEKZvroTNUrB0vFA2LAClDNhFmgHafLsfD9hv4sFyZp62eGIv64VmE5qPttb0_xtx_MgkLtufzj7cXcTt_iDXNgta_nsKDxg"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIytmY-vPEr3ozl_nkshrWI5n5P2PNR0Sidt57ZcucILpo8ffxW1aQJVQlzzbJ8zJZrlvzUAEtGjrFHV6Y-MJPTXT591N4Nrz9J5l1H_40ZI4v255M6HT7wg",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXUEmBufFv_pzkBmGR-UtDnxCzj9_zpdrvIl-5j2KADKH.png",
+    "source": "Sitios de comparación",
+    "title": "Cafetera Italiana Alza LUXE RED 12 Tazas",
+    "price": "37,19 €",
+    "extracted_price": 37.19,
+    "immersive_product_page_token": "hhuX8XicHY7LjqNGFIaV5xmNVBcKXNk1hsJDG9wUUBg2UZkCQ1PYtI1v_RLzCpF7JtLMciZSpKzyGsmTZBkmmyOd8_36zv_xXrV_RF4C5Onl_eP4Pj6c3KfXzVNtPGy_DIe9OpVjq75jCiyMDMsiFBKLzCyIv5RylHq_negMEGhYxgzPZhYlhACIvjWVVLrdVau6rg7OvmzVNwMDPCFALWTNqGUh82vby231P_0dWpjMEEKmARE16YzMTPh2UMdfP7-cqsPtz36v22qn5LtS1tVYHeS7dvrfyp38vB1-6PHkhNREFAJoAIAgfeunM7FMw0QEmBYykGESA7wN5_HebD-dTrr6677V9-p4b37M3_ZyONflPz_9657L-fxQzqOUu7lWOhdFXjjNc5VFKADXJykKlKbE5u5llD3lCqbXTOgk6ki-6VgqXv3HgNnXWHBZONFNMZpt0jDikJ0VdC95tr-lHh9yoPUyEWaeMBl6-igWjCTd6G162hZpAQPPxWugP4QgH5frJt88M51lZCe7CC6zC0l2EZCOknF6TbJ-DzhrPNkPnsrGosjGMO5VIL10yk4dsoHFib4E_cWIF75IcNgKpMzSu3K14LUAxAuSLRBYB_KVu2XHgmWipn2IOetG7hWSu-wmXTasHG0rbLdyHRo8I3uuh0XBbFkKVUdYLXPomxmzV5sOrlKohYLhC1-nYwgbNuWcIGvqYD3gshOjXD_goBuIEtSOXcrKXpvLdJgXqQ9Tp0RxIqJoV_hcNN3GKW7RcxEEmQDxIogZZAvh2I1au2OMozHFPuTCNnNt96HLdl7rT07jwhPlKQSPZUbPqqfrFF2HaK1xmjSLjIV-0DWNerbtT9fjof4bPCyerFNNEnPefvilXFmPjtfv_TEu_KUViqC-XH6GFjUMALFhUEj_A1raGN8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hhuX8XicHY7LjqNGFIaV5xmNVBcKXNk1hsJDG9wUUBg2UZkCQ1PYtI1v_RLzCpF7JtLMciZSpKzyGsmTZBkmmyOd8_36zv_xXrV_RF4C5Onl_eP4Pj6c3KfXzVNtPGy_DIe9OpVjq75jCiyMDMsiFBKLzCyIv5RylHq_negMEGhYxgzPZhYlhACIvjWVVLrdVau6rg7OvmzVNwMDPCFALWTNqGUh82vby231P_0dWpjMEEKmARE16YzMTPh2UMdfP7-cqsPtz36v22qn5LtS1tVYHeS7dvrfyp38vB1-6PHkhNREFAJoAIAgfeunM7FMw0QEmBYykGESA7wN5_HebD-dTrr6677V9-p4b37M3_ZyONflPz_9657L-fxQzqOUu7lWOhdFXjjNc5VFKADXJykKlKbE5u5llD3lCqbXTOgk6ki-6VgqXv3HgNnXWHBZONFNMZpt0jDikJ0VdC95tr-lHh9yoPUyEWaeMBl6-igWjCTd6G162hZpAQPPxWugP4QgH5frJt88M51lZCe7CC6zC0l2EZCOknF6TbJ-DzhrPNkPnsrGosjGMO5VIL10yk4dsoHFib4E_cWIF75IcNgKpMzSu3K14LUAxAuSLRBYB_KVu2XHgmWipn2IOetG7hWSu-wmXTasHG0rbLdyHRo8I3uuh0XBbFkKVUdYLXPomxmzV5sOrlKohYLhC1-nYwgbNuWcIGvqYD3gshOjXD_goBuIEtSOXcrKXpvLdJgXqQ9Tp0RxIqJoV_hcNN3GKW7RcxEEmQDxIogZZAvh2I1au2OMozHFPuTCNnNt96HLdl7rT07jwhPlKQSPZUbPqqfrFF2HaK1xmjSLjIV-0DWNerbtT9fjof4bPCyerFNNEnPefvilXFmPjtfv_TEu_KUViqC-XH6GFjUMALFhUEj_A1raGN8",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=hhuX8XicHY7LjqNGFIaV5xmNVBcKXNk1hsJDG9wUUBg2UZkCQ1PYtI1v_RLzCpF7JtLMciZSpKzyGsmTZBkmmyOd8_36zv_xXrV_RF4C5Onl_eP4Pj6c3KfXzVNtPGy_DIe9OpVjq75jCiyMDMsiFBKLzCyIv5RylHq_negMEGhYxgzPZhYlhACIvjWVVLrdVau6rg7OvmzVNwMDPCFALWTNqGUh82vby231P_0dWpjMEEKmARE16YzMTPh2UMdfP7-cqsPtz36v22qn5LtS1tVYHeS7dvrfyp38vB1-6PHkhNREFAJoAIAgfeunM7FMw0QEmBYykGESA7wN5_HebD-dTrr6677V9-p4b37M3_ZyONflPz_9657L-fxQzqOUu7lWOhdFXjjNc5VFKADXJykKlKbE5u5llD3lCqbXTOgk6ki-6VgqXv3HgNnXWHBZONFNMZpt0jDikJ0VdC95tr-lHh9yoPUyEWaeMBl6-igWjCTd6G162hZpAQPPxWugP4QgH5frJt88M51lZCe7CC6zC0l2EZCOknF6TbJ-DzhrPNkPnsrGosjGMO5VIL10yk4dsoHFib4E_cWIF75IcNgKpMzSu3K14LUAxAuSLRBYB_KVu2XHgmWipn2IOetG7hWSu-wmXTasHG0rbLdyHRo8I3uuh0XBbFkKVUdYLXPomxmzV5sOrlKohYLhC1-nYwgbNuWcIGvqYD3gshOjXD_goBuIEtSOXcrKXpvLdJgXqQ9Tp0RxIqJoV_hcNN3GKW7RcxEEmQDxIogZZAvh2I1au2OMozHFPuTCNnNt96HLdl7rT07jwhPlKQSPZUbPqqfrFF2HaK1xmjSLjIV-0DWNerbtT9fjof4bPCyerFNNEnPefvilXFmPjtfv_TEu_KUViqC-XH6GFjUMALFhUEj_A1raGN8"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQc6q-j9vgdhBX-_2nGc-2C6py_isjTdZDY9CArcRjAouERJIYBoNPTboRc8fQlvTq0tHCiPv2s95co2eNrs6QYVZSCrKt2WF88VjPGWMUb7TH3eAC6IcwLXA",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXVbX77RaaUSqRhAbf1OKlvXRnTPhJU80W4mzEaU9g8ow.png",
+    "source": "Sitios de comparación",
+    "title": "Cafetera Bialetti Venus",
+    "price": "57,18 €",
+    "extracted_price": 57.18,
+    "immersive_product_page_token": "iIpHCHicfVPLjqNGFJXyO6ORqooCTHaNedjE0AbqAWxaQGGDKTC2cduN5h_yD90zkSbLSaRIWeU3Jl8TRtlmsrnSfd9zdO7Pr1XzR-gSkF9P738a38fnq72diu0OP-w_D-ejuJZjI37DWFtouooBQsgASIFY-VzmYy6P-0b8DhGeIzrQVAMjFWF9LvpSV7mQTV897nbV2TqW8xQVIU1HOgCKoqlI11VV-7Xp8n31b1pTNKzpWEH6AquaAuZNb2dx-XpaxvHTdvkEFWxgqGEEVLiYb1EQ0j98Nx49Wk__2_it4DvJT6drdX75szvKpupF_q7Md9VYnfN3zQy5yfv8034ovwH_j963rhFfVH2GghaqoS60xULByHgbnsfXev_xepXVX697-VpdXutv9pdjPjzvyr9_eLOfS2t5Lq2QRnYqhUx75kRJbQs0KBtuqH4nuowvXh4TQQsayMxWw0wJ1gR5jEzBjk31mLvONpTmqmSOQl15KRIfPzJvyluVkC7aJEo2-LMfSXND3BDQDk-5ZZ7DVlABxBB2w23D70OVsLiQ0iwUr68s02UvEPj2cBHQWxIqWJlkz1nr5GkL6zSp11VvDhsqswSaGjsEF9YZkLi2SuCQltS_0Xb0Qz6cyFSHhDpHH5qcu0bGFLOOWTpWLlACZHTMkkmwklu_zTjvzTCTFBGLQU4dUoAR80TcufQoAaMb9kdQAA9mdjQG0lhTGyosWd99msE48brMrROGgu2M_xS36imcRJ_bFxTb-BbABabUG3Jb5WQJgC-jQ9rdfcLKqbCdOqRjXR3SWyqHgXIHMihafvAigZj9SJxWrMRJ0BDFxGNRy3YFdXrWeUnuClwcPI_STHJSIuF6u7yBU7YyXW4FXmwHasrHLkC3KXZZF1hBItjQzrxc0lZtg35YE3vYhW2GWeLPBwXbbObO751licZ14Rqtz4MpSEyetuOFrxxNtHTi0h8rWScRH-1okknFS5Tf1wmlgvquA8sYbsQSknLWFF0NDXVTEPIyX7fOmhxMJwDZMZDRJniBfdrexioRTnEwNX7I3IA83Fk_64LaH--X8-4reFht9etOe24U7d4KW7-sT3fgtWKPHzLrdj2v9z9C3cAYzA-iAlX7B3rhckQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iIpHCHicfVPLjqNGFJXyO6ORqooCTHaNedjE0AbqAWxaQGGDKTC2cduN5h_yD90zkSbLSaRIWeU3Jl8TRtlmsrnSfd9zdO7Pr1XzR-gSkF9P738a38fnq72diu0OP-w_D-ejuJZjI37DWFtouooBQsgASIFY-VzmYy6P-0b8DhGeIzrQVAMjFWF9LvpSV7mQTV897nbV2TqW8xQVIU1HOgCKoqlI11VV-7Xp8n31b1pTNKzpWEH6AquaAuZNb2dx-XpaxvHTdvkEFWxgqGEEVLiYb1EQ0j98Nx49Wk__2_it4DvJT6drdX75szvKpupF_q7Md9VYnfN3zQy5yfv8034ovwH_j963rhFfVH2GghaqoS60xULByHgbnsfXev_xepXVX697-VpdXutv9pdjPjzvyr9_eLOfS2t5Lq2QRnYqhUx75kRJbQs0KBtuqH4nuowvXh4TQQsayMxWw0wJ1gR5jEzBjk31mLvONpTmqmSOQl15KRIfPzJvyluVkC7aJEo2-LMfSXND3BDQDk-5ZZ7DVlABxBB2w23D70OVsLiQ0iwUr68s02UvEPj2cBHQWxIqWJlkz1nr5GkL6zSp11VvDhsqswSaGjsEF9YZkLi2SuCQltS_0Xb0Qz6cyFSHhDpHH5qcu0bGFLOOWTpWLlACZHTMkkmwklu_zTjvzTCTFBGLQU4dUoAR80TcufQoAaMb9kdQAA9mdjQG0lhTGyosWd99msE48brMrROGgu2M_xS36imcRJ_bFxTb-BbABabUG3Jb5WQJgC-jQ9rdfcLKqbCdOqRjXR3SWyqHgXIHMihafvAigZj9SJxWrMRJ0BDFxGNRy3YFdXrWeUnuClwcPI_STHJSIuF6u7yBU7YyXW4FXmwHasrHLkC3KXZZF1hBItjQzrxc0lZtg35YE3vYhW2GWeLPBwXbbObO751licZ14Rqtz4MpSEyetuOFrxxNtHTi0h8rWScRH-1okknFS5Tf1wmlgvquA8sYbsQSknLWFF0NDXVTEPIyX7fOmhxMJwDZMZDRJniBfdrexioRTnEwNX7I3IA83Fk_64LaH--X8-4reFht9etOe24U7d4KW7-sT3fgtWKPHzLrdj2v9z9C3cAYzA-iAlX7B3rhckQ",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=iIpHCHicfVPLjqNGFJXyO6ORqooCTHaNedjE0AbqAWxaQGGDKTC2cduN5h_yD90zkSbLSaRIWeU3Jl8TRtlmsrnSfd9zdO7Pr1XzR-gSkF9P738a38fnq72diu0OP-w_D-ejuJZjI37DWFtouooBQsgASIFY-VzmYy6P-0b8DhGeIzrQVAMjFWF9LvpSV7mQTV897nbV2TqW8xQVIU1HOgCKoqlI11VV-7Xp8n31b1pTNKzpWEH6AquaAuZNb2dx-XpaxvHTdvkEFWxgqGEEVLiYb1EQ0j98Nx49Wk__2_it4DvJT6drdX75szvKpupF_q7Md9VYnfN3zQy5yfv8034ovwH_j963rhFfVH2GghaqoS60xULByHgbnsfXev_xepXVX697-VpdXutv9pdjPjzvyr9_eLOfS2t5Lq2QRnYqhUx75kRJbQs0KBtuqH4nuowvXh4TQQsayMxWw0wJ1gR5jEzBjk31mLvONpTmqmSOQl15KRIfPzJvyluVkC7aJEo2-LMfSXND3BDQDk-5ZZ7DVlABxBB2w23D70OVsLiQ0iwUr68s02UvEPj2cBHQWxIqWJlkz1nr5GkL6zSp11VvDhsqswSaGjsEF9YZkLi2SuCQltS_0Xb0Qz6cyFSHhDpHH5qcu0bGFLOOWTpWLlACZHTMkkmwklu_zTjvzTCTFBGLQU4dUoAR80TcufQoAaMb9kdQAA9mdjQG0lhTGyosWd99msE48brMrROGgu2M_xS36imcRJ_bFxTb-BbABabUG3Jb5WQJgC-jQ9rdfcLKqbCdOqRjXR3SWyqHgXIHMihafvAigZj9SJxWrMRJ0BDFxGNRy3YFdXrWeUnuClwcPI_STHJSIuF6u7yBU7YyXW4FXmwHasrHLkC3KXZZF1hBItjQzrxc0lZtg35YE3vYhW2GWeLPBwXbbObO751licZ14Rqtz4MpSEyetuOFrxxNtHTi0h8rWScRH-1okknFS5Tf1wmlgvquA8sYbsQSknLWFF0NDXVTEPIyX7fOmhxMJwDZMZDRJniBfdrexioRTnEwNX7I3IA83Fk_64LaH--X8-4reFht9etOe24U7d4KW7-sT3fgtWKPHzLrdj2v9z9C3cAYzA-iAlX7B3rhckQ"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXSg-fk5W907WDBTTUVmdxyxOcFs9At5505lFeog81o5a8amQ95kbpneN5YOJBJMpEJPsa2K9tiq9PXlHXSR095sRLNxY-0yiIJsLQJHEu",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXeko_-UKMCXcSRtLg-0FFVS84go21Q8Lebm2zfnVRvCk.png",
+    "source": "Sitios de comparación",
+    "title": "Ilsa Carmencita CLASSIC Cafetera italiana 6 tazas",
+    "price": "51,00 €",
+    "extracted_price": 51.0,
+    "immersive_product_page_token": "gPhF2HicfVNLjttGEAVyHcMAu9lNidmNxI8ki5TY7A_JzaDJpsRPk-JopJFG8B1yhxk7gLNMAgTIJr6Gc5pwEGTpLKpQVa_-qPrppaz_iHxqyPPD-w-n9_Hx7G5v-XaH7vZfhuNBnYtTrX4HCE8tBI0pwNMpNA1jattfCnmS-rCv1W_QgpZtTSyMERhlYCPj16qUStd9udntyqNzKN6yQGxbcGLa0DaBDabInpi_1J3cl__hI2hObGCYozCZYmii16N6_PYwj-P77fweoMkUAGCZ9tTGEI5kgY_ftZONc_-_gW8O3wE_P5zL4_Of3UHXZa_ku0LuylN5lO_qceZa9vLzfvi3ZTDFeOzYsg0bjRksC752tfr6OjydXqr9p_NZl19f9vqlfHyp3vjPBzk87Yq_f_jLPVzc-ePFiRhxU610yttLlKxgaPCFYAcUNOmNdZkrTWUySh6k1mvh6l0oEM4cEkuYNSNxqYeKQNWvObuF7amLWNYKnz1HEF_pQqe09cLcxYwI71wslEwZvm7E0pR-SLNE91ELjLStqOAVzTzbKnzQkyZMUlbAollxpaswp_zAGrJMBQlyt_K5owXtC8RFCstWrSn1tml7XXMnXOTChoEOYJ4ozJMqKHg1D3T6rJo7TBtOIghEAUMzdmYPEnizMOGDEpgzEVzSVrM1107skHasY9D-AAs4zAPhWVnrXhlUu8LJrpmPT7zx3IgNWQ7ti_CyPqdktkkyQH0SBbc7xL3VsdT8xnTWBG5WC0cv14mXiJ7EAUMoN2c4S7yZvK2eRF9dAhpd03ZvyETXm4Q_Fq4GoZ55sc8t4u0Bm4OBCD3EyYBUw25pW1xlV6CMnTB1syHtcEA78CFMKswMOyE6uklHLaN2-Vw6FYvFsCJJdZbG6Sra_Sl2bUo5cegiPKp-aca6iiNwMOOERMI7QNZXhqSByTv-lBuhYJ43PiqpoiS7xb6KqKNRAAKgerKRZjr6rfq4zUgIcaZMjxBIroHv9UxEMCfLhDHFRh0UMVirOaBFzz22GGrmp0YkCrlsvSVtZt54fy7thiRw7W1uZpe4X6Hw2YDMHfdvKi5dEpOk-HR9PO6-GXeL7eS8w2mEaPRhPSSltQ3h8V4aRdduV_MWRz-CiY2QAUyEDYz_AdBgdPE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gPhF2HicfVNLjttGEAVyHcMAu9lNidmNxI8ki5TY7A_JzaDJpsRPk-JopJFG8B1yhxk7gLNMAgTIJr6Gc5pwEGTpLKpQVa_-qPrppaz_iHxqyPPD-w-n9_Hx7G5v-XaH7vZfhuNBnYtTrX4HCE8tBI0pwNMpNA1jattfCnmS-rCv1W_QgpZtTSyMERhlYCPj16qUStd9udntyqNzKN6yQGxbcGLa0DaBDabInpi_1J3cl__hI2hObGCYozCZYmii16N6_PYwj-P77fweoMkUAGCZ9tTGEI5kgY_ftZONc_-_gW8O3wE_P5zL4_Of3UHXZa_ku0LuylN5lO_qceZa9vLzfvi3ZTDFeOzYsg0bjRksC752tfr6OjydXqr9p_NZl19f9vqlfHyp3vjPBzk87Yq_f_jLPVzc-ePFiRhxU610yttLlKxgaPCFYAcUNOmNdZkrTWUySh6k1mvh6l0oEM4cEkuYNSNxqYeKQNWvObuF7amLWNYKnz1HEF_pQqe09cLcxYwI71wslEwZvm7E0pR-SLNE91ELjLStqOAVzTzbKnzQkyZMUlbAollxpaswp_zAGrJMBQlyt_K5owXtC8RFCstWrSn1tml7XXMnXOTChoEOYJ4ozJMqKHg1D3T6rJo7TBtOIghEAUMzdmYPEnizMOGDEpgzEVzSVrM1107skHasY9D-AAs4zAPhWVnrXhlUu8LJrpmPT7zx3IgNWQ7ti_CyPqdktkkyQH0SBbc7xL3VsdT8xnTWBG5WC0cv14mXiJ7EAUMoN2c4S7yZvK2eRF9dAhpd03ZvyETXm4Q_Fq4GoZ55sc8t4u0Bm4OBCD3EyYBUw25pW1xlV6CMnTB1syHtcEA78CFMKswMOyE6uklHLaN2-Vw6FYvFsCJJdZbG6Sra_Sl2bUo5cegiPKp-aca6iiNwMOOERMI7QNZXhqSByTv-lBuhYJ43PiqpoiS7xb6KqKNRAAKgerKRZjr6rfq4zUgIcaZMjxBIroHv9UxEMCfLhDHFRh0UMVirOaBFzz22GGrmp0YkCrlsvSVtZt54fy7thiRw7W1uZpe4X6Hw2YDMHfdvKi5dEpOk-HR9PO6-GXeL7eS8w2mEaPRhPSSltQ3h8V4aRdduV_MWRz-CiY2QAUyEDYz_AdBgdPE",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=gPhF2HicfVNLjttGEAVyHcMAu9lNidmNxI8ki5TY7A_JzaDJpsRPk-JopJFG8B1yhxk7gLNMAgTIJr6Gc5pwEGTpLKpQVa_-qPrppaz_iHxqyPPD-w-n9_Hx7G5v-XaH7vZfhuNBnYtTrX4HCE8tBI0pwNMpNA1jattfCnmS-rCv1W_QgpZtTSyMERhlYCPj16qUStd9udntyqNzKN6yQGxbcGLa0DaBDabInpi_1J3cl__hI2hObGCYozCZYmii16N6_PYwj-P77fweoMkUAGCZ9tTGEI5kgY_ftZONc_-_gW8O3wE_P5zL4_Of3UHXZa_ku0LuylN5lO_qceZa9vLzfvi3ZTDFeOzYsg0bjRksC752tfr6OjydXqr9p_NZl19f9vqlfHyp3vjPBzk87Yq_f_jLPVzc-ePFiRhxU610yttLlKxgaPCFYAcUNOmNdZkrTWUySh6k1mvh6l0oEM4cEkuYNSNxqYeKQNWvObuF7amLWNYKnz1HEF_pQqe09cLcxYwI71wslEwZvm7E0pR-SLNE91ELjLStqOAVzTzbKnzQkyZMUlbAollxpaswp_zAGrJMBQlyt_K5owXtC8RFCstWrSn1tml7XXMnXOTChoEOYJ4ozJMqKHg1D3T6rJo7TBtOIghEAUMzdmYPEnizMOGDEpgzEVzSVrM1107skHasY9D-AAs4zAPhWVnrXhlUu8LJrpmPT7zx3IgNWQ7ti_CyPqdktkkyQH0SBbc7xL3VsdT8xnTWBG5WC0cv14mXiJ7EAUMoN2c4S7yZvK2eRF9dAhpd03ZvyETXm4Q_Fq4GoZ55sc8t4u0Bm4OBCD3EyYBUw25pW1xlV6CMnTB1syHtcEA78CFMKswMOyE6uklHLaN2-Vw6FYvFsCJJdZbG6Sra_Sl2bUo5cegiPKp-aca6iiNwMOOERMI7QNZXhqSByTv-lBuhYJ43PiqpoiS7xb6KqKNRAAKgerKRZjr6rfq4zUgIcaZMjxBIroHv9UxEMCfLhDHFRh0UMVirOaBFzz22GGrmp0YkCrlsvSVtZt54fy7thiRw7W1uZpe4X6Hw2YDMHfdvKi5dEpOk-HR9PO6-GXeL7eS8w2mEaPRhPSSltQ3h8V4aRdduV_MWRz-CiY2QAUyEDYz_AdBgdPE"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRKtLmD-k8jqDFCf_Pn1zxkLsjpF3eVsnb46PF3NKCMzf96mHytVzEvmD0c72cDyp6Ho7nee_Nmk56_brVbpcX9afl2MYvVU0IFvEwpJ3kdgkN__0UFHKwMQ",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXUQ8eGcJwtnW-iV0vm9q0VOyNPKRopYKaloZLJoLHnOc.png",
+    "source": "Sitios de comparación",
+    "title": "Bialetti Cafetera \"Moka Express",
+    "price": "33,90 €",
+    "extracted_price": 33.9,
+    "immersive_product_page_token": "G_zlLXicfVPLjts2FAX6O0EAUpRkqbuxLfkxY0qiSOqxGdCkbMmmLFkjZ2yh_9B_mEkKpLsmiwLdtL-Rfk012aebe4F77jm4z19fiurPaEGBuJzf3_fv4-7ihcM23Jl3-89t16iL7Cv1FdrIMU3bQRDZDjBsxzE-S9EL3exH1DWRO7GAAybW6KDtIvSlLITS1akIdruimzeyUn9MTNd0LMeYmGBUgdD8varFvvgOfp2Y0LZHHWgDC5muZdjotVNP386zOH4MZ48QjaGROWrY0LZMEwDzlx_GSTB__F_iW8IPwE_nS9Hd_qobXRUnJd5JsSv6ohPvqrHfSpzEp337VjE0JhYcach1IULfB_RaV-qLNbFN23CQiSau4zima7y2H_qXcv_xctHFPy97_VI8vZRv9rdGtB928t-f_vaaZ2_29DyPGPEyrXSSlOEmWV2Jp65R4tYFd1FE1_fq1HbSc70McS3YNZSstRlvDFkrzSDPuMZ9PC-bGOhki9YdX_hiW5eYLq4sp8SMIHlWqE2lLi_bZVupozvLjDyQVB_wieSEk0OwVLcxh9IDHuiSWALASgA3EDGMiwUJWb2CGWvP21o_qXR_5YxfCGhxNOghSPIhBlCzo7-LoRvwhGBeX28SrEuh_SYd1CyFfp974Iahc9ugaUeZZ8bIe06Y9ug8sgT0g_gIbXn0hQD5taBlG6H1VSxKEvja5DVeUZrX27oZiqVGGOZnusTLWHOczO96xd2VnJMwScswT0m8qdcpPfJnwXUWszUVPm42dNoxJtEmgTNxxAfJOEuO1mFbq50wXG-T6BQb1oowDoIEx_KgWjnsQV5bFWW9jxN8L9ja3i6JJ05TIxtYL3mrY6RmfOmDDSM4SYk9YrvtgcBxd4Gs17NNmveFt4diSbrYaG65316zxFpv0rblCTTiOcekdjuCpn1kkDzx9oPyec-W0S1GJB1rsMiRWfKAQ5rw87jnZwqsKR_yOAMqIvNyTv0y2bIyzIw1j5CHihpO5aI9P1A_jw_qQU1XKWOKbRY-lDF8UDNI5Yn7bLwHtshAlEixOvorepj6GCg6ziWTHh62oG82SM8DikmQ-Chf6gqnuMmY9_H61O2-gbtlOLnsrCwyaXT_0KaFHWKjexRA1sdwPTta0c9w4o5fBpFpAcv6D2e5ePM",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G_zlLXicfVPLjts2FAX6O0EAUpRkqbuxLfkxY0qiSOqxGdCkbMmmLFkjZ2yh_9B_mEkKpLsmiwLdtL-Rfk012aebe4F77jm4z19fiurPaEGBuJzf3_fv4-7ihcM23Jl3-89t16iL7Cv1FdrIMU3bQRDZDjBsxzE-S9EL3exH1DWRO7GAAybW6KDtIvSlLITS1akIdruimzeyUn9MTNd0LMeYmGBUgdD8varFvvgOfp2Y0LZHHWgDC5muZdjotVNP386zOH4MZ48QjaGROWrY0LZMEwDzlx_GSTB__F_iW8IPwE_nS9Hd_qobXRUnJd5JsSv6ohPvqrHfSpzEp337VjE0JhYcach1IULfB_RaV-qLNbFN23CQiSau4zima7y2H_qXcv_xctHFPy97_VI8vZRv9rdGtB928t-f_vaaZ2_29DyPGPEyrXSSlOEmWV2Jp65R4tYFd1FE1_fq1HbSc70McS3YNZSstRlvDFkrzSDPuMZ9PC-bGOhki9YdX_hiW5eYLq4sp8SMIHlWqE2lLi_bZVupozvLjDyQVB_wieSEk0OwVLcxh9IDHuiSWALASgA3EDGMiwUJWb2CGWvP21o_qXR_5YxfCGhxNOghSPIhBlCzo7-LoRvwhGBeX28SrEuh_SYd1CyFfp974Iahc9ugaUeZZ8bIe06Y9ug8sgT0g_gIbXn0hQD5taBlG6H1VSxKEvja5DVeUZrX27oZiqVGGOZnusTLWHOczO96xd2VnJMwScswT0m8qdcpPfJnwXUWszUVPm42dNoxJtEmgTNxxAfJOEuO1mFbq50wXG-T6BQb1oowDoIEx_KgWjnsQV5bFWW9jxN8L9ja3i6JJ05TIxtYL3mrY6RmfOmDDSM4SYk9YrvtgcBxd4Gs17NNmveFt4diSbrYaG65316zxFpv0rblCTTiOcekdjuCpn1kkDzx9oPyec-W0S1GJB1rsMiRWfKAQ5rw87jnZwqsKR_yOAMqIvNyTv0y2bIyzIw1j5CHihpO5aI9P1A_jw_qQU1XKWOKbRY-lDF8UDNI5Yn7bLwHtshAlEixOvorepj6GCg6ziWTHh62oG82SM8DikmQ-Chf6gqnuMmY9_H61O2-gbtlOLnsrCwyaXT_0KaFHWKjexRA1sdwPTta0c9w4o5fBpFpAcv6D2e5ePM",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=G_zlLXicfVPLjts2FAX6O0EAUpRkqbuxLfkxY0qiSOqxGdCkbMmmLFkjZ2yh_9B_mEkKpLsmiwLdtL-Rfk012aebe4F77jm4z19fiurPaEGBuJzf3_fv4-7ihcM23Jl3-89t16iL7Cv1FdrIMU3bQRDZDjBsxzE-S9EL3exH1DWRO7GAAybW6KDtIvSlLITS1akIdruimzeyUn9MTNd0LMeYmGBUgdD8varFvvgOfp2Y0LZHHWgDC5muZdjotVNP386zOH4MZ48QjaGROWrY0LZMEwDzlx_GSTB__F_iW8IPwE_nS9Hd_qobXRUnJd5JsSv6ohPvqrHfSpzEp337VjE0JhYcach1IULfB_RaV-qLNbFN23CQiSau4zima7y2H_qXcv_xctHFPy97_VI8vZRv9rdGtB928t-f_vaaZ2_29DyPGPEyrXSSlOEmWV2Jp65R4tYFd1FE1_fq1HbSc70McS3YNZSstRlvDFkrzSDPuMZ9PC-bGOhki9YdX_hiW5eYLq4sp8SMIHlWqE2lLi_bZVupozvLjDyQVB_wieSEk0OwVLcxh9IDHuiSWALASgA3EDGMiwUJWb2CGWvP21o_qXR_5YxfCGhxNOghSPIhBlCzo7-LoRvwhGBeX28SrEuh_SYd1CyFfp974Iahc9ugaUeZZ8bIe06Y9ug8sgT0g_gIbXn0hQD5taBlG6H1VSxKEvja5DVeUZrX27oZiqVGGOZnusTLWHOczO96xd2VnJMwScswT0m8qdcpPfJnwXUWszUVPm42dNoxJtEmgTNxxAfJOEuO1mFbq50wXG-T6BQb1oowDoIEx_KgWjnsQV5bFWW9jxN8L9ja3i6JJ05TIxtYL3mrY6RmfOmDDSM4SYk9YrvtgcBxd4Gs17NNmveFt4diSbrYaG65316zxFpv0rblCTTiOcekdjuCpn1kkDzx9oPyec-W0S1GJB1rsMiRWfKAQ5rw87jnZwqsKR_yOAMqIvNyTv0y2bIyzIw1j5CHihpO5aI9P1A_jw_qQU1XKWOKbRY-lDF8UDNI5Yn7bLwHtshAlEixOvorepj6GCg6ziWTHh62oG82SM8DikmQ-Chf6gqnuMmY9_H61O2-gbtlOLnsrCwyaXT_0KaFHWKjexRA1sdwPTta0c9w4o5fBpFpAcv6D2e5ePM"
+   },
+   {
+    "category": "Sitios de comparación",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4iakKA3QO9bwwPzkz62oa2qRzS5FLElTs6a6d1JctW_4M1H5PR2x3AcSlooMrsDOXfvM27wZHfWb4p7e-h7FhttWuyBEEscjztRpwwsi53_jTKTWTDv15Aw",
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/VZrwWQWrpqaPvHVphocbXYuKwppkuBshM9huzrwoCAz-eBE2T_2N4UvLgq5iBi_3.png",
+    "source": "Sitios de comparación",
+    "title": "Ilsa Cafetera Napoletana Diamante de aluminio",
+    "price": "51,74 €",
+    "extracted_price": 51.74,
+    "immersive_product_page_token": "g2Q4BnicfVPJjttGEAXyO4aBXtiUmJslcZFmSIlLd1N9GTTZpMhhk-JI1GhB_iH_MGMHcI5xgAC5xL_hfE04PiepAgpV9VA76ueXov4jdBMgT0_v74b38eFkb27ZpjQ-7D73h7065UOtfofGBCJiGZCgKUTANKwp_pzLQer9rlZfJohgDCYIWJaJLWRCPP2tKqTSdVesy7I4LPb5WxYwHRkZFiQQTqZTEyP0a93KXfEd_2JNJwBOITGxCQgihmWg14M6fmvncfywmT8gE4yxFjYxwJaFCTCnP_2XO1ovHv4v7A3_d-zT06k4XP9s97ouOiXf5bIshuIg39XjuLXs5Kdd_30aE1hjkwax0MQCEI9kvLa1-vraPw8v1e7j6aSLry87_VIcX6o3-cte9s9l_vcPf9n7sz0_nhchjeytVppzBwu7P7BGDGu-aqjupY97I1s4Z59VdczJIWLaTLrqIuzVPoT5mQJRrb0q8m9sFSaVkMyGeTNUeUvqIFVXTgVhMBh1QbOFWrKuumYULjOk7pStnrZa33LGsLR35y0XUcF3Q5HkZ4bZU8FXTtDlaO1FS59Or2s6JAkMbiG3ZgosL8yeYsbzwcf7M0UwVImYczbbB45VUmQ1tBmesxq6FFye-aIi2yQEEg2u0r2pkNr43qzLWFAqrZCkBslg37CFvgUA8jy1rzGCR1-v6jxly4KfQcxmlY9ndwnyL9TWPn8MksjTSUSJLjwx7sOap6jvQj2rlReUWSKO0bhDkTqRdPuNcldIOepRoOjMO3FMdA5j6DhjzQvllQ4485NudQ06p1I4QmvbumQphUXK6LYJSdzqx6zTHkNnQ2Hmhkg4otWxDy2kkiVJmNNlDWwoMsh4C1eBZuBz2IpH-yL1qlRec-OJI5JUgMDt19wOVgHSsUDMkEhAH4AhbC5XChoYslma6aCVeDvwRFW515CAURLUcJajnUE9pw1cxu9Z5UXQEmoRheKmoXSXZzmWVQ4F60WVxp6jhVvZRbVMKVXUdx2Yx_BezWGSd8yhXl9TdwtCnstl4yyTx5kTAAaYdvoQ9DJjGsf4Aw7TCCftZbxZFYbUGa384-V4KL-BD95mcirJNjSS8O6-TwtzE6DDgwR522xW84aEP8KJZRjjcxgEEPIP8Xtz0w",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=g2Q4BnicfVPJjttGEAXyO4aBXtiUmJslcZFmSIlLd1N9GTTZpMhhk-JI1GhB_iH_MGMHcI5xgAC5xL_hfE04PiepAgpV9VA76ueXov4jdBMgT0_v74b38eFkb27ZpjQ-7D73h7065UOtfofGBCJiGZCgKUTANKwp_pzLQer9rlZfJohgDCYIWJaJLWRCPP2tKqTSdVesy7I4LPb5WxYwHRkZFiQQTqZTEyP0a93KXfEd_2JNJwBOITGxCQgihmWg14M6fmvncfywmT8gE4yxFjYxwJaFCTCnP_2XO1ovHv4v7A3_d-zT06k4XP9s97ouOiXf5bIshuIg39XjuLXs5Kdd_30aE1hjkwax0MQCEI9kvLa1-vraPw8v1e7j6aSLry87_VIcX6o3-cte9s9l_vcPf9n7sz0_nhchjeytVppzBwu7P7BGDGu-aqjupY97I1s4Z59VdczJIWLaTLrqIuzVPoT5mQJRrb0q8m9sFSaVkMyGeTNUeUvqIFVXTgVhMBh1QbOFWrKuumYULjOk7pStnrZa33LGsLR35y0XUcF3Q5HkZ4bZU8FXTtDlaO1FS59Or2s6JAkMbiG3ZgosL8yeYsbzwcf7M0UwVImYczbbB45VUmQ1tBmesxq6FFye-aIi2yQEEg2u0r2pkNr43qzLWFAqrZCkBslg37CFvgUA8jy1rzGCR1-v6jxly4KfQcxmlY9ndwnyL9TWPn8MksjTSUSJLjwx7sOap6jvQj2rlReUWSKO0bhDkTqRdPuNcldIOepRoOjMO3FMdA5j6DhjzQvllQ4485NudQ06p1I4QmvbumQphUXK6LYJSdzqx6zTHkNnQ2Hmhkg4otWxDy2kkiVJmNNlDWwoMsh4C1eBZuBz2IpH-yL1qlRec-OJI5JUgMDt19wOVgHSsUDMkEhAH4AhbC5XChoYslma6aCVeDvwRFW515CAURLUcJajnUE9pw1cxu9Z5UXQEmoRheKmoXSXZzmWVQ4F60WVxp6jhVvZRbVMKVXUdx2Yx_BezWGSd8yhXl9TdwtCnstl4yyTx5kTAAaYdvoQ9DJjGsf4Aw7TCCftZbxZFYbUGa384-V4KL-BD95mcirJNjSS8O6-TwtzE6DDgwR522xW84aEP8KJZRjjcxgEEPIP8Xtz0w",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=g2Q4BnicfVPJjttGEAXyO4aBXtiUmJslcZFmSIlLd1N9GTTZpMhhk-JI1GhB_iH_MGMHcI5xgAC5xL_hfE04PiepAgpV9VA76ueXov4jdBMgT0_v74b38eFkb27ZpjQ-7D73h7065UOtfofGBCJiGZCgKUTANKwp_pzLQer9rlZfJohgDCYIWJaJLWRCPP2tKqTSdVesy7I4LPb5WxYwHRkZFiQQTqZTEyP0a93KXfEd_2JNJwBOITGxCQgihmWg14M6fmvncfywmT8gE4yxFjYxwJaFCTCnP_2XO1ovHv4v7A3_d-zT06k4XP9s97ouOiXf5bIshuIg39XjuLXs5Kdd_30aE1hjkwax0MQCEI9kvLa1-vraPw8v1e7j6aSLry87_VIcX6o3-cte9s9l_vcPf9n7sz0_nhchjeytVppzBwu7P7BGDGu-aqjupY97I1s4Z59VdczJIWLaTLrqIuzVPoT5mQJRrb0q8m9sFSaVkMyGeTNUeUvqIFVXTgVhMBh1QbOFWrKuumYULjOk7pStnrZa33LGsLR35y0XUcF3Q5HkZ4bZU8FXTtDlaO1FS59Or2s6JAkMbiG3ZgosL8yeYsbzwcf7M0UwVImYczbbB45VUmQ1tBmesxq6FFye-aIi2yQEEg2u0r2pkNr43qzLWFAqrZCkBslg37CFvgUA8jy1rzGCR1-v6jxly4KfQcxmlY9ndwnyL9TWPn8MksjTSUSJLjwx7sOap6jvQj2rlReUWSKO0bhDkTqRdPuNcldIOepRoOjMO3FMdA5j6DhjzQvllQ4485NudQ06p1I4QmvbumQphUXK6LYJSdzqx6zTHkNnQ2Hmhkg4otWxDy2kkiVJmNNlDWwoMsh4C1eBZuBz2IpH-yL1qlRec-OJI5JUgMDt19wOVgHSsUDMkEhAH4AhbC5XChoYslma6aCVeDvwRFW515CAURLUcJajnUE9pw1cxu9Z5UXQEmoRheKmoXSXZzmWVQ4F60WVxp6jhVvZRbVMKVXUdx2Yx_BezWGSd8yhXl9TdwtCnstl4yyTx5kTAAaYdvoQ9DJjGsf4Aw7TCCftZbxZFYbUGa384-V4KL-BD95mcirJNjSS8O6-TwtzE6DDgwR522xW84aEP8KJZRjjcxgEEPIP8Xtz0w"
+   }
+  ],
+  "short_videos": [
+   {
+    "position": 1,
+    "title": "Molienda para cafetera italiana: qué pasa si está mal por santoamaro.es en TikTok. Reproducir en TikTok. 0:53",
+    "source": "TikTok",
+    "profile_name": "santoamaro.es",
+    "extensions": [
+     "santoamaro.es"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "0:53",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQSqDO0OJitqFJdTwLJXY6KsY7k6VW_5SiwLg",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCQjmYYn6szOba22BLxL1S_AsOi5YA4kIXwopi4PNQY37m-_7VMSBG-E&s=10",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7473208428475911447?lang=es"
+   },
+   {
+    "position": 2,
+    "title": "Paso a paso moka italiana, 15 gramos de café x 150 ml ... por Santiago El Cafetero en Instagram. Reproducir en Instagram. 1:12",
+    "source": "Instagram",
+    "profile_name": "Santiago El Cafetero",
+    "extensions": [
+     "Santiago El Cafetero"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/NQFqh7xwZtjEbj4AO1UskYq_jU2Ted0YQoZKh4lxrkg.png",
+    "duration": "1:12",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGc7mVIv5sAeZe5rlFJzkGxm5i4eXXGwenyFddsyw0Nn0XrYke3B5tL-w&s=10",
+    "link": "https://www.instagram.com/reel/DVr1dIjOsus/?hl=es"
+   },
+   {
+    "position": 3,
+    "title": "Este es el tipo de molienda que necesita tu café, según ... por Café Santo Amaro en Facebook. Reproducir en Facebook. 0:34",
+    "source": "Facebook",
+    "profile_name": "Café Santo Amaro",
+    "extensions": [
+     "Café Santo Amaro"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "0:34",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeR3-Iroypnw40ecKkkV6iwAFuGPdv6u3J-PPR8Q_ScLdkSsd3B3HaAE&s=10",
+    "link": "https://www.facebook.com/santoamaro.es/videos/este-es-el-tipo-de-molienda-que-necesita-tu-caf%C3%A9-seg%C3%BAn-tu-cafeterael-punto-de-mo/1076165994853908/"
+   },
+   {
+    "position": 4,
+    "title": "Molienda para Moka Italiana: ¿Gruesa, Media Fina o Fina? La ... por lychecafecito en TikTok. Reproducir en TikTok. 1:36",
+    "source": "TikTok",
+    "profile_name": "lychecafecito",
+    "extensions": [
+     "lychecafecito"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "1:36",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ4utM9H0T-mz6xmzffQGqiV7EK1nfhTSEIdA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXzWVgmW9FuodWaZpHDjjdff-MXNPI4noHrwtnO2_GS8NLhMIlTwYjTs&s=10",
+    "link": "https://www.tiktok.com/@lychecafecito/video/7497037090962607415"
+   },
+   {
+    "position": 5,
+    "title": "Molienda de café: ¿qué molido usar para tu cafetera italiana? por santoamaro.es en TikTok. Reproducir en TikTok. 1:00",
+    "source": "TikTok",
+    "profile_name": "santoamaro.es",
+    "extensions": [
+     "santoamaro.es"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "1:00",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RH11HmUac6XF7oVTuwvajWD6LRDxuPAfsZRodAGGGhMg-p1a5RZ2Dbc&s=10",
+    "link": "https://www.tiktok.com/@santoamaro.es/video/7660946650990398753"
+   },
+   {
+    "position": 6,
+    "title": "☕ ¿Estás moliendo tu café al nivel correcto? La molienda lo ... por Puelo Coffee Roasters ®️ en Instagram. Reproducir en Instagram. 1:06",
+    "source": "Instagram",
+    "profile_name": "Puelo Coffee Roasters ®️",
+    "extensions": [
+     "Puelo Coffee Roasters ®️"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/vds-tM8Y_1c6YwRpE0ylIO4MWzb8MMeN_W4Ny2ppnBo.png",
+    "duration": "1:06",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZP1E_q6zTwgcWMWYxeiahuDYHztYUKSoKZ0J5Te_sSCKOgjnmXwDMxHk&s=10",
+    "link": "https://www.instagram.com/reel/DaBrbmwuvu6/?hl=es"
+   },
+   {
+    "position": 7,
+    "title": "Molienda de café: fina, media y gruesa para cada cafetera por artidorocoffee en TikTok. Reproducir en TikTok. 0:35",
+    "source": "TikTok",
+    "profile_name": "artidorocoffee",
+    "extensions": [
+     "artidorocoffee"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "0:35",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQqJ9tR8eY0qgpTzfrTnQEbK8EKAXgw_cB07w",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxNRKcGvA6txwmyOhGX3uoiwoVCjeT06jPMPdImrEqVIdXOQ98rAPPqk&s=10",
+    "link": "https://www.tiktok.com/@artidorocoffee/video/7036484113443982597"
+   },
+   {
+    "position": 8,
+    "title": "Este es el tipo de molienda que necesita tu café, según ... por Café Santo Amaro en Facebook. Reproducir en Facebook. 0:34",
+    "source": "Facebook",
+    "profile_name": "Café Santo Amaro",
+    "extensions": [
+     "Café Santo Amaro"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+    "duration": "0:34",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeR3-Iroypnw40ecKkkV6iwAFuGPdv6u3J-PPR8Q_ScLdkSsd3B3HaAE&s=10",
+    "link": "https://www.facebook.com/santoamaro.es/posts/este-es-el-tipo-de-molienda-que-necesita-tu-caf%C3%A9-seg%C3%BAn-tu-cafeterael-punto-de-mo/1486253103528553/"
+   },
+   {
+    "position": 9,
+    "title": "Este es el tipo de molienda que necesita tu café, según ... por Santo Amaro | Café de Especialidad en Instagram. Reproducir en Instagram. 0:33",
+    "source": "Instagram",
+    "profile_name": "Santo Amaro | Café de Especialidad",
+    "extensions": [
+     "Santo Amaro | Café de Especialidad"
+    ],
+    "source_logo": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/NiVR_UYL-gQaBi0v_zP9dyXQit6mSaaZ1I5oAVZFjQY.png",
+    "duration": "0:33",
+    "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTq5ToNMEHw3XDgv5HvhrT7Vj3bVomRZ_QVpA",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPeR3-Iroypnw40ecKkkV6iwAFuGPdv6u3J-PPR8Q_ScLdkSsd3B3HaAE&s=10",
+    "link": "https://www.instagram.com/reel/DcT7NpfoFtg/"
+   },
+   {
+    "position": 10,
+    "title": "Cómo lograr la molienda perfecta del café por mialteredu en TikTok. Reproducir en TikTok. 0:55",
+    "source": "TikTok",
+    "profile_name": "mialteredu",
+    "extensions": [
+     "mialteredu"
+    ],
+    "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+    "duration": "0:55",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUgFZJj9XGk0ZfWgrumr6hqFqMJ7WKzQzY1SHNsxVDfg2IEhAb_ZppEWE&s=10",
+    "link": "https://www.tiktok.com/@mialteredu/video/7616075841524534550"
+   }
+  ],
+  "related_questions": [
+   {
+    "question": "¿Cómo tiene que ser la molienda para cafetera italiana?",
+    "type": "ai_overview",
+    "page_token": "P-XdPnicHdBRboIwAADQ7DJ-agvTRROzDaUqkWoLLdAfUymoUAEVB_q5s-xrh9kBdo4dYMsO8H7e-4c-FPn3w3Vf19Vl1Os1TdPdleVOJ93k0pOXWxH3Yqn1Vsb5aPA0gM9pPLavC2tyWliEUTvSSkeBe5d55XGwqJOiNDkSUzxTaxfiVhrc9ELWxwaECXP6Eoi1Aui6ZcPUP2IsTJGtmHPivg4jKJgE0FJBfGez6ujPK-iGoqF60dCMP_q5Q7cGmiptVcGfcfVwLzzoyylNGVcGQxbdMrfxGWxE3qcUoIIWyvCQBnwmEDEdg-TUoaYNQoA49jlcBiLAgb5RrSY-QkRpUdh7RSkkTRTydslqsOT4phgnydEhIqOWaMsDYfuVazPTm6FVlL32o7C8eQXOktwJPVO1zOBnoh2bzxEgpJPGb2Oz8_853qTHelSdy91nfE5knaiNrL-yH_XyC0s9iBk",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P-XdPnicHdBRboIwAADQ7DJ-agvTRROzDaUqkWoLLdAfUymoUAEVB_q5s-xrh9kBdo4dYMsO8H7e-4c-FPn3w3Vf19Vl1Os1TdPdleVOJ93k0pOXWxH3Yqn1Vsb5aPA0gM9pPLavC2tyWliEUTvSSkeBe5d55XGwqJOiNDkSUzxTaxfiVhrc9ELWxwaECXP6Eoi1Aui6ZcPUP2IsTJGtmHPivg4jKJgE0FJBfGez6ujPK-iGoqF60dCMP_q5Q7cGmiptVcGfcfVwLzzoyylNGVcGQxbdMrfxGWxE3qcUoIIWyvCQBnwmEDEdg-TUoaYNQoA49jlcBiLAgb5RrSY-QkRpUdh7RSkkTRTydslqsOT4phgnydEhIqOWaMsDYfuVazPTm6FVlL32o7C8eQXOktwJPVO1zOBnoh2bzxEgpJPGb2Oz8_853qTHelSdy91nfE5knaiNrL-yH_XyC0s9iBk",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv0PDs21vIHRpZW5lIHF1ZSBzZXIgbGEgbW9saWVuZGEgcGFyYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6ImN3M0l5UTNBSUF3RXdENTRiUk1VdENJYnlaTEJIRTdfNFRlYVVsdjBRSnFHc0Q3aGFNT0pIbjdySVNZMzBmZ3FkV0ZKTnc3LSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv0PDs21vIHRpZW5lIHF1ZSBzZXIgbGEgbW9saWVuZGEgcGFyYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6ImN3M0l5UTNBSUF3RXdENTRiUk1VdENJYnlaTEJIRTdfNFRlYVVsdjBRSnFHc0Q3aGFNT0pIbjdySVNZMzBmZ3FkV0ZKTnc3LSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9"
+   },
+   {
+    "question": "¿Qué molienda se usa para moka italiana?",
+    "type": "ai_overview",
+    "page_token": "U9XWSXicHdBdboIwAADg7DI-DkHnxMRsqbYoGd0otEBfTCkoSvmJNAN53Fn2tMPsADvHDrBk3xG-j091rsufu6jQuu1WhtH3_f2paU4qv887Q3S3WhpSKJUKWa4Wjwvz6SjXsOvBpumBTwlMVKaiUuHIQSBFYMur5Sgrl7DS9rIInVldtBR2mpsAY4eIMOYNo8OexmTwLB74MRp5zAEOi9EveZOUrM0ovkmn2IUlERhhQmppshq0hBaJnLK3EPa3wHE38uJ6nCU6Quo1Ym4s1HKQI-KJxazEhPOAEp4hov2YW3hErbjwC0P21WPLAJlox7agyGKog5mv6cw1CQOLRIEKQ1Q7ZxcEcN6TMNvTqVmF0HsQVsFfKBsix5-mlt1G0C7TsKDcssnkKN_Xs8n_2PpwrPSqvTanL3nNhc6zg9Dfl9_s-Q9SpH9J",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U9XWSXicHdBdboIwAADg7DI-DkHnxMRsqbYoGd0otEBfTCkoSvmJNAN53Fn2tMPsADvHDrBk3xG-j091rsufu6jQuu1WhtH3_f2paU4qv887Q3S3WhpSKJUKWa4Wjwvz6SjXsOvBpumBTwlMVKaiUuHIQSBFYMur5Sgrl7DS9rIInVldtBR2mpsAY4eIMOYNo8OexmTwLB74MRp5zAEOi9EveZOUrM0ovkmn2IUlERhhQmppshq0hBaJnLK3EPa3wHE38uJ6nCU6Quo1Ym4s1HKQI-KJxazEhPOAEp4hov2YW3hErbjwC0P21WPLAJlox7agyGKog5mv6cw1CQOLRIEKQ1Q7ZxcEcN6TMNvTqVmF0HsQVsFfKBsix5-mlt1G0C7TsKDcssnkKN_Xs8n_2PpwrPSqvTanL3nNhc6zg9Dfl9_s-Q9SpH9J",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgbW9saWVuZGEgc2UgdXNhIHBhcmEgbW9rYSBpdGFsaWFuYT8iLCJsayI6IkdpWnhkV1VnYlc5c2FXVnVaR0VnYzJVZ2RYTmhJSEJoY21FZ2JXOXJZU0JwZEdGc2FXRnVZUSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgbW9saWVuZGEgc2UgdXNhIHBhcmEgbW9rYSBpdGFsaWFuYT8iLCJsayI6IkdpWnhkV1VnYlc5c2FXVnVaR0VnYzJVZ2RYTmhJSEJoY21FZ2JXOXJZU0JwZEdGc2FXRnVZUSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9"
+   },
+   {
+    "question": "¿Qué molienda es para cafetera?",
+    "type": "ai_overview",
+    "page_token": "tJroDXicHdBLUoMwAADQ8TJd2gYEtTMdHVoCZCRKIOGz6UACbSF8po3FsvQsrjyMB_AcHkDHA7zNe_-Qh675vor3Sg2n5Xw-juP1ru93srwuT_P8dOn4nOdSFjlvluatCR4qvrJPo7XuRyugxE6lkHEC6zhir0IXl4yqhi9kFtfMoK2II81oaGtoBOAhovJJLJq3qPGMIkE1p9gPKFgwPR0zEIBnJwC4GzI6kZdCQp-1vZYylvMNcqMp63iMhoxBXbB9k2jZvthArWzxmrR3U8qw6etIy8E9Ey5B1FZG6OAzXwxWaCPPj4ldusQjNbkQxwshgC7bWHuR2CrUA0V1BAizzFRaLbZh5xzQn7sZSSQ8PMG2dFAVJ71iAE_YxocikjDsmJk3viYSRGYVP6_02f_Yalu1ajkc-90nP5a5KsU2V1_1j3j8BfANfj4",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tJroDXicHdBLUoMwAADQ8TJd2gYEtTMdHVoCZCRKIOGz6UACbSF8po3FsvQsrjyMB_AcHkDHA7zNe_-Qh675vor3Sg2n5Xw-juP1ru93srwuT_P8dOn4nOdSFjlvluatCR4qvrJPo7XuRyugxE6lkHEC6zhir0IXl4yqhi9kFtfMoK2II81oaGtoBOAhovJJLJq3qPGMIkE1p9gPKFgwPR0zEIBnJwC4GzI6kZdCQp-1vZYylvMNcqMp63iMhoxBXbB9k2jZvthArWzxmrR3U8qw6etIy8E9Ey5B1FZG6OAzXwxWaCPPj4ldusQjNbkQxwshgC7bWHuR2CrUA0V1BAizzFRaLbZh5xzQn7sZSSQ8PMG2dFAVJ71iAE_YxocikjDsmJk3viYSRGYVP6_02f_Yalu1ajkc-90nP5a5KsU2V1_1j3j8BfANfj4",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgbW9saWVuZGEgZXMgcGFyYSBjYWZldGVyYT8iLCJsayI6IkdoMXhkV1VnYlc5c2FXVnVaR0VnWlhNZ2NHRnlZU0JqWVdabGRHVnlZUSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgbW9saWVuZGEgZXMgcGFyYSBjYWZldGVyYT8iLCJsayI6IkdoMXhkV1VnYlc5c2FXVnVaR0VnWlhNZ2NHRnlZU0JqWVdabGRHVnlZUSIsImJzIjoiYy1NcTRiSTh0Tl81OE9iY2ZJV1N6TlM4VklYQzBsU0Y0dFFpaFp4RWhkejhIS0JRU3FKQ1FXSlJva0p5WWxwcVNTcVFrVm1TbUpPWm1KZG9iMlF1WlpxY1Q0Wk9yakF1clVQN0Ewc1ByMFNvTEU1VktDMkdhc2pOejBhMlJrTktEV1EyWWFWY0xseUs2T2FtRnFNNnd0NUlYa29XeFRoMEZWejVYSzVRVTBveUNfSVZVbEpCVWxBelVfSkIxaGVsQXYyTjVNUFNQS3pob3lhbGdtb0M5dUFRWUFRQSIsImlkIjoiZmNfUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWdfNCJ9"
+   },
+   {
+    "question": "¿Qué tipo de café molido se recomienda para una cafetera italiana?",
+    "type": "ai_overview",
+    "page_token": "JZmxyHicHdBdkpowAADg6WX2cSUyuKszTnfpBlYKoYkmgbzsxARFCD9qFPRxz9KnHqYH6Dl6gM70O8L3-dMc2vrPl0tpbX9eTCbDMDzuu25visfiPJHnW6smShqzlapezJ5m4OtOLeFl5X87rnxMCcyNNtx0HgqjHZ4Cf-OKmAJmReXXSRW9Je8lSe5BmDTQoS35zjLtiLtf5XV_ICEd8Rp0MX2-pXDeJ5m4kno1EjPn64ylLEhcbEqIGnMhgf5BHOrRqT3KEGWUBVLcqbdxQErastK1uMQ8WlHK2PYujiSYHzk8WxlEJ8y9jQpebZGJCLkYMOBL5hjEjKl4FsXpRlNF1SDeX-3WoBaWmhCAhzxjY0ytEzN005ThoomwqIgvxu6AaZkmkLqkiRgP-6ua9ijmI0dv-lqsQboGuZeDwBPQzMTwsFPXpfvw_3P5sWvsoj91-1_qVEhb6A9pf1d_9cs_vqiKDg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JZmxyHicHdBdkpowAADg6WX2cSUyuKszTnfpBlYKoYkmgbzsxARFCD9qFPRxz9KnHqYH6Dl6gM70O8L3-dMc2vrPl0tpbX9eTCbDMDzuu25visfiPJHnW6smShqzlapezJ5m4OtOLeFl5X87rnxMCcyNNtx0HgqjHZ4Cf-OKmAJmReXXSRW9Je8lSe5BmDTQoS35zjLtiLtf5XV_ICEd8Rp0MX2-pXDeJ5m4kno1EjPn64ylLEhcbEqIGnMhgf5BHOrRqT3KEGWUBVLcqbdxQErastK1uMQ8WlHK2PYujiSYHzk8WxlEJ8y9jQpebZGJCLkYMOBL5hjEjKl4FsXpRlNF1SDeX-3WoBaWmhCAhzxjY0ytEzN005ThoomwqIgvxu6AaZkmkLqkiRgP-6ua9ijmI0dv-lqsQboGuZeDwBPQzMTwsFPXpfvw_3P5sWvsoj91-1_qVEhb6A9pf1d_9cs_vqiKDg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgdGlwbyBkZSBjYWbDqSBtb2xpZG8gc2UgcmVjb21pZW5kYSBwYXJhIHVuYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6ImM1TlNLY2tzeUZkSVNWVklUa3c3dkZLaElMRW9FY1JNTFVrRk1qSkxFbk15RV9NU0FRIiwiYnMiOiJjLU1xNGJJOHROXzU4T2JjZklXU3pOUzhWSVhDMGxTRjR0UWloWnhFaGR6OEhLQlFTcUpDUVdKUm9rSnlZbHBxU1NxUWtWbVNtSk9abUpkb2IyUXVaWnFjVDRaT3JqQXVyVVA3QTBzUHIwU29MRTVWS0MyR2Fzak56MGEyUmtOS0RXUTJZYVZjTGx5SzZPYW1GcU02d3Q1SVhrb1d4VGgwRlZ6NVhLNVFVMG95Q19JVlVsSkJVbEF6VV9KQjFoZWxBdjJONU1QU1BLemhveWFsZ21vQzl1QVFZQVFBIiwiaWQiOiJmY19RR1QwYXVxLUt0LVNydUVQemJQZjRBZ180In0=",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVUyNUxPVEEzVnpaUldDMHhRbk5mU1Vwa2FrY3daVFEwTUV0TGNtRlhkR0V6VHpObU5UVnhaa3QwVFhaYVppMUxRbTVsWWw4eWFtMVBUVUUwVXpGU01UUkRVVVpEUTNWc1lXbDJlRFJHU1doclFUTlhXVGN4WTFGaGR4SVhVVWRVTUdGMWNTMUxkQzFUY25WRlVIcGlVR1kwUVdjYUlrRklUakJGTjBoSVVrTlpTRE5pWVVkek1WTnZhVUl0YzBkNE1VMWxVSGMxV0ZFIiwiZmN2IjoiMyIsImVpIjoiUUdUMGF1cS1LdC1TcnVFUHpiUGY0QWciLCJxYyI6IkNocHRiMnhwWlc1a1lTQmpZV1psZEdWeVlTQnBkR0ZzYVdGdVlSQU9mVjNWRUQ4IiwicXVlc3Rpb24iOiLCv1F1w6kgdGlwbyBkZSBjYWbDqSBtb2xpZG8gc2UgcmVjb21pZW5kYSBwYXJhIHVuYSBjYWZldGVyYSBpdGFsaWFuYT8iLCJsayI6ImM1TlNLY2tzeUZkSVNWVklUa3c3dkZLaElMRW9FY1JNTFVrRk1qSkxFbk15RV9NU0FRIiwiYnMiOiJjLU1xNGJJOHROXzU4T2JjZklXU3pOUzhWSVhDMGxTRjR0UWloWnhFaGR6OEhLQlFTcUpDUVdKUm9rSnlZbHBxU1NxUWtWbVNtSk9abUpkb2IyUXVaWnFjVDRaT3JqQXVyVVA3QTBzUHIwU29MRTVWS0MyR2Fzak56MGEyUmtOS0RXUTJZYVZjTGx5SzZPYW1GcU02d3Q1SVhrb1d4VGgwRlZ6NVhLNVFVMG95Q19JVlVsSkJVbEF6VV9KQjFoZWxBdjJONU1QU1BLemhveWFsZ21vQzl1QVFZQVFBIiwiaWQiOiJmY19RR1QwYXVxLUt0LVNydUVQemJQZjRBZ180In0%3D"
+   }
+  ],
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Grado de molienda para la italiana",
+    "link": "https://forocafe.es/foro/viewtopic.php?t=2853",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHEIkXXEpR26STs9dpGyr6Lg4aApw6-KBE1-zg-7l_-_BXQdFzuoBgFVSNXZjFk6GxC_wrxt9ZykFqUGQWwSreyqu3L5BZoqp4UGmr0nYDTAuuRxGFx0MjK4BFOI89rGlbrPumBsqgStpI&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDQQAQ&uoh=1",
+    "displayed_link": "https://forocafe.es › ... › CAFETERAS",
+    "thumbnail": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/jVeC2KcCLxcKpqEkNLzfrKcyG9eiSvL1rmYv4Qbg6rM.jpg",
+    "date": "3 dic 2020",
+    "snippet": "El cacillo de la cafetera se llena con unos 18 gramos, así que con 12 se queda algo por encima de la mitad pero lejos de poder enrasar con una ...",
+    "snippet_highlighted_words": [
+     "cafetera"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "El cacillo de la cafetera se llena con unos 18 gramos, así que con 12 se queda algo por encima de la mitad pero lejos de poder enrasar con una ...",
+      "source_info_link": "https://forocafe.es/foro/viewtopic.php?t=2853"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEc3TnFURnFxMUtoNFAtb1MxVkhPTU45WnZqNmkwUE15ZDRwVVpIOXpUTVRJT29rSjl6TjFsOTVsQnk5NlhMa05OM09jVGRDaXNXUVk5eTVCUHkyMUxJeVJ4cHVWaTVkOXFNalVUOXBrSnpIeGhHUVBKSVpYSTVESWN1MWlKaVFrZG91UEw4NBIEGgIIABqaBBIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQPQDCA4QABgAIAAqDwoIbW9saWVuZGEVM5tTQCosCghjYWZldGVyYRVjTMg_GgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVGv5eQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEc3TnFURnFxMUtoNFAtb1MxVkhPTU45WnZqNmkwUE15ZDRwVVpIOXpUTVRJT29rSjl6TjFsOTVsQnk5NlhMa05OM09jVGRDaXNXUVk5eTVCUHkyMUxJeVJ4cHVWaTVkOXFNalVUOXBrSnpIeGhHUVBKSVpYSTVESWN1MWlKaVFrZG91UEw4NDo7R3JhZG8gZGUgPGI-bW9saWVuZGE8L2I-IHBhcmEgbGEgPGI-aXRhbGlhbmE8L2I-IC0gZm9yb2NhZmVCnwFFbCBjYWNpbGxvIGRlIGxhIDxiPmNhZmV0ZXJhPC9iPiBzZSBsbGVuYSBjb24gdW5vcyAxOCBncmFtb3MsIGFzw60gcXVlIGNvbiAxMiBzZSBxdWVkYSBhbGdvIHBvciBlbmNpbWEgZGUgbGEgbWl0YWQgcGVybyBsZWpvcyBkZSBwb2RlciBlbnJhc2FyIGNvbiB1bmEmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEc3TnFURnFxMUtoNFAtb1MxVkhPTU45WnZqNmkwUE15ZDRwVVpIOXpUTVRJT29rSjl6TjFsOTVsQnk5NlhMa05OM09jVGRDaXNXUVk5eTVCUHkyMUxJeVJ4cHVWaTVkOXFNalVUOXBrSnpIeGhHUVBKSVpYSTVESWN1MWlKaVFrZG91UEw4NBIEGgIIABqaBBIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQPQDCA4QABgAIAAqDwoIbW9saWVuZGEVM5tTQCosCghjYWZldGVyYRVjTMg_GgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVGv5eQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEc3TnFURnFxMUtoNFAtb1MxVkhPTU45WnZqNmkwUE15ZDRwVVpIOXpUTVRJT29rSjl6TjFsOTVsQnk5NlhMa05OM09jVGRDaXNXUVk5eTVCUHkyMUxJeVJ4cHVWaTVkOXFNalVUOXBrSnpIeGhHUVBKSVpYSTVESWN1MWlKaVFrZG91UEw4NDo7R3JhZG8gZGUgPGI-bW9saWVuZGE8L2I-IHBhcmEgbGEgPGI-aXRhbGlhbmE8L2I-IC0gZm9yb2NhZmVCnwFFbCBjYWNpbGxvIGRlIGxhIDxiPmNhZmV0ZXJhPC9iPiBzZSBsbGVuYSBjb24gdW5vcyAxOCBncmFtb3MsIGFzw60gcXVlIGNvbiAxMiBzZSBxdWVkYSBhbGdvIHBvciBlbmNpbWEgZGUgbGEgbWl0YWQgcGVybyBsZWpvcyBkZSBwb2RlciBlbnJhc2FyIGNvbiB1bmEmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "forocafe"
+   },
+   {
+    "position": 2,
+    "title": "Cómo hacer café en cafetera italiana: molienda, cantidad ...",
+    "link": "https://cafestes.com/blogs/cafestes-gourmet/como-hacer-cafe-cafetera-italiana-molienda-cantidad?srsltid=AYCX9vI_6hOUp4M4p9bkvaqN6RXoAxYcPlSyUqIhJQJX8NiJwWOoJUUu",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3gEBxCJF15x39psTfvnW3Hz_1o72Ys4_jvwvUzikct-30Bh-0HsYsW-UW6eKzjxKxaOLb8WraeflHfOV2l6tHNMY4i7MoqjHZi2-LvJ1pBPBu3c5sYT7KTcq3FSzwjfj-SsAe_la23eBiLlsAe__WMkTzntfo16sE_npnQDYslchojtkv560_nNHQGmf_lbm4X_MZQ1MN2PMXoTSLGi0lg2tZBQCECN4v_pH30m8_3NM475CSI8GRO19bMKWOWforL7xxCIlB1TbqQHpj3vDibF3HitS1dL83TMr6NiH5pc&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDUQAQ&uoh=1",
+    "displayed_link": "https://cafestes.com › blogs › cafestes-gourmet › como-h...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqXc8dCb9zA7oLIil6GujQ7frZwZ4-ert_T4HgXPSWBvQ9uHPpLzI&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/jVeC2KcCLxcKpqEkNLzfrE5CRGq5gU6Rv5sd6WQRkPQ.png",
+    "date": "14 oct 2026",
+    "snippet": "1. Utilizar una molienda demasiado fina. Es uno de los fallos más frecuentes. Una molienda casi de espresso puede ofrecer demasiada resistencia ...",
+    "snippet_highlighted_words": [
+     "Utilizar una molienda demasiado fina"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "1. Utilizar una molienda demasiado fina. Es uno de los fallos más frecuentes. Una molienda casi de espresso puede ofrecer demasiada resistencia ...",
+      "source_info_link": "https://cafestes.com/blogs/cafestes-gourmet/como-hacer-cafe-cafetera-italiana-molienda-cantidad?srsltid=AYCX9vI_6hOUp4M4p9bkvaqN6RXoAxYcPlSyUqIhJQJX8NiJwWOoJUUu",
+      "icon": "https://serpapi.com/searches/6af4644071c542e57fb93287/images/jVeC2KcCLxcKpqEkNLzfrJZOr0uKBegSN6pWb0o8W7Y8ehbAUEOB2Uvl_Q97QsOd.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrkCL2dvdG8_dXJsPUNBRVMzZ0VCeENKRjE4YWhWdVRxTzViclpjcGM3Q3FSYVYxZHRzcFFMRmZMVVY2YnRfN0Zxd2h3VTBBb2FscUo4d2xRUEpjRkJ4RUtwSnZSSllXUjJqMXprNmlQRG9KbXNfZ2FWaGlCSzBOS0d3WGJYVUs3cnV1bW9UUmRTWkVRTFdOTnpYVjlsWHdHeDY4RXl3R2txa1Q3TEFWTHBFS3BvUFktV01GVXoyNHdvN3U5ZjFUVlEzX1JudGpUbnJDWTJ2amdxZGVYTEo0eklYQ3ROZmhUaE9QcE1TcGZWd3A4bEF2eHZIeGc2WmR3bFdSelU3Vy1iQ2dVMERHVmRCSklUU3BQdTFvN0VXdEg0WXlzMkFLX3dFbjRZREhLWWdXNmYtbjBaOWcyNnNWcUt1NBIEGgIIABryBBIAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQMwECA4QABgAIAAqDwoIbW9saWVuZGEVcGORQCosCghjYWZldGVyYRUU_qlAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVigygQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE2UVptcVVLQWFWOEM3OWlBOGJzWlJiLVh3UWFWbXV2N09UUzVoNVZVeG5zR3paZVZqQjE1Mmc3RldKa0R5Nm9RZXF0eXRDbnFpT1dyNVk0cnpFcDl5TV80UDJDTG1sSnJLZlQ1bHA0Tm15VEYxMGpLQ2t4VS1aQmV5NkZBNTd6QllVZTdxVnVyUURsMDI5WDA3QklNQ3RBTjcwUy12QW95bUFxNHV2SVVZakJybzRlWGpub0xHb2VGbXJvbG43MzhnbUt1UWNvUUkwOk5Dw7NtbyBoYWNlciBjYWbDqSBlbiA8Yj5jYWZldGVyYSBpdGFsaWFuYTwvYj46IDxiPm1vbGllbmRhPC9iPiwgY2FudGlkYWQgeSAuLi5CoAExLiA8Yj5VdGlsaXphciB1bmEgbW9saWVuZGEgZGVtYXNpYWRvIGZpbmE8L2I-LiBFcyB1bm8gZGUgbG9zIGZhbGxvcyBtw6FzIGZyZWN1ZW50ZXMuIFVuYSBtb2xpZW5kYSBjYXNpIGRlIGVzcHJlc3NvIHB1ZWRlIG9mcmVjZXIgZGVtYXNpYWRhIHJlc2lzdGVuY2lhJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrkCL2dvdG8_dXJsPUNBRVMzZ0VCeENKRjE4YWhWdVRxTzViclpjcGM3Q3FSYVYxZHRzcFFMRmZMVVY2YnRfN0Zxd2h3VTBBb2FscUo4d2xRUEpjRkJ4RUtwSnZSSllXUjJqMXprNmlQRG9KbXNfZ2FWaGlCSzBOS0d3WGJYVUs3cnV1bW9UUmRTWkVRTFdOTnpYVjlsWHdHeDY4RXl3R2txa1Q3TEFWTHBFS3BvUFktV01GVXoyNHdvN3U5ZjFUVlEzX1JudGpUbnJDWTJ2amdxZGVYTEo0eklYQ3ROZmhUaE9QcE1TcGZWd3A4bEF2eHZIeGc2WmR3bFdSelU3Vy1iQ2dVMERHVmRCSklUU3BQdTFvN0VXdEg0WXlzMkFLX3dFbjRZREhLWWdXNmYtbjBaOWcyNnNWcUt1NBIEGgIIABryBBIAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQMwECA4QABgAIAAqDwoIbW9saWVuZGEVcGORQCosCghjYWZldGVyYRUU_qlAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVigygQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE2UVptcVVLQWFWOEM3OWlBOGJzWlJiLVh3UWFWbXV2N09UUzVoNVZVeG5zR3paZVZqQjE1Mmc3RldKa0R5Nm9RZXF0eXRDbnFpT1dyNVk0cnpFcDl5TV80UDJDTG1sSnJLZlQ1bHA0Tm15VEYxMGpLQ2t4VS1aQmV5NkZBNTd6QllVZTdxVnVyUURsMDI5WDA3QklNQ3RBTjcwUy12QW95bUFxNHV2SVVZakJybzRlWGpub0xHb2VGbXJvbG43MzhnbUt1UWNvUUkwOk5Dw7NtbyBoYWNlciBjYWbDqSBlbiA8Yj5jYWZldGVyYSBpdGFsaWFuYTwvYj46IDxiPm1vbGllbmRhPC9iPiwgY2FudGlkYWQgeSAuLi5CoAExLiA8Yj5VdGlsaXphciB1bmEgbW9saWVuZGEgZGVtYXNpYWRvIGZpbmE8L2I-LiBFcyB1bm8gZGUgbG9zIGZhbGxvcyBtw6FzIGZyZWN1ZW50ZXMuIFVuYSBtb2xpZW5kYSBjYXNpIGRlIGVzcHJlc3NvIHB1ZWRlIG9mcmVjZXIgZGVtYXNpYWRhIHJlc2lzdGVuY2lhJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Cafestes"
+   },
+   {
+    "position": 3,
+    "title": "Molienda del café: un tipo para cada cafetera",
+    "link": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXgJKuvLwCVBTSqdJSsdKhOMJi8-6u4xONOxM3okg1ohsr7oIMwcRhpqmtOnPzDSuKf7-muwVreMQQr_u_oFGTsFCpc9_qIUyLhA3uhV459YUVaEI44SgAD-n-0gBXKmB2LEG01T07R6cajVo&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDIQAQ&uoh=1",
+    "displayed_link": "https://www.bonka.es › amor-por-el-cafe › molienda-cafe",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXSdwddHq7ktoIRCmc3QhmCxyCjd2CPHVyWkaDs7OiPgx_f7vRKO5&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEXhuJziuZ3jup7ku57lvJ_ov6HHnYa2i3ehdWWOXVKWZ1vXrpOugnCJWU9yOzmEU0ucbmBtNjXCmIHdtJjMoorQp456SEK5jXmIV069k32pfWx2QT2xgm7o2NDTw8D35tlmLS_____t497lwKfv2crr0L7qyrTgv6vrya_ayMD37OX18O3Kp5XPtane0Mrhwq-_j3PKmnzOrpzy7evCpJiZZ1YRGt5MAAABpUlEQVR4AYyShYIjIQyGAwnSht1ySKfMKl13f_9Xu3Dutz_OFxuB90tpJCKN6g_EgHV-sXSO6WekDYed3VUMLsTVKsAPzsrYnQ8xZSNBNZmyWORvlOpiPaExhKIRBjY79JVNu82UaZ5DmFsatyrvNfwM9z2iTn4d56VfhmncktuYgfDg8EgycK6pcKrMMJSPWQmzvfdtPTk94_PzfAZnF-dn-ezicpU0ACz71fWN7Tey9Nt-1-_74Vm_uYgSHoMTz_sHuT_Y9gOBvT9e915i00C-9oODftXtzXYrYMAnOd7FgkAL7gdHcnru99eC7_pWDhIrAohnke3Lk0yvNy8PAgXJfPNGALrNXEtBfrY53-bb-ly41so26eG6BlQKFFfbmEsp1hZU2LISqDgCjsWmMlCROEpruRvS7CcgTURoStaotKLm0ggrUlS8D_Oc2DkcCYRNgX74nFiNHYVUzGyjbZXVF4gcQpytT97FEFN0pXnLXxx5adgGUtVkIsiQmyL9LSyBQgSag9HaNKf1H_7MehxK2niCP4nSZhUrwZ-lPw7kW-IyAAAkMyPDeQ5SqQAAAABJRU5ErkJggg.png",
+    "snippet": "La molienda ideal para cafetera italiana es la molienda media, de un grosor del grano tipo arena de playa, ya que facilita el contacto del agua con el café ...",
+    "snippet_highlighted_words": [
+     "La molienda ideal para cafetera italiana es la molienda media"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "La molienda ideal para cafetera italiana es la molienda media, de un grosor del grano tipo arena de playa, ya que facilita el contacto del agua con el café ...",
+      "source_info_link": "https://www.bonka.es/amor-por-el-cafe/molienda-cafe",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEXhuJziuZ3jup7ku57lvJ_ov6HHnYa2i3ehdWWOXVKWZ1vXrpOugnCJWU9yOzmEU0ucbmBtNjXCmIHdtJjMoorQp456SEK5jXmIV069k32pfWx2QT2xgm7o2NDTw8D35tlmLS_____t497lwKfv2crr0L7qyrTgv6vrya_ayMD37OX18O3Kp5XPtane0Mrhwq-_j3PKmnzOrpzy7evCpJiZZ1YRGt5MAAABpUlEQVR4AYyShYIjIQyGAwnSht1ySKfMKl13f_9Xu3Dutz_OFxuB90tpJCKN6g_EgHV-sXSO6WekDYed3VUMLsTVKsAPzsrYnQ8xZSNBNZmyWORvlOpiPaExhKIRBjY79JVNu82UaZ5DmFsatyrvNfwM9z2iTn4d56VfhmncktuYgfDg8EgycK6pcKrMMJSPWQmzvfdtPTk94_PzfAZnF-dn-ezicpU0ACz71fWN7Tey9Nt-1-_74Vm_uYgSHoMTz_sHuT_Y9gOBvT9e915i00C-9oODftXtzXYrYMAnOd7FgkAL7gdHcnru99eC7_pWDhIrAohnke3Lk0yvNy8PAgXJfPNGALrNXEtBfrY53-bb-ly41so26eG6BlQKFFfbmEsp1hZU2LISqDgCjsWmMlCROEpruRvS7CcgTURoStaotKLm0ggrUlS8D_Oc2DkcCYRNgX74nFiNHYVUzGyjbZXVF4gcQpytT97FEFN0pXnLXxx5adgGUtVkIsiQmyL9LSyBQgSag9HaNKf1H_7MehxK2niCP4nSZhUrwZ-lPw7kW-IyAAAkMyPDeQ5SqQAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGNyV0FGOGVIOGxKQjExcWNEd2lLaER3UzFPSmg3cWNZTTB4Y29lSzZzWjJRcWlJaW1ZWW1KY0hSY3d5ejh6R0RudlNBZV95ZlZPVTFLSUg3YXhjRUxjeC01aV9HT2FsenJuZUZkdTJOZTI1UHRYZm13a0QxT3JpVkZIdGR2Z2M5eTlTQ1dTYUljcjY1TUpNEgQaAggAGroEEgIIABoCCAEiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCSBAgOEAAYACAAKg8KCG1vbGllbmRhFVxkt0AqLAoIY2FmZXRlcmEVF_iEQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFRZubj8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhjcldBRjhlSDhsSkIxMXFjRHdpS2hEd1MxT0poN3FjWU0weGNvZUs2c1oyUXFpSWltWVltSmNIUmN3eXo4ekdEbnZTQWVfeWZWT1UxS0lIN2F4Y0VMY3gtNWlfR09hbHpybmVGZHUyTmUyNVB0WGZtd2tEMU9yaVZGSHRkdmdjOXk5U0NXU2FJY3I2NU1KTTpEPGI-TW9saWVuZGE8L2I-IGRlbCBjYWbDqTogdW4gdGlwbyBwYXJhIGNhZGEgPGI-Y2FmZXRlcmE8L2I-IHwgQm9ua2FCrAE8Yj5MYSBtb2xpZW5kYSBpZGVhbCBwYXJhIGNhZmV0ZXJhIGl0YWxpYW5hIGVzIGxhIG1vbGllbmRhIG1lZGlhPC9iPiwgZGUgdW4gZ3Jvc29yIGRlbCBncmFubyB0aXBvIGFyZW5hIGRlIHBsYXlhLCB5YSBxdWUgZmFjaWxpdGEgZWwgY29udGFjdG8gZGVsIGFndWEgY29uIGVsIGNhZsOpJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGNyV0FGOGVIOGxKQjExcWNEd2lLaER3UzFPSmg3cWNZTTB4Y29lSzZzWjJRcWlJaW1ZWW1KY0hSY3d5ejh6R0RudlNBZV95ZlZPVTFLSUg3YXhjRUxjeC01aV9HT2FsenJuZUZkdTJOZTI1UHRYZm13a0QxT3JpVkZIdGR2Z2M5eTlTQ1dTYUljcjY1TUpNEgQaAggAGroEEgIIABoCCAEiACoAMgYIAxICZXM6AEIECAEQDkoAWgByAHoAgkCSBAgOEAAYACAAKg8KCG1vbGllbmRhFVxkt0AqLAoIY2FmZXRlcmEVF_iEQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFRZubj8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhjcldBRjhlSDhsSkIxMXFjRHdpS2hEd1MxT0poN3FjWU0weGNvZUs2c1oyUXFpSWltWVltSmNIUmN3eXo4ekdEbnZTQWVfeWZWT1UxS0lIN2F4Y0VMY3gtNWlfR09hbHpybmVGZHUyTmUyNVB0WGZtd2tEMU9yaVZGSHRkdmdjOXk5U0NXU2FJY3I2NU1KTTpEPGI-TW9saWVuZGE8L2I-IGRlbCBjYWbDqTogdW4gdGlwbyBwYXJhIGNhZGEgPGI-Y2FmZXRlcmE8L2I-IHwgQm9ua2FCrAE8Yj5MYSBtb2xpZW5kYSBpZGVhbCBwYXJhIGNhZmV0ZXJhIGl0YWxpYW5hIGVzIGxhIG1vbGllbmRhIG1lZGlhPC9iPiwgZGUgdW4gZ3Jvc29yIGRlbCBncmFubyB0aXBvIGFyZW5hIGRlIHBsYXlhLCB5YSBxdWUgZmFjaWxpdGEgZWwgY29udGFjdG8gZGVsIGFndWEgY29uIGVsIGNhZsOpJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Café Bonka"
+   },
+   {
+    "position": 4,
+    "title": "Qué tipo de molienda es mejor para una cafetera italiana",
+    "link": "https://shop.cafesbou.com/blogs/news/que-tipo-de-molienda-es-mejor-para-una-cafetera-italiana?srsltid=AYCX9vLyBQ62Q1iibPFu_YVstb48lghBejIk472Fw3B-ub4buDDiVj0-",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3AEBxCJF196dMLUaD8LP6vOHtgtkjv-Im8AAz_te-bZqWBSsw8mfg9FI2fc-H9937OHjQbGYaV3khUA98180C1u1x6pMeX3ibPOYbM_isCtQb1IminyH64kR9ZM2yah0RjjHsmr9wjpjykOLj6mIZ0LLrGEw4rWouXlxU1IrzL684xOb6EV_IUkgIWZigjTcmFHLYlkNGR70qJeEKwRyWTDxhWN-Sobu3KLVLheDOwS0N0RRU58iOxAP6WdpIKAVMLmH1Jo5bKSBrBTmg7_RCltP5art85hPsrQRlPB5&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDEQAQ&uoh=1",
+    "displayed_link": "https://shop.cafesbou.com › blogs › news › que-tipo-de...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s4z-UihLZKtWa_eODuteBwraUSyTeJX9LJqNRv9uu3QobfKbawrM&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAOVBMVEVHcEyhoaBwcG8wMC4lJSMgIB4cHBonJyUsLCspKSdBQUAmJiQkJCJTU1I0NDIpKScbGxk5OTg0NDOSI68ZAAAAE3RSTlMABxJ10___y4mgMeHtHmOz_0FalMDwdgAAALhJREFUeAGMUgUCgEAMsoZ16f__ag67iwVwlfy-0ixL7wt5IRCgvKlVgrqZyddai5bZm5rZgpNtBVjipsjHb-7WVsCvfWGqZZtSDkSFLniVYqYE1CeVBUWg0qJAqKH62TZfoFVUwLGfqQAiCVYBR7QhG0S9NzFDz45Odpuc5xrUyNlFlERCka19XWqDdiFy5kLViRrcNElhjUT1GF_bMcoD4tNZ8UGam7x1rioh1S2pKkpfxWQYFQAAvpcF1sv0R0kAAAAASUVORK5CYII.png",
+    "snippet": "Utiliza una molienda media-fina, algo más gruesa que la de espresso. Así evitas una extracción excesiva y consigues un café intenso pero equilibrado, sin notas ...",
+    "snippet_highlighted_words": [
+     "Utiliza una molienda media-fina, algo más gruesa que la de espresso"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Utiliza una molienda media-fina, algo más gruesa que la de espresso. Así evitas una extracción excesiva y consigues un café intenso pero equilibrado, sin notas ...",
+      "source_info_link": "https://shop.cafesbou.com/blogs/news/que-tipo-de-molienda-es-mejor-para-una-cafetera-italiana?srsltid=AYCX9vLyBQ62Q1iibPFu_YVstb48lghBejIk472Fw3B-ub4buDDiVj0-",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAOVBMVEVHcEyhoaBwcG8wMC4lJSMgIB4cHBonJyUsLCspKSdBQUAmJiQkJCJTU1I0NDIpKScbGxk5OTg0NDOSI68ZAAAAE3RSTlMABxJ10___y4mgMeHtHmOz_0FalMDwdgAAALhJREFUeAGMUgUCgEAMsoZ16f__ag67iwVwlfy-0ixL7wt5IRCgvKlVgrqZyddai5bZm5rZgpNtBVjipsjHb-7WVsCvfWGqZZtSDkSFLniVYqYE1CeVBUWg0qJAqKH62TZfoFVUwLGfqQAiCVYBR7QhG0S9NzFDz45Odpuc5xrUyNlFlERCka19XWqDdiFy5kLViRrcNElhjUT1GF_bMcoD4tNZ8UGam7x1rioh1S2pKkpfxWQYFQAAvpcF1sv0R0kAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrYCL2dvdG8_dXJsPUNBRVMzQUVCeENKRjE2azBjTENvMXFTSTB6UllvUnNJTDBKLVdlM1ZjOTd4QXNjVHppNTdaWGdnX3FCX2NTTXhvc2JROUFjYlhQbW1HdEZNeFkwTHppdFkxb2NiUUtsLXRCUTBTY3ZlSlpQZk82LV9GYWJndVR1enhvel80Q2dnQ0k2V3RMM3FIS3FJNlNIekFvRGlqcDcwS1pfa0JsZG1XZHFBNE1CZ3RtMWwtZ3NoZlZmV3VKWGNKOWF6aDBvYkJYZkhZTDQ3ZVJTTm5vRHhHa3UxanNyd0JhV0IzTWh6MXlmb3hKV0NOR2d3YU15QnVfQU1kMGFPTkNPRHJoVFJnTkZJdmxkRzZkUkVKODdma3F5UDdUcVlIeDF5WVZiR0xncURuekNWNk5SZhIEGgIIABr7BBIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQNUECA4QABgAIAAqDwoIbW9saWVuZGEVTtZ_QCosCghjYWZldGVyYRXgn4ZAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVsdmAQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMt4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjF4WnBSemZLYjFTaHp5S1NQMkF3ZGV5SXdVWHN5d0NhTDRBNGF4Y0pFU21qdTZDNmdiRWVxeDd3ajN2UkNyZ25QSmFFSE4wOUQwenluaU5wTDR6YVB3OWlERFBDeDh2LVo0SzA2Sl9sRVpGYmRFSTZXcDI0a1dsU0lISGszN3hMcl9BQnFRTkZHSzVjMExGSWpmVmM4cXBSMjlIU2RSTm9sUVZ0QUhmcGttZVp3X1c4TzRPQUVfMkpvT081YWNmcWgtTGlJRnhEOkdRdcOpIHRpcG8gZGUgPGI-bW9saWVuZGE8L2I-IGVzIG1lam9yIHBhcmEgdW5hIDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPkKzATxiPlV0aWxpemEgdW5hIG1vbGllbmRhIG1lZGlhLWZpbmEsIGFsZ28gbcOhcyBncnVlc2EgcXVlIGxhIGRlIGVzcHJlc3NvPC9iPi4gQXPDrSBldml0YXMgdW5hIGV4dHJhY2Npw7NuIGV4Y2VzaXZhIHkgY29uc2lndWVzIHVuIGNhZsOpIGludGVuc28gcGVybyBlcXVpbGlicmFkbywgc2luIG5vdGFzJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrYCL2dvdG8_dXJsPUNBRVMzQUVCeENKRjE2azBjTENvMXFTSTB6UllvUnNJTDBKLVdlM1ZjOTd4QXNjVHppNTdaWGdnX3FCX2NTTXhvc2JROUFjYlhQbW1HdEZNeFkwTHppdFkxb2NiUUtsLXRCUTBTY3ZlSlpQZk82LV9GYWJndVR1enhvel80Q2dnQ0k2V3RMM3FIS3FJNlNIekFvRGlqcDcwS1pfa0JsZG1XZHFBNE1CZ3RtMWwtZ3NoZlZmV3VKWGNKOWF6aDBvYkJYZkhZTDQ3ZVJTTm5vRHhHa3UxanNyd0JhV0IzTWh6MXlmb3hKV0NOR2d3YU15QnVfQU1kMGFPTkNPRHJoVFJnTkZJdmxkRzZkUkVKODdma3F5UDdUcVlIeDF5WVZiR0xncURuekNWNk5SZhIEGgIIABr7BBIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQNUECA4QABgAIAAqDwoIbW9saWVuZGEVTtZ_QCosCghjYWZldGVyYRXgn4ZAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVsdmAQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMt4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjF4WnBSemZLYjFTaHp5S1NQMkF3ZGV5SXdVWHN5d0NhTDRBNGF4Y0pFU21qdTZDNmdiRWVxeDd3ajN2UkNyZ25QSmFFSE4wOUQwenluaU5wTDR6YVB3OWlERFBDeDh2LVo0SzA2Sl9sRVpGYmRFSTZXcDI0a1dsU0lISGszN3hMcl9BQnFRTkZHSzVjMExGSWpmVmM4cXBSMjlIU2RSTm9sUVZ0QUhmcGttZVp3X1c4TzRPQUVfMkpvT081YWNmcWgtTGlJRnhEOkdRdcOpIHRpcG8gZGUgPGI-bW9saWVuZGE8L2I-IGVzIG1lam9yIHBhcmEgdW5hIDxiPmNhZmV0ZXJhIGl0YWxpYW5hPC9iPkKzATxiPlV0aWxpemEgdW5hIG1vbGllbmRhIG1lZGlhLWZpbmEsIGFsZ28gbcOhcyBncnVlc2EgcXVlIGxhIGRlIGVzcHJlc3NvPC9iPi4gQXPDrSBldml0YXMgdW5hIGV4dHJhY2Npw7NuIGV4Y2VzaXZhIHkgY29uc2lndWVzIHVuIGNhZsOpIGludGVuc28gcGVybyBlcXVpbGlicmFkbywgc2luIG5vdGFzJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "BOU Café"
+   },
+   {
+    "position": 5,
+    "title": "Koh – Guía Para Elegir La Molienda Adecuada",
+    "link": "https://koffeeonhome.com/guia-molienda-cafe/?srsltid=AYCX9vIHeyWYgfmlAnZJTGJO4BHbTp8rdEkFF2N57t3A_7Q4zziyVpol",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEBxCJF13u0iLMn-5LdcXzyI0cuUhotpEGvIi25Uz9YYUaoY5NtB0ZJWndLIfNATIfmSJHAvBntXvtvs49gcIZy8BJTXJ7WKCgoHYbp36k0OQKUZc66tLOyhr1vIM3QUpcTzM5xe95p05-Z6kMp3ZKpHH613mypgcMhFr9g4pM-mSpXJ5ZXHHv-yeEYOQGDoYVCoKxCl7vw3MZV0GCgj8i_BsUdtttXsJnsKA&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDAQAQ&uoh=1",
+    "displayed_link": "https://koffeeonhome.com › guia-molienda-cafe",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAUVBMVEVHcExtamu4trY0MTIdGBksKCkpJichHR4eGhucmps6NzhGREQfGxxjYWFST1BcWlpCPz9NSks4NTaEgoNMSUkxLi86Nzg1MjNAPD12dHVMSkqi1OnaAAAAG3RSTlMAKAmz__T___8ao4H_QFg7kGTGCkXf03duHXt87LvyAAABGElEQVR4AX2RB5aDIBRFHyb6ER_N7ux_oRO7khMvHS4dj6gMj7zeOR4pRJe4Y6rbCryvoGyltbMHPmhz31IoczzJkRDr2qM5QYJr29Y5_CTXJLXu8IMyVAsh6e76nXqjP4gAsujiB7fmczyaLqpZGIYWUMOggNaoaDwAPw4ZmnGchVLTAB2LDC9qGygBCHwrWHJYBDFwZIQS6RqVi0wIohW8yCHkzLFaqMg2FUIk3S78fQs0OTukQnlZ4YNPBLJ-1VfBpYKQPLboKX0qMPyZ85C1iErPMF2v2VJMIjB5BymehTCPOcqIecx-v-Qk0kGJFFNbiGT3Fd58AT3pUYm2YV1GL5-lZwFtq4BpyVVQbTUBmLzP0Hg_Af8ftBpQtzEaiwAAAABJRU5ErkJggg.png",
+    "snippet": "Molido Italiana (Moka). Ideal para: cafeteras italianas o moka. Textura: intermedia entre espresso y filtro. Resultado: café intenso, con cuerpo y aroma ...",
+    "snippet_highlighted_words": [
+     "Ideal para: cafeteras italianas o moka"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Molido Italiana (Moka). Ideal para: cafeteras italianas o moka. Textura: intermedia entre espresso y filtro. Resultado: café intenso, con cuerpo y aroma ...",
+      "source_info_link": "https://koffeeonhome.com/guia-molienda-cafe/?srsltid=AYCX9vIHeyWYgfmlAnZJTGJO4BHbTp8rdEkFF2N57t3A_7Q4zziyVpol",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAUVBMVEVHcExtamu4trY0MTIdGBksKCkpJichHR4eGhucmps6NzhGREQfGxxjYWFST1BcWlpCPz9NSks4NTaEgoNMSUkxLi86Nzg1MjNAPD12dHVMSkqi1OnaAAAAG3RSTlMAKAmz__T___8ao4H_QFg7kGTGCkXf03duHXt87LvyAAABGElEQVR4AX2RB5aDIBRFHyb6ER_N7ux_oRO7khMvHS4dj6gMj7zeOR4pRJe4Y6rbCryvoGyltbMHPmhz31IoczzJkRDr2qM5QYJr29Y5_CTXJLXu8IMyVAsh6e76nXqjP4gAsujiB7fmczyaLqpZGIYWUMOggNaoaDwAPw4ZmnGchVLTAB2LDC9qGygBCHwrWHJYBDFwZIQS6RqVi0wIohW8yCHkzLFaqMg2FUIk3S78fQs0OTukQnlZ4YNPBLJ-1VfBpYKQPLboKX0qMPyZ85C1iErPMF2v2VJMIjB5BymehTCPOcqIecx-v-Qk0kGJFFNbiGT3Fd58AT3pUYm2YV1GL5-lZwFtq4BpyVVQbTUBmLzP0Hg_Af8ftBpQtzEaiwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCeENKRjF3MXM0cUF2cThsRHY3RTVGYVdRSkpkajJjQ1lBaEpzRy1Kb0VtMVkxUDZBYkdkTHdqRno3RDYxcUZ6SzlPOV9nLXBkdGJKaHd1cTJBZnVwSmsxNUlNYTl2Mks4dXlxVHFseGp6VXMxY19ZYnRsU0laZkJncDBLQ1hDWXBMZXFTREVKTDFxSjJPaGhPdUJwM0F3QkxsdUlCaVAtby1FZzVsWmNDZ0EzWkxDTHVyU3JJa2JMSThlSzNqOXZpWlNUYlI1cGRBSVFvMVhKME1kcExDSVNyamYwMUV2M0x0dxIEGgIIABqkBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCABAgOEAAYACAAKg8KCG1vbGllbmRhFaBbYEAqLAoIY2FmZXRlcmEVIhynPxoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFcEwoz8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFgxeGVFNGlYTWxLa1FKczJPOWZmZU9ZRXU1U2cyZWRySm84a1hPRzlORHllMzVBYVpaYTJudjFYTGJQSnpjcXVhbWNOSVFadTZsSXpqdy1BTURPRVg0UktpUWhJSXVWUmc5WG00bXkzbV80cTFac05MWTVMb01IQU1LRmJVUE51cVhDMDZKdzo-R3XDrWEgUGFyYSBFbGVnaXIgTGEgPGI-TW9saWVuZGE8L2I-IEFkZWN1YWRhIC0gS29mZmVlIE9uIEhvbWVCqQFNb2xpZG8gSXRhbGlhbmEgKE1va2EpLiA8Yj5JZGVhbCBwYXJhOiBjYWZldGVyYXMgaXRhbGlhbmFzIG8gbW9rYTwvYj4uIFRleHR1cmE6IGludGVybWVkaWEgZW50cmUgZXNwcmVzc28geSBmaWx0cm8uIFJlc3VsdGFkbzogY2Fmw6kgaW50ZW5zbywgY29uIGN1ZXJwbyB5IGFyb21hJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCeENKRjF3MXM0cUF2cThsRHY3RTVGYVdRSkpkajJjQ1lBaEpzRy1Kb0VtMVkxUDZBYkdkTHdqRno3RDYxcUZ6SzlPOV9nLXBkdGJKaHd1cTJBZnVwSmsxNUlNYTl2Mks4dXlxVHFseGp6VXMxY19ZYnRsU0laZkJncDBLQ1hDWXBMZXFTREVKTDFxSjJPaGhPdUJwM0F3QkxsdUlCaVAtby1FZzVsWmNDZ0EzWkxDTHVyU3JJa2JMSThlSzNqOXZpWlNUYlI1cGRBSVFvMVhKME1kcExDSVNyamYwMUV2M0x0dxIEGgIIABqkBBIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCABAgOEAAYACAAKg8KCG1vbGllbmRhFaBbYEAqLAoIY2FmZXRlcmEVIhynPxoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFcEwoz8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYTKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFgxeGVFNGlYTWxLa1FKczJPOWZmZU9ZRXU1U2cyZWRySm84a1hPRzlORHllMzVBYVpaYTJudjFYTGJQSnpjcXVhbWNOSVFadTZsSXpqdy1BTURPRVg0UktpUWhJSXVWUmc5WG00bXkzbV80cTFac05MWTVMb01IQU1LRmJVUE51cVhDMDZKdzo-R3XDrWEgUGFyYSBFbGVnaXIgTGEgPGI-TW9saWVuZGE8L2I-IEFkZWN1YWRhIC0gS29mZmVlIE9uIEhvbWVCqQFNb2xpZG8gSXRhbGlhbmEgKE1va2EpLiA8Yj5JZGVhbCBwYXJhOiBjYWZldGVyYXMgaXRhbGlhbmFzIG8gbW9rYTwvYj4uIFRleHR1cmE6IGludGVybWVkaWEgZW50cmUgZXNwcmVzc28geSBmaWx0cm8uIFJlc3VsdGFkbzogY2Fmw6kgaW50ZW5zbywgY29uIGN1ZXJwbyB5IGFyb21hJm5ic3A7Li4uIgIQAUgAWABoAA",
+    "source": "Koffee On Home"
+   },
+   {
+    "position": 6,
+    "title": "Cómo elegir la molienda del café según tu cafetera",
+    "link": "https://dfrnt.coffee/blogs/info/como-elegir-la-molienda-del-cafe-segun-tu-cafetera?srsltid=AYCX9vKuR94xGYCJh3s01gx1gGTgB75F0aEu35zjRgvFcVRwolLMYrl9",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0QEBxCJF1yb_ohJnMPZNlVT3Jvb-ml_Wtbbt4BOm0XxLGsVmb5aTN25HIIIWLHmYqURiEOMxpZZopuOpRH36VjijTogaYkl4Kq0nonyyxBRvQCFqan4BI66wque1__VFjIiaKc6NkR8VW4t4gwijKEVPy7760fVr_oqvD1U8V3hYkm6Pbkawz13AkX_oHXYYoutl602MQ6Qr-So4mIW0wNzPPpcyYZ74ZiaCca0phqdw8_znCDiVq2nDgdbdG_F1HYL0UDv7PdUMgBJc7oZBYl7CvA&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQFnoECDMQAQ&uoh=1",
+    "displayed_link": "https://dfrnt.coffee › Blog Café Especialidad",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVY4DN_oHvnSL2tnHSSWCbggXroJqpZoKoqKV7-2tVKRMGDszRywq&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABzElEQVR4AeRXgUYEURTdaWbpHwoK6Bs2ICCR6AdGVuxWCFD7CwEqgPqNACREQAj6gghlxczMTOdyLtezBrNv9i17OO57787jvPPuzLzXs6jrOgYlpmBdVVUuQShg-xvNF8QJuAH20I8kKtuiQQDBNnMSfsFTzokw5l-Arpz9EiEHCzADFRPOW2PswgHHCRAoKEpwwO2IEbtxAPhE980KoUjBeycOgJWx-5yrTFWAI-JQXfC6BYyCC1PtTxwrQM0_2G3wWQOzBNxyLDd18AEmzHvdgpx93QJ55g4U2EKdgtv6WnoXADQJUBd29ZXsTACpAtxnjpmPFybAqZOhCgjlwFkQB4BwAioAWC4H0A8uYLW2ILwAMOhbEPZDBC7Fp7hkf7DQnxHS7u94i_k-GJMJGHF8vhMR2irg3jhQ8nl7IJnFqK2AjP2xOQ-8UkBhBD5y_iZPT2PkRoiX4A7nRfOciK4Q1sEbUFA6Dh1x_h7oYtRQnM0O2D3G2BTRwh7LE65ywLEM_GM7bSUAdC8marugMNW_z7lWgC3gk9YCHBElBWRG0DVX3meNeBDQdDUDmP9BGJobctyJAONAieYX4jML8n9SsOwFK3yA4iRFAQCJ-Y4EQFqehwAAAABJRU5ErkJggg.png",
+    "snippet": "¿Qué molienda usar para cafetera italiana? La cafetera moka necesita molienda media-fina, similar a azúcar. ¿Qué molienda usar para V60? La V60 necesita ...",
+    "snippet_highlighted_words": [
+     "La cafetera moka necesita molienda media-fina, similar a azúcar"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "¿Qué molienda usar para cafetera italiana? La cafetera moka necesita molienda media-fina, similar a azúcar. ¿Qué molienda usar para V60? La V60 necesita ...",
+      "source_info_link": "https://dfrnt.coffee/blogs/info/como-elegir-la-molienda-del-cafe-segun-tu-cafetera?srsltid=AYCX9vKuR94xGYCJh3s01gx1gGTgB75F0aEu35zjRgvFcVRwolLMYrl9",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABzElEQVR4AeRXgUYEURTdaWbpHwoK6Bs2ICCR6AdGVuxWCFD7CwEqgPqNACREQAj6gghlxczMTOdyLtezBrNv9i17OO57787jvPPuzLzXs6jrOgYlpmBdVVUuQShg-xvNF8QJuAH20I8kKtuiQQDBNnMSfsFTzokw5l-Arpz9EiEHCzADFRPOW2PswgHHCRAoKEpwwO2IEbtxAPhE980KoUjBeycOgJWx-5yrTFWAI-JQXfC6BYyCC1PtTxwrQM0_2G3wWQOzBNxyLDd18AEmzHvdgpx93QJ55g4U2EKdgtv6WnoXADQJUBd29ZXsTACpAtxnjpmPFybAqZOhCgjlwFkQB4BwAioAWC4H0A8uYLW2ILwAMOhbEPZDBC7Fp7hkf7DQnxHS7u94i_k-GJMJGHF8vhMR2irg3jhQ8nl7IJnFqK2AjP2xOQ-8UkBhBD5y_iZPT2PkRoiX4A7nRfOciK4Q1sEbUFA6Dh1x_h7oYtRQnM0O2D3G2BTRwh7LE65ywLEM_GM7bSUAdC8marugMNW_z7lWgC3gk9YCHBElBWRG0DVX3meNeBDQdDUDmP9BGJobctyJAONAieYX4jML8n9SsOwFK3yA4iRFAQCJ-Y4EQFqehwAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqgCL2dvdG8_dXJsPUNBRVMwUUVCeENKRjEwczFkNFNPS1NSY3FyR29HUklzalFpR3lFVF92bGFmN21abENsS1FPWlUzV1JDQ29vcVNqeHBhdE5NbGVWeThJazJEenpSWDI1dnlvOXY5c2hqSWVrbXl2Ml9ZWE92SDBhcjJNbWQ4WV9wTEpPZG5GOEprS1h4ZnlURFhFNkViV25rbkJ2ZzZJY1hNSklEVHNjcW56aHJrRlpaYXVSR25FQXFhWGh2MWI3UkNfT2dpeW4wNEpWUDRYQm9QVHpfM2dzNVk5SUl4a3JmM19NUGtfdzhMdGxFV2RITjE3MU1PZlF6Y2pkd3RJQ0Z4Q1FuZUdOcnRSWWNNLWJEN0Z4NHdNTFdnMlFiWFZyWGEzSGlBY0ESBBoCCAAa8AQSAggAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQMgECA4QABgAIAAqDwoIbW9saWVuZGEVTfeXQCosCghjYWZldGVyYRWV5YBAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVG1eJPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMtABL2dvdG8_dXJsPUNBRVNqd0VCeENKRjE4NFpLRXdpTGFhUDZfb0RrTHBFcC02c3JZM3JvdTA2MGozZFhOWnllVkRaekFNSndsRXRjamJJZG1ZX21mVFBDa3Y2NDZxTmk3TElNTkQtb19WZGJ6a3ZBd21wVG5oblZKanlWcnFIMGJ2ODlSUEN2RVRnY0VKTTFLMkJHUGdLQXZYbDBVem9XUVRvc180bWlJNGxnNmZEaVdrYUdVeFZJRHFSTnVjNGRRN0lVVWdZTTA4ZVEwS1ppQTpOQ8OzbW8gZWxlZ2lyIGxhIDxiPm1vbGllbmRhPC9iPiBkZWwgY2Fmw6kgc2Vnw7puIHR1IDxiPmNhZmV0ZXJhPC9iPiDigJMgREZSTlQuQq0Bwr9RdcOpIG1vbGllbmRhIHVzYXIgcGFyYSBjYWZldGVyYSBpdGFsaWFuYT8gPGI-TGEgY2FmZXRlcmEgbW9rYSBuZWNlc2l0YSBtb2xpZW5kYSBtZWRpYS1maW5hLCBzaW1pbGFyIGEgYXrDumNhcjwvYj4uIMK_UXXDqSBtb2xpZW5kYSB1c2FyIHBhcmEgVjYwPyBMYSBWNjAgbmVjZXNpdGEmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqgCL2dvdG8_dXJsPUNBRVMwUUVCeENKRjEwczFkNFNPS1NSY3FyR29HUklzalFpR3lFVF92bGFmN21abENsS1FPWlUzV1JDQ29vcVNqeHBhdE5NbGVWeThJazJEenpSWDI1dnlvOXY5c2hqSWVrbXl2Ml9ZWE92SDBhcjJNbWQ4WV9wTEpPZG5GOEprS1h4ZnlURFhFNkViV25rbkJ2ZzZJY1hNSklEVHNjcW56aHJrRlpaYXVSR25FQXFhWGh2MWI3UkNfT2dpeW4wNEpWUDRYQm9QVHpfM2dzNVk5SUl4a3JmM19NUGtfdzhMdGxFV2RITjE3MU1PZlF6Y2pkd3RJQ0Z4Q1FuZUdOcnRSWWNNLWJEN0Z4NHdNTFdnMlFiWFZyWGEzSGlBY0ESBBoCCAAa8AQSAggAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQMgECA4QABgAIAAqDwoIbW9saWVuZGEVTfeXQCosCghjYWZldGVyYRWV5YBAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVG1eJPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hMtABL2dvdG8_dXJsPUNBRVNqd0VCeENKRjE4NFpLRXdpTGFhUDZfb0RrTHBFcC02c3JZM3JvdTA2MGozZFhOWnllVkRaekFNSndsRXRjamJJZG1ZX21mVFBDa3Y2NDZxTmk3TElNTkQtb19WZGJ6a3ZBd21wVG5oblZKanlWcnFIMGJ2ODlSUEN2RVRnY0VKTTFLMkJHUGdLQXZYbDBVem9XUVRvc180bWlJNGxnNmZEaVdrYUdVeFZJRHFSTnVjNGRRN0lVVWdZTTA4ZVEwS1ppQTpOQ8OzbW8gZWxlZ2lyIGxhIDxiPm1vbGllbmRhPC9iPiBkZWwgY2Fmw6kgc2Vnw7puIHR1IDxiPmNhZmV0ZXJhPC9iPiDigJMgREZSTlQuQq0Bwr9RdcOpIG1vbGllbmRhIHVzYXIgcGFyYSBjYWZldGVyYSBpdGFsaWFuYT8gPGI-TGEgY2FmZXRlcmEgbW9rYSBuZWNlc2l0YSBtb2xpZW5kYSBtZWRpYS1maW5hLCBzaW1pbGFyIGEgYXrDumNhcjwvYj4uIMK_UXXDqSBtb2xpZW5kYSB1c2FyIHBhcmEgVjYwPyBMYSBWNjAgbmVjZXNpdGEmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "dfrnt.coffee"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Molienda italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Molienda+italiana&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhfEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Molienda+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Grado de molienda cafetera superautomática",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Grado+de+molienda+cafetera+superautom%C3%A1tica&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhxEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Grado+de+molienda+cafetera+superautom%C3%A1tica"
+   },
+   {
+    "block_position": 1,
+    "query": "Mejor marca café molido para cafetera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Mejor+marca+caf%C3%A9+molido+para+cafetera+italiana&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhvEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Mejor+marca+caf%C3%A9+molido+para+cafetera+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Café molienda media Mercadona",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Caf%C3%A9+molienda+media+Mercadona&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhuEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Caf%C3%A9+molienda+media+Mercadona"
+   },
+   {
+    "block_position": 1,
+    "query": "Moler café para cafetera italiana en Thermomix",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Moler+caf%C3%A9+para+cafetera+italiana+en+Thermomix&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhrEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Moler+caf%C3%A9+para+cafetera+italiana+en+Thermomix"
+   },
+   {
+    "block_position": 1,
+    "query": "Molienda prensa francesa",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Molienda+prensa+francesa&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhpEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Molienda+prensa+francesa"
+   },
+   {
+    "block_position": 1,
+    "query": "Ajustar molienda café",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Ajustar+molienda+caf%C3%A9&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhmEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Ajustar+molienda+caf%C3%A9"
+   },
+   {
+    "block_position": 1,
+    "query": "Molienda espresso",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&q=Molienda+espresso&sa=X&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ1QJ6BAhjEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Molienda+espresso"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=10&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8NMDegQIUBAW",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=10&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAE",
+    "3": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=20&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAG",
+    "4": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=30&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAI",
+    "5": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=40&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAK",
+    "6": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=50&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAM",
+    "7": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=60&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAO",
+    "8": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=70&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAQ",
+    "9": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=80&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAS",
+    "10": "https://www.google.es/search?q=molienda+cafetera+italiana&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDiEjXP8J9KOLuBuFaT1EmdDF-KwOA:1794401344704&ei=QGT0auq-Kt-SruEPzbPf4Ag&start=90&sa=N&sstk=AYl2yk8VFLvxFq8soJw_eKodB12wj90Sv4T6tR2YU7HiNSSwGTZN2gGNQtX2ifxbJwSTvSif7iPLOQbr_uD60pFZ9XGspAWfIK-LLQ&ved=2ahUKEwjq3vD1-f-XAxVfiSsGHc3ZF4wQ8tMDegQIUBAU"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=60",
+    "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=70",
+    "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=80",
+    "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+cafetera+italiana&start=90"
+   }
+  }
+ }
+}

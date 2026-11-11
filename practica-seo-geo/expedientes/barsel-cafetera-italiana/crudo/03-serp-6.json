@@ -1,0 +1,430 @@
+{
+ "capturado": "2026-11-11T12:49:12Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "molienda recomendada para cafetera italiana",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af46447d65b8c2f73afab4b",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/KJnStm0FLJvOcg4l92Outcvi-SLaCslRkSUqgrgvoc0/6af46447d65b8c2f73afab4b.json",
+   "markdown_endpoint": "https://serpapi.com/searches/KJnStm0FLJvOcg4l92Outcvi-SLaCslRkSUqgrgvoc0/6af46447d65b8c2f73afab4b.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/KJnStm0FLJvOcg4l92Outcvi-SLaCslRkSUqgrgvoc0/6af46447d65b8c2f73afab4b.json_with_pixel_position",
+   "created_at": "2026-11-11 12:49:11 UTC",
+   "processed_at": "2026-11-11 12:49:11 UTC",
+   "google_url": "https://www.google.es/search?q=molienda+recomendada+para+cafetera+italiana&oq=molienda+recomendada+para+cafetera+italiana&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/KJnStm0FLJvOcg4l92Outcvi-SLaCslRkSUqgrgvoc0/6af46447d65b8c2f73afab4b.html",
+   "total_time_taken": 1.66
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "molienda recomendada para cafetera italiana",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "molienda recomendada para cafetera italiana",
+   "total_results": 264000000,
+   "time_taken_displayed": 1.5,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+   {
+    "question": "¿Cuáles son las mejores recetas de pasta italiana?",
+    "type": "ai_overview",
+    "page_token": "bLAJ1nicHdBLbqMwAABQzWW6bPg0aSdSNBKVQ6DFCP-IvanAJnFqO9DilCTLnmVWc5g5QM_RA4w07wjv87c9HM3Xj5P2fhiXs9k0Tbf7vt_b7rYbZ814OcqZbKxtG2mWi_tF-GsnV-CUJY9vWVJRBLhVljv20Rkw527AOFIJDh8uEKhNbcUGMfjUBDDAQLgCaNS6IS8Iy1h6xnD9Myu2A2GWIRT5qDXzplzDrHWhw4SNZQ0vlYECURBVLD_VLHntAHQtRT0E_RxuUKaMD9urptygE4_UG7TyUjIRsFrG8KpTzuQdiViuUnQgsfLqCkdWo0IAxVFgh8rSM3TcY6oWNTjHxMAEaIULW018mw8N8E9VpAcCwmobCd6lPimT_lBRXRaAxngtvVyruTD58Zk-xAJoygg_Y4Y0psHE6pCI6WYnP1bxzf_P1cvO-eXw3u__yPeu8Z16afzf12-V_gMrbYqC",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bLAJ1nicHdBLbqMwAABQzWW6bPg0aSdSNBKVQ6DFCP-IvanAJnFqO9DilCTLnmVWc5g5QM_RA4w07wjv87c9HM3Xj5P2fhiXs9k0Tbf7vt_b7rYbZ814OcqZbKxtG2mWi_tF-GsnV-CUJY9vWVJRBLhVljv20Rkw527AOFIJDh8uEKhNbcUGMfjUBDDAQLgCaNS6IS8Iy1h6xnD9Myu2A2GWIRT5qDXzplzDrHWhw4SNZQ0vlYECURBVLD_VLHntAHQtRT0E_RxuUKaMD9urptygE4_UG7TyUjIRsFrG8KpTzuQdiViuUnQgsfLqCkdWo0IAxVFgh8rSM3TcY6oWNTjHxMAEaIULW018mw8N8E9VpAcCwmobCd6lPimT_lBRXRaAxngtvVyruTD58Zk-xAJoygg_Y4Y0psHE6pCI6WYnP1bxzf_P1cvO-eXw3u__yPeu8Z16afzf12-V_gMrbYqC",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK/Q3XDoWxlcyBzb24gbGFzIG1lam9yZXMgcmVjZXRhcyBkZSBwYXN0YSBpdGFsaWFuYT8iLCJsayI6IkdpRnRaV3B2Y21WeklISmxZMlYwWVhNZ1pHVWdjR0Z6ZEdFZ2FYUmhiR2xoYm1FIiwiYnMiOiJjNFdPdlFyQ1FCQ0VzZDNLVG5MLWNHSnZFYlFUVWxqYTJGbFlMWmRGSTVlN2NEOFBaR250QXdTU0YzTVJRa1FKZGp2TU56c0RaOWcwOVQ2MmQwMWVlbXVrUmk5THVsbkgycEdpd0RvbldhRVBLSXVBdWtDRFdib1N5NzhVSEdETno5dG5hYVZuMDFHRkRybUJpNm9lazRwcjM4a3NUY1Jrd0lNZHpMdG5WMVRrZmlaTlJhTHNnQXNuMkRiMU1WTE9nM04wSlVuVWwyaXduNDh4dEE4VENzVjNGX05adWhDekQ0Sy1nZkhvQlEiLCJpZCI6ImZjX1IyVDBhcmloS0pDaGlMTVBfZlh4a0E4XzIifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK%2FQ3XDoWxlcyBzb24gbGFzIG1lam9yZXMgcmVjZXRhcyBkZSBwYXN0YSBpdGFsaWFuYT8iLCJsayI6IkdpRnRaV3B2Y21WeklISmxZMlYwWVhNZ1pHVWdjR0Z6ZEdFZ2FYUmhiR2xoYm1FIiwiYnMiOiJjNFdPdlFyQ1FCQ0VzZDNLVG5MLWNHSnZFYlFUVWxqYTJGbFlMWmRGSTVlN2NEOFBaR250QXdTU0YzTVJRa1FKZGp2TU56c0RaOWcwOVQ2MmQwMWVlbXVrUmk5THVsbkgycEdpd0RvbldhRVBLSXVBdWtDRFdib1N5NzhVSEdETno5dG5hYVZuMDFHRkRybUJpNm9lazRwcjM4a3NUY1Jrd0lNZHpMdG5WMVRrZmlaTlJhTHNnQXNuMkRiMU1WTE9nM04wSlVuVWwyaXduNDh4dEE4VENzVjNGX05adWhDekQ0Sy1nZkhvQlEiLCJpZCI6ImZjX1IyVDBhcmloS0pDaGlMTVBfZlh4a0E4XzIifQ%3D%3D"
+   },
+   {
+    "question": "¿Cómo se prepara la sopa italiana con pasta?",
+    "type": "ai_overview",
+    "page_token": "ClmVlXicHdBRToMwGADgeBkfHTCmbsligmuZIDUU2k5eTGlhbPwDlGZsPHoWnzyMB_AcHkDjCb7ke_-AXVN_X4jKmK5fTCbDMFxt23YLxVXRT2R_btRESYBcqnpxfXNt35VqifrBu28HL2YUPYMGIWwrs7uINTpTTnbM-e2MccIICpyiQUO-JlTXPON8DimrwgxDrEbYFICRwl7AUEWKfZDEls3VARx5uDXJOnYlO81SKzgSC8p03RHN5uGTQCdduyZHJmR7iAXvBrGBaT5WMbXrkfg05AydMggwQfM0mpLwaYVf2UgeSYpBpJSIJkqw_XDmK6_689rE6lbShyjlXplB5UoLuf4u8BLkDjTVWI7eWWHaq5U3i4Q5Mn8OTFAmdpaTTLkTj5peluq4nF7-jy1fyoNZdG_t9lO9FdIU-kWar_2P9n8BksN_dw",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ClmVlXicHdBRToMwGADgeBkfHTCmbsligmuZIDUU2k5eTGlhbPwDlGZsPHoWnzyMB_AcHkDjCb7ke_-AXVN_X4jKmK5fTCbDMFxt23YLxVXRT2R_btRESYBcqnpxfXNt35VqifrBu28HL2YUPYMGIWwrs7uINTpTTnbM-e2MccIICpyiQUO-JlTXPON8DimrwgxDrEbYFICRwl7AUEWKfZDEls3VARx5uDXJOnYlO81SKzgSC8p03RHN5uGTQCdduyZHJmR7iAXvBrGBaT5WMbXrkfg05AydMggwQfM0mpLwaYVf2UgeSYpBpJSIJkqw_XDmK6_689rE6lbShyjlXplB5UoLuf4u8BLkDjTVWI7eWWHaq5U3i4Q5Mn8OTFAmdpaTTLkTj5peluq4nF7-jy1fyoNZdG_t9lO9FdIU-kWar_2P9n8BksN_dw",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK/Q8OzbW8gc2UgcHJlcGFyYSBsYSBzb3BhIGl0YWxpYW5hIGNvbiBwYXN0YT8iLCJsayI6IkdoZHpiM0JoSUdsMFlXeHBZVzVoSUdOdmJpQndZWE4wWVEiLCJicyI6ImM0V092UXJDUUJDRXNkM0tUbkwtY0dKdkViUVRVbGphMkZsWUxaZEZJNWU3Y0Q4UFpHbnRBd1NTRjNNUlFrUUpkanZNTnpzRFo5ZzA5VDYyZDAxZWVtdWtSaTlMdWxuSDJwR2l3RG9uV2FFUEtJdUF1a0NEV2JvU3k3OFVIR0ROejl0bmFhVm4wMUdGRHJtQmk2b2VrNHByMzhrc1RjUmt3SU1kekx0blYxVGtmaVpOUmFMc2dBc24yRGIxTVZMT2czTjBKVW5VbDJpd240OHh0QThUQ3NWM0ZfTlp1aEN6RDRLLWdmSG9CUSIsImlkIjoiZmNfUjJUMGFyaWhLSkNoaUxNUF9mWHhrQThfMiJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK%2FQ8OzbW8gc2UgcHJlcGFyYSBsYSBzb3BhIGl0YWxpYW5hIGNvbiBwYXN0YT8iLCJsayI6IkdoZHpiM0JoSUdsMFlXeHBZVzVoSUdOdmJpQndZWE4wWVEiLCJicyI6ImM0V092UXJDUUJDRXNkM0tUbkwtY0dKdkViUVRVbGphMkZsWUxaZEZJNWU3Y0Q4UFpHbnRBd1NTRjNNUlFrUUpkanZNTnpzRFo5ZzA5VDYyZDAxZWVtdWtSaTlMdWxuSDJwR2l3RG9uV2FFUEtJdUF1a0NEV2JvU3k3OFVIR0ROejl0bmFhVm4wMUdGRHJtQmk2b2VrNHByMzhrc1RjUmt3SU1kekx0blYxVGtmaVpOUmFMc2dBc24yRGIxTVZMT2czTjBKVW5VbDJpd240OHh0QThUQ3NWM0ZfTlp1aEN6RDRLLWdmSG9CUSIsImlkIjoiZmNfUjJUMGFyaWhLSkNoaUxNUF9mWHhrQThfMiJ9"
+   },
+   {
+    "question": "¿Cómo hacer pasta italiana?",
+    "type": "ai_overview",
+    "page_token": "RQeTdnicHdBRboIwGADg7DI-ahF00cQsqRaEBAltqYUXU6iA-itMcQiPO8uedpgdYOfYAbbsBl--9w84XE7fT9uyaerbfDRq23ZYVFUB--H-NlK37pKNMgWQquw0nz5PjZc8W5Bbi5dVi8OIkhg0xBeR8LXoQxn3G9Nzwp4-UkLrFImARqTfOJtSr2mU2bMg6fGWranvg13pJWqlQXNOvDs_16466jFDpzEXeskl9oPtbCqR2_MzBWaUVx01hpL0zsyqF8Jz4tMk1I7XCRN3QWSHIjKEAhqnsn5lsk40elgJKSyJJkmIjC0D6LR0zUAWzDbcTqxwmZ2hYqheKQd8LnCeQGkpRCzn4GFGrJZy7frRRP15uvgYWoJD6BNtBWsQqZ2U6RgiZmM8yLO3hTn4H1vs8nMzr69V8Zld96rZ651qvo4_2vkFgMJ-9w",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RQeTdnicHdBRboIwGADg7DI-ahF00cQsqRaEBAltqYUXU6iA-itMcQiPO8uedpgdYOfYAbbsBl--9w84XE7fT9uyaerbfDRq23ZYVFUB--H-NlK37pKNMgWQquw0nz5PjZc8W5Bbi5dVi8OIkhg0xBeR8LXoQxn3G9Nzwp4-UkLrFImARqTfOJtSr2mU2bMg6fGWranvg13pJWqlQXNOvDs_16466jFDpzEXeskl9oPtbCqR2_MzBWaUVx01hpL0zsyqF8Jz4tMk1I7XCRN3QWSHIjKEAhqnsn5lsk40elgJKSyJJkmIjC0D6LR0zUAWzDbcTqxwmZ2hYqheKQd8LnCeQGkpRCzn4GFGrJZy7frRRP15uvgYWoJD6BNtBWsQqZ2U6RgiZmM8yLO3hTn4H1vs8nMzr69V8Zld96rZ651qvo4_2vkFgMJ-9w",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK/Q8OzbW8gaGFjZXIgcGFzdGEgaXRhbGlhbmE/IiwibGsiOiJHaGxqYjIxdklHaGhZMlZ5SUhCaGMzUmhJR2wwWVd4cFlXNWgiLCJicyI6ImM0V092UXJDUUJDRXNkM0tUbkwtY0dKdkViUVRVbGphMkZsWUxaZEZJNWU3Y0Q4UFpHbnRBd1NTRjNNUlFrUUpkanZNTnpzRFo5ZzA5VDYyZDAxZWVtdWtSaTlMdWxuSDJwR2l3RG9uV2FFUEtJdUF1a0NEV2JvU3k3OFVIR0ROejl0bmFhVm4wMUdGRHJtQmk2b2VrNHByMzhrc1RjUmt3SU1kekx0blYxVGtmaVpOUmFMc2dBc24yRGIxTVZMT2czTjBKVW5VbDJpd240OHh0QThUQ3NWM0ZfTlp1aEN6RDRLLWdmSG9CUSIsImlkIjoiZmNfUjJUMGFyaWhLSkNoaUxNUF9mWHhrQThfMiJ9",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK%2FQ8OzbW8gaGFjZXIgcGFzdGEgaXRhbGlhbmE%2FIiwibGsiOiJHaGxqYjIxdklHaGhZMlZ5SUhCaGMzUmhJR2wwWVd4cFlXNWgiLCJicyI6ImM0V092UXJDUUJDRXNkM0tUbkwtY0dKdkViUVRVbGphMkZsWUxaZEZJNWU3Y0Q4UFpHbnRBd1NTRjNNUlFrUUpkanZNTnpzRFo5ZzA5VDYyZDAxZWVtdWtSaTlMdWxuSDJwR2l3RG9uV2FFUEtJdUF1a0NEV2JvU3k3OFVIR0ROejl0bmFhVm4wMUdGRHJtQmk2b2VrNHByMzhrc1RjUmt3SU1kekx0blYxVGtmaVpOUmFMc2dBc24yRGIxTVZMT2czTjBKVW5VbDJpd240OHh0QThUQ3NWM0ZfTlp1aEN6RDRLLWdmSG9CUSIsImlkIjoiZmNfUjJUMGFyaWhLSkNoaUxNUF9mWHhrQThfMiJ9"
+   },
+   {
+    "question": "¿Puedes darme algunas recetas auténticas italianas?",
+    "type": "ai_overview",
+    "page_token": "ZTS8vnicHdBfbpswHABg7TJ9bDCsmRIpmsQwprR2avPHgZeK2CSm_AAncUK7x51lTzvMDrBz7ACT9h3h-_ETurH_8-lqnLOX9WIxz_P9cZqO0N63l0Vz-RjVQjUA-0b16-WXJfp6UBt8fQy_nR5DXghcgQaZM1R68FAVq6729bMYXKUlqlsobznu3-nIlixKE4riUx3EgQjqmQ8rJPrKKxPRcR-hLIiTLYZT3iGvjhiVwAiL2IERsPvRckkeEknMuQrURx4J1hZWZEn4mfnU38f2JRvSq0ZhQAf3zCAeFDZPTRRfBe6_7wJNpOReWZYveZnesggmFhtEoaZ6SCuJ02VTWl-A9RRGITY6o8DnapfaBrsn7hubY8R3fl21xIXbcOp4YbYUF4Ho63cRK0-OsGOwQoq4aF-KRPjmzEbzpgn0Bb87qNsmuPv_uXk9DG5tz9Pxlzq3jWv1a-N-v_3V5B-qvofg",
+    "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZTS8vnicHdBfbpswHABg7TJ9bDCsmRIpmsQwprR2avPHgZeK2CSm_AAncUK7x51lTzvMDrBz7ACT9h3h-_ETurH_8-lqnLOX9WIxz_P9cZqO0N63l0Vz-RjVQjUA-0b16-WXJfp6UBt8fQy_nR5DXghcgQaZM1R68FAVq6729bMYXKUlqlsobznu3-nIlixKE4riUx3EgQjqmQ8rJPrKKxPRcR-hLIiTLYZT3iGvjhiVwAiL2IERsPvRckkeEknMuQrURx4J1hZWZEn4mfnU38f2JRvSq0ZhQAf3zCAeFDZPTRRfBe6_7wJNpOReWZYveZnesggmFhtEoaZ6SCuJ02VTWl-A9RRGITY6o8DnapfaBrsn7hubY8R3fl21xIXbcOp4YbYUF4Ho63cRK0-OsGOwQoq4aF-KRPjmzEbzpgn0Bb87qNsmuPv_uXk9DG5tz9Pxlzq3jWv1a-N-v_3V5B-qvofg",
+    "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK/UHVlZGVzIGRhcm1lIGFsZ3VuYXMgcmVjZXRhcyBhdXTDqW50aWNhcyBpdGFsaWFuYXM/IiwibGsiOiJHaHh5WldObGRHRnpJR0YxZEdWdWRHbGpZWE1nYVhSaGJHbGhibUZ6IiwiYnMiOiJjNFdPdlFyQ1FCQ0VzZDNLVG5MLWNHSnZFYlFUVWxqYTJGbFlMWmRGSTVlN2NEOFBaR250QXdTU0YzTVJRa1FKZGp2TU56c0RaOWcwOVQ2MmQwMWVlbXVrUmk5THVsbkgycEdpd0RvbldhRVBLSXVBdWtDRFdib1N5NzhVSEdETno5dG5hYVZuMDFHRkRybUJpNm9lazRwcjM4a3NUY1Jrd0lNZHpMdG5WMVRrZmlaTlJhTHNnQXNuMkRiMU1WTE9nM04wSlVuVWwyaXduNDh4dEE4VENzVjNGX05adWhDekQ0Sy1nZkhvQlEiLCJpZCI6ImZjX1IyVDBhcmloS0pDaGlMTVBfZlh4a0E4XzIifQ==",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWQxRk5iVkJXVTJsalZraDFVSEpyTldwck9IVnJWSHBCZUd0RmQxSTFTalJ0ZFRsV1VEaFBPVWRSZVhkblgxTkZVMDl3UkZCRWRGVXphbHBGVEV4SloyaENRV1ZSU3pWTFlXRnJSMVZuZG5kRGFsTk9Ra1JhVG5kb2R4SVhVakpVTUdGeWFXaExTa05vYVV4TlVGOW1XSGhyUVRnYUlrRklUakJGTjBadGFIVmtZa2hrYWtwTFRuVlVSRjlsY0haSGRFWlhXRm80VUhjIiwiZmN2IjoiMyIsImVpIjoiUjJUMGFyaWhLSkNoaUxNUF9mWHhrQTgiLCJxYyI6ImMtUFN6czNQeVV6TlMwbFVLRXBOenM4RnNZRHNnc1NpUklYa3hMVFVrbFFnSTdNa01TY3pNUzlSZ0tfMmVLeXVQUUEiLCJxdWVzdGlvbiI6IsK%2FUHVlZGVzIGRhcm1lIGFsZ3VuYXMgcmVjZXRhcyBhdXTDqW50aWNhcyBpdGFsaWFuYXM%2FIiwibGsiOiJHaHh5WldObGRHRnpJR0YxZEdWdWRHbGpZWE1nYVhSaGJHbGhibUZ6IiwiYnMiOiJjNFdPdlFyQ1FCQ0VzZDNLVG5MLWNHSnZFYlFUVWxqYTJGbFlMWmRGSTVlN2NEOFBaR250QXdTU0YzTVJRa1FKZGp2TU56c0RaOWcwOVQ2MmQwMWVlbXVrUmk5THVsbkgycEdpd0RvbldhRVBLSXVBdWtDRFdib1N5NzhVSEdETno5dG5hYVZuMDFHRkRybUJpNm9lazRwcjM4a3NUY1Jrd0lNZHpMdG5WMVRrZmlaTlJhTHNnQXNuMkRiMU1WTE9nM04wSlVuVWwyaXduNDh4dEE4VENzVjNGX05adWhDekQ0Sy1nZkhvQlEiLCJpZCI6ImZjX1IyVDBhcmloS0pDaGlMTVBfZlh4a0E4XzIifQ%3D%3D"
+   }
+  ],
+  "ai_overview": {
+   "page_token": "GBFlfHiczZVblqJIEEA3MNsYfroU8G2dw-mTpGjho0vUqtL-4fBIEgTEIVFLP2ct8zWLmQXMOmYBkzxUqFKrun9m4oPIR2RkZBI34_c_PGfl_v3Lkx1Fa3LPsrvdroyDAHuojAirkf3KYK3AI6FhfyXBJjSQYwqGHQY-YtJ-1isHOmN7AiIMTr77rVBlDCJwDHKESWXGaaFjD_rQdoajsWrNX13QYhL_gqprBC3p7q9Lwqos_bi_Vju0UyY0iPLS7r9adaD53xflCleplh9ZzacG4D8UrAAMAFSAdNNMAUD-lD9qJVJXOF6RX6-c_GTfDshc0q3T0cE1nzD1SRtycNplfOj4vRadOW4E6TluHQLGk4tj7-XYwDjdQDxF90mJF-DsOFJu7JbAK-OxH4gLrj9elN5hUWQ1VZc9SQVn8LSnuAevu9FImnx4ATRRxIMMXPn2XR-t1419tKCnY01M85xj9ZAqnnUM20gaIYnTH87aXNDduN1Bbc1vwLwx8nrLl4Pe10uHJu9MMGvo1M4LNBOZqq1yX5M-X-HrXLvabN0l3BnkBB7Jgzcez5H0tA9KKikPyyJ_pA4W_jcuBC7GaYHBO8FieoNvp3JsSHSycOv5e1ImhWVPx2Hg0AxXxFExiEkjVsF5ZLwAHSwphd1hTl2jLo3j2MmoS8CR0xw4eswHDjtx7FIuYXKnhJczRU5t5DSY9AtBLaVOArtUpToJ-R0wUBZlnA-lmGbShIbtdEHCfQ9gGMH0zB18dJlIz5ZwgnYm55YCbABTu6CQAUohlhgFOd5CkjBUun1qO5WT5ckmcvxwZPchnRdmI8W_fBYXjAD86I24KvBCQl60A0fO3mCTx00KGju4n_uP_W8jhZSW875VGz7XJ6re3V3GK_D1Hyhsxv8bwKzsPWWTNwCUPwWgTP_rR2VPelP2uimAgxsAigmAl8pe53LZew-gI-UBfAEZgFfL3s8AGJveAhDeAPCc1W8AnF4FMLvDHICnsncRwHPZywD8ybIHf7zsJRiiVBVr4GaJr9bC3oYbYxfZ1sE1B_hgW68K3yvB-kpVlQ9roeVH975meneqY96LlX60N-9UOhDcI5P5TfADz0ErU_sSxkjHLdpea6H2xdAsFCHacCLNc7SVxvheGAicVht894DX3HItMlWrs-G29DCDy8dafeHWJs6WC2yLeE3xRdy75CCjZ7E07i7F-TfX131sjNvhvNJQBqbx4D4-NcNuk5tWH4iK-lt9ttcG7pCv43YL824DSbr_uOo2va6zarTGL89uidTXJqw9hOvRaO5O-CnRrV0SFxEUXbThCqjL8YjxQ0Og_7gWxA83TXINiDvQp6_FgObxgOoh1cNABMrDAig0V5VOQFOJIYamIrIVWhyy6m2rUeX1SrXFm4yPo_1aaHMMWYUC_6cRIi2iF65Ffy3_MXv_ApakiU8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GBFlfHiczZVblqJIEEA3MNsYfroU8G2dw-mTpGjho0vUqtL-4fBIEgTEIVFLP2ct8zWLmQXMOmYBkzxUqFKrun9m4oPIR2RkZBI34_c_PGfl_v3Lkx1Fa3LPsrvdroyDAHuojAirkf3KYK3AI6FhfyXBJjSQYwqGHQY-YtJ-1isHOmN7AiIMTr77rVBlDCJwDHKESWXGaaFjD_rQdoajsWrNX13QYhL_gqprBC3p7q9Lwqos_bi_Vju0UyY0iPLS7r9adaD53xflCleplh9ZzacG4D8UrAAMAFSAdNNMAUD-lD9qJVJXOF6RX6-c_GTfDshc0q3T0cE1nzD1SRtycNplfOj4vRadOW4E6TluHQLGk4tj7-XYwDjdQDxF90mJF-DsOFJu7JbAK-OxH4gLrj9elN5hUWQ1VZc9SQVn8LSnuAevu9FImnx4ATRRxIMMXPn2XR-t1419tKCnY01M85xj9ZAqnnUM20gaIYnTH87aXNDduN1Bbc1vwLwx8nrLl4Pe10uHJu9MMGvo1M4LNBOZqq1yX5M-X-HrXLvabN0l3BnkBB7Jgzcez5H0tA9KKikPyyJ_pA4W_jcuBC7GaYHBO8FieoNvp3JsSHSycOv5e1ImhWVPx2Hg0AxXxFExiEkjVsF5ZLwAHSwphd1hTl2jLo3j2MmoS8CR0xw4eswHDjtx7FIuYXKnhJczRU5t5DSY9AtBLaVOArtUpToJ-R0wUBZlnA-lmGbShIbtdEHCfQ9gGMH0zB18dJlIz5ZwgnYm55YCbABTu6CQAUohlhgFOd5CkjBUun1qO5WT5ckmcvxwZPchnRdmI8W_fBYXjAD86I24KvBCQl60A0fO3mCTx00KGju4n_uP_W8jhZSW875VGz7XJ6re3V3GK_D1Hyhsxv8bwKzsPWWTNwCUPwWgTP_rR2VPelP2uimAgxsAigmAl8pe53LZew-gI-UBfAEZgFfL3s8AGJveAhDeAPCc1W8AnF4FMLvDHICnsncRwHPZywD8ybIHf7zsJRiiVBVr4GaJr9bC3oYbYxfZ1sE1B_hgW68K3yvB-kpVlQ9roeVH975meneqY96LlX60N-9UOhDcI5P5TfADz0ErU_sSxkjHLdpea6H2xdAsFCHacCLNc7SVxvheGAicVht894DX3HItMlWrs-G29DCDy8dafeHWJs6WC2yLeE3xRdy75CCjZ7E07i7F-TfX131sjNvhvNJQBqbx4D4-NcNuk5tWH4iK-lt9ttcG7pCv43YL824DSbr_uOo2va6zarTGL89uidTXJqw9hOvRaO5O-CnRrV0SFxEUXbThCqjL8YjxQ0Og_7gWxA83TXINiDvQp6_FgObxgOoh1cNABMrDAig0V5VOQFOJIYamIrIVWhyy6m2rUeX1SrXFm4yPo_1aaHMMWYUC_6cRIi2iF65Ffy3_MXv_ApakiU8"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Sara 🇮🇹 cocina italiana auténtica (@unaitalianaenlacocina)",
+    "link": "https://www.instagram.com/unaitalianaenlacocina/?hl=es",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXylb6OaRMYMhVKJ-OlMnVH97D1xcZ_1Dfejf2kZrYsUw1EcLxFV6UfgkfoXf1TsseUkV8x9RbqV-K7IlFbeEDMOcXriw8pkzdivPFsYirSMzkhDSzRgFA3b_AN5o7BCMKkKql8KggMJwoxhbOqy0&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECCgQAQ&uoh=1",
+    "displayed_link": "Más de 70,4 mil seguidores",
+    "thumbnail": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2Mf3GOn0npihlHs7mVOz230I.jpg",
+    "favicon": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2MUjljnycbCPZxFGoeGYDeKs.png",
+    "snippet": "De mi familia a los clásicos regionales. Recetas de la nonna, la mamma y más. ‍ El verdadero gusto de Italia. Cocinemos juntas aquí .",
+    "about_this_result": {
+     "source": {
+      "description": "De mi familia a los clásicos regionales. Recetas de la nonna, la mamma y más. ‍ El verdadero gusto de Italia. Cocinemos juntas aquí .",
+      "source_info_link": "https://www.instagram.com/unaitalianaenlacocina/?hl=es",
+      "icon": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2Mbu38XzO03JlGPGy2-lA9s7mbPwylekDKdNfcL9srXOw.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGdCOEVXdnVHanlTSlgwWk5yQWRJMm9uOG5rRHp2RGpXbXhmRmwySGpMZU9KRVlaT3dGUGwyYlpLZGNUVU5TV1hwbVY0YUh6UUY2Q1l5dGpNN1BHVzJmY3FaRzl1a3F2b2htNFVwcTlINlJuc1JKcFNDY3d1Z01tU2R2T19fb2pxVlRPQ29JVG9qUW9uOXdDeXcwbxIEGgIIABrAAxICCAAaAggBIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAmAMIDhAAGAAgACoPCghtb2xpZW5kYRVP5DZAMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGdCOEVXdnVHanlTSlgwWk5yQWRJMm9uOG5rRHp2RGpXbXhmRmwySGpMZU9KRVlaT3dGUGwyYlpLZGNUVU5TV1hwbVY0YUh6UUY2Q1l5dGpNN1BHVzJmY3FaRzl1a3F2b2htNFVwcTlINlJuc1JKcFNDY3d1Z01tU2R2T19fb2pxVlRPQ29JVG9qUW9uOXdDeXcwbzo_U2FyYSBjb2NpbmEgPGI-aXRhbGlhbmE8L2I-IGF1dMOpbnRpY2EgKEB1bmFpdGFsaWFuYWVubGFjb2NpbmEpQo8BRGUgbWkgZmFtaWxpYSBhIGxvcyBjbMOhc2ljb3MgcmVnaW9uYWxlcy4gUmVjZXRhcyBkZSBsYSBub25uYSwgbGEgbWFtbWEgeSBtw6FzLiDigI0gICBFbCB2ZXJkYWRlcm8gZ3VzdG8gZGUgSXRhbGlhLiBDb2NpbmVtb3MganVudGFzIGFxdcOtICAgIC4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGdCOEVXdnVHanlTSlgwWk5yQWRJMm9uOG5rRHp2RGpXbXhmRmwySGpMZU9KRVlaT3dGUGwyYlpLZGNUVU5TV1hwbVY0YUh6UUY2Q1l5dGpNN1BHVzJmY3FaRzl1a3F2b2htNFVwcTlINlJuc1JKcFNDY3d1Z01tU2R2T19fb2pxVlRPQ29JVG9qUW9uOXdDeXcwbxIEGgIIABrAAxICCAAaAggBIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAmAMIDhAAGAAgACoPCghtb2xpZW5kYRVP5DZAMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGdCOEVXdnVHanlTSlgwWk5yQWRJMm9uOG5rRHp2RGpXbXhmRmwySGpMZU9KRVlaT3dGUGwyYlpLZGNUVU5TV1hwbVY0YUh6UUY2Q1l5dGpNN1BHVzJmY3FaRzl1a3F2b2htNFVwcTlINlJuc1JKcFNDY3d1Z01tU2R2T19fb2pxVlRPQ29JVG9qUW9uOXdDeXcwbzo_U2FyYSBjb2NpbmEgPGI-aXRhbGlhbmE8L2I-IGF1dMOpbnRpY2EgKEB1bmFpdGFsaWFuYWVubGFjb2NpbmEpQo8BRGUgbWkgZmFtaWxpYSBhIGxvcyBjbMOhc2ljb3MgcmVnaW9uYWxlcy4gUmVjZXRhcyBkZSBsYSBub25uYSwgbGEgbWFtbWEgeSBtw6FzLiDigI0gICBFbCB2ZXJkYWRlcm8gZ3VzdG8gZGUgSXRhbGlhLiBDb2NpbmVtb3MganVudGFzIGFxdcOtICAgIC4iAhABSABYAGgA",
+    "source": "Instagram · unaitalianaenlacocina"
+   },
+   {
+    "position": 2,
+    "title": "Italia - Wikipedia, la enciclopedia libre",
+    "link": "https://es.wikipedia.org/wiki/Italia",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHEIkXX3tqX2Yadvj2zmlV8dIByFq6cu4DngOQnpotYJIaSTe5yU3Hb7oPwn9BalZFr8zDLn7pOKypMLXVPqWW7EnxtE1o1urT4oRbrtBKNPSBC_ZbCDoWnNub_TZlIaBg&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECCYQAQ&uoh=1",
+    "displayed_link": "https://es.wikipedia.org › wiki › Italia",
+    "thumbnail": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2MQD8JRyg57fppyohawGm32c.jpg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+    "snippet": "Productos icónicos de la gastronomía italiana: pizza, pasta, gelato y café expreso. Importante para la gastronomía italiana, así como para otras ...",
+    "snippet_highlighted_words": [
+     "italiana",
+     "para",
+     "italiana",
+     "para"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Productos icónicos de la gastronomía italiana: pizza, pasta, gelato y café expreso. Importante para la gastronomía italiana, así como para otras ...",
+      "source_info_link": "https://es.wikipedia.org/wiki/Italia",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWGxHNjBZNTBpUndYUHhNZnIydFFNU0xaZlBPdFQ3OGFVb3NaempKZl9PR1o5S3RSVWpUMFd6X1AyQWl1c0FPTm9FakF0dTVodm13UU93TkFCVXFnUGpONTlBMGo3aGJKVUsta055SjVTR2x5WXc5ck9SOXFJbkVSY0NDVRIEGgIIABq9AxICCAEaAggBIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAlQMIDhAAGAAgACoPCghtb2xpZW5kYRXVSbc_MpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWGxHNjBZNTBpUndYUHhNZnIydFFNU0xaZlBPdFQ3OGFVb3NaempKZl9PR1o5S3RSVWpUMFd6X1AyQWl1c0FPTm9FakF0dTVodm13UU93TkFCVXFnUGpONTlBMGo3aGJKVUsta055SjVTR2x5WXc5ck9SOXFJbkVSY0NDVTopSXRhbGlhIC0gV2lraXBlZGlhLCBsYSBlbmNpY2xvcGVkaWEgbGlicmVCugFQcm9kdWN0b3MgaWPDs25pY29zIGRlIGxhIGdhc3Ryb25vbcOtYSA8Yj5pdGFsaWFuYTwvYj46IHBpenphLCBwYXN0YSwgZ2VsYXRvIHkgY2Fmw6kgZXhwcmVzby4gSW1wb3J0YW50ZSA8Yj5wYXJhPC9iPiBsYSBnYXN0cm9ub23DrWEgPGI-aXRhbGlhbmE8L2I-LCBhc8OtIGNvbW8gPGI-cGFyYTwvYj4gb3RyYXMmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWGxHNjBZNTBpUndYUHhNZnIydFFNU0xaZlBPdFQ3OGFVb3NaempKZl9PR1o5S3RSVWpUMFd6X1AyQWl1c0FPTm9FakF0dTVodm13UU93TkFCVXFnUGpONTlBMGo3aGJKVUsta055SjVTR2x5WXc5ck9SOXFJbkVSY0NDVRIEGgIIABq9AxICCAEaAggBIgAqADIGCAMSAmVzOgBCBAgBEA5KAFoAcgB6AIJAlQMIDhAAGAAgACoPCghtb2xpZW5kYRXVSbc_MpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWGxHNjBZNTBpUndYUHhNZnIydFFNU0xaZlBPdFQ3OGFVb3NaempKZl9PR1o5S3RSVWpUMFd6X1AyQWl1c0FPTm9FakF0dTVodm13UU93TkFCVXFnUGpONTlBMGo3aGJKVUsta055SjVTR2x5WXc5ck9SOXFJbkVSY0NDVTopSXRhbGlhIC0gV2lraXBlZGlhLCBsYSBlbmNpY2xvcGVkaWEgbGlicmVCugFQcm9kdWN0b3MgaWPDs25pY29zIGRlIGxhIGdhc3Ryb25vbcOtYSA8Yj5pdGFsaWFuYTwvYj46IHBpenphLCBwYXN0YSwgZ2VsYXRvIHkgY2Fmw6kgZXhwcmVzby4gSW1wb3J0YW50ZSA8Yj5wYXJhPC9iPiBsYSBnYXN0cm9ub23DrWEgPGI-aXRhbGlhbmE8L2I-LCBhc8OtIGNvbW8gPGI-cGFyYTwvYj4gb3RyYXMmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Wikipedia"
+   },
+   {
+    "position": 3,
+    "title": "Home - Federación Italiana de Cocineros en España",
+    "link": "https://ficspain.com/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHEIkXX4QT7B7Oz92X1ThnIOoDIoBqvIotDpvsJWZg-vr1MlYnv-a1AO0JhdMyrB05z7p7aJADLf0kFfwXutkE8t6BEsoBM93ApIJzicl-R6k4&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECDUQAQ&uoh=1",
+    "displayed_link": "https://ficspain.com",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX-_v7___3-_f71-Pnl7O_Ox87G1-Pg6ev__fvL3eOsx9Xb5u309O3Y5Omxytb8___B2OXi7-_b19r27uz8_vmow9RXjrOVb4njrKW4f41mgq2lvtPp3tvg3-PI3N_Q2eFahrfejovms66SiaV8p8KzACDlyMjQYV1bWIupwcrcu74hbaSNscnIOTHGTFDBAAC3qLZvm8Cpqr_cmZPPsLr47-XM1828x7rc4d_s19insre2wcbHzM_9_eHfpZnfuJfnypLhrFD6_-7cn4bgpjPcm0jcmzTjrxvu437hro_p0M033v-YAAAA1UlEQVR4AdRPQ4JDURDsh_m2PbFtW_c_UbLvXCC1LcNPg8A3UAqM_wkiAYo5iciKqumGwQCTRDZMAyxbdFzMer4ahFGcpFmOe4v_olR2K9UaUVApEUQxqDeaLctrm4jt5N1efzAcBWnbRIMA7PFkOhsL8OWL9gEDU5u7cwl1LpbLBRdXTqczQ0-pmH8ocaVxLq6Rk8Bqs9lutjtYYzLb891qt9vp2QGvNY-nhkvpenq-oLUmYdfb7f54vjwgyOlRWE-v73l6MTFhj1N-MMGEK7qBEnQAAIjxFAmZBHoEAAAAAElFTkSuQmCC.png",
+    "snippet": "La Federación Italiana de Cocineros en España (FIC) es una asociación reconocida por el Gobierno italiano que actúa en el sector de la hostelería desde hace 60 ...",
+    "snippet_highlighted_words": [
+     "Italiana"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "La Federación Italiana de Cocineros en España (FIC) es una asociación reconocida por el Gobierno italiano que actúa en el sector de la hostelería desde hace 60 ...",
+      "source_info_link": "https://ficspain.com/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX-_v7___3-_f71-Pnl7O_Ox87G1-Pg6ev__fvL3eOsx9Xb5u309O3Y5Omxytb8___B2OXi7-_b19r27uz8_vmow9RXjrOVb4njrKW4f41mgq2lvtPp3tvg3-PI3N_Q2eFahrfejovms66SiaV8p8KzACDlyMjQYV1bWIupwcrcu74hbaSNscnIOTHGTFDBAAC3qLZvm8Cpqr_cmZPPsLr47-XM1828x7rc4d_s19insre2wcbHzM_9_eHfpZnfuJfnypLhrFD6_-7cn4bgpjPcm0jcmzTjrxvu437hro_p0M033v-YAAAA1UlEQVR4AdRPQ4JDURDsh_m2PbFtW_c_UbLvXCC1LcNPg8A3UAqM_wkiAYo5iciKqumGwQCTRDZMAyxbdFzMer4ahFGcpFmOe4v_olR2K9UaUVApEUQxqDeaLctrm4jt5N1efzAcBWnbRIMA7PFkOhsL8OWL9gEDU5u7cwl1LpbLBRdXTqczQ0-pmH8ocaVxLq6Rk8Bqs9lutjtYYzLb891qt9vp2QGvNY-nhkvpenq-oLUmYdfb7f54vjwgyOlRWE-v73l6MTFhj1N-MMGEK7qBEnQAAIjxFAmZBHoEAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSEVJa1hYMjY5NC05dDBhOUtIQUZDcUFibUpkb3JiUUJmeUZLaDlyZUw2NGRBYmdGNHVmXzV6MnpkQjZhZmFLaFNjbXQ1Z1NTMk1PTnBNdkZERVdJU0hVb3h5VXRKaEFzQ19hQy1LRXpIbjNoSRIEGgIIABqxAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQIsDCA4QABgAIAAqDwoIbW9saWVuZGEV5OSUQDJ9L2dvdG8_dXJsPUNBRVNVZ0hFSWtYWDI2OTQtOXQwYTlLSEFGQ3FBYm1KZG9yYlFCZnlGS2g5cmVMNjRkQWJnRjR1Zl81ejJ6ZEI2YWZhS2hTY210NWdTUzJNT05wTXZGREVXSVNIVW94eVV0SmhBc0NfYUMtS0V6SG4zaEk6OkhvbWUgLSBGZWRlcmFjacOzbiA8Yj5JdGFsaWFuYTwvYj4gZGUgQ29jaW5lcm9zIGVuIEVzcGHDsWFCtAFMYSBGZWRlcmFjacOzbiA8Yj5JdGFsaWFuYTwvYj4gZGUgQ29jaW5lcm9zIGVuIEVzcGHDsWEgKEZJQykgZXMgdW5hIGFzb2NpYWNpw7NuIHJlY29ub2NpZGEgcG9yIGVsIEdvYmllcm5vIGl0YWxpYW5vIHF1ZSBhY3TDumEgZW4gZWwgc2VjdG9yIGRlIGxhIGhvc3RlbGVyw61hIGRlc2RlIGhhY2UgNjAmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSEVJa1hYMjY5NC05dDBhOUtIQUZDcUFibUpkb3JiUUJmeUZLaDlyZUw2NGRBYmdGNHVmXzV6MnpkQjZhZmFLaFNjbXQ1Z1NTMk1PTnBNdkZERVdJU0hVb3h5VXRKaEFzQ19hQy1LRXpIbjNoSRIEGgIIABqxAxICCAAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQIsDCA4QABgAIAAqDwoIbW9saWVuZGEV5OSUQDJ9L2dvdG8_dXJsPUNBRVNVZ0hFSWtYWDI2OTQtOXQwYTlLSEFGQ3FBYm1KZG9yYlFCZnlGS2g5cmVMNjRkQWJnRjR1Zl81ejJ6ZEI2YWZhS2hTY210NWdTUzJNT05wTXZGREVXSVNIVW94eVV0SmhBc0NfYUMtS0V6SG4zaEk6OkhvbWUgLSBGZWRlcmFjacOzbiA8Yj5JdGFsaWFuYTwvYj4gZGUgQ29jaW5lcm9zIGVuIEVzcGHDsWFCtAFMYSBGZWRlcmFjacOzbiA8Yj5JdGFsaWFuYTwvYj4gZGUgQ29jaW5lcm9zIGVuIEVzcGHDsWEgKEZJQykgZXMgdW5hIGFzb2NpYWNpw7NuIHJlY29ub2NpZGEgcG9yIGVsIEdvYmllcm5vIGl0YWxpYW5vIHF1ZSBhY3TDumEgZW4gZWwgc2VjdG9yIGRlIGxhIGhvc3RlbGVyw61hIGRlc2RlIGhhY2UgNjAmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "ficspain.com"
+   },
+   {
+    "position": 4,
+    "title": "Literatura italiana del siglo XIX - Santiago de Compostela",
+    "link": "https://www.usc.gal/es/estudios/grados/artes-humanidades/grado-lenguas-literaturas-modernas/20252026/literatura-italiana-siglo-xix-12959-12535-2-79924",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1AEBxCJF107iuL_v6xH8L0X3Ex3XojQQamcDr7XCt9Q-A2B__H7JAjH1-9J0kEQaYM109hbuViLOzviaoM59TBWkBe3JYi2Db22UW3IRlrLF6rTTQO7IqMg0XChpcQOyI7HUqFT4QWDl_QHkZ4oc4H22zvGHaCG7n4iJlUIihlP90DkKpmsYKlmV1p9Owi08AMEt75rxTkJxuryqxEOzgcEPaRRAC7Alf6AIsDKxKGAuAWzQFTYo1gpBGHHUhuH9LDrrAEz_3LnePOS7wXlIGakYZQe2iQ&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECDYQAQ&uoh=1",
+    "displayed_link": "https://www.usc.gal › grado-lenguas-literaturas-modernas",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEUAAGjkE9SwAAAAC0lEQVR4AWMY5AAAAKAAAVQqnscAAAAASUVORK5CYII.png",
+    "snippet": "Recomendaciones para el estudio de la materia. Se recomienda conseguir la bibliografía requerida antes del inicio del curso y consultar el aula virtual.",
+    "snippet_highlighted_words": [
+     "para"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Recomendaciones para el estudio de la materia. Se recomienda conseguir la bibliografía requerida antes del inicio del curso y consultar el aula virtual.",
+      "source_info_link": "https://www.usc.gal/es/estudios/grados/artes-humanidades/grado-lenguas-literaturas-modernas/20252026/literatura-italiana-siglo-xix-12959-12535-2-79924",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAAA1BMVEUAAGjkE9SwAAAAC0lEQVR4AWMY5AAAAKAAAVQqnscAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CqwCL2dvdG8_dXJsPUNBRVMxQUVCeENKRjFfZXNkZXpVV1JiY1I1Y3A5YVRZcVA0Z0hBd05tWFU0SGdUS3RZeGxod3VQSkEtWV92MXJSR3BzNFZWZTNRVlFnQlpYX0hwSnZ6cnlVLVFZaldPd0VuUFJHSVRxU0NGU09oTm90UTlvVmp6RGhjUEVVRThsckI4bm40MGVwQ0VYWV9vZ01pMEpUS0JCNFBHTXViZnIwN3B5clhHUnowRTd5b2N3d0dUVV9uczk5OVFVQmxFV2Ffb2tzMGdsV21pbjAyazd5N2U4TkN5QVVETGFpaUhwRGpkSWZZQi0xNTQzQkxoSWUzTV9fSFR5NXpwQ1lWemN5VE0yS2xGTVRqODBLUlNFMHRBMnN4NVdaZGFIcVNPR3l3EgQaAggAGtgEEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQLQECA4QABgAIAAqDwoIbW9saWVuZGEVfpyRQDKsAi9nb3RvP3VybD1DQUVTMUFFQnhDSkYxX2VzZGV6VVdSYmNSNWNwOWFUWXFQNGdIQXdObVhVNEhnVEt0WXhsaHd1UEpBLVlfdjFyUkdwczRWVmUzUVZRZ0JaWF9IcEp2enJ5VS1RWWpXT3dFblBSR0lUcVNDRlNPaE5vdFE5b1ZqekRoY1BFVUU4bHJCOG5uNDBlcENFWFlfb2dNaTBKVEtCQjRQR011YmZyMDdweXJYR1J6MEU3eW9jd3dHVFVfbnM5OTlRVUJsRVdhX29rczBnbFdtaW4wMms3eTdlOE5DeUFVRExhaWlIcERqZElmWUItMTU0M0JMaEllM01fX0hUeTV6cENZVnpjeVRNMktsRk1UajgwS1JTRTB0QTJzeDVXWmRhSHFTT0d5dzpHTGl0ZXJhdHVyYSA8Yj5pdGFsaWFuYTwvYj4gZGVsIHNpZ2xvIFhJWCAtIFNhbnRpYWdvIGRlIENvbXBvc3RlbGEgLSBVU0NCoAFSZWNvbWVuZGFjaW9uZXMgPGI-cGFyYTwvYj4gZWwgZXN0dWRpbyBkZSBsYSBtYXRlcmlhLiBTZSByZWNvbWllbmRhIGNvbnNlZ3VpciBsYSBiaWJsaW9ncmFmw61hIHJlcXVlcmlkYSBhbnRlcyBkZWwgaW5pY2lvIGRlbCBjdXJzbyB5IGNvbnN1bHRhciBlbCBhdWxhIHZpcnR1YWwuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CqwCL2dvdG8_dXJsPUNBRVMxQUVCeENKRjFfZXNkZXpVV1JiY1I1Y3A5YVRZcVA0Z0hBd05tWFU0SGdUS3RZeGxod3VQSkEtWV92MXJSR3BzNFZWZTNRVlFnQlpYX0hwSnZ6cnlVLVFZaldPd0VuUFJHSVRxU0NGU09oTm90UTlvVmp6RGhjUEVVRThsckI4bm40MGVwQ0VYWV9vZ01pMEpUS0JCNFBHTXViZnIwN3B5clhHUnowRTd5b2N3d0dUVV9uczk5OVFVQmxFV2Ffb2tzMGdsV21pbjAyazd5N2U4TkN5QVVETGFpaUhwRGpkSWZZQi0xNTQzQkxoSWUzTV9fSFR5NXpwQ1lWemN5VE0yS2xGTVRqODBLUlNFMHRBMnN4NVdaZGFIcVNPR3l3EgQaAggAGtgEEgAaACIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQLQECA4QABgAIAAqDwoIbW9saWVuZGEVfpyRQDKsAi9nb3RvP3VybD1DQUVTMUFFQnhDSkYxX2VzZGV6VVdSYmNSNWNwOWFUWXFQNGdIQXdObVhVNEhnVEt0WXhsaHd1UEpBLVlfdjFyUkdwczRWVmUzUVZRZ0JaWF9IcEp2enJ5VS1RWWpXT3dFblBSR0lUcVNDRlNPaE5vdFE5b1ZqekRoY1BFVUU4bHJCOG5uNDBlcENFWFlfb2dNaTBKVEtCQjRQR011YmZyMDdweXJYR1J6MEU3eW9jd3dHVFVfbnM5OTlRVUJsRVdhX29rczBnbFdtaW4wMms3eTdlOE5DeUFVRExhaWlIcERqZElmWUItMTU0M0JMaEllM01fX0hUeTV6cENZVnpjeVRNMktsRk1UajgwS1JTRTB0QTJzeDVXWmRhSHFTT0d5dzpHTGl0ZXJhdHVyYSA8Yj5pdGFsaWFuYTwvYj4gZGVsIHNpZ2xvIFhJWCAtIFNhbnRpYWdvIGRlIENvbXBvc3RlbGEgLSBVU0NCoAFSZWNvbWVuZGFjaW9uZXMgPGI-cGFyYTwvYj4gZWwgZXN0dWRpbyBkZSBsYSBtYXRlcmlhLiBTZSByZWNvbWllbmRhIGNvbnNlZ3VpciBsYSBiaWJsaW9ncmFmw61hIHJlcXVlcmlkYSBhbnRlcyBkZWwgaW5pY2lvIGRlbCBjdXJzbyB5IGNvbnN1bHRhciBlbCBhdWxhIHZpcnR1YWwuIgIQAUgAWABoAA",
+    "source": "Universidade de Santiago de Compostela"
+   },
+   {
+    "position": 5,
+    "title": "Sopa de pollo con parmesano: receta tradicional italiana",
+    "link": "https://www.youtube.com/watch?v=RxZpHjIrPNs",
+    "displayed_link": "Más de 49 mil visualizaciones",
+    "date": "hace 10 meses",
+    "thumbnail": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2MahSNfkTcOZEQLaCl5jiGwQ.jpg",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+    "snippet": "La Pastina es una receta típica de las Nonnas italianas, ideal para los más pequeños de la casa. Una sopa de pasta rica, saludable y muy ...",
+    "duration": "1:59",
+    "about_this_result": {
+     "source": {
+      "description": "La Pastina es una receta típica de las Nonnas italianas, ideal para los más pequeños de la casa. Una sopa de pasta rica, saludable y muy ...",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+     }
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGJkR1pLdjNQZ21sWDI2LVN1RUVybmtabFFyUzdNVFVLY1hqdVZiVE1Zb3pmRkJncTNCaWtpYVhZQzJwdTVLV25ILVRUQk5LM2lxLXgwX0Y4dG4xZXVNMzgwNUtxZlNkVl9IRzlpcWNpcFU5WGVWaG83RzZ2TUV6dHRFaGlQWnAtVTNxcRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGJkR1pLdjNQZ21sWDI2LVN1RUVybmtabFFyUzdNVFVLY1hqdVZiVE1Zb3pmRkJncTNCaWtpYVhZQzJwdTVLV25ILVRUQk5LM2lxLXgwX0Y4dG4xZXVNMzgwNUtxZlNkVl9IRzlpcWNpcFU5WGVWaG83RzZ2TUV6dHRFaGlQWnAtVTNxcRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+    "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRacwNllc0h2sRzbj5mf2sIgFJh8Q0RY0GCuw",
+    "source": "YouTube · Las Recetas de MJ"
+   },
+   {
+    "position": 6,
+    "title": "Literatura Italiana 1: del Medievo al Renacimiento",
+    "link": "https://www.ugr.es/estudiantes/grados/grado-lenguas-modernas-sus-literaturas/literatura-italiana-1-medievo-renacimiento",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEBxCJF1yev5CADBHLG4lR4kORNfo9pb5oAllx_v_SC_3t4jFqkMd0Tuuok8chytADzAwVzuHyPwpHuUSRHw8QsdEbf-1YZ4_ycP-SS2KqwmFG1AZ6b2Ka2iOcKBfkF7lhE5FLBeF5did9tcgw8w6plX2PTVDEfZtoz3kG7tG_CaYYmdmj_3jMjEVrUg38JVfvDS9XjpPpFMCLMp1tvVuXzqUkAf-l3iel_dHLBKbyhPtc9cCA&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECDkQAQ&uoh=1",
+    "displayed_link": "https://www.ugr.es › estudiantes › grados › literatura-ita...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA51BMVEX____R0ND29vbl5eXT0tLDwsL6-vrw8PDNzc3c3Ny7urqtrK3q6ur___r09PT77e_roY_to3n44eOQjo__8_Xto2_vqWr95OOKiYlNSksPBgmamJmwr68pJSY7ODnMy8sAAAClpKR7eXobFhdkZ2kABBhUVVhoZmcTGh-NQgjnhUL0zMHtjwD0okq4h0kGDxuheFvrn6TxjzPDlml_d2YeHCCvn4js1ZLtzJz4pVgQFiBXVFXzr63nmH3XvqObo6-thXNxRSPaVjfIgimLcF58YkChZi7CgGVXRABpVQBQSDxZUDtLOQAzhDlwAAABXElEQVR4Aa3F2VLbMBiA0S_W5l9RVVp1MVhBjk2d7kDTfd9LKe__PGUmg2cCt5ybw3WYVVQKpbnKWFcDiGdesUVjAsANwHq22DoC3Ny5dRugSpFJCKCAO3fv3QcUDmGioHG7ey3kxb4ki_KOjWLAt4JaZN1pXFqC5oKFnHZ7p7qFodlvW4v1AYDagDTLoQuu62Z0e6k1UACgEhDTD8PBQfdgPH_lNaABUBYkNcPDR4-fPH32_HDoUw1BW4AsoPpmcXi0c_xi_fLV0PQaqJjo5ap7ffzm7bv1-w-pAJIdgBfA-GY8-vjp85evY28yEwdAq-O37z_WP3-JtAAyB6AqAEpIv_-c_O0RAZgFmBRDGk__jT05R1CRDZWBWmeJp2dOsq4tBAMb2UKTYl6dnYxz1_aRIExUATsrRbw2xYLGMokGwJpaewsQClsUk8BlEXQITklF5KpYqRILgWvwH8Q_G0iHlCLRAAAAAElFTkSuQmCC.png",
+    "snippet": "Literatura Italiana 1: del Medievo al Renacimiento ; Grado en Lenguas Modernas y sus Literaturas · Segundo · Primero · Obligatoria · Facultad de Filosofía y Letras.",
+    "snippet_highlighted_words": [
+     "Italiana"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Literatura Italiana 1: del Medievo al Renacimiento ; Grado en Lenguas Modernas y sus Literaturas · Segundo · Primero · Obligatoria · Facultad de Filosofía y Letras.",
+      "source_info_link": "https://www.ugr.es/estudiantes/grados/grado-lenguas-modernas-sus-literaturas/literatura-italiana-1-medievo-renacimiento",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA51BMVEX____R0ND29vbl5eXT0tLDwsL6-vrw8PDNzc3c3Ny7urqtrK3q6ur___r09PT77e_roY_to3n44eOQjo__8_Xto2_vqWr95OOKiYlNSksPBgmamJmwr68pJSY7ODnMy8sAAAClpKR7eXobFhdkZ2kABBhUVVhoZmcTGh-NQgjnhUL0zMHtjwD0okq4h0kGDxuheFvrn6TxjzPDlml_d2YeHCCvn4js1ZLtzJz4pVgQFiBXVFXzr63nmH3XvqObo6-thXNxRSPaVjfIgimLcF58YkChZi7CgGVXRABpVQBQSDxZUDtLOQAzhDlwAAABXElEQVR4Aa3F2VLbMBiA0S_W5l9RVVp1MVhBjk2d7kDTfd9LKe__PGUmg2cCt5ybw3WYVVQKpbnKWFcDiGdesUVjAsANwHq22DoC3Ny5dRugSpFJCKCAO3fv3QcUDmGioHG7ey3kxb4ki_KOjWLAt4JaZN1pXFqC5oKFnHZ7p7qFodlvW4v1AYDagDTLoQuu62Z0e6k1UACgEhDTD8PBQfdgPH_lNaABUBYkNcPDR4-fPH32_HDoUw1BW4AsoPpmcXi0c_xi_fLV0PQaqJjo5ap7ffzm7bv1-w-pAJIdgBfA-GY8-vjp85evY28yEwdAq-O37z_WP3-JtAAyB6AqAEpIv_-c_O0RAZgFmBRDGk__jT05R1CRDZWBWmeJp2dOsq4tBAMb2UKTYl6dnYxz1_aRIExUATsrRbw2xYLGMokGwJpaewsQClsUk8BlEXQITklF5KpYqRILgWvwH8Q_G0iHlCLRAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CoECL2dvdG8_dXJsPUNBRVN0QUVCeENKRjExSDBWZHZaWFFuc0w4V3F5dWNLeVdYa1I3UzJLWmthbC1nZ2xtZFlVMnFZVF81SFJheFQwb0NROFdaTnlFdHMwNmhEQ3p1ZFYwR194QlBMb1lrMmxndnRvVTBWNG83cHJRTzFWMWs4TzF5eE5Yanl4WHFmeDdWdmpTWmM5RlZoMVhGSXFJaldid3V0cERmS0RRMUZrOXBUTjBNRHBpeDBDZFBXc3VFRHQ4di1GUTZJa2JXS0xqemZjSmpNUEVSaXU1WV9MM2trb1lQR0xOSFNPakpCbDlRVzZacF9SNjZHNHlYWVhrUlUxcGMSBBoCCAAaxwQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAowQIDhAAGAAgACoPCghtb2xpZW5kYRXG-5NAMoECL2dvdG8_dXJsPUNBRVN0QUVCeENKRjExSDBWZHZaWFFuc0w4V3F5dWNLeVdYa1I3UzJLWmthbC1nZ2xtZFlVMnFZVF81SFJheFQwb0NROFdaTnlFdHMwNmhEQ3p1ZFYwR194QlBMb1lrMmxndnRvVTBWNG83cHJRTzFWMWs4TzF5eE5Yanl4WHFmeDdWdmpTWmM5RlZoMVhGSXFJaldid3V0cERmS0RRMUZrOXBUTjBNRHBpeDBDZFBXc3VFRHQ4di1GUTZJa2JXS0xqemZjSmpNUEVSaXU1WV9MM2trb1lQR0xOSFNPakpCbDlRVzZacF9SNjZHNHlYWVhrUlUxcGM6OUxpdGVyYXR1cmEgPGI-SXRhbGlhbmE8L2I-IDE6IGRlbCBNZWRpZXZvIGFsIFJlbmFjaW1pZW50b0LIAUxpdGVyYXR1cmEgPGI-SXRhbGlhbmE8L2I-IDE6IGRlbCBNZWRpZXZvIGFsIFJlbmFjaW1pZW50byA7IEdyYWRvIGVuIExlbmd1YXMgTW9kZXJuYXMgeSBzdXMgTGl0ZXJhdHVyYXMgJm1pZGRvdDsgU2VndW5kbyAmbWlkZG90OyBQcmltZXJvICZtaWRkb3Q7IE9ibGlnYXRvcmlhICZtaWRkb3Q7IEZhY3VsdGFkIGRlIEZpbG9zb2bDrWEgeSBMZXRyYXMuIgIQAUgAWABoAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CoECL2dvdG8_dXJsPUNBRVN0QUVCeENKRjExSDBWZHZaWFFuc0w4V3F5dWNLeVdYa1I3UzJLWmthbC1nZ2xtZFlVMnFZVF81SFJheFQwb0NROFdaTnlFdHMwNmhEQ3p1ZFYwR194QlBMb1lrMmxndnRvVTBWNG83cHJRTzFWMWs4TzF5eE5Yanl4WHFmeDdWdmpTWmM5RlZoMVhGSXFJaldid3V0cERmS0RRMUZrOXBUTjBNRHBpeDBDZFBXc3VFRHQ4di1GUTZJa2JXS0xqemZjSmpNUEVSaXU1WV9MM2trb1lQR0xOSFNPakpCbDlRVzZacF9SNjZHNHlYWVhrUlUxcGMSBBoCCAAaxwQSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAowQIDhAAGAAgACoPCghtb2xpZW5kYRXG-5NAMoECL2dvdG8_dXJsPUNBRVN0QUVCeENKRjExSDBWZHZaWFFuc0w4V3F5dWNLeVdYa1I3UzJLWmthbC1nZ2xtZFlVMnFZVF81SFJheFQwb0NROFdaTnlFdHMwNmhEQ3p1ZFYwR194QlBMb1lrMmxndnRvVTBWNG83cHJRTzFWMWs4TzF5eE5Yanl4WHFmeDdWdmpTWmM5RlZoMVhGSXFJaldid3V0cERmS0RRMUZrOXBUTjBNRHBpeDBDZFBXc3VFRHQ4di1GUTZJa2JXS0xqemZjSmpNUEVSaXU1WV9MM2trb1lQR0xOSFNPakpCbDlRVzZacF9SNjZHNHlYWVhrUlUxcGM6OUxpdGVyYXR1cmEgPGI-SXRhbGlhbmE8L2I-IDE6IGRlbCBNZWRpZXZvIGFsIFJlbmFjaW1pZW50b0LIAUxpdGVyYXR1cmEgPGI-SXRhbGlhbmE8L2I-IDE6IGRlbCBNZWRpZXZvIGFsIFJlbmFjaW1pZW50byA7IEdyYWRvIGVuIExlbmd1YXMgTW9kZXJuYXMgeSBzdXMgTGl0ZXJhdHVyYXMgJm1pZGRvdDsgU2VndW5kbyAmbWlkZG90OyBQcmltZXJvICZtaWRkb3Q7IE9ibGlnYXRvcmlhICZtaWRkb3Q7IEZhY3VsdGFkIGRlIEZpbG9zb2bDrWEgeSBMZXRyYXMuIgIQAUgAWABoAA",
+    "source": "Universidad de Granada"
+   },
+   {
+    "position": 7,
+    "title": "Pasta con Salchicha Italiana y Vegetales",
+    "link": "https://antojandoando.com/recetas/pasta-con-salchicha-italiana-y-vegetales/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF19H9eAcXBnzHv1EIt6yd-VB5QbitzgBqQQCNl_8-YPsATaqxZCopF4YYDoyB4FoOAxkBJuReQsQ7PxSCmUrUKXdNBkw4F905g9Jms2aE0_ZrUwLWN7Vb-bdPBPEM39XMCmbikstJau83jAU6n9PhCWbsXqW54cnRSVBcBPsN7LZw6uX8&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECEQQAQ&uoh=1",
+    "displayed_link": "https://antojandoando.com › recetas › pasta-con-salchich...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iVLHbu3T5QAJ_4Rpzgb_NLrBz2ZF0dkEXIsaL2VqPfksLt-HMqeV&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEXeYnq_BQX5Bwf64s4RAAAAAXRSTlMAQObYZgAAADJJREFUeAFjQAKMDkAibCoDg-iqVSEMoUAAFoawpFatWoJEiIEItlWrJjAwhoY6IMwAAE0SEKtyFP35AAAAAElFTkSuQmCC.png",
+    "snippet": "Pasta con salchicha italiana, una pasta diferente, fácil y realmente exquisita... Lleva una salsa, cebolla, ajo, salchicha italiana y vegetales.",
+    "snippet_highlighted_words": [
+     "Pasta con salchicha italiana"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "min": 25
+      },
+      "extensions": [
+       "25 min"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Pasta con salchicha italiana, una pasta diferente, fácil y realmente exquisita... Lleva una salsa, cebolla, ajo, salchicha italiana y vegetales.",
+      "source_info_link": "https://antojandoando.com/recetas/pasta-con-salchicha-italiana-y-vegetales/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEXeYnq_BQX5Bwf64s4RAAAAAXRSTlMAQObYZgAAADJJREFUeAFjQAKMDkAibCoDg-iqVSEMoUAAFoawpFatWoJEiIEItlWrJjAwhoY6IMwAAE0SEKtyFP35AAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjEzcnZELTZOa3doWHpCbVo3NU9IWExMaEl5M2ZDVFBDLW1vUkJFZ0ptaVpkWnd6eE9qcE1vTkMwSU9jVnJWeFpxX3dXSEwxSlU3ZVNOTW1FRFRtQXJlTThJOEtLNC0wbzg2MnQyXzJ1V3pRZVV5enVpRGRpR01CV0RRcHBzb01GMDVZWURObGdJVm1HZ2x6MVdXUjBxdDVPRm42Y2dBRjJvMzYxbTh0UzdMQjBINW5aEgQaAggAGuQDEgAaAggBIgAqADIGCAISAmVzOgBCBAgBEA5KAFoAcgB6AIJAvgMIDhAAGAAgACoPCghtb2xpZW5kYRX6jaxAMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjEzcnZELTZOa3doWHpCbVo3NU9IWExMaEl5M2ZDVFBDLW1vUkJFZ0ptaVpkWnd6eE9qcE1vTkMwSU9jVnJWeFpxX3dXSEwxSlU3ZVNOTW1FRFRtQXJlTThJOEtLNC0wbzg2MnQyXzJ1V3pRZVV5enVpRGRpR01CV0RRcHBzb01GMDVZWURObGdJVm1HZ2x6MVdXUjBxdDVPRm42Y2dBRjJvMzYxbTh0UzdMQjBINW5aOj9QYXN0YSBjb24gU2FsY2hpY2hhIDxiPkl0YWxpYW5hPC9iPiB5IFZlZ2V0YWxlcyAtIEFudG9qYW5kb0FuZG9CmAE8Yj5QYXN0YSBjb24gc2FsY2hpY2hhIGl0YWxpYW5hPC9iPiwgdW5hIHBhc3RhIGRpZmVyZW50ZSwgZsOhY2lsIHkgcmVhbG1lbnRlIGV4cXVpc2l0YS4uLiBMbGV2YSB1bmEgc2Fsc2EsIGNlYm9sbGEsIGFqbywgc2FsY2hpY2hhIGl0YWxpYW5hIHkgdmVnZXRhbGVzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjEzcnZELTZOa3doWHpCbVo3NU9IWExMaEl5M2ZDVFBDLW1vUkJFZ0ptaVpkWnd6eE9qcE1vTkMwSU9jVnJWeFpxX3dXSEwxSlU3ZVNOTW1FRFRtQXJlTThJOEtLNC0wbzg2MnQyXzJ1V3pRZVV5enVpRGRpR01CV0RRcHBzb01GMDVZWURObGdJVm1HZ2x6MVdXUjBxdDVPRm42Y2dBRjJvMzYxbTh0UzdMQjBINW5aEgQaAggAGuQDEgAaAggBIgAqADIGCAISAmVzOgBCBAgBEA5KAFoAcgB6AIJAvgMIDhAAGAAgACoPCghtb2xpZW5kYRX6jaxAMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjEzcnZELTZOa3doWHpCbVo3NU9IWExMaEl5M2ZDVFBDLW1vUkJFZ0ptaVpkWnd6eE9qcE1vTkMwSU9jVnJWeFpxX3dXSEwxSlU3ZVNOTW1FRFRtQXJlTThJOEtLNC0wbzg2MnQyXzJ1V3pRZVV5enVpRGRpR01CV0RRcHBzb01GMDVZWURObGdJVm1HZ2x6MVdXUjBxdDVPRm42Y2dBRjJvMzYxbTh0UzdMQjBINW5aOj9QYXN0YSBjb24gU2FsY2hpY2hhIDxiPkl0YWxpYW5hPC9iPiB5IFZlZ2V0YWxlcyAtIEFudG9qYW5kb0FuZG9CmAE8Yj5QYXN0YSBjb24gc2FsY2hpY2hhIGl0YWxpYW5hPC9iPiwgdW5hIHBhc3RhIGRpZmVyZW50ZSwgZsOhY2lsIHkgcmVhbG1lbnRlIGV4cXVpc2l0YS4uLiBMbGV2YSB1bmEgc2Fsc2EsIGNlYm9sbGEsIGFqbywgc2FsY2hpY2hhIGl0YWxpYW5hIHkgdmVnZXRhbGVzLiICEAFIAFgAaAA",
+    "source": "AntojandoAndo"
+   },
+   {
+    "position": 8,
+    "title": "Puré de patatas a la Italiana",
+    "link": "https://www.velocidadcuchara.com/pure-de-patatas-a-la-italiana/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXz2C_HZ-I7M9IbsOJ_1zdb2Yc54DxsUQFEg4Jj6KyhbxEpYJqya2AU8vWa3FbPPfAx4MFQKV-BOxmFofcfr_t2g9hzu06sGjG60l7xvhW0DvKLNSviGNVj8m9xHi6tmod08OBrSMOivcnzftQNjYDBU0hISND7Os&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECD0QAQ&uoh=1",
+    "displayed_link": "https://www.velocidadcuchara.com › pure-de-patatas-a-la...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZN5aD1b0dSThGQCEecP9yheR1HYltA_pXCJQXZBc_DkjIu3g_Mi6&usqp=CAE&s",
+    "favicon": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2MY4m1qEuGYEdYfXywx3dgAw.png",
+    "snippet": "50 g de queso parmesano o grana padano rallado (hazlo con la TMX) · 1 kilo de patatas peladas y chascadas en trozos pequeños · Sal al gusto · 400 ml de leche ...",
+    "snippet_highlighted_words": [
+     "50 g de queso parmesano o grana padano rallado"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "min": 30
+      },
+      "extensions": [
+       "30 min"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "50 g de queso parmesano o grana padano rallado (hazlo con la TMX) · 1 kilo de patatas peladas y chascadas en trozos pequeños · Sal al gusto · 400 ml de leche ...",
+      "source_info_link": "https://www.velocidadcuchara.com/pure-de-patatas-a-la-italiana/",
+      "icon": "https://serpapi.com/searches/6af46447d65b8c2f73afab4b/images/Gj-lm06bmcxSwkdM1zu2MZaYYgE3gOmjv5KAIT09PjutP_KIzdmadoe4vO6rSYH9.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGhFRVZiREY2cWpsRV9xN1RpQ0w2bXUweVRPQjVWLUppUm5EeXozUElfSWotV0NaS0NtNHN3QnBCYXlNUzFMMUswZXJqUVp3SVFqS2hLZXFmMEs1X182LUhwOThFXzNQU3BnWnRzUG1rcTlVZVk1ODlnNC1VOUZveXBlVkZlSzRXT0lsN1lWclNmaHM3cEFpcWtrV3pzYVJXWktaOGlaRRIEGgIIABr4AxIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQNIDCA4QABgAIAAqDwoIbW9saWVuZGEVNKCUQDK1AS9nb3RvP3VybD1DQUVTZkFIRUlrWFhoRUVWYkRGNnFqbEVfcTdUaUNMNm11MHlUT0I1Vi1KaVJuRHl6M1BJX0lqLVdDWktDbTRzd0JwQmF5TVMxTDFLMGVyalFad0lRaktoS2VxZjBLNV9fNi1IcDk4RV8zUFNwZ1p0c1Bta3E5VWVZNTg5ZzQtVTlGb3lwZVZGZUs0V09JbDdZVnJTZmhzN3BBaXFra1d6c2FSV1pLWjhpWkU6OVB1csOpIGRlIHBhdGF0YXMgYSBsYSA8Yj5JdGFsaWFuYTwvYj4gLSBWZWxvY2lkYWQgQ3VjaGFyYULDATxiPjUwIGcgZGUgcXVlc28gcGFybWVzYW5vIG8gZ3JhbmEgcGFkYW5vIHJhbGxhZG88L2I-IChoYXpsbyBjb24gbGEgVE1YKSAmbWlkZG90OyAxIGtpbG8gZGUgcGF0YXRhcyBwZWxhZGFzIHkgY2hhc2NhZGFzIGVuIHRyb3pvcyBwZXF1ZcOxb3MgJm1pZGRvdDsgU2FsIGFsIGd1c3RvICZtaWRkb3Q7IDQwMCBtbCBkZSBsZWNoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGhFRVZiREY2cWpsRV9xN1RpQ0w2bXUweVRPQjVWLUppUm5EeXozUElfSWotV0NaS0NtNHN3QnBCYXlNUzFMMUswZXJqUVp3SVFqS2hLZXFmMEs1X182LUhwOThFXzNQU3BnWnRzUG1rcTlVZVk1ODlnNC1VOUZveXBlVkZlSzRXT0lsN1lWclNmaHM3cEFpcWtrV3pzYVJXWktaOGlaRRIEGgIIABr4AxIAGgIIASIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQNIDCA4QABgAIAAqDwoIbW9saWVuZGEVNKCUQDK1AS9nb3RvP3VybD1DQUVTZkFIRUlrWFhoRUVWYkRGNnFqbEVfcTdUaUNMNm11MHlUT0I1Vi1KaVJuRHl6M1BJX0lqLVdDWktDbTRzd0JwQmF5TVMxTDFLMGVyalFad0lRaktoS2VxZjBLNV9fNi1IcDk4RV8zUFNwZ1p0c1Bta3E5VWVZNTg5ZzQtVTlGb3lwZVZGZUs0V09JbDdZVnJTZmhzN3BBaXFra1d6c2FSV1pLWjhpWkU6OVB1csOpIGRlIHBhdGF0YXMgYSBsYSA8Yj5JdGFsaWFuYTwvYj4gLSBWZWxvY2lkYWQgQ3VjaGFyYULDATxiPjUwIGcgZGUgcXVlc28gcGFybWVzYW5vIG8gZ3JhbmEgcGFkYW5vIHJhbGxhZG88L2I-IChoYXpsbyBjb24gbGEgVE1YKSAmbWlkZG90OyAxIGtpbG8gZGUgcGF0YXRhcyBwZWxhZGFzIHkgY2hhc2NhZGFzIGVuIHRyb3pvcyBwZXF1ZcOxb3MgJm1pZGRvdDsgU2FsIGFsIGd1c3RvICZtaWRkb3Q7IDQwMCBtbCBkZSBsZWNoZSZuYnNwOy4uLiICEAFIAFgAaAA",
+    "source": "Velocidad Cuchara"
+   },
+   {
+    "position": 9,
+    "title": "Canestrelli, irresistibles galletas tradicionales italianas",
+    "link": "https://unaitalianaenlacocina.es/canestrelli-galletas-italianas/",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHEIkXXTPmbTNDuEiNUKdqbeK2oktp7Sjk6Isjg6HCL4LTNbbRXezK71XnN7pUJ1eugrh2lvtzGz31VQpR6GSk-LgHW2Rc9xD6aFJbh0MfdLO6oJkQfEVuZpmY20HRNTF9zB5dvyJZ5heItGNjZHbJ2qc1QOUhVR0qGu2wq&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQFnoECEUQAQ&uoh=1",
+    "displayed_link": "https://unaitalianaenlacocina.es › canestrelli-galletas-italia...",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_4Fhd0WQ4hIxLPgzxQU7-kMQTm53ob_CT2hzywfCQP1iN3R4G-O8&usqp=CAE&s",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwbFxQoJSIoJCE1MzBLSUcwLSp2dXS1tLTg39_z8_L5-fk7OTZMSkicnJv____Pz86vr66joqG_vr1sa2k8Ojc0Mi9CQD5GREIoJCGTkpGHhoXs6-tdW1p9fHvIyMdauJVOAAAADnRSTlMAIWSXtMra______9Q_h7kEeUAAAHRSURBVHgBfVOHlsMwCMtq7ZhzyAJn9___8tBzbw912UCRIFB8QlnVze3W1FVZ_Ibq7nwbiELr3b364X6JHXHoh3Ec-sDUxZev_sYRT7OoGFTmiYNrPvvvnvuoaXkiaex5uH_yT9yZ-xPSuvH0HtF43nX5AtkP5qF56nPcrSJpSWLf-FrSyYDLSmM4rm0bNjl9t137No6SLgZChL_qGOeHBUwtjo9RcoaDuwoKCWZaLbEusBvFoh4Bnkxn6fgku12oQhHbCVSaLZzsyqLyYfVIrDBvdmpxktEOa_BVUbe9zhCxABHJTksGFdPat3XRhEG0fed42GkEhxx86RCa4kadyPiTQw8yHrpZwCgpsUFzBkNEMppUEACKrH63Xpo5c6SZXRJQQKS1PnOkvT0zh7Gui0KklWnxkVBH0r7Tg1GHtpMsgjLLi-e06AQOUYr2V3CIWUFTotWT5XbgWPdWUwTHugWxfxFGohrZxK3B7Gu_PQVL7yVFPCxDJMj04AjybMVIJqOn-D4wmqAekVkwHauOeWDyyDnNrXhv97Du7JvPQ7t2Vij8WXAcMbRfxn7Jj8OwEh8P9vfvi0NGJAZFU8g131dvxOr5P1YvL-_13_L-uf6vePo2T-yho50AAAAASUVORK5CYII.png",
+    "date": "9 oct 2018",
+    "snippet": "Los canestrelli son unas deliciosas galletas italiana, tienen una textura exisita y su secreto se esconde en la masa. No te las peirdas.",
+    "snippet_highlighted_words": [
+     "Los canestrelli son unas deliciosas galletas italiana"
+    ],
+    "rich_snippet": {
+     "top": {
+      "detected_extensions": {
+       "min": 20
+      },
+      "extensions": [
+       "20 min"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Los canestrelli son unas deliciosas galletas italiana, tienen una textura exisita y su secreto se esconde en la masa. No te las peirdas.",
+      "source_info_link": "https://unaitalianaenlacocina.es/canestrelli-galletas-italianas/",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcEwbFxQoJSIoJCE1MzBLSUcwLSp2dXS1tLTg39_z8_L5-fk7OTZMSkicnJv____Pz86vr66joqG_vr1sa2k8Ojc0Mi9CQD5GREIoJCGTkpGHhoXs6-tdW1p9fHvIyMdauJVOAAAADnRSTlMAIWSXtMra______9Q_h7kEeUAAAHRSURBVHgBfVOHlsMwCMtq7ZhzyAJn9___8tBzbw912UCRIFB8QlnVze3W1FVZ_Ibq7nwbiELr3b364X6JHXHoh3Ec-sDUxZev_sYRT7OoGFTmiYNrPvvvnvuoaXkiaex5uH_yT9yZ-xPSuvH0HtF43nX5AtkP5qF56nPcrSJpSWLf-FrSyYDLSmM4rm0bNjl9t137No6SLgZChL_qGOeHBUwtjo9RcoaDuwoKCWZaLbEusBvFoh4Bnkxn6fgku12oQhHbCVSaLZzsyqLyYfVIrDBvdmpxktEOa_BVUbe9zhCxABHJTksGFdPat3XRhEG0fed42GkEhxx86RCa4kadyPiTQw8yHrpZwCgpsUFzBkNEMppUEACKrH63Xpo5c6SZXRJQQKS1PnOkvT0zh7Gui0KklWnxkVBH0r7Tg1GHtpMsgjLLi-e06AQOUYr2V3CIWUFTotWT5XbgWPdWUwTHugWxfxFGohrZxK3B7Gu_PQVL7yVFPCxDJMj04AjybMVIJqOn-D4wmqAekVkwHauOeWDyyDnNrXhv97Du7JvPQ7t2Vij8WXAcMbRfxn7Jj8OwEh8P9vfvi0NGJAZFU8g131dvxOr5P1YvL-_13_L-uf6vePo2T-yho50AAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHFmczVucnV4WUFBZENkZzVwakItb3lGaEpiTlpyZFpQSEQxdXNYOHBmS0hIOWs0elZWUm5JTjJKU0pZZGx6VjhiZWM3UEhVeXpwa1M1dXZ1bzAzTmRuS1c3Q3VqTGVZNmRXdTI5Ul93WDk4cjVHSUkzVVhMTURTdlRqeWUtOGFqOGV4UXBSeGpmMFMzSkNFSHJsYkk4Vk5qUE13cjhGUG8SBBoCCAAa0AMSAggAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQKgDCA4QABgAIAAqDwoIbW9saWVuZGEVsmhiQDK2AS9nb3RvP3VybD1DQUVTZlFIRUlrWFhxZnM1bnJ1eFlBQWRDZGc1cGpCLW95RmhKYk5acmRaUEhEMXVzWDhwZktISDlrNHpWVlJuSU4ySlNKWWRselY4YmVjN1BIVXl6cGtTNXV2dW8wM05kbktXN0N1akxlWTZkV3UyOVJfd1g5OHI1R0lJM1VYTE1EU3ZUanllLThhajhleFFwUnhqZjBTM0pDRUhybGJJOFZOalBNd3I4RlBvOkJDYW5lc3RyZWxsaSwgaXJyZXNpc3RpYmxlcyBnYWxsZXRhcyB0cmFkaWNpb25hbGVzIDxiPml0YWxpYW5hczwvYj5CjwE8Yj5Mb3MgY2FuZXN0cmVsbGkgc29uIHVuYXMgZGVsaWNpb3NhcyBnYWxsZXRhcyBpdGFsaWFuYTwvYj4sIHRpZW5lbiB1bmEgdGV4dHVyYSBleGlzaXRhIHkgc3Ugc2VjcmV0byBzZSBlc2NvbmRlIGVuIGxhIG1hc2EuIE5vIHRlIGxhcyBwZWlyZGFzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHFmczVucnV4WUFBZENkZzVwakItb3lGaEpiTlpyZFpQSEQxdXNYOHBmS0hIOWs0elZWUm5JTjJKU0pZZGx6VjhiZWM3UEhVeXpwa1M1dXZ1bzAzTmRuS1c3Q3VqTGVZNmRXdTI5Ul93WDk4cjVHSUkzVVhMTURTdlRqeWUtOGFqOGV4UXBSeGpmMFMzSkNFSHJsYkk4Vk5qUE13cjhGUG8SBBoCCAAa0AMSAggAGgIIASIAKgAyBggDEgJlczoAQgQIARAOSgBaAHIAegCCQKgDCA4QABgAIAAqDwoIbW9saWVuZGEVsmhiQDK2AS9nb3RvP3VybD1DQUVTZlFIRUlrWFhxZnM1bnJ1eFlBQWRDZGc1cGpCLW95RmhKYk5acmRaUEhEMXVzWDhwZktISDlrNHpWVlJuSU4ySlNKWWRselY4YmVjN1BIVXl6cGtTNXV2dW8wM05kbktXN0N1akxlWTZkV3UyOVJfd1g5OHI1R0lJM1VYTE1EU3ZUanllLThhajhleFFwUnhqZjBTM0pDRUhybGJJOFZOalBNd3I4RlBvOkJDYW5lc3RyZWxsaSwgaXJyZXNpc3RpYmxlcyBnYWxsZXRhcyB0cmFkaWNpb25hbGVzIDxiPml0YWxpYW5hczwvYj5CjwE8Yj5Mb3MgY2FuZXN0cmVsbGkgc29uIHVuYXMgZGVsaWNpb3NhcyBnYWxsZXRhcyBpdGFsaWFuYTwvYj4sIHRpZW5lbiB1bmEgdGV4dHVyYSBleGlzaXRhIHkgc3Ugc2VjcmV0byBzZSBlc2NvbmRlIGVuIGxhIG1hc2EuIE5vIHRlIGxhcyBwZWlyZGFzLiICEAFIAFgAaAA",
+    "source": "Una italiana en la cocina"
+   }
+  ],
+  "related_searches": [
+   {
+    "block_position": 1,
+    "query": "Una italiana en la cocina",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Una+italiana+en+la+cocina&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAgyEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Una+italiana+en+la+cocina"
+   },
+   {
+    "block_position": 1,
+    "query": "Recetas italianas fáciles",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Recetas+italianas+f%C3%A1ciles&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAhBEAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Recetas+italianas+f%C3%A1ciles"
+   },
+   {
+    "block_position": 1,
+    "query": "Recetas italianas de pasta",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Recetas+italianas+de+pasta&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg-EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Recetas+italianas+de+pasta"
+   },
+   {
+    "block_position": 1,
+    "query": "Recetas italianas de carne",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Recetas+italianas+de+carne&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg8EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Recetas+italianas+de+carne"
+   },
+   {
+    "block_position": 1,
+    "query": "Recetas italianas tradicionales",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Recetas+italianas+tradicionales&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg7EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Recetas+italianas+tradicionales"
+   },
+   {
+    "block_position": 1,
+    "query": "Cena italiana en casa",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Cena+italiana+en+casa&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg6EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Cena+italiana+en+casa"
+   },
+   {
+    "block_position": 1,
+    "query": "Monarchia italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Monarchia+italiana&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg3EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Monarchia+italiana"
+   },
+   {
+    "block_position": 1,
+    "query": "Cocinera italiana",
+    "link": "https://www.google.es/search?sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&q=Cocinera+italiana&sa=X&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ1QJ6BAg0EAE",
+    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=Cocinera+italiana"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=molienda+recomendada+para+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&ei=R2T0arihKJChiLMP_fXxkA8&start=10&sa=N&sstk=AYl2yk8QS3MctqRoZd36NtkZL_Uj0cxQJ6S5FaSFhJKvNf0Lb5E6WWpM33_3a67__yAJHHtfhBnaytGVAi-kHxlxmkzc4hW8kcy2QA&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ8NMDegQILhAK",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=molienda+recomendada+para+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&ei=R2T0arihKJChiLMP_fXxkA8&start=10&sa=N&sstk=AYl2yk8QS3MctqRoZd36NtkZL_Uj0cxQJ6S5FaSFhJKvNf0Lb5E6WWpM33_3a67__yAJHHtfhBnaytGVAi-kHxlxmkzc4hW8kcy2QA&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ8tMDegQILhAE",
+    "3": "https://www.google.es/search?q=molienda+recomendada+para+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&ei=R2T0arihKJChiLMP_fXxkA8&start=20&sa=N&sstk=AYl2yk8QS3MctqRoZd36NtkZL_Uj0cxQJ6S5FaSFhJKvNf0Lb5E6WWpM33_3a67__yAJHHtfhBnaytGVAi-kHxlxmkzc4hW8kcy2QA&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ8tMDegQILhAG",
+    "4": "https://www.google.es/search?q=molienda+recomendada+para+cafetera+italiana&sca_esv=80ef59f631b2381d&hl=es&gl=es&sxsrf=AKL5yDg_8cKLAIZI4nfVkikB9X7cstZ3fg:1794401351667&ei=R2T0arihKJChiLMP_fXxkA8&start=30&sa=N&sstk=AYl2yk8QS3MctqRoZd36NtkZL_Uj0cxQJ6S5FaSFhJKvNf0Lb5E6WWpM33_3a67__yAJHHtfhBnaytGVAi-kHxlxmkzc4hW8kcy2QA&ved=2ahUKEwj44Jn5-f-XAxWQEGIAHf16HPIQ8tMDegQILhAI"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+recomendada+para+cafetera+italiana&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+recomendada+para+cafetera+italiana&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+recomendada+para+cafetera+italiana&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+recomendada+para+cafetera+italiana&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=molienda+recomendada+para+cafetera+italiana&start=30"
+   }
+  }
+ }
+}

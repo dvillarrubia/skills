@@ -1,0 +1,126 @@
+{
+ "capturado": "2026-11-11T12:43:11Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "molienda cafetera italiana",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af462e05423e105f03015b5",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/M4ITUt_ABqHLH3mCp_pX0O405ttn31wFJ1xJuKNhg20/6af462e05423e105f03015b5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/M4ITUt_ABqHLH3mCp_pX0O405ttn31wFJ1xJuKNhg20/6af462e05423e105f03015b5.md",
+   "created_at": "2026-11-11 12:43:12 UTC",
+   "processed_at": "2026-11-11 12:43:12 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=molienda+cafetera+italiana&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/M4ITUt_ABqHLH3mCp_pX0O405ttn31wFJ1xJuKNhg20/6af462e05423e105f03015b5.html",
+   "prettify_html_file": "https://serpapi.com/searches/M4ITUt_ABqHLH3mCp_pX0O405ttn31wFJ1xJuKNhg20/6af462e05423e105f03015b5.prettify",
+   "total_time_taken": 0.26
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "molienda cafetera italiana",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "molienda para cafetera italiana",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+para+cafetera+italiana"
+   },
+   {
+    "value": "tamaño molienda cafetera italiana",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=tama%C3%B1o+molienda+cafetera+italiana"
+   },
+   {
+    "value": "grado molienda cafetera italiana",
+    "relevance": 562,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=grado+molienda+cafetera+italiana"
+   },
+   {
+    "value": "molienda cafe cafetera italiana",
+    "relevance": 561,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+cafe+cafetera+italiana"
+   },
+   {
+    "value": "grosor molienda cafetera italiana",
+    "relevance": 560,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=grosor+molienda+cafetera+italiana"
+   },
+   {
+    "value": "molienda ideal cafetera italiana",
+    "relevance": 559,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+ideal+cafetera+italiana"
+   },
+   {
+    "value": "molienda para cafetera italiana numero",
+    "relevance": 558,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+para+cafetera+italiana+numero"
+   },
+   {
+    "value": "molienda recomendada para cafetera italiana",
+    "relevance": 557,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+recomendada+para+cafetera+italiana"
+   },
+   {
+    "value": "molienda adecuada para cafetera italiana",
+    "relevance": 556,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+adecuada+para+cafetera+italiana"
+   },
+   {
+    "value": "molienda correcta para cafetera italiana",
+    "relevance": 555,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+correcta+para+cafetera+italiana"
+   },
+   {
+    "value": "molienda perfecta para cafetera italiana",
+    "relevance": 554,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+perfecta+para+cafetera+italiana"
+   },
+   {
+    "value": "punto de molienda cafetera italiana",
+    "relevance": 553,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=punto+de+molienda+cafetera+italiana"
+   },
+   {
+    "value": "mejor molienda para cafetera italiana",
+    "relevance": 552,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=mejor+molienda+para+cafetera+italiana"
+   },
+   {
+    "value": "cafetera italiana molienda gruesa",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=cafetera+italiana+molienda+gruesa"
+   },
+   {
+    "value": "molienda para cafetera moka italiana",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=molienda+para+cafetera+moka+italiana"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}

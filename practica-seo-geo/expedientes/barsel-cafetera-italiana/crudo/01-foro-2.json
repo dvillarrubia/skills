@@ -1,0 +1,361 @@
+{
+ "capturado": "2026-11-11T12:40:24Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google",
+  "q": "site:reddit.com cafetera italiana café aguado sin sabor",
+  "google_domain": "google.es",
+  "gl": "es",
+  "hl": "es",
+  "device": "desktop"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af4623915e353add48e4a18",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/K23SWplAjmUXz0XokRQxGfmj2JzBMXj9GGtqgLL2Dy0/6af4623915e353add48e4a18.json",
+   "markdown_endpoint": "https://serpapi.com/searches/K23SWplAjmUXz0XokRQxGfmj2JzBMXj9GGtqgLL2Dy0/6af4623915e353add48e4a18.md",
+   "pixel_position_endpoint": "https://serpapi.com/searches/K23SWplAjmUXz0XokRQxGfmj2JzBMXj9GGtqgLL2Dy0/6af4623915e353add48e4a18.json_with_pixel_position",
+   "created_at": "2026-11-11 12:40:25 UTC",
+   "processed_at": "2026-11-11 12:40:25 UTC",
+   "google_url": "https://www.google.es/search?q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&oq=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&hl=es&gl=es&sourceid=chrome&ie=UTF-8",
+   "raw_html_file": "https://serpapi.com/searches/K23SWplAjmUXz0XokRQxGfmj2JzBMXj9GGtqgLL2Dy0/6af4623915e353add48e4a18.html",
+   "total_time_taken": 0.59
+  },
+  "search_parameters": {
+   "engine": "google",
+   "q": "site:reddit.com cafetera italiana café aguado sin sabor",
+   "google_domain": "google.es",
+   "hl": "es",
+   "gl": "es",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "site:reddit.com cafetera italiana café aguado sin sabor",
+   "total_results": 70,
+   "time_taken_displayed": 0.2,
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Mini Cafetera Italiana 1 Taza",
+    "link": "https://www.amazon.es/mini-cafetera-italiana-1-taza/s?k=mini+cafetera+italiana+1+taza",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEBxCJF1y5hxnWhA3qC43Ud3xtp7CuT6Xt5NRWHJvpJai0zJD5zBmniLp0gOk0iX14YmLkSSVgH4HzNcGWBQ0z0Iwt0rwzI2ZXFIX9H-opq8LecQFtx87OGrk5C9Fo1e-jA2KYEPLfPoAc__e8cVh_-tyNHAR_8VNhzKre5Q83mrGA_VlmuIn-X4GIbqvR2bUse8g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECCYQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › mini-cafetera-italiana-1-taza › k...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "Orbegozo KFM 130, Cafetera Italiana, 1 taza, apta para cocina de gas, vitrocerámica y eléctricas, mango ergonómico, válvula seguridad, color negro.",
+    "snippet_highlighted_words": [
+     "Orbegozo KFM 130"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Orbegozo KFM 130, Cafetera Italiana, 1 taza, apta para cocina de gas, vitrocerámica y eléctricas, mango ergonómico, válvula seguridad, color negro.",
+      "source_info_link": "https://www.amazon.es/mini-cafetera-italiana-1-taza/s?k=mini+cafetera+italiana+1+taza",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjEyZlRYbDNSVmEtTzdIU1JXR0g5TzNvTk9iVkp0RXppRGluMWxxVGwxNVNCbTB3eTI1T0FTUEJZUXN3UHNnRHFZRWtnODMwUHJzN3BfYlRCeWduM0YtZGVPUThNVGhqbnNucS0tc0o1UGlQbVRPZzFDYlpKQVRjQ21UMkNFM1RLUnNsMXVZOE16WDhjZDVUTjZ3LXpqLU1kY2lhX2M3eW84WUdLRVRJWlNSUTBydjFRaXI4cmE5OWRrOUVGX1ESBBoCCAAauAUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAlAUIDhAAGAAgACosCghjYWZldGVyYRVKj5lAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVRaePQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFe9WFT8aBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTJmVFhsM1JWYS1PN0hTUldHSDlPM29OT2JWSnRFemlEaW4xbHFUbDE1U0JtMHd5MjVPQVNQQllRc3dQc2dEcVlFa2c4MzBQcnM3cF9iVEJ5Z24zRi1kZU9ROE1UaGpuc25xLS1zSjVQaVBtVE9nMUNiWkpBVGNDbVQyQ0UzVEtSc2wxdVk4TXpYOGNkNVRONnctemotTWRjaWFfYzd5bzhZR0tFVElaU1JRMHJ2MVFpcjhyYTk5ZGs5RUZfUTowTWluaSA8Yj5DYWZldGVyYSBJdGFsaWFuYTwvYj4gMSBUYXphIC0gQW1hem9uLmVzQp4BPGI-T3JiZWdvem8gS0ZNIDEzMDwvYj4sIENhZmV0ZXJhIEl0YWxpYW5hLCAxIHRhemEsIGFwdGEgcGFyYSBjb2NpbmEgZGUgZ2FzLCB2aXRyb2NlcsOhbWljYSB5IGVsw6ljdHJpY2FzLCBtYW5nbyBlcmdvbsOzbWljbywgdsOhbHZ1bGEgc2VndXJpZGFkLCBjb2xvciBuZWdyby4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjEyZlRYbDNSVmEtTzdIU1JXR0g5TzNvTk9iVkp0RXppRGluMWxxVGwxNVNCbTB3eTI1T0FTUEJZUXN3UHNnRHFZRWtnODMwUHJzN3BfYlRCeWduM0YtZGVPUThNVGhqbnNucS0tc0o1UGlQbVRPZzFDYlpKQVRjQ21UMkNFM1RLUnNsMXVZOE16WDhjZDVUTjZ3LXpqLU1kY2lhX2M3eW84WUdLRVRJWlNSUTBydjFRaXI4cmE5OWRrOUVGX1ESBBoCCAAauAUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAlAUIDhAAGAAgACosCghjYWZldGVyYRVKj5lAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVRaePQBoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFe9WFT8aBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTJmVFhsM1JWYS1PN0hTUldHSDlPM29OT2JWSnRFemlEaW4xbHFUbDE1U0JtMHd5MjVPQVNQQllRc3dQc2dEcVlFa2c4MzBQcnM3cF9iVEJ5Z24zRi1kZU9ROE1UaGpuc25xLS1zSjVQaVBtVE9nMUNiWkpBVGNDbVQyQ0UzVEtSc2wxdVk4TXpYOGNkNVRONnctemotTWRjaWFfYzd5bzhZR0tFVElaU1JRMHJ2MVFpcjhyYTk5ZGs5RUZfUTowTWluaSA8Yj5DYWZldGVyYSBJdGFsaWFuYTwvYj4gMSBUYXphIC0gQW1hem9uLmVzQp4BPGI-T3JiZWdvem8gS0ZNIDEzMDwvYj4sIENhZmV0ZXJhIEl0YWxpYW5hLCAxIHRhemEsIGFwdGEgcGFyYSBjb2NpbmEgZGUgZ2FzLCB2aXRyb2NlcsOhbWljYSB5IGVsw6ljdHJpY2FzLCBtYW5nbyBlcmdvbsOzbWljbywgdsOhbHZ1bGEgc2VndXJpZGFkLCBjb2xvciBuZWdyby4iAhABSABYAGgA",
+    "source": "Amazon.es"
+   },
+   {
+    "position": 2,
+    "title": "Agatige Cafetera Italiana Pequeña, 1 Taza De 50 ML ...",
+    "link": "https://www.amazon.es/Agatige-Cafetera-Italiana-Fabricante-Cafeter%C3%ADa/dp/B0FN3K32CN",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEBxCJF18LHrVL_OWRYvLq0BISGxbNhInaSNNfoN5UEA1ezkcC-p3bHvz70Hpq4jOQuNvq4r8sYNcWMhgNNve_l8MXqZs7fomfeN0VoodOqYxORAcLv8-24ZmKn3g3mb8hjd35WXPZNuVAcXUBXO73GwcTL4dZ9Ax_qxprKv5DQJwhxpD7ztiaGTj0T7uXwBX-9tzst&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECB0QAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › Agatige-Cafetera-Italiana-Fabri...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "Compra Agatige Cafetera Italiana Pequeña, 1 Taza De 50 ML De Aleación De Aluminio Espresso Fabricante De Cafetería Italiana Bote De Cafetería Moka Pot ...",
+    "snippet_highlighted_words": [
+     "Agatige Cafetera Italiana Pequeña"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Compra Agatige Cafetera Italiana Pequeña, 1 Taza De 50 ML De Aleación De Aluminio Espresso Fabricante De Cafetería Italiana Bote De Cafetería Moka Pot ...",
+      "source_info_link": "https://www.amazon.es/Agatige-Cafetera-Italiana-Fabricante-Cafeter%C3%ADa/dp/B0FN3K32CN",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCeENKRjEzR2d5VVdjb0RWRXRHRVRycUlRYUpFQmZHUkJIWHRXYXBFNXFuc0FaMjliZXFuRXRxZl9lY1lRSVJyeW45RzVRYjVmcC1MV0FVSG5VLXlhUHROeXFhYlJya3dJMWp1U0tNZGtMLVFkM3VWT1hpQ2dSMFkxM0drYndRQUxrT0lwbDBBVHRlQ21oWmEzRXZDbUwxZTNEREJfNlpyWkR2UFNBNXJPaWJvMjhjQ2F1aWxQTXZzVlJfQUtXM1lEWVNObhIEGgIIABrXBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCzBQgOEAAYACAAKiwKCGNhZmV0ZXJhFcxjkEAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRV1vo9AGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kVUcxYPxoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhX8kgg-GgRzaW5zGghzaW5zYWJvciofCgVzYWJvchXf2dg9GgdzYWJvcmVzGghzaW5zYWJvcjLWAS9nb3RvP3VybD1DQUVTbEFFQnhDSkYxM0dneVVXY29EVkV0R0VUcnFJUWFKRUJmR1JCSFh0V2FwRTVxbnNBWjI5YmVxbkV0cWZfZWNZUUlScnluOUc1UWI1ZnAtTFdBVUhuVS15YVB0TnlxYWJScmt3STFqdVNLTWRrTC1RZDN1Vk9YaUNnUjBZMTNHa2J3UUFMa09JcGwwQVR0ZUNtaFphM0V2Q21MMWUzRERCXzZaclpEdlBTQTVyT2libzI4Y0NhdWlsUE12c1ZSX0FLVzNZRFlTTm46QUFnYXRpZ2UgPGI-Q2FmZXRlcmEgSXRhbGlhbmE8L2I-IFBlcXVlw7FhLCAxIFRhemEgRGUgNTAgTUwgRGUgLi4uQqoBQ29tcHJhIDxiPkFnYXRpZ2UgQ2FmZXRlcmEgSXRhbGlhbmEgUGVxdWXDsWE8L2I-LCAxIFRhemEgRGUgNTAgTUwgRGUgQWxlYWNpw7NuIERlIEFsdW1pbmlvIEVzcHJlc3NvIEZhYnJpY2FudGUgRGUgQ2FmZXRlcsOtYSBJdGFsaWFuYSBCb3RlIERlIENhZmV0ZXLDrWEgTW9rYSBQb3QmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCeENKRjEzR2d5VVdjb0RWRXRHRVRycUlRYUpFQmZHUkJIWHRXYXBFNXFuc0FaMjliZXFuRXRxZl9lY1lRSVJyeW45RzVRYjVmcC1MV0FVSG5VLXlhUHROeXFhYlJya3dJMWp1U0tNZGtMLVFkM3VWT1hpQ2dSMFkxM0drYndRQUxrT0lwbDBBVHRlQ21oWmEzRXZDbUwxZTNEREJfNlpyWkR2UFNBNXJPaWJvMjhjQ2F1aWxQTXZzVlJfQUtXM1lEWVNObhIEGgIIABrXBRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCzBQgOEAAYACAAKiwKCGNhZmV0ZXJhFcxjkEAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRV1vo9AGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kVUcxYPxoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhX8kgg-GgRzaW5zGghzaW5zYWJvciofCgVzYWJvchXf2dg9GgdzYWJvcmVzGghzaW5zYWJvcjLWAS9nb3RvP3VybD1DQUVTbEFFQnhDSkYxM0dneVVXY29EVkV0R0VUcnFJUWFKRUJmR1JCSFh0V2FwRTVxbnNBWjI5YmVxbkV0cWZfZWNZUUlScnluOUc1UWI1ZnAtTFdBVUhuVS15YVB0TnlxYWJScmt3STFqdVNLTWRrTC1RZDN1Vk9YaUNnUjBZMTNHa2J3UUFMa09JcGwwQVR0ZUNtaFphM0V2Q21MMWUzRERCXzZaclpEdlBTQTVyT2libzI4Y0NhdWlsUE12c1ZSX0FLVzNZRFlTTm46QUFnYXRpZ2UgPGI-Q2FmZXRlcmEgSXRhbGlhbmE8L2I-IFBlcXVlw7FhLCAxIFRhemEgRGUgNTAgTUwgRGUgLi4uQqoBQ29tcHJhIDxiPkFnYXRpZ2UgQ2FmZXRlcmEgSXRhbGlhbmEgUGVxdWXDsWE8L2I-LCAxIFRhemEgRGUgNTAgTUwgRGUgQWxlYWNpw7NuIERlIEFsdW1pbmlvIEVzcHJlc3NvIEZhYnJpY2FudGUgRGUgQ2FmZXRlcsOtYSBJdGFsaWFuYSBCb3RlIERlIENhZmV0ZXLDrWEgTW9rYSBQb3QmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Amazon"
+   },
+   {
+    "position": 3,
+    "title": "Hasta 0,49 L - Cafeteras De Goteo / Máquinas ...",
+    "link": "https://www.amazon.es/Cafeteras-goteo-0-49-l-M%C3%A1quinas/s?rh=n%3A2165180031%2Cp_n_feature_three_browse-bin%3A3521098031",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEBxCJF17uotRZt2oP9Ygs9Ca7GNxYjswl0P1p4HqsJkzc5QuFOupI-oSaHDbDi-pAtta0WFOMRS4kN95f1n_IIHrOqC5tjFvNoHsNGo72TadMJNCRMnbBeXkwYxzNG8FOGNtul1gKTzgqIxCmLnJluGpqYYTWCnL_823iBRQxNKNwFV7eU8LatvYEN86czw79MS3l92duIQVI7wvdug10Xd7OlMWoSkCcCXzJrFP9dMa5U-sws0eU&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECCcQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › Cafeteras-goteo-0-49-l-Máquinas",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "Arzum Okka OK0010 Cafetera turca, cafetera de 2 tazas, acero, llenado directo y detección automática de nivel de preparación, tecnología de autolimpieza 710 W.",
+    "snippet_highlighted_words": [
+     "Arzum Okka OK0010 Cafetera turca"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Arzum Okka OK0010 Cafetera turca, cafetera de 2 tazas, acero, llenado directo y detección automática de nivel de preparación, tecnología de autolimpieza 710 W.",
+      "source_info_link": "https://www.amazon.es/Cafeteras-goteo-0-49-l-M%C3%A1quinas/s?rh=n%3A2165180031%2Cp_n_feature_three_browse-bin%3A3521098031",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjE2VzQ0MkxOUm0wSHNZSm5BdVlIVWh2blRNbGdjVTdSWjBxbWRtNnRtOE95VjIyUG5mQ3pjcTdDRnl2Yzh2bGpEUTZLY1lEMDBweUx4UXZVRVlwYXdRdGNQNHl4UG11eEZrbmdneG40a0xrTTIxUVpIT252MkpOUUhQbVBOU1NKeTV1OVRSZVd4OTI0X3BBTTZZZXExU2cyd3dRbkxFYWJHZmQyVnQtaWlmWUt6MDlxNDNRbW5ERjRMUUhWUmplVW9uZUdfb0I0bkhDRGpaUHJoOGZPQnF0SGdwbzh0T0xJWW5kR3d1UE5uZExwclMwEgQaAggAGoIGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQN4FCA4QABgAIAAqLAoIY2FmZXRlcmEVSJstQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFalpeT8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRWu-PE_GgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFYouDj0aBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjE2VzQ0MkxOUm0wSHNZSm5BdVlIVWh2blRNbGdjVTdSWjBxbWRtNnRtOE95VjIyUG5mQ3pjcTdDRnl2Yzh2bGpEUTZLY1lEMDBweUx4UXZVRVlwYXdRdGNQNHl4UG11eEZrbmdneG40a0xrTTIxUVpIT252MkpOUUhQbVBOU1NKeTV1OVRSZVd4OTI0X3BBTTZZZXExU2cyd3dRbkxFYWJHZmQyVnQtaWlmWUt6MDlxNDNRbW5ERjRMUUhWUmplVW9uZUdfb0I0bkhDRGpaUHJoOGZPQnF0SGdwbzh0T0xJWW5kR3d1UE5uZExwclMwOj1IYXN0YSAwLDQ5IEwgLSBDYWZldGVyYXMgRGUgR290ZW8gLyBNw6FxdWluYXMgLi4uIC0gQW1hem9uLmVzQqoBPGI-QXJ6dW0gT2trYSBPSzAwMTAgQ2FmZXRlcmEgdHVyY2E8L2I-LCBjYWZldGVyYSBkZSAyIHRhemFzLCBhY2VybywgbGxlbmFkbyBkaXJlY3RvIHkgZGV0ZWNjacOzbiBhdXRvbcOhdGljYSBkZSBuaXZlbCBkZSBwcmVwYXJhY2nDs24sIHRlY25vbG9nw61hIGRlIGF1dG9saW1waWV6YSA3MTAgVy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjE2VzQ0MkxOUm0wSHNZSm5BdVlIVWh2blRNbGdjVTdSWjBxbWRtNnRtOE95VjIyUG5mQ3pjcTdDRnl2Yzh2bGpEUTZLY1lEMDBweUx4UXZVRVlwYXdRdGNQNHl4UG11eEZrbmdneG40a0xrTTIxUVpIT252MkpOUUhQbVBOU1NKeTV1OVRSZVd4OTI0X3BBTTZZZXExU2cyd3dRbkxFYWJHZmQyVnQtaWlmWUt6MDlxNDNRbW5ERjRMUUhWUmplVW9uZUdfb0I0bkhDRGpaUHJoOGZPQnF0SGdwbzh0T0xJWW5kR3d1UE5uZExwclMwEgQaAggAGoIGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQN4FCA4QABgAIAAqLAoIY2FmZXRlcmEVSJstQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFalpeT8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRWu-PE_GgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFYouDj0aBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjE2VzQ0MkxOUm0wSHNZSm5BdVlIVWh2blRNbGdjVTdSWjBxbWRtNnRtOE95VjIyUG5mQ3pjcTdDRnl2Yzh2bGpEUTZLY1lEMDBweUx4UXZVRVlwYXdRdGNQNHl4UG11eEZrbmdneG40a0xrTTIxUVpIT252MkpOUUhQbVBOU1NKeTV1OVRSZVd4OTI0X3BBTTZZZXExU2cyd3dRbkxFYWJHZmQyVnQtaWlmWUt6MDlxNDNRbW5ERjRMUUhWUmplVW9uZUdfb0I0bkhDRGpaUHJoOGZPQnF0SGdwbzh0T0xJWW5kR3d1UE5uZExwclMwOj1IYXN0YSAwLDQ5IEwgLSBDYWZldGVyYXMgRGUgR290ZW8gLyBNw6FxdWluYXMgLi4uIC0gQW1hem9uLmVzQqoBPGI-QXJ6dW0gT2trYSBPSzAwMTAgQ2FmZXRlcmEgdHVyY2E8L2I-LCBjYWZldGVyYSBkZSAyIHRhemFzLCBhY2VybywgbGxlbmFkbyBkaXJlY3RvIHkgZGV0ZWNjacOzbiBhdXRvbcOhdGljYSBkZSBuaXZlbCBkZSBwcmVwYXJhY2nDs24sIHRlY25vbG9nw61hIGRlIGF1dG9saW1waWV6YSA3MTAgVy4iAhABSABYAGgA",
+    "source": "Amazon"
+   },
+   {
+    "position": 4,
+    "title": "Cafetera italiana Moka con tubo único, capacidad para 1 ...",
+    "link": "https://www.leroymerlin.es/productos/cafetera-italiana-moka-con-tubo-unico-capacidad-para-1-taza-50-ml-boquilla-de-aleacion-de-aluminio-ideal-para-fiestas-al-aire-libre-y-viajes-73469830.html",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES_QEBxCJF1ztPsoG7hrKb6r-__MrbhxRizjCMA47tWVeFAtOM45MnkaoO1MZdgGTt9hEjvnKKS8Uw2V8wuBIrvOxodnTvBX-3-SqfSlA4O4oAkmlTcsZQXOvMMS3lCW4I61-OP8e40Cwk_9gaAoFrWCkyJBes2zSWdzevHc8TV1KyWMqEorvVgJ6B4fdUVJZIfXZs-_c7a84i2Xe72hRPNHXx-PTFpKHkcsjmOvqJVDhSghPF8Wi-cpwIurg_q96TbHr9F0Wf0KgxmsZLdsQ49L0j0OQd9X2CJ8jO20LybuUVQMZ24xudjwtmcweBtrk0ZOQDRZlG5Tzn7s4GLhfi&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECB4QAQ&uoh=1",
+    "displayed_link": "https://www.leroymerlin.es › ... › Cafetera express",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVMaXF3uyJ5uyB5uyB5uyB5uyCCvzDe78n____9_vzN5q2FwTbZ7cF-vinR6LTg78zn89iSyEuhz2XtFHBBAAAACHRSTlMAGqbm_-rR1H914LkAAAB8SURBVHgB1dO3AcMwAANBhldm3n9Yu4Sy1Nnf4loYY53nJO_sd--4qLPG0Q_jSUOPMx7dtwJvYLwIfhFM0zWYlyVcgRmI4RwkUKFAdoj5GATYCgWyixAQIirKFuSIxlIE6K5CQYVt7R0IddnUioDz_gXcHuf2erfnvbv_B1LeG0Q1rEydAAAAAElFTkSuQmCC.png",
+    "snippet": "Cafetera italiana Moka con tubo único, capacidad para 1 taza (50 ml), boquilla de aleación de aluminio, ideal para fiestas al aire libre y viajes · 25,99 EUR.",
+    "snippet_highlighted_words": [
+     "Cafetera italiana"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Cafetera italiana Moka con tubo único, capacidad para 1 taza (50 ml), boquilla de aleación de aluminio, ideal para fiestas al aire libre y viajes · 25,99 EUR.",
+      "source_info_link": "https://www.leroymerlin.es/productos/cafetera-italiana-moka-con-tubo-unico-capacidad-para-1-taza-50-ml-boquilla-de-aleacion-de-aluminio-ideal-para-fiestas-al-aire-libre-y-viajes-73469830.html",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVMaXF3uyJ5uyB5uyB5uyB5uyCCvzDe78n____9_vzN5q2FwTbZ7cF-vinR6LTg78zn89iSyEuhz2XtFHBBAAAACHRSTlMAGqbm_-rR1H914LkAAAB8SURBVHgB1dO3AcMwAANBhldm3n9Yu4Sy1Nnf4loYY53nJO_sd--4qLPG0Q_jSUOPMx7dtwJvYLwIfhFM0zWYlyVcgRmI4RwkUKFAdoj5GATYCgWyixAQIirKFuSIxlIE6K5CQYVt7R0IddnUioDz_gXcHuf2erfnvbv_B1LeG0Q1rEydAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CuICL2dvdG8_dXJsPUNBRVNfUUVCeENKRjEwcVVyVnlnbDQ2cS12R0dVTVAtaGFBelNEUXI1M2x2dWQ0Q2E1ekFfUW5FRV9wZDJIOTBWakV2Qk1zWXNNbmNBVThNVTAxY3BqRGlVOUFMZXhSSGgtUTBURng2bVhxVjVTemZTX3JsLWZFTjFabzd4UGVRVXl1dDFxNDM0Tm0zN3czLU5vaE5oVHR0ejBtS2l5czBmZS12dzJoYXpNT21xeWxpTEtTN1hlUklydHFCcWZ6Y3BWY1FXa28zRGdUTDVYcnVxQ09ZNXRicWdfM2FvZDBBSVJiRkd6azF6WUJSM1VCVmNya1lDSi1ZUlVVSE11dGp4THhuckZXWDB2QndJaWtqZDZoWHZYRms2TWxZT2VFeDVLZzhUbkRnZUxGNklfd1YtR2dFSlhPei1WQ3p6ZGFKcDh1NlRoZWQ1ZU5OSlpVRWVGZ0hDNUFPEgQaAggAGu4GEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQMoGCA4QABgAIAAqLAoIY2FmZXRlcmEVIUmuQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFc3xqEAaCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRX-uN4_GgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFQAAAAAaBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMuICL2dvdG8_dXJsPUNBRVNfUUVCeENKRjEwcVVyVnlnbDQ2cS12R0dVTVAtaGFBelNEUXI1M2x2dWQ0Q2E1ekFfUW5FRV9wZDJIOTBWakV2Qk1zWXNNbmNBVThNVTAxY3BqRGlVOUFMZXhSSGgtUTBURng2bVhxVjVTemZTX3JsLWZFTjFabzd4UGVRVXl1dDFxNDM0Tm0zN3czLU5vaE5oVHR0ejBtS2l5czBmZS12dzJoYXpNT21xeWxpTEtTN1hlUklydHFCcWZ6Y3BWY1FXa28zRGdUTDVYcnVxQ09ZNXRicWdfM2FvZDBBSVJiRkd6azF6WUJSM1VCVmNya1lDSi1ZUlVVSE11dGp4THhuckZXWDB2QndJaWtqZDZoWHZYRms2TWxZT2VFeDVLZzhUbkRnZUxGNklfd1YtR2dFSlhPei1WQ3p6ZGFKcDh1NlRoZWQ1ZU5OSlpVRWVGZ0hDNUFPOkg8Yj5DYWZldGVyYSBpdGFsaWFuYTwvYj4gTW9rYSBjb24gdHVibyDDum5pY28sIGNhcGFjaWRhZCBwYXJhIDEgdGF6YSAuLi5CrgE8Yj5DYWZldGVyYSBpdGFsaWFuYTwvYj4gTW9rYSBjb24gdHVibyDDum5pY28sIGNhcGFjaWRhZCBwYXJhIDEgdGF6YSAoNTAgbWwpLCBib3F1aWxsYSBkZSBhbGVhY2nDs24gZGUgYWx1bWluaW8sIGlkZWFsIHBhcmEgZmllc3RhcyBhbCBhaXJlIGxpYnJlIHkgdmlhamVzICZtaWRkb3Q7IDI1LDk5IEVVUi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CuICL2dvdG8_dXJsPUNBRVNfUUVCeENKRjEwcVVyVnlnbDQ2cS12R0dVTVAtaGFBelNEUXI1M2x2dWQ0Q2E1ekFfUW5FRV9wZDJIOTBWakV2Qk1zWXNNbmNBVThNVTAxY3BqRGlVOUFMZXhSSGgtUTBURng2bVhxVjVTemZTX3JsLWZFTjFabzd4UGVRVXl1dDFxNDM0Tm0zN3czLU5vaE5oVHR0ejBtS2l5czBmZS12dzJoYXpNT21xeWxpTEtTN1hlUklydHFCcWZ6Y3BWY1FXa28zRGdUTDVYcnVxQ09ZNXRicWdfM2FvZDBBSVJiRkd6azF6WUJSM1VCVmNya1lDSi1ZUlVVSE11dGp4THhuckZXWDB2QndJaWtqZDZoWHZYRms2TWxZT2VFeDVLZzhUbkRnZUxGNklfd1YtR2dFSlhPei1WQ3p6ZGFKcDh1NlRoZWQ1ZU5OSlpVRWVGZ0hDNUFPEgQaAggAGu4GEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQMoGCA4QABgAIAAqLAoIY2FmZXRlcmEVIUmuQBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFc3xqEAaCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRX-uN4_GgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFQAAAAAaBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMuICL2dvdG8_dXJsPUNBRVNfUUVCeENKRjEwcVVyVnlnbDQ2cS12R0dVTVAtaGFBelNEUXI1M2x2dWQ0Q2E1ekFfUW5FRV9wZDJIOTBWakV2Qk1zWXNNbmNBVThNVTAxY3BqRGlVOUFMZXhSSGgtUTBURng2bVhxVjVTemZTX3JsLWZFTjFabzd4UGVRVXl1dDFxNDM0Tm0zN3czLU5vaE5oVHR0ejBtS2l5czBmZS12dzJoYXpNT21xeWxpTEtTN1hlUklydHFCcWZ6Y3BWY1FXa28zRGdUTDVYcnVxQ09ZNXRicWdfM2FvZDBBSVJiRkd6azF6WUJSM1VCVmNya1lDSi1ZUlVVSE11dGp4THhuckZXWDB2QndJaWtqZDZoWHZYRms2TWxZT2VFeDVLZzhUbkRnZUxGNklfd1YtR2dFSlhPei1WQ3p6ZGFKcDh1NlRoZWQ1ZU5OSlpVRWVGZ0hDNUFPOkg8Yj5DYWZldGVyYSBpdGFsaWFuYTwvYj4gTW9rYSBjb24gdHVibyDDum5pY28sIGNhcGFjaWRhZCBwYXJhIDEgdGF6YSAuLi5CrgE8Yj5DYWZldGVyYSBpdGFsaWFuYTwvYj4gTW9rYSBjb24gdHVibyDDum5pY28sIGNhcGFjaWRhZCBwYXJhIDEgdGF6YSAoNTAgbWwpLCBib3F1aWxsYSBkZSBhbGVhY2nDs24gZGUgYWx1bWluaW8sIGlkZWFsIHBhcmEgZmllc3RhcyBhbCBhaXJlIGxpYnJlIHkgdmlhamVzICZtaWRkb3Q7IDI1LDk5IEVVUi4iAhABSABYAGgA",
+    "source": "Leroy Merlin"
+   },
+   {
+    "position": 5,
+    "title": "Comprar Cafeteras italianas | Disfruta el mejor café",
+    "link": "https://www.lacasadelelectrodomestico.com/Seccion~x~Cafeteras-italianas~IDSeccion~1515.html?Pagina=3",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEBxCJF132iZhVMKodPlXDe-M-vizWZ5urHaP7rCRjTx7niiDr4FcjytvCW94A1vjUQm4gOdolj8W8QHNhtsw9BiOGEyctNmglHTw-w6eLJh3pA6d9nrXROj16WjwvGWSiZwsMJIDA-W8EPttkBesMcuHLIZhKzkoQOmm4tWKWBr3zcBBybEDThWepW7c1TC62dsa2hsyWNw2fyEMt2gx-L9g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECCEQAQ&uoh=1",
+    "displayed_link": "https://www.lacasadelelectrodomestico.com › Seccion~x...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEX______Pj__ff8-_3z8Pb39fn70pnrkz3ptaD77ufe1efTx96ul8KrksHIuNaxnMW1oci7qc3YzuGegrf4vonvrILkn4PmdTnymm_62Mjo4u6_rc_NwNr1sIn4xa399O_xjFrxi1P5xqX-8-biZQD1mR3bydfLt87kpYyWd7GObKybfrXu6_T49vr7Iu4RAAAAkElEQVR4Ae2OUwIDMRBAZ604td3w_ser7f7vC8aAv6kJQrgSRQBxclQTiCHN8uISLCtUYUIZp4JKRKHRbLU73eAY7HEk-gPKGBW7R2A4gvFoMp3N4QW74I7RYrmP9hAX5YAIIfpCVCVfrVlVVio_VJZSG8k0Ndpqi6WWVmps3GnbOIkTH-9EEnvvd2J_oeYXtt0YChcqjqxBAAAAAElFTkSuQmCC.png",
+    "snippet": "Cafeteras italianas ; Monix M620009 - Cafetera italiana Vitro Express de 9 tazas · *Envío gratuito · Mate; Antiadherente; Interior sin cantos; No apto lavavajillas.",
+    "snippet_highlighted_words": [
+     "Cafeteras italianas"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Cafeteras italianas ; Monix M620009 - Cafetera italiana Vitro Express de 9 tazas · *Envío gratuito · Mate; Antiadherente; Interior sin cantos; No apto lavavajillas.",
+      "source_info_link": "https://www.lacasadelelectrodomestico.com/Seccion~x~Cafeteras-italianas~IDSeccion~1515.html?Pagina=3",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEX______Pj__ff8-_3z8Pb39fn70pnrkz3ptaD77ufe1efTx96ul8KrksHIuNaxnMW1oci7qc3YzuGegrf4vonvrILkn4PmdTnymm_62Mjo4u6_rc_NwNr1sIn4xa399O_xjFrxi1P5xqX-8-biZQD1mR3bydfLt87kpYyWd7GObKybfrXu6_T49vr7Iu4RAAAAkElEQVR4Ae2OUwIDMRBAZ604td3w_ser7f7vC8aAv6kJQrgSRQBxclQTiCHN8uISLCtUYUIZp4JKRKHRbLU73eAY7HEk-gPKGBW7R2A4gvFoMp3N4QW74I7RYrmP9hAX5YAIIfpCVCVfrVlVVio_VJZSG8k0Ndpqi6WWVmps3GnbOIkTH-9EEnvvd2J_oeYXtt0YChcqjqxBAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE3N2NIVGhNaklxa3hqbklsWkhnNVJDZnotQzRJbDlfUWRiSE11cGFWcXE5a1k4YUd0azh2T012WENxY1dMNDZjaGdfLUY2QlJHaXI0eDNQRUtIN0VSODNCTGhTVzBKWEQwRGZueVlKS01OYzlKMVJ1NUFGc1ozZnh3aDlZMmhDbzFhY1NWYWJtUm9oTGZoQkowTmFPYTlnQ09qX1RESWNWRDNOVjU4cXd0bVFrdzVZZkRaNF9ja055Q201RU1jNXd2VHZKaUJWX2p3dTZ2RTNNURIEGgIIABr7BRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDXBQgOEAAYACAAKiwKCGNhZmV0ZXJhFSOn7z8aCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRXteM8_GglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kV694DQBoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhVuza09GgRzaW5zGghzaW5zYWJvciofCgVzYWJvchVzYH89GgdzYWJvcmVzGghzaW5zYWJvcjLoAS9nb3RvP3VybD1DQUVTb1FFQnhDSkYxNzdjSFRoTWpJcWt4am5JbFpIZzVSQ2Z6LUM0SWw5X1FkYkhNdXBhVnFxOWtZOGFHdGs4dk9NdlhDcWNXTDQ2Y2hnXy1GNkJSR2lyNHgzUEVLSDdFUjgzQkxoU1cwSlhEMERmbnlZSktNTmM5SjFSdTVBRnNaM2Z4d2g5WTJoQ28xYWNTVmFibVJvaExmaEJKME5hT2E5Z0NPal9UREljVkQzTlY1OHF3dG1Ra3c1WWZEWjRfY2tOeUNtNUVNYzV3dlR2SmlCVl9qd3U2dkUzTVE6Q0NvbXByYXIgPGI-Q2FmZXRlcmFzIGl0YWxpYW5hczwvYj4gfCBEaXNmcnV0YSBlbCBtZWpvciA8Yj5jYWbDqTwvYj5CugE8Yj5DYWZldGVyYXMgaXRhbGlhbmFzPC9iPiA7IE1vbml4IE02MjAwMDkgLSBDYWZldGVyYSBpdGFsaWFuYSBWaXRybyBFeHByZXNzIGRlIDkgdGF6YXMgJm1pZGRvdDsgKkVudsOtbyBncmF0dWl0byAmbWlkZG90OyBNYXRlOyBBbnRpYWRoZXJlbnRlOyBJbnRlcmlvciBzaW4gY2FudG9zOyBObyBhcHRvIGxhdmF2YWppbGxhcy4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE3N2NIVGhNaklxa3hqbklsWkhnNVJDZnotQzRJbDlfUWRiSE11cGFWcXE5a1k4YUd0azh2T012WENxY1dMNDZjaGdfLUY2QlJHaXI0eDNQRUtIN0VSODNCTGhTVzBKWEQwRGZueVlKS01OYzlKMVJ1NUFGc1ozZnh3aDlZMmhDbzFhY1NWYWJtUm9oTGZoQkowTmFPYTlnQ09qX1RESWNWRDNOVjU4cXd0bVFrdzVZZkRaNF9ja055Q201RU1jNXd2VHZKaUJWX2p3dTZ2RTNNURIEGgIIABr7BRIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkDXBQgOEAAYACAAKiwKCGNhZmV0ZXJhFSOn7z8aCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRXteM8_GglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kV694DQBoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhVuza09GgRzaW5zGghzaW5zYWJvciofCgVzYWJvchVzYH89GgdzYWJvcmVzGghzaW5zYWJvcjLoAS9nb3RvP3VybD1DQUVTb1FFQnhDSkYxNzdjSFRoTWpJcWt4am5JbFpIZzVSQ2Z6LUM0SWw5X1FkYkhNdXBhVnFxOWtZOGFHdGs4dk9NdlhDcWNXTDQ2Y2hnXy1GNkJSR2lyNHgzUEVLSDdFUjgzQkxoU1cwSlhEMERmbnlZSktNTmM5SjFSdTVBRnNaM2Z4d2g5WTJoQ28xYWNTVmFibVJvaExmaEJKME5hT2E5Z0NPal9UREljVkQzTlY1OHF3dG1Ra3c1WWZEWjRfY2tOeUNtNUVNYzV3dlR2SmlCVl9qd3U2dkUzTVE6Q0NvbXByYXIgPGI-Q2FmZXRlcmFzIGl0YWxpYW5hczwvYj4gfCBEaXNmcnV0YSBlbCBtZWpvciA8Yj5jYWbDqTwvYj5CugE8Yj5DYWZldGVyYXMgaXRhbGlhbmFzPC9iPiA7IE1vbml4IE02MjAwMDkgLSBDYWZldGVyYSBpdGFsaWFuYSBWaXRybyBFeHByZXNzIGRlIDkgdGF6YXMgJm1pZGRvdDsgKkVudsOtbyBncmF0dWl0byAmbWlkZG90OyBNYXRlOyBBbnRpYWRoZXJlbnRlOyBJbnRlcmlvciBzaW4gY2FudG9zOyBObyBhcHRvIGxhdmF2YWppbGxhcy4iAhABSABYAGgA",
+    "source": "La Casa del Electrodoméstico"
+   },
+   {
+    "position": 6,
+    "title": "50 - 100 EUR - Cafeteras Italianas / Utensilios Para Café Y ...",
+    "link": "https://www.google.es/goto?url=CAESoAEBxCJF156te9zEzKOALAp9DwOt5z__XHbYJIf764zCN_EJqDsdoAdFFZcxEXmTXc0wgqQv_i-4iS-BLLnMz-A7v5XkvA1eBf31JXOn03O93r5JwG9vGUCfC-m20TStqtCqg5SVlMtQepumvri7Cn9y6eZVnVOuJT-T1w9O0JxQ8WOhuBuzkCmRh4eK5NstxmdGQ6z_XJNgPsgX12fBrnhX",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF16DSmzeD8JgJZs2wIlwWZAQehRuqGRomtQIkEboeOCzxdOKOGFMxUr0QTm8_BZZi7njCCPaVbpWsDJGTb9jsQCon9RsU2VQQBTDCAlt19qsuiSwr2b02zDnef-oQiNQDfuK3m9jn2oIffIeBdVghZ3KBfNNYFYZs41U7vd4WdlH7HrlAkjLUaZ62iN4NNxy2LkQ_-tsa66NYx-xS&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECCMQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › Cafeteras-italianas-50-100-EUR",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "Marcas · Bialetti · Alessi ; Altura · Hasta 19 cm · 20 a 29 cm · 35 cm y más ; Finalidad · Preparación de cafés lattes · Viajes · Preparación de café helado.",
+    "snippet_highlighted_words": [
+     "cafés",
+     "café"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Marcas · Bialetti · Alessi ; Altura · Hasta 19 cm · 20 a 29 cm · 35 cm y más ; Finalidad · Preparación de cafés lattes · Viajes · Preparación de café helado.",
+      "source_info_link": "https://www.google.es/goto?url=CAESoAEBxCJF156te9zEzKOALAp9DwOt5z__XHbYJIf764zCN_EJqDsdoAdFFZcxEXmTXc0wgqQv_i-4iS-BLLnMz-A7v5XkvA1eBf31JXOn03O93r5JwG9vGUCfC-m20TStqtCqg5SVlMtQepumvri7Cn9y6eZVnVOuJT-T1w9O0JxQ8WOhuBuzkCmRh4eK5NstxmdGQ6z_XJNgPsgX12fBrnhX",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjE1NnRlOXpFektPQUxBcDlEd090NXpfX1hIYllKSWY3NjR6Q05fRUpxRHNkb0FkRkZaY3hFWG1UWGMwd2dxUXZfaS00aVMtQkxMbk16LUE3djVYa3ZBMWVCZjMxSlhPbjAzTzkzcjVKd0c5dkdVQ2ZDLW0yMFRTdHF0Q3FnNVNWbE10UWVwdW12cmk3Q245eTZlWlZuVk91SlQtVDF3OU8wSnhROFdPaHVCdXprQ21SaDRlSzVOc3R4bWRHUTZ6X1hKTmdQc2dYMTJmQnJuaFgSBBoCCAAasgYSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAjgYIDhAAGAAgACosCghjYWZldGVyYRXK5nNAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEV0dbyPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFa04h0AaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTU2dGU5ekV6S09BTEFwOUR3T3Q1el9fWEhiWUpJZjc2NHpDTl9FSnFEc2RvQWRGRlpjeEVYbVRYYzB3Z3FRdl9pLTRpUy1CTExuTXotQTd2NVhrdkExZUJmMzFKWE9uMDNPOTNyNUp3Rzl2R1VDZkMtbTIwVFN0cXRDcWc1U1ZsTXRRZXB1bXZyaTdDbjl5NmVaVm5WT3VKVC1UMXc5TzBKeFE4V09odUJ1emtDbVJoNGVLNU5zdHhtZEdRNnpfWEpOZ1BzZ1gxMmZCcm5oWDpONTAgLSAxMDAgRVVSIC0gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVMOpQugBTWFyY2FzICZtaWRkb3Q7IEJpYWxldHRpICZtaWRkb3Q7IEFsZXNzaSA7IEFsdHVyYSAmbWlkZG90OyBIYXN0YSAxOSBjbSAmbWlkZG90OyAyMCBhIDI5IGNtICZtaWRkb3Q7IDM1IGNtIHkgbcOhcyA7IEZpbmFsaWRhZCAmbWlkZG90OyBQcmVwYXJhY2nDs24gZGUgPGI-Y2Fmw6lzPC9iPiBsYXR0ZXMgJm1pZGRvdDsgVmlhamVzICZtaWRkb3Q7IFByZXBhcmFjacOzbiBkZSA8Yj5jYWbDqTwvYj4gaGVsYWRvLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjE1NnRlOXpFektPQUxBcDlEd090NXpfX1hIYllKSWY3NjR6Q05fRUpxRHNkb0FkRkZaY3hFWG1UWGMwd2dxUXZfaS00aVMtQkxMbk16LUE3djVYa3ZBMWVCZjMxSlhPbjAzTzkzcjVKd0c5dkdVQ2ZDLW0yMFRTdHF0Q3FnNVNWbE10UWVwdW12cmk3Q245eTZlWlZuVk91SlQtVDF3OU8wSnhROFdPaHVCdXprQ21SaDRlSzVOc3R4bWRHUTZ6X1hKTmdQc2dYMTJmQnJuaFgSBBoCCAAasgYSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAjgYIDhAAGAAgACosCghjYWZldGVyYRXK5nNAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEV0dbyPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFa04h0AaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTU2dGU5ekV6S09BTEFwOUR3T3Q1el9fWEhiWUpJZjc2NHpDTl9FSnFEc2RvQWRGRlpjeEVYbVRYYzB3Z3FRdl9pLTRpUy1CTExuTXotQTd2NVhrdkExZUJmMzFKWE9uMDNPOTNyNUp3Rzl2R1VDZkMtbTIwVFN0cXRDcWc1U1ZsTXRRZXB1bXZyaTdDbjl5NmVaVm5WT3VKVC1UMXc5TzBKeFE4V09odUJ1emtDbVJoNGVLNU5zdHhtZEdRNnpfWEpOZ1BzZ1gxMmZCcm5oWDpONTAgLSAxMDAgRVVSIC0gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVMOpQugBTWFyY2FzICZtaWRkb3Q7IEJpYWxldHRpICZtaWRkb3Q7IEFsZXNzaSA7IEFsdHVyYSAmbWlkZG90OyBIYXN0YSAxOSBjbSAmbWlkZG90OyAyMCBhIDI5IGNtICZtaWRkb3Q7IDM1IGNtIHkgbcOhcyA7IEZpbmFsaWRhZCAmbWlkZG90OyBQcmVwYXJhY2nDs24gZGUgPGI-Y2Fmw6lzPC9iPiBsYXR0ZXMgJm1pZGRvdDsgVmlhamVzICZtaWRkb3Q7IFByZXBhcmFjacOzbiBkZSA8Yj5jYWbDqTwvYj4gaGVsYWRvLiICEAFIAFgAaAA",
+    "source": "Amazon"
+   },
+   {
+    "position": 7,
+    "title": "De'Longhi / Cafeteras Italianas / Utensilios Para Café Y T...",
+    "link": "https://www.amazon.es/Cafeteras-italianas-DeLonghi-Utensilios-caf%C3%A9-t%C3%A9/s?keywords=Cafeteras+italianas&rh=n%3A2165186031%2Cp_89%3ADe%2527Longhi&c=ts&ts_id=2165186031",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAES6wEBxCJF10x2a3__HGsPgW1LgCRK21YCnS0nY6KGhlIyYX1Bb4ePzXeI-5DeIYb1nVBQ3HqUu3X69ho61fBre_EACaQvyoxPfHmTm_xxy2NYFtCKCm6vLRI3WPySPEZDz8AWqOuloBK9_imkI8moghPWPjqeM4iGGn18Gsl3zYcp68wH1fZ8DcJiPDXa04xmLxYtZKISGL1zGn2T3mC7vIqGQSSyaowxBSR1CIKMcw0HdsanesSrawl3z2OFAdiFs2oEfJuXbqVbpTwIFA21E4NOPleimjo1XB5r3vsJWoFgXaV87tZvP-k_HieP&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECEMQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › Cafeteras-italianas-DeLonghi-U...",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "De'Longhi Alicia EMKM 9 Cafetera Moka Eléctrica, 550 w, Capacidad 9 Tazas, Función Autoapagado, Base Giratoria, Negro y Plata · 200+ comprados el mes pasado.",
+    "snippet_highlighted_words": [
+     "De'Longhi Alicia EMKM 9 Cafetera Moka Eléctrica"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "De'Longhi Alicia EMKM 9 Cafetera Moka Eléctrica, 550 w, Capacidad 9 Tazas, Función Autoapagado, Base Giratoria, Negro y Plata · 200+ comprados el mes pasado.",
+      "source_info_link": "https://www.amazon.es/Cafeteras-italianas-DeLonghi-Utensilios-caf%C3%A9-t%C3%A9/s?keywords=Cafeteras+italianas&rh=n%3A2165186031%2Cp_89%3ADe%2527Longhi&c=ts&ts_id=2165186031",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CsoCL2dvdG8_dXJsPUNBRVM2d0VCeENKRjE5UWVhOEdURWhjMG50ejdTY25CQUZveC02b2VZdmZYUzFBN2JqLU1YY1F2MU9wMnRkT0M5czZHVkRtWEdJUjh6dWRnTVJIMFZ0V3Ffc2lWSWw3cjB2WEk5MXZPR21fU29JQmFpRnBfNl9rWmR3LUFvbThhazBDQnZWTEZvVWVDU2RCYjItRjI4OW1rMkZ1THpGbTlqZ2l3T2N2alpkcUdtd2UyZjBKbTlKOTVoandXRHRabVhxbm9HOWxiaVZtZzRyZFAtTE5CMjR2OGJ4cWlXcUNLb2NZNWJpMzYxMXhTMU9TWnVOelRhYmQxNUxuTG14bDJmVGlLY0QxVEE5TFVJNTQtdVVlZEZ4LThTYWsxYWhxR2NQcU9OanI3UXhORmNkZUs1cmtXdzFGdDB4VVZURXMzEgQaAggAGuEGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQL0GCA4QABgAIAAqLAoIY2FmZXRlcmEVJ813QBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFcXJzD8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRWK2oVAGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFQAAAAAaBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMsoCL2dvdG8_dXJsPUNBRVM2d0VCeENKRjE5UWVhOEdURWhjMG50ejdTY25CQUZveC02b2VZdmZYUzFBN2JqLU1YY1F2MU9wMnRkT0M5czZHVkRtWEdJUjh6dWRnTVJIMFZ0V3Ffc2lWSWw3cjB2WEk5MXZPR21fU29JQmFpRnBfNl9rWmR3LUFvbThhazBDQnZWTEZvVWVDU2RCYjItRjI4OW1rMkZ1THpGbTlqZ2l3T2N2alpkcUdtd2UyZjBKbTlKOTVoandXRHRabVhxbm9HOWxiaVZtZzRyZFAtTE5CMjR2OGJ4cWlXcUNLb2NZNWJpMzYxMXhTMU9TWnVOelRhYmQxNUxuTG14bDJmVGlLY0QxVEE5TFVJNTQtdVVlZEZ4LThTYWsxYWhxR2NQcU9OanI3UXhORmNkZUs1cmtXdzFGdDB4VVZURXMzOlBEZSYjMzk7TG9uZ2hpIC8gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVC4uLkKxATxiPkRlJiMzOTtMb25naGkgQWxpY2lhIEVNS00gOSBDYWZldGVyYSBNb2thIEVsw6ljdHJpY2E8L2I-LCA1NTAgdywgQ2FwYWNpZGFkIDkgVGF6YXMsIEZ1bmNpw7NuIEF1dG9hcGFnYWRvLCBCYXNlIEdpcmF0b3JpYSwgTmVncm8geSBQbGF0YSAmbWlkZG90OyAyMDArIGNvbXByYWRvcyBlbCBtZXMgcGFzYWRvLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CsoCL2dvdG8_dXJsPUNBRVM2d0VCeENKRjE5UWVhOEdURWhjMG50ejdTY25CQUZveC02b2VZdmZYUzFBN2JqLU1YY1F2MU9wMnRkT0M5czZHVkRtWEdJUjh6dWRnTVJIMFZ0V3Ffc2lWSWw3cjB2WEk5MXZPR21fU29JQmFpRnBfNl9rWmR3LUFvbThhazBDQnZWTEZvVWVDU2RCYjItRjI4OW1rMkZ1THpGbTlqZ2l3T2N2alpkcUdtd2UyZjBKbTlKOTVoandXRHRabVhxbm9HOWxiaVZtZzRyZFAtTE5CMjR2OGJ4cWlXcUNLb2NZNWJpMzYxMXhTMU9TWnVOelRhYmQxNUxuTG14bDJmVGlLY0QxVEE5TFVJNTQtdVVlZEZ4LThTYWsxYWhxR2NQcU9OanI3UXhORmNkZUs1cmtXdzFGdDB4VVZURXMzEgQaAggAGuEGEgAaACIAKgAyBggBEgJlczoAQgQIARAOSgBaAHIAegCCQL0GCA4QABgAIAAqLAoIY2FmZXRlcmEVJ813QBoJY2FmZXRlcmFzGhBjYWZldGVyYWl0YWxpYW5hKiwKCGl0YWxpYW5hFcXJzD8aCWl0YWxpYW5hcxoQY2FmZXRlcmFpdGFsaWFuYSo4CgVjYWbDqRWK2oVAGgRjYWZlGgVjYWZlcxoJY2FmZXRlcmlhGgpjYWZldGVyw61hGgZjYWbDqXMqDQoGYWd1YWRvFQAAAAAqGgoDc2luFQAAAAAaBHNpbnMaCHNpbnNhYm9yKh8KBXNhYm9yFQAAAAAaB3NhYm9yZXMaCHNpbnNhYm9yMsoCL2dvdG8_dXJsPUNBRVM2d0VCeENKRjE5UWVhOEdURWhjMG50ejdTY25CQUZveC02b2VZdmZYUzFBN2JqLU1YY1F2MU9wMnRkT0M5czZHVkRtWEdJUjh6dWRnTVJIMFZ0V3Ffc2lWSWw3cjB2WEk5MXZPR21fU29JQmFpRnBfNl9rWmR3LUFvbThhazBDQnZWTEZvVWVDU2RCYjItRjI4OW1rMkZ1THpGbTlqZ2l3T2N2alpkcUdtd2UyZjBKbTlKOTVoandXRHRabVhxbm9HOWxiaVZtZzRyZFAtTE5CMjR2OGJ4cWlXcUNLb2NZNWJpMzYxMXhTMU9TWnVOelRhYmQxNUxuTG14bDJmVGlLY0QxVEE5TFVJNTQtdVVlZEZ4LThTYWsxYWhxR2NQcU9OanI3UXhORmNkZUs1cmtXdzFGdDB4VVZURXMzOlBEZSYjMzk7TG9uZ2hpIC8gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVC4uLkKxATxiPkRlJiMzOTtMb25naGkgQWxpY2lhIEVNS00gOSBDYWZldGVyYSBNb2thIEVsw6ljdHJpY2E8L2I-LCA1NTAgdywgQ2FwYWNpZGFkIDkgVGF6YXMsIEZ1bmNpw7NuIEF1dG9hcGFnYWRvLCBCYXNlIEdpcmF0b3JpYSwgTmVncm8geSBQbGF0YSAmbWlkZG90OyAyMDArIGNvbXByYWRvcyBlbCBtZXMgcGFzYWRvLiICEAFIAFgAaAA",
+    "source": "Amazon"
+   },
+   {
+    "position": 8,
+    "title": "Cafeteras al mejor precio | Espresso, Cápsulas y Más",
+    "link": "https://www.neobyte.es/cafeteras-561?srsltid=AYCX9vJe684fgUgQfZWwlcbBcPuVpFZ2dw4hHAhz_NQHOW9KtqZl2K8s",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEBxCJF1x3r8dSFS6tAhhnXZUleqyLJo1m8AcUD4EY4neKCFpF5RfHwATBwVD1QQQbYRdZ9eHA_VB8rTsusE_AWxfL1PDypgBEXqv2P41vq2BtCScIxYyXnN9kcgzMFJ48An9rFusznAx364dkUbSKr9PiQ04wyCTdD1uKsbUlFjITukWPw7FlqoJbl5wYlyrEV03n8Cwn4XH7GDwhrkdGTak4&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECDwQAQ&uoh=1",
+    "displayed_link": "https://www.neobyte.es › Hogar y oficina › Cocina",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX_XQD_ZwBHcEz_ZgD_lgD_cAD_VAD_oQD_nAD_s2D_16j_06T_____qAD_7t3_lwD_jAD_sQD_kADPhnQyAAAAE3RSTlP_KQD_Lf_____6__________9715ha0gAAANtJREFUeAFlzFFygCAMRVFEJAEQaPe_2Po0Ok1yv96EMwTTFk1hNyI5cKj3TMkBLUgLACUyaQGgBUE4AJGv7h-YORkAkUutFYBLba04cOTae685n4zRkgM77v3IxA2ARVgwwgsoeYDKB0RYMOYHIDzobQqAcAAtASLCthswBIgIMa2n-34LjB8phQjxgQLxH5wXgJgC1vDgES8oHogQsJoHIgRMD0QIoGKBtL1gDgxyIALUC3DBYHIg_S5ExHNOJiIDQB7wZQGEAuQABGkBoIUCJ4ARTCoH4jZV_Afk1B0eNjyntgAAAABJRU5ErkJggg.png",
+    "snippet": "34,90 € · Princess 249431 es una cafetera italiana eléctrica para preparar café molido de forma sencilla en casa. Su capacidad de 0,3 litros permite preparar ...",
+    "snippet_highlighted_words": [
+     "Princess 249431 es una cafetera italiana eléctrica"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "34,90 € · Princess 249431 es una cafetera italiana eléctrica para preparar café molido de forma sencilla en casa. Su capacidad de 0,3 litros permite preparar ...",
+      "source_info_link": "https://www.neobyte.es/cafeteras-561?srsltid=AYCX9vJe684fgUgQfZWwlcbBcPuVpFZ2dw4hHAhz_NQHOW9KtqZl2K8s",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEX_XQD_ZwBHcEz_ZgD_lgD_cAD_VAD_oQD_nAD_s2D_16j_06T_____qAD_7t3_lwD_jAD_sQD_kADPhnQyAAAAE3RSTlP_KQD_Lf_____6__________9715ha0gAAANtJREFUeAFlzFFygCAMRVFEJAEQaPe_2Po0Ok1yv96EMwTTFk1hNyI5cKj3TMkBLUgLACUyaQGgBUE4AJGv7h-YORkAkUutFYBLba04cOTae685n4zRkgM77v3IxA2ARVgwwgsoeYDKB0RYMOYHIDzobQqAcAAtASLCthswBIgIMa2n-34LjB8phQjxgQLxH5wXgJgC1vDgES8oHogQsJoHIgRMD0QIoGKBtL1gDgxyIALUC3DBYHIg_S5ExHNOJiIDQB7wZQGEAuQABGkBoIUCJ4ARTCoH4jZV_Afk1B0eNjyntgAAAABJRU5ErkJggg.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjE0WjZacmdaV2ZETW1lLWRDRmUzUklnX285dkNYc3RmbTJzd2h1TW8xeE9odmZtam84N3d2U3d3YjVLSGJxT0FVRGFSMTI2SkRLZThKX3hVbjdyM0FtU3ZxbUJRNEp4eVRvX1VLc0lUNURMQWw0QXNKNkQtbF9yLVJRLWZLX3pveXZCQ0QtejRmbVlEU1FoTkp0U2NoVG9TS1lJWnBCT3ZOak1INUduOHRiZ2llWTVCem5SM2lhdzdkOW4wckc3eTVpZTR6S2JiR01kUE01OHBycEkSBBoCCAAapgUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAggUIDhAAGAAgACosCghjYWZldGVyYRX5G4o_GgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEV-r11PxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFaMuSj8aBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VZrPXPRoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVlSzVPRoHc2Fib3JlcxoIc2luc2Fib3IykQEvZ290bz91cmw9Q0FFU1lRSEVJa1hYdXdyYTRhTk94RmpWemx5R0h3WWpVYUl3bUN3ZVFXUjFhQlgtdENDcGl4aE1iM0Y2QUpoM2VhQm5QeEJQQy1xVXp6cFhvTXF1bzVQc0ZsOVF0X3Vfdk5qV0VYSEh1QnB6RVVSbURaVG1jN3pRcU1UNHgwOGY0b3hrLVRjOkc8Yj5DYWZldGVyYXM8L2I-IGFsIG1lam9yIHByZWNpbyB8IEVzcHJlc3NvLCBDw6Fwc3VsYXMgeSBNw6FzIC0gTmVvYnl0ZUK4ATM0LDkwIOKCrCAmbWlkZG90OyA8Yj5QcmluY2VzcyAyNDk0MzEgZXMgdW5hIGNhZmV0ZXJhIGl0YWxpYW5hIGVsw6ljdHJpY2E8L2I-IHBhcmEgcHJlcGFyYXIgY2Fmw6kgbW9saWRvIGRlIGZvcm1hIHNlbmNpbGxhIGVuIGNhc2EuIFN1IGNhcGFjaWRhZCBkZSAwLDMgbGl0cm9zIHBlcm1pdGUgcHJlcGFyYXImbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjE0WjZacmdaV2ZETW1lLWRDRmUzUklnX285dkNYc3RmbTJzd2h1TW8xeE9odmZtam84N3d2U3d3YjVLSGJxT0FVRGFSMTI2SkRLZThKX3hVbjdyM0FtU3ZxbUJRNEp4eVRvX1VLc0lUNURMQWw0QXNKNkQtbF9yLVJRLWZLX3pveXZCQ0QtejRmbVlEU1FoTkp0U2NoVG9TS1lJWnBCT3ZOak1INUduOHRiZ2llWTVCem5SM2lhdzdkOW4wckc3eTVpZTR6S2JiR01kUE01OHBycEkSBBoCCAAapgUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAggUIDhAAGAAgACosCghjYWZldGVyYRX5G4o_GgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEV-r11PxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFaMuSj8aBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VZrPXPRoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVlSzVPRoHc2Fib3JlcxoIc2luc2Fib3IykQEvZ290bz91cmw9Q0FFU1lRSEVJa1hYdXdyYTRhTk94RmpWemx5R0h3WWpVYUl3bUN3ZVFXUjFhQlgtdENDcGl4aE1iM0Y2QUpoM2VhQm5QeEJQQy1xVXp6cFhvTXF1bzVQc0ZsOVF0X3Vfdk5qV0VYSEh1QnB6RVVSbURaVG1jN3pRcU1UNHgwOGY0b3hrLVRjOkc8Yj5DYWZldGVyYXM8L2I-IGFsIG1lam9yIHByZWNpbyB8IEVzcHJlc3NvLCBDw6Fwc3VsYXMgeSBNw6FzIC0gTmVvYnl0ZUK4ATM0LDkwIOKCrCAmbWlkZG90OyA8Yj5QcmluY2VzcyAyNDk0MzEgZXMgdW5hIGNhZmV0ZXJhIGl0YWxpYW5hIGVsw6ljdHJpY2E8L2I-IHBhcmEgcHJlcGFyYXIgY2Fmw6kgbW9saWRvIGRlIGZvcm1hIHNlbmNpbGxhIGVuIGNhc2EuIFN1IGNhcGFjaWRhZCBkZSAwLDMgbGl0cm9zIHBlcm1pdGUgcHJlcGFyYXImbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Neobyte"
+   },
+   {
+    "position": 9,
+    "title": "50 - 100 EUR - Cafeteras Italianas / Utensilios Para Café Y ...",
+    "link": "https://www.amazon.es/Cafeteras-italianas-50-100-EUR/s?rh=n%3A2165186031%2Cp_36%3A1323857031&page=4",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF1w2fsoKistBkK6r2Qp-ZFu-DLvuLoEiSf-_UagWuWBJl5nxJ-t3nIfBGcapPTWMkEQfh39yIEIrHEGDaq6-UpcpwXbD3n1THRsMj6cktyNjlydJuj-RaIKstewtBic5k1cR7a68GogWDiXdjMLzeIj7HJNxvYrvjje115mrfZXFVlNeL4SU-Y2ikD4NuU69xyern92cTSM6Lupll&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECDsQAQ&uoh=1",
+    "displayed_link": "https://www.amazon.es › Cafeteras-italianas-50-100-EUR",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+    "snippet": "Alessi Moka DC06/9 FM - Cafetera para café exprés de diseño en aluminio fundido, mango y pomo en PA, 9 tazas, gris.",
+    "snippet_highlighted_words": [
+     "Alessi Moka DC06/9 FM"
+    ],
+    "about_this_result": {
+     "source": {
+      "description": "Alessi Moka DC06/9 FM - Cafetera para café exprés de diseño en aluminio fundido, mango y pomo en PA, 9 tazas, gris.",
+      "source_info_link": "https://www.amazon.es/Cafeteras-italianas-50-100-EUR/s?rh=n%3A2165186031%2Cp_36%3A1323857031&page=4",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEwa0ExZXpHdy01ZUprSFNJeDNUQVZJaEo2Q1B1eXVUalU0aEhEdngtdm1OWlduckl0MFdqWGZtUDNVcldnTjVkTFo3NDBXaUhSQllIRkhUeUNrd2JacXJpd19rSGRvWHpWMTVHM2t0UWM2TUY2VWJjMjFDS0o3Y094T1I0TEdFSHBXYkh1bHFqbkkwU0dFVVZsY3VlUXRGcDl0MWlxSEE1X1hEaXI3Z3ZFWWJBOHI0LUtuZnY1dVhRUGFvbGV6dE9oUmJMYXhaMjFWS3dNMGsSBBoCCAAaxgUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAogUIDhAAGAAgACosCghjYWZldGVyYRUjtWNAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVvJHsPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFSoiY0AaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTBrQTFlekd3LTVlSmtIU0l4M1RBVkloSjZDUHV5dVRqVTRoSER2eC12bU5aV25ySXQwV2pYZm1QM1VyV2dONWRMWjc0MFdpSFJCWUhGSFR5Q2t3Ylpxcml3X2tIZG9YelYxNUcza3RRYzZNRjZVYmMyMUNLSjdjT3hPUjRMR0VIcFdiSHVscWpuSTBTR0VVVmxjdWVRdEZwOXQxaXFIQTVfWERpcjdndkVZYkE4cjQtS25mdjV1WFFQYW9sZXp0T2hSYkxheFoyMVZLd00wazpONTAgLSAxMDAgRVVSIC0gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVMOpQn08Yj5BbGVzc2kgTW9rYSBEQzA2LzkgRk08L2I-IC0gQ2FmZXRlcmEgcGFyYSBjYWbDqSBleHByw6lzIGRlIGRpc2XDsW8gZW4gYWx1bWluaW8gZnVuZGlkbywgbWFuZ28geSBwb21vIGVuIFBBLCA5IHRhemFzLCBncmlzLiICEAFIAFgAaAA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEwa0ExZXpHdy01ZUprSFNJeDNUQVZJaEo2Q1B1eXVUalU0aEhEdngtdm1OWlduckl0MFdqWGZtUDNVcldnTjVkTFo3NDBXaUhSQllIRkhUeUNrd2JacXJpd19rSGRvWHpWMTVHM2t0UWM2TUY2VWJjMjFDS0o3Y094T1I0TEdFSHBXYkh1bHFqbkkwU0dFVVZsY3VlUXRGcDl0MWlxSEE1X1hEaXI3Z3ZFWWJBOHI0LUtuZnY1dVhRUGFvbGV6dE9oUmJMYXhaMjFWS3dNMGsSBBoCCAAaxgUSABoAIgAqADIGCAESAmVzOgBCBAgBEA5KAFoAcgB6AIJAogUIDhAAGAAgACosCghjYWZldGVyYRUjtWNAGgljYWZldGVyYXMaEGNhZmV0ZXJhaXRhbGlhbmEqLAoIaXRhbGlhbmEVvJHsPxoJaXRhbGlhbmFzGhBjYWZldGVyYWl0YWxpYW5hKjgKBWNhZsOpFSoiY0AaBGNhZmUaBWNhZmVzGgljYWZldGVyaWEaCmNhZmV0ZXLDrWEaBmNhZsOpcyoNCgZhZ3VhZG8VAAAAACoaCgNzaW4VAAAAABoEc2lucxoIc2luc2Fib3IqHwoFc2Fib3IVAAAAABoHc2Fib3JlcxoIc2luc2Fib3Iy5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTBrQTFlekd3LTVlSmtIU0l4M1RBVkloSjZDUHV5dVRqVTRoSER2eC12bU5aV25ySXQwV2pYZm1QM1VyV2dONWRMWjc0MFdpSFJCWUhGSFR5Q2t3Ylpxcml3X2tIZG9YelYxNUcza3RRYzZNRjZVYmMyMUNLSjdjT3hPUjRMR0VIcFdiSHVscWpuSTBTR0VVVmxjdWVRdEZwOXQxaXFIQTVfWERpcjdndkVZYkE4cjQtS25mdjV1WFFQYW9sZXp0T2hSYkxheFoyMVZLd00wazpONTAgLSAxMDAgRVVSIC0gPGI-Q2FmZXRlcmFzIEl0YWxpYW5hczwvYj4gLyBVdGVuc2lsaW9zIFBhcmEgPGI-Q2Fmw6k8L2I-IFkgVMOpQn08Yj5BbGVzc2kgTW9rYSBEQzA2LzkgRk08L2I-IC0gQ2FmZXRlcmEgcGFyYSBjYWbDqSBleHByw6lzIGRlIGRpc2XDsW8gZW4gYWx1bWluaW8gZnVuZGlkbywgbWFuZ28geSBwb21vIGVuIFBBLCA5IHRhemFzLCBncmlzLiICEAFIAFgAaAA",
+    "source": "Amazon"
+   },
+   {
+    "position": 10,
+    "title": "Any Morning Cafetera Italiana Moka Espresso aluminio ...",
+    "link": "https://www.leroymerlin.es/productos/any-morning-cafetera-italiana-moka-espresso-aluminio-negro-240-ml-facil-de-limpiar-95866354.html",
+    "redirect_link": "https://www.google.es/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEBxCJF18TfLk5D5ni0RB6IZU2_wZVmQCYGD3fOXqpwUWOSwS93or_9KKZDaqZD8VsGBI07G3OOa0RExTeAnmgj9NNmhJBIuIMQFpKSbTGHXbNMXYuOf5XfQhMtuqu3QHoGdBDScZPOpjv_rYUpSGM-QkQkdQJuJKlULXkt6kTosiX1VsP0VPy-lCrtKJCc1KAxoguSBbRH8R0VWk6JJJ_tR1zny2FLSHb_b2KcwXWSoNFnEwKUB715_mkHDU76ENgD3xs&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQFnoECEcQAQ&uoh=1",
+    "displayed_link": "https://www.leroymerlin.es › ... › Cafeteras italianas",
+    "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVMaXF3uyJ5uyB5uyB5uyB5uyCCvzDe78n____9_vzN5q2FwTbZ7cF-vinR6LTg78zn89iSyEuhz2XtFHBBAAAACHRSTlMAGqbm_-rR1H914LkAAAB8SURBVHgB1dO3AcMwAANBhldm3n9Yu4Sy1Nnf4loYY53nJO_sd--4qLPG0Q_jSUOPMx7dtwJvYLwIfhFM0zWYlyVcgRmI4RwkUKFAdoj5GATYCgWyixAQIirKFuSIxlIE6K5CQYVt7R0IddnUioDz_gXcHuf2erfnvbv_B1LeG0Q1rEydAAAAAElFTkSuQmCC.png",
+    "snippet": "Con una capacidad de 240 ml, esta cafetera permite preparar hasta seis tazas de café espresso, facilitando tanto el disfrute individual como el servicio para ...",
+    "snippet_highlighted_words": [
+     "cafetera",
+     "café"
+    ],
+    "rich_snippet": {
+     "bottom": {
+      "detected_extensions": {
+       "price": 2134,
+       "currency": "€"
+      },
+      "extensions": [
+       "21,34 €",
+       "Agotado"
+      ]
+     }
+    },
+    "about_this_result": {
+     "source": {
+      "description": "Con una capacidad de 240 ml, esta cafetera permite preparar hasta seis tazas de café espresso, facilitando tanto el disfrute individual como el servicio para ...",
+      "source_info_link": "https://www.leroymerlin.es/productos/any-morning-cafetera-italiana-moka-espresso-aluminio-negro-240-ml-facil-de-limpiar-95866354.html",
+      "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVMaXF3uyJ5uyB5uyB5uyB5uyCCvzDe78n____9_vzN5q2FwTbZ7cF-vinR6LTg78zn89iSyEuhz2XtFHBBAAAACHRSTlMAGqbm_-rR1H914LkAAAB8SURBVHgB1dO3AcMwAANBhldm3n9Yu4Sy1Nnf4loYY53nJO_sd--4qLPG0Q_jSUOPMx7dtwJvYLwIfhFM0zWYlyVcgRmI4RwkUKFAdoj5GATYCgWyixAQIirKFuSIxlIE6K5CQYVt7R0IddnUioDz_gXcHuf2erfnvbv_B1LeG0Q1rEydAAAAAElFTkSuQmCC.png"
+     },
+     "languages": [
+      "es"
+     ],
+     "regions": [
+      "ES"
+     ]
+    },
+    "about_page_link": "https://www.google.es/search/about-this-result?origin=www.google.com&req=CpUCL2dvdG8_dXJsPUNBRVN3d0VCeENKRjE2X25nZHp1MGlBeUZWMWVPd0pQN3ZxWC1mcDRsZ2Z4d2VTMWtrX2lPOS1xejF1OHhDQmlrVXZQTGt4cGQ0bnNyU05sX0NkaFRIamQ5Njl3OGdpTW5qRTFGNjJVY2JObWRuXzJBMGhwTnVBVHcwSVBTZWxiSXJZR2JHbVBFOVNHY3pveVdPWHdidS1zSXhwbUxLdW1uZDdhZTVzZEtucUtDZW1NcHl0bURRZmpSanY0dDdPdXJzNXpMdllYejVyYXZjZnJEVldoVkd5emFudU9KVmk0UXRxWDFpRHotdzVDUzZENVU4V3BYeW9KMjF4NE43MXl5OGRwTTVJR0VHRRIEGgIIABqlBhIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCBBggOEAAYACAAKiwKCGNhZmV0ZXJhFfJfjEAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRWONItAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kVO8yPPhoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhUAAAAAGgRzaW5zGghzaW5zYWJvciofCgVzYWJvchVMDRs9GgdzYWJvcmVzGghzaW5zYWJvcjKVAi9nb3RvP3VybD1DQUVTd3dFQnhDSkYxNl9uZ2R6dTBpQXlGVjFlT3dKUDd2cVgtZnA0bGdmeHdlUzFra19pTzktcXoxdTh4Q0Jpa1V2UExreHBkNG5zclNObF9DZGhUSGpkOTY5dzhnaU1uakUxRjYyVWNiTm1kbl8yQTBocE51QVR3MElQU2VsYklyWUdiR21QRTlTR2N6b3lXT1h3YnUtc0l4cG1MS3VtbmQ3YWU1c2RLbnFLQ2VtTXB5dG1EUWZqUmp2NHQ3T3VyczV6THZZWHo1cmF2Y2ZyRFZXaFZHeXphbnVPSlZpNFF0cVgxaUR6LXc1Q1M2RDVVOFdwWHlvSjIxeDRONzF5eThkcE01SUdFR0U6RUFueSBNb3JuaW5nIDxiPkNhZmV0ZXJhIEl0YWxpYW5hPC9iPiBNb2thIEVzcHJlc3NvIGFsdW1pbmlvIG5lZ3JvIC4uLkK1AUNvbiB1bmEgY2FwYWNpZGFkIGRlIDI0MCBtbCwgZXN0YSA8Yj5jYWZldGVyYTwvYj4gcGVybWl0ZSBwcmVwYXJhciBoYXN0YSBzZWlzIHRhemFzIGRlIDxiPmNhZsOpPC9iPiBlc3ByZXNzbywgZmFjaWxpdGFuZG8gdGFudG8gZWwgZGlzZnJ1dGUgaW5kaXZpZHVhbCBjb21vIGVsIHNlcnZpY2lvIHBhcmEmbmJzcDsuLi4iAhABSABYAGgA",
+    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.es&req_token=CpUCL2dvdG8_dXJsPUNBRVN3d0VCeENKRjE2X25nZHp1MGlBeUZWMWVPd0pQN3ZxWC1mcDRsZ2Z4d2VTMWtrX2lPOS1xejF1OHhDQmlrVXZQTGt4cGQ0bnNyU05sX0NkaFRIamQ5Njl3OGdpTW5qRTFGNjJVY2JObWRuXzJBMGhwTnVBVHcwSVBTZWxiSXJZR2JHbVBFOVNHY3pveVdPWHdidS1zSXhwbUxLdW1uZDdhZTVzZEtucUtDZW1NcHl0bURRZmpSanY0dDdPdXJzNXpMdllYejVyYXZjZnJEVldoVkd5emFudU9KVmk0UXRxWDFpRHotdzVDUzZENVU4V3BYeW9KMjF4NE43MXl5OGRwTTVJR0VHRRIEGgIIABqlBhIAGgAiACoAMgYIARICZXM6AEIECAEQDkoAWgByAHoAgkCBBggOEAAYACAAKiwKCGNhZmV0ZXJhFfJfjEAaCWNhZmV0ZXJhcxoQY2FmZXRlcmFpdGFsaWFuYSosCghpdGFsaWFuYRWONItAGglpdGFsaWFuYXMaEGNhZmV0ZXJhaXRhbGlhbmEqOAoFY2Fmw6kVO8yPPhoEY2FmZRoFY2FmZXMaCWNhZmV0ZXJpYRoKY2FmZXRlcsOtYRoGY2Fmw6lzKg0KBmFndWFkbxUAAAAAKhoKA3NpbhUAAAAAGgRzaW5zGghzaW5zYWJvciofCgVzYWJvchVMDRs9GgdzYWJvcmVzGghzaW5zYWJvcjKVAi9nb3RvP3VybD1DQUVTd3dFQnhDSkYxNl9uZ2R6dTBpQXlGVjFlT3dKUDd2cVgtZnA0bGdmeHdlUzFra19pTzktcXoxdTh4Q0Jpa1V2UExreHBkNG5zclNObF9DZGhUSGpkOTY5dzhnaU1uakUxRjYyVWNiTm1kbl8yQTBocE51QVR3MElQU2VsYklyWUdiR21QRTlTR2N6b3lXT1h3YnUtc0l4cG1MS3VtbmQ3YWU1c2RLbnFLQ2VtTXB5dG1EUWZqUmp2NHQ3T3VyczV6THZZWHo1cmF2Y2ZyRFZXaFZHeXphbnVPSlZpNFF0cVgxaUR6LXc1Q1M2RDVVOFdwWHlvSjIxeDRONzF5eThkcE01SUdFR0U6RUFueSBNb3JuaW5nIDxiPkNhZmV0ZXJhIEl0YWxpYW5hPC9iPiBNb2thIEVzcHJlc3NvIGFsdW1pbmlvIG5lZ3JvIC4uLkK1AUNvbiB1bmEgY2FwYWNpZGFkIGRlIDI0MCBtbCwgZXN0YSA8Yj5jYWZldGVyYTwvYj4gcGVybWl0ZSBwcmVwYXJhciBoYXN0YSBzZWlzIHRhemFzIGRlIDxiPmNhZsOpPC9iPiBlc3ByZXNzbywgZmFjaWxpdGFuZG8gdGFudG8gZWwgZGlzZnJ1dGUgaW5kaXZpZHVhbCBjb21vIGVsIHNlcnZpY2lvIHBhcmEmbmJzcDsuLi4iAhABSABYAGgA",
+    "source": "Leroy Merlin"
+   }
+  ],
+  "pagination": {
+   "current": 1,
+   "next": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=10&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8NMDegQINBAQ",
+   "other_pages": {
+    "2": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=10&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAE",
+    "3": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=20&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAG",
+    "4": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=30&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAI",
+    "5": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=40&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAK",
+    "6": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=50&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAM",
+    "7": "https://www.google.es/search?q=site:reddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&sca_esv=80ef59f631b2381d&gl=es&hl=es&sxsrf=AKL5yDhZvp6YKYWffRyOhmrg44zNSuznqA:1794400825365&ei=OWL0aovrFb7CkPIPn5-6yAY&start=60&sa=N&sstk=AYl2yk_X2LXmWQiEAbZA2vMoPT0ZaRYBaMqoZtOUmQMaFd0GeGGg4hblyfgk48Ia2SOzCeKfJmg0exxEl-9sXQAi6K_4febqytRP5g&ved=2ahUKEwjL657-9_-XAxU-IUQIHZ-PDmkQ8tMDegQINBAO"
+   }
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=10",
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=10",
+   "other_pages": {
+    "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=10",
+    "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=20",
+    "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=30",
+    "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=40",
+    "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=50",
+    "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=es&google_domain=google.es&hl=es&q=site%3Areddit.com+cafetera+italiana+caf%C3%A9+aguado+sin+sabor&start=60"
+   }
+  }
+ }
+}

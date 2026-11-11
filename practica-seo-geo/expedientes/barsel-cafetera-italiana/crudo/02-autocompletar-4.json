@@ -1,0 +1,60 @@
+{
+ "capturado": "2026-11-11T12:43:15Z",
+ "proveedor": "serpapi",
+ "carga": {
+  "engine": "google_autocomplete",
+  "q": "cómo moler café para cafetera italiana",
+  "gl": "es",
+  "hl": "es"
+ },
+ "respuesta": {
+  "search_metadata": {
+   "id": "6af462e367e833a8eff7b859",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/FWw1YlSZfF-KMV86QupcUNA-_gWqsDB6RG96xYV4Xao/6af462e367e833a8eff7b859.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FWw1YlSZfF-KMV86QupcUNA-_gWqsDB6RG96xYV4Xao/6af462e367e833a8eff7b859.md",
+   "created_at": "2026-11-11 12:43:15 UTC",
+   "processed_at": "2026-11-11 12:43:15 UTC",
+   "google_autocomplete_url": "https://www.google.com/complete/search?q=c%C3%B3mo+moler+caf%C3%A9+para+cafetera+italiana&gl=es&hl=es&client=chrome&dpr=1",
+   "raw_html_file": "https://serpapi.com/searches/FWw1YlSZfF-KMV86QupcUNA-_gWqsDB6RG96xYV4Xao/6af462e367e833a8eff7b859.html",
+   "prettify_html_file": "https://serpapi.com/searches/FWw1YlSZfF-KMV86QupcUNA-_gWqsDB6RG96xYV4Xao/6af462e367e833a8eff7b859.prettify",
+   "total_time_taken": 0.46
+  },
+  "search_parameters": {
+   "engine": "google_autocomplete",
+   "q": "cómo moler café para cafetera italiana",
+   "gl": "es",
+   "hl": "es"
+  },
+  "search_information": {
+   "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+   {
+    "value": "como moler cafe para cafetera italiana",
+    "relevance": 601,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+para+cafetera+italiana"
+   },
+   {
+    "value": "como moler cafe en grano para cafetera italiana",
+    "relevance": 600,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+grano+para+cafetera+italiana"
+   },
+   {
+    "value": "como moler cafe en thermomix para cafetera italiana",
+    "relevance": 551,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+en+thermomix+para+cafetera+italiana"
+   },
+   {
+    "value": "como moler cafe para italiana",
+    "relevance": 550,
+    "type": "QUERY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&gl=es&hl=es&q=como+moler+cafe+para+italiana"
+   }
+  ],
+  "verbatim_relevance": 1300
+ }
+}
