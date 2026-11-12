@@ -35,7 +35,7 @@ Ejecuta en orden: `00, 01, 02, 03, 03b, 04, 05, 06, 07, 08, 09, 10, 11, 12`.
 2. **Aportación**: escribe `aportacion.md` a partir de un tema que **nadie prueba** (paso 6), construido solo con material verificado y las palabras del público. Empieza con «BORRADOR PARA REVISAR» y deja claros sus límites.
 
 ## 4 · Redacción
-Ejecuta `09, 10, 11, 12`. El borrador sale en **pirámide invertida** (respuesta arriba, 5–7 secciones, prosa fluida). Escribe además `10-borrador-humano.md`: la versión con voz de marca, siguiendo el briefing y el expertise del cliente (o avisando de que, sin expertise propia, será más genérica).
+Ejecuta `09, 10, 11, 12`. El borrador sale en **pirámide invertida** (respuesta arriba, 5–7 secciones, prosa fluida). Escribe además `10-borrador-humano.md`: la versión con voz de marca, siguiendo el briefing y el expertise del cliente (o avisando de que, sin expertise propia, será más genérica). En las dos versiones se sigue la ortografía del español de España: mayúscula inicial en título, encabezados, inicio de párrafo y tras punto, y en los nombres propios.
 
 ## 5 · Cierre y entrega
 1. Ejecuta `recorrido.py`.

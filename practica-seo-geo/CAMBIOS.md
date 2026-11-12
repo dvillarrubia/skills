@@ -42,3 +42,18 @@ CAMBIOS: bug paso 3b (nombre de captura por competidor) corregido 2026-11-11
 - `sop/comun.py` (`cargar_env`): el comentario que la plantilla `.env.example` lleva detrás de cada clave
   (`CLAVE=valor   # explicación`) se leía como parte del valor, así que una clave bien pegada daba 401.
   Ahora se descarta lo que va tras ` #`.
+
+## 2026-11-12 · Mayúsculas según la ortografía del español (a petición del docente)
+- Qué fallaba: los encabezados de las piezas salían enteros en minúscula («## qué molienda lleva…»). El
+  principio de voz de `caso.toml` decía «Encabezados en minúscula normal» y el modelo lo aplicó al pie de la letra.
+- `caso.toml` `[voz] principios`: el principio pasa a pedir mayúscula solo en la primera palabra y en los
+  nombres propios, no Mayúsculas En Cada Palabra.
+- `sop/estilo.py`: nueva función `ortografia()`. Marca encabezados y párrafos que empiezan en minúscula,
+  minúscula después de punto, interrogación o exclamación (salvo abreviaturas como «etc.») y la marca escrita
+  en minúscula. `10_borrador.py` la añade al crítico como fallos «Ortografía · …» y lo pide en el prompt de sistema.
+- `.claude/commands/caso-completo.md`: la versión humana sigue la misma norma.
+- Corregidos a mano, solo la mayúscula inicial de los encabezados: `10-borrador.md`, `10-borrador-humano.md`,
+  `DEMO/4-redaccion/PIEZA-FINAL.md`, los tres borradores de `anexos-del-proceso/` y los dos `informe-visual.html`.
+  El principio también se ha actualizado en `07-voz.md` y `DEMO/1-cliente-y-publico/tono-de-marca.md`.
+- Qué NO se ha tocado: `crudo/` y `prompts/` conservan lo que el modelo recibió y respondió en su día. Si se
+  reejecuta el paso 10 del ejemplo, sale otra vez de esas capturas y el crítico señala los encabezados como fallo.

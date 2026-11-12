@@ -9,7 +9,7 @@ Lo que la voz debe cumplir aunque los textos actuales no siempre lo hagan.
 - Cada frase dice algo que el lector puede usar; se borra el relleno y los elogios al producto sin dato
 - Concreto antes que abstracto: gramos, segundos, texturas y errores reales en lugar de adjetivos
 - Habla de tú, como un tostador que explica su oficio en el mostrador, sin jerga gratuita ni tono de anuncio
-- Encabezados en minúscula normal y con la pregunta del lector, no con Mayúsculas En Cada Palabra
+- Encabezados con la pregunta del lector y con la ortografía del español: mayúscula solo en la primera palabra y en los nombres propios, no Mayúsculas En Cada Palabra
 
 ## Estilo medido
 

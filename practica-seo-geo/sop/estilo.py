@@ -69,6 +69,41 @@ def desviaciones(medidas, rango, ignorar=()):
     return fuera
 
 
+# Abreviaturas tras las que una minúscula es correcta («etc. y», «p. ej. el»).
+ABREVIATURAS = {"etc", "ej", "p", "aprox", "pág", "págs", "núm", "art", "vs", "cf", "máx", "mín", "tel", "nº", "n"}
+
+
+def ortografia(md, nombres_propios=()):
+    """Mayúsculas según la ortografía del español: inicial de encabezado, de párrafo y tras punto, y nombres propios.
+    Devuelve la lista de fallos, cada uno con el fragmento literal."""
+    fallos = []
+    md = re.sub(r"```.*?```", " ", md, flags=re.S)
+    inicial = lambda s: re.match(r"[\s¿¡«\"'(*_\[]*([A-Za-zÁÉÍÓÚÜÑáéíóúüñ])", s)
+    for h in re.findall(r"^#{1,6}\s+(.+)$", md, flags=re.M):
+        m = inicial(h)
+        if m and m.group(1).islower():
+            fallos.append(f"el encabezado «{h.strip()}» empieza en minúscula; lleva mayúscula inicial")
+    anterior = ""
+    for linea in md.splitlines():
+        abre_parrafo, anterior = not anterior.strip(), linea     # una línea que sigue a otra es el mismo párrafo
+        if not linea.strip() or linea.lstrip().startswith(("#", "|", "-", "*", ">")) or re.match(r"\s*\d+[.)]\s", linea):
+            continue
+        limpia = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", linea)
+        m = inicial(limpia)
+        if abre_parrafo and m and m.group(1).islower() and not re.match(r"\s*https?://", limpia):
+            fallos.append(f"el párrafo «{limpia.strip()[:50]}…» empieza en minúscula")
+        for m in re.finditer(r"([A-Za-zÁÉÍÓÚÜÑáéíóúüñº]+)([.!?…])[»\"')*_]*\s+(?=[¿¡«\"'(*_]*[a-záéíóúüñ])", limpia):
+            if m.group(2) == "." and m.group(1).lower() in ABREVIATURAS:
+                continue
+            trozo = limpia[m.start():m.end() + 25].strip()
+            fallos.append(f"minúscula tras «{m.group(2)}» en «{trozo}»; la frase siguiente empieza con mayúscula")
+    for nombre in nombres_propios:
+        if nombre and nombre[0].isupper():
+            for m in re.finditer(rf"(?<![\w./@-]){re.escape(nombre.lower())}(?![\w.-]*\.[a-z]{{2,}})(?![\w-])", md):
+                fallos.append(f"el nombre propio «{nombre}» aparece en minúscula («{md[max(0, m.start() - 15):m.end() + 10].strip()}»)")
+    return list(dict.fromkeys(fallos))
+
+
 def cliches(md, extra=()):
     bajo = plano(md)
     return [c for c in list(CLICHES) + list(extra) if plano(c) in bajo]
