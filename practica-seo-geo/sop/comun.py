@@ -10,6 +10,8 @@ def cargar_env():
         for linea in ruta.read_text(encoding="utf-8").splitlines():
             if "=" in linea and not linea.strip().startswith("#"):
                 k, v = linea.split("=", 1)
+                # La plantilla .env.example lleva un comentario tras cada clave: no forma parte del valor.
+                v = re.split(r"(^|\s)#", v, maxsplit=1)[0]
                 os.environ.setdefault(k.strip(), v.strip())
 
 

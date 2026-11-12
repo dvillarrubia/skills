@@ -19,9 +19,8 @@ class Buscador:
             from .dfs import DataForSEO
             self.dfs = DataForSEO(exp, seco, fresco)
         elif self.proveedor == "serpapi":
+            # La clave solo se exige al pedir de verdad: con la captura guardada no hace falta.
             self.clave = os.environ.get("SERPAPI_API_KEY", "")
-            if not seco and not self.clave:
-                sys.exit("Falta SERPAPI_API_KEY en .env. La clave gratuita se crea en serpapi.com (o usa --seco).")
         else:
             sys.exit(f"[apis] serp = «{self.proveedor}» no existe. Opciones: serpapi, dataforseo.")
 
@@ -35,6 +34,9 @@ class Buscador:
         print(f"  GET https://serpapi.com/search.json  {json.dumps(parametros, ensure_ascii=False)}")
         if self.seco:
             return None
+        if not self.clave:
+            sys.exit(f"No hay captura de «{nombre}» y falta SERPAPI_API_KEY en .env. "
+                     "La clave gratuita se crea en serpapi.com (o usa --seco).")
         r = requests.get("https://serpapi.com/search.json", params={**parametros, "api_key": self.clave}, timeout=120)
         datos = r.json()
         if r.status_code != 200 or datos.get("error"):

@@ -10,8 +10,12 @@ class DataForSEO:
     def __init__(self, exp, seco=False, fresco=False):
         self.exp, self.seco, self.fresco = exp, seco, fresco
         self.auth = (os.environ.get("DATAFORSEO_LOGIN", ""), os.environ.get("DATAFORSEO_PASSWORD", ""))
-        if not seco and not all(self.auth):
-            sys.exit("Faltan DATAFORSEO_LOGIN y DATAFORSEO_PASSWORD en .env (o usa --seco para ver las peticiones).")
+
+    def _exigir_claves(self, para):
+        # Las claves solo se exigen al pedir de verdad: con la captura guardada no hacen falta.
+        if not all(self.auth):
+            sys.exit(f"No hay captura de «{para}» y faltan DATAFORSEO_LOGIN y DATAFORSEO_PASSWORD en .env "
+                     "(o usa --seco para ver las peticiones).")
 
     def post(self, ruta, carga, nombre):
         """Devuelve la lista result de la tarea, o None en modo --seco."""
@@ -23,6 +27,7 @@ class DataForSEO:
         print(f"  POST {ruta}\n       {json.dumps(carga, ensure_ascii=False)}")
         if self.seco:
             return None
+        self._exigir_claves(nombre)
         r = requests.post(BASE + ruta, auth=self.auth, json=[carga], timeout=240)
         datos = r.json()
         tarea = (datos.get("tasks") or [{}])[0]
@@ -37,6 +42,7 @@ class DataForSEO:
         return tarea.get("result") or []
 
     def get(self, ruta):
+        self._exigir_claves(ruta)
         r = requests.get(BASE + ruta, auth=self.auth, timeout=60)
         return r.json()
 

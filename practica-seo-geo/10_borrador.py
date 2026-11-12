@@ -2,7 +2,7 @@
 import json, re
 from sop.comun import cargar_caso, expediente, explicar, opciones, leer_csv, exigir, normalizar
 from sop.contexto import de_optimizacion
-from sop.estilo import medir, desviaciones, cliches
+from sop.estilo import medir, desviaciones, cliches, ortografia
 from sop.llm import pedir, SOLO_FUENTES
 from sop.optimizacion import controles
 
@@ -24,7 +24,9 @@ rango = json.loads(exigir(exp / "07-voz-medidas.json"))["rango"]
 verificadas = [f for f in leer_csv(exp / "08-evidencias.csv") if f["estado"].strip().lower() == "verificada"]
 ctx = de_optimizacion(caso, exp)
 respaldo = normalizar(" ".join(f["afirmacion"] + " " + f["fragmento"] for f in verificadas) + " " + aportacion)
-SISTEMA = (SOLO_FUENTES + "Redactas en español de España. Usa solo las cifras y hechos de las afirmaciones verificadas y de la "
+SISTEMA = (SOLO_FUENTES + "Redactas en español de España y sigues su ortografía: mayúscula inicial en el título, en cada "
+           "encabezado, al empezar párrafo y después de punto, y en los nombres propios (marcas, lugares, personas); el resto "
+           "en minúscula. Usa solo las cifras y hechos de las afirmaciones verificadas y de la "
            "aportación original. Lo que no puedas respaldar se escribe como PENDIENTE: [qué falta]. No inventes experiencias.")
 FORMATO = ("La primera línea es «TITULO: …» (60 caracteres como máximo, con la consulta principal) y la segunda «DESCRIPCION: …» "
            "(entre 135 y 145 caracteres). Después el artículo en Markdown, con un único «# ». "
@@ -46,6 +48,7 @@ def criticar(texto):
     cuerpo = re.sub(r"^(TITULO|DESCRIPCION):.*$", "", texto, flags=re.M).strip()
     fallos = [f"Voz · {d}" for d in desviaciones(medir(cuerpo), rango, voz["medidas_a_ignorar"])]
     fallos += [f"Voz · fórmula prohibida: «{c}»" for c in cliches(cuerpo, voz["cliches_extra"])]
+    fallos += [f"Ortografía · {o}" for o in ortografia(cuerpo, [caso["caso"]["marca"]])]
     fallos += [f"{f['bloque']} · {f['control']} ({f['valor']}). {f['detalle']}".strip()
                for f in controles(cuerpo, titulo, descripcion, len(re.findall(r"^# ", cuerpo, flags=re.M)), ctx) if f["resultado"] == "NO"]
     cifras = sorted({m for m in re.findall(r"\d+(?:[.,]\d+)?", cuerpo) if len(m) > 1})

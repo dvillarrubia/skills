@@ -17,13 +17,20 @@ explicar("Paso 0 · Conexiones",
 print(f"  Configuración: serp={api['serp']} · lector={api['lector']} · volumenes={api['volumenes']} · "
       f"asistente={api['asistente']} · modelo={mod['proveedor']}\n")
 
-if api["serp"] == "serpapi":
+SIN_CLAVE = "sin clave en .env. En clase no hace falta: los pasos usan las capturas guardadas. Solo se necesita con --fresco."
+
+if api["serp"] == "serpapi" and not os.environ.get("SERPAPI_API_KEY"):
+    print(f"  SerpApi: {SIN_CLAVE}")
+elif api["serp"] == "serpapi":
     r = requests.get("https://serpapi.com/account.json", params={"api_key": os.environ.get("SERPAPI_API_KEY", "")}, timeout=30)
     d = r.json() if r.headers.get("content-type", "").startswith("application/json") else {}
     print(f"  SerpApi: " + (f"correcto. Plan {d.get('plan_name')}, quedan {d.get('total_searches_left')} búsquedas este mes"
                             if r.ok and not d.get("error") else f"ERROR {r.status_code} {d.get('error', '')} (clave en serpapi.com)"))
 
-if "dataforseo" in (api["serp"], api["volumenes"], api["asistente"]):
+usa_dfs = "dataforseo" in (api["serp"], api["volumenes"], api["asistente"])
+if usa_dfs and not (os.environ.get("DATAFORSEO_LOGIN") and os.environ.get("DATAFORSEO_PASSWORD")):
+    print(f"  DataForSEO: {SIN_CLAVE}")
+elif usa_dfs:
     from sop.dfs import DataForSEO
     dfs = DataForSEO(exp)
     u = dfs.get("appendix/user_data")

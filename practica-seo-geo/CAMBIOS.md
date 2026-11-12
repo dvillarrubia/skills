@@ -31,3 +31,29 @@ CAMBIOS: bug paso 3b (nombre de captura por competidor) corregido 2026-11-11
    afirmaciones verificadas C1–C4 en 08-evidencias.csv, para que el borrador pueda usarlo.
 4. Plantilla del paso 10 cambiada a PIRÁMIDE INVERTIDA (respuesta arriba, profundizar hacia abajo,
    5–7 secciones, prosa fluida) en vez de una sección-pregunta por cada PAA.
+
+## 2026-11-12 · Los pasos 0 a 3b ya no piden claves si hay captura
+- Qué fallaba: sin `.env`, `00`, `01`, `02`, `03` y `03b` se detenían con «Falta SERPAPI_API_KEY» o
+  «Faltan DATAFORSEO_LOGIN…» aunque todas sus capturas estuvieran en `crudo/`. La comprobación de claves
+  estaba en el constructor, antes de mirar la captura.
+- Qué se ha cambiado: `sop/serp.py` y `sop/dfs.py` exigen la clave solo en el momento de hacer una petición
+  real (sin captura o con `--fresco`). `00_conexiones.py` avisa de que no hay clave en vez de detenerse.
+- Qué NO se ha tocado: la lógica del método ni ninguna captura.
+- `sop/comun.py` (`cargar_env`): el comentario que la plantilla `.env.example` lleva detrás de cada clave
+  (`CLAVE=valor   # explicación`) se leía como parte del valor, así que una clave bien pegada daba 401.
+  Ahora se descarta lo que va tras ` #`.
+
+## 2026-11-12 · Mayúsculas según la ortografía del español (a petición del docente)
+- Qué fallaba: los encabezados de las piezas salían enteros en minúscula («## qué molienda lleva…»). El
+  principio de voz de `caso.toml` decía «Encabezados en minúscula normal» y el modelo lo aplicó al pie de la letra.
+- `caso.toml` `[voz] principios`: el principio pasa a pedir mayúscula solo en la primera palabra y en los
+  nombres propios, no Mayúsculas En Cada Palabra.
+- `sop/estilo.py`: nueva función `ortografia()`. Marca encabezados y párrafos que empiezan en minúscula,
+  minúscula después de punto, interrogación o exclamación (salvo abreviaturas como «etc.») y la marca escrita
+  en minúscula. `10_borrador.py` la añade al crítico como fallos «Ortografía · …» y lo pide en el prompt de sistema.
+- `.claude/commands/caso-completo.md`: la versión humana sigue la misma norma.
+- Corregidos a mano, solo la mayúscula inicial de los encabezados: `10-borrador.md`, `10-borrador-humano.md`,
+  `DEMO/4-redaccion/PIEZA-FINAL.md`, los tres borradores de `anexos-del-proceso/` y los dos `informe-visual.html`.
+  El principio también se ha actualizado en `07-voz.md` y `DEMO/1-cliente-y-publico/tono-de-marca.md`.
+- Qué NO se ha tocado: `crudo/` y `prompts/` conservan lo que el modelo recibió y respondió en su día. Si se
+  reejecuta el paso 10 del ejemplo, sale otra vez de esas capturas y el crítico señala los encabezados como fallo.
