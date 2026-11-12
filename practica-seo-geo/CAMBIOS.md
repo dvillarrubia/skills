@@ -31,3 +31,14 @@ CAMBIOS: bug paso 3b (nombre de captura por competidor) corregido 2026-11-11
    afirmaciones verificadas C1–C4 en 08-evidencias.csv, para que el borrador pueda usarlo.
 4. Plantilla del paso 10 cambiada a PIRÁMIDE INVERTIDA (respuesta arriba, profundizar hacia abajo,
    5–7 secciones, prosa fluida) en vez de una sección-pregunta por cada PAA.
+
+## 2026-11-12 · Los pasos 0 a 3b ya no piden claves si hay captura
+- Qué fallaba: sin `.env`, `00`, `01`, `02`, `03` y `03b` se detenían con «Falta SERPAPI_API_KEY» o
+  «Faltan DATAFORSEO_LOGIN…» aunque todas sus capturas estuvieran en `crudo/`. La comprobación de claves
+  estaba en el constructor, antes de mirar la captura.
+- Qué se ha cambiado: `sop/serp.py` y `sop/dfs.py` exigen la clave solo en el momento de hacer una petición
+  real (sin captura o con `--fresco`). `00_conexiones.py` avisa de que no hay clave en vez de detenerse.
+- Qué NO se ha tocado: la lógica del método ni ninguna captura.
+- `sop/comun.py` (`cargar_env`): el comentario que la plantilla `.env.example` lleva detrás de cada clave
+  (`CLAVE=valor   # explicación`) se leía como parte del valor, así que una clave bien pegada daba 401.
+  Ahora se descarta lo que va tras ` #`.
